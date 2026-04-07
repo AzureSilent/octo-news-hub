@@ -1,0 +1,57 @@
+name: Generate Yesterday's Page
+
+on:
+  schedule:
+    # 每天 UTC 0:00 运行 (北京时间 8:00)
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # 允许手动触发
+
+concurrency:
+  group: pages-deploy
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fetch existing gh-pages content
+        run: |
+          if git show-ref --verify --quiet refs/remotes/origin/gh-pages; then
+            mkdir -p output
+            git --work-tree=output checkout origin/gh-pages -- . 2>/dev/null || echo "No content in gh-pages yet"
+          fi
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Restore cache file
+        uses: actions/cache@v4
+        with:
+          path: data/cache.json
+          key: rss-cache-${{ runner.os }}
+          restore-keys: |
+            rss-cache-
+      
+      - name: Generate yesterday's page
+        run: |
+          python scripts/generate_ai_era_page.py --date yesterday
+      
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.DEPLOY_TOKEN }}
+          publish_dir: ./output
+          keep_files: false
