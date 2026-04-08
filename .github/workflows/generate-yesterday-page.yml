@@ -16,7 +16,7 @@ jobs:
     
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
@@ -26,6 +26,14 @@ jobs:
             mkdir -p output
             git --work-tree=output checkout origin/gh-pages -- . 2>/dev/null || echo "No content in gh-pages yet"
           fi
+
+      - name: Restore RSS cache
+        uses: actions/cache@v4
+        with:
+          path: data
+          key: rss-cache-${{ github.run_id }}
+          restore-keys: |
+            rss-cache-
       
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -36,21 +44,13 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      
-      - name: Restore cache file
-        uses: actions/cache@v4
-        with:
-          path: data/cache.json
-          key: rss-cache-${{ runner.os }}
-          restore-keys: |
-            rss-cache-
-      
+
       - name: Generate yesterday's page
         run: |
           python scripts/generate_ai_era_page.py --date yesterday
-      
+
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.DEPLOY_TOKEN }}
           publish_dir: ./output

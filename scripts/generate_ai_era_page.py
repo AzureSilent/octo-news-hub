@@ -14,10 +14,10 @@ from pathlib import Path
 from typing import List, Dict
 
 # 配置
-CACHE_FILE = 'data/cache.json'
+CACHE_FILE = 'data/cache/ai_era.json'
 OUTPUT_DIR = 'output/pages/daily/ai_era'
 BASE_URL = 'https://plink.anyfeeder.com/weixin/AI_era'
-RETENTION_DAYS = 60  # 页面保留天数，超过此天数的页面将被删除
+RETENTION_DAYS = 30  # 页面保留天数，超过此天数的页面将被删除
 
 # 东8区时区（UTC+8）
 TZ_CHINA = timezone(timedelta(hours=8))

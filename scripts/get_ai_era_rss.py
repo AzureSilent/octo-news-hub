@@ -27,6 +27,8 @@ class CacheManager:
         self.cache_file = cache_file
         self.max_entries = max_entries
         self.cache: Dict[str, dict] = {}
+        self.hits = 0  # 缓存命中次数
+        self.misses = 0  # 缓存未命中次数
         self._load_cache()
     
     def _load_cache(self):
@@ -50,7 +52,24 @@ class CacheManager:
     
     def get(self, guid: str) -> Optional[dict]:
         """获取缓存条目"""
-        return self.cache.get(guid)
+        result = self.cache.get(guid)
+        if result is not None:
+            self.hits += 1
+        else:
+            self.misses += 1
+        return result
+    
+    def get_stats(self) -> dict:
+        """获取缓存统计信息"""
+        total = self.hits + self.misses
+        hit_rate = (self.hits / total * 100) if total > 0 else 0
+        return {
+            'total_requests': total,
+            'hits': self.hits,
+            'misses': self.misses,
+            'hit_rate': hit_rate,
+            'cache_entries': len(self.cache)
+        }
     
     def add(self, guid: str, data: dict):
         """添加新条目到缓存"""
@@ -242,7 +261,7 @@ class RSSCleaner:
             'source_url': 'https://plink.anyfeeder.com/weixin/AI_era',
             'output': {
                 'rss_file': 'output/rss/ai_era.xml',
-                'cache_file': 'data/cache.json'
+                'cache_file': 'data/cache/ai_era.json'
             },
             'cache': {
                 'max_entries': 100
@@ -405,7 +424,15 @@ class RSSCleaner:
             f.write(rss_content)
         
         print(f"\n完成！生成的新RSS文件: {output_file}")
-        print(f"缓存条目数: {len(self.cache_manager.cache)}")
+        
+        # 输出缓存统计信息
+        stats = self.cache_manager.get_stats()
+        print(f"\n缓存统计信息:")
+        print(f"  总请求次数: {stats['total_requests']}")
+        print(f"  缓存命中: {stats['hits']}")
+        print(f"  缓存未命中: {stats['misses']}")
+        print(f"  缓存命中率: {stats['hit_rate']:.2f}%")
+        print(f"  缓存条目数: {stats['cache_entries']}")
         
         return output_file
 
