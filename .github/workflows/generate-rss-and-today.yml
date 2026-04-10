@@ -5,6 +5,16 @@ on:
     # 每2小时运行一次 (UTC时间)
     - cron: '0 */2 * * *'
   workflow_dispatch:  # 允许手动触发
+    inputs:
+      sites:
+        description: '选择要生成的网站'
+        required: false
+        type: choice
+        options:
+          - all
+          - 新智元
+          - 机器之心
+        default: 'all'
 
 concurrency:
   group: pages-deploy
@@ -13,7 +23,7 @@ concurrency:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
@@ -37,14 +47,36 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      
-      - name: Generate RSS feed
+
+      - name: Cache Playwright browsers
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/ms-playwright
+            ~/Library/Caches/ms-playwright
+          key: ${{ runner.os }}-playwright-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-playwright-
+
+      - name: Install Playwright browsers
         run: |
-          python scripts/get_ai_era_rss.py
-      
-      - name: Generate today's page
+          playwright install chromium
+
+      - name: Generate RSS feeds (parallel)
         run: |
-          python scripts/generate_ai_era_page.py
+          if [ "${{ github.event.inputs.sites }}" = "all" ] || [ -z "${{ github.event.inputs.sites }}" ]; then
+            python scripts/generate_all_rss.py --parallel
+          else
+            python scripts/generate_all_rss.py --site "${{ github.event.inputs.sites }}"
+          fi
+
+      - name: Generate today's pages (parallel)
+        run: |
+          if [ "${{ github.event.inputs.sites }}" = "all" ] || [ -z "${{ github.event.inputs.sites }}" ]; then
+            python scripts/generate_all_pages.py --parallel
+          else
+            python scripts/generate_all_pages.py --site "${{ github.event.inputs.sites }}"
+          fi
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
