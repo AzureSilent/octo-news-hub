@@ -4,7 +4,7 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 31 Aug 2026 10:12:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 18:18:06 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title><![CDATA[ECCV社交副本开启！来AI Talent Night，聊聊新技术、见见新老朋友]]></title>
@@ -25,6 +25,16 @@
       <category>人工智能</category>
     </item>
     <item>
+      <title><![CDATA[刚刚，我们用千问创作做了一部「JoJo的奇幻买瓜」]]></title>
+      <link>https://www.jiqizhixin.com/articles/511d5f38-ef20-43c5-957c-3ad435487a4d</link>
+      <guid>511d5f38-ef20-43c5-957c-3ad435487a4d</guid>
+      <pubDate>Mon, 31 Aug 2026 18:17:21 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，我们用千问创作做了一部「JoJo的奇幻买瓜」</p><p>标签: 千问创作, Wan 3.0, 阿里巴巴</p>]]></description>
+      <category>千问创作</category>
+      <category>Wan 3.0</category>
+      <category>阿里巴巴</category>
+    </item>
+    <item>
       <title><![CDATA[刚刚，OpenClaw 2.0来了，龙虾升级]]></title>
       <link>https://www.jiqizhixin.com/articles/4dce4a3b-5391-4360-b770-9c2f736a4d88</link>
       <guid>4dce4a3b-5391-4360-b770-9c2f736a4d88</guid>
@@ -32,6 +42,33 @@
       <description><![CDATA[<p>刚刚，OpenClaw 2.0来了，龙虾升级</p><p>标签: 龙虾, OpenClaw 2.0</p>]]></description>
       <category>龙虾</category>
       <category>OpenClaw 2.0</category>
+    </item>
+    <item>
+      <title><![CDATA[豆包推出开学季学生优惠，送大学生3个月免费订阅权益]]></title>
+      <link>https://www.jiqizhixin.com/articles/5bc5dd92-03f2-4d43-8f74-077fcd491f89</link>
+      <guid>5bc5dd92-03f2-4d43-8f74-077fcd491f89</guid>
+      <pubDate>Mon, 31 Aug 2026 18:17:21 +0000</pubDate>
+      <description><![CDATA[<p>豆包推出开学季学生优惠，送大学生3个月免费订阅权益</p><p>标签: 豆包</p>]]></description>
+      <category>豆包</category>
+    </item>
+    <item>
+      <title><![CDATA[千问创作推出Agent Teams功能，覆盖AI短剧、漫剧等专业创作场景]]></title>
+      <link>https://www.jiqizhixin.com/articles/f746be33-8df9-4f04-89de-5bf396a31c9d</link>
+      <guid>f746be33-8df9-4f04-89de-5bf396a31c9d</guid>
+      <pubDate>Mon, 31 Aug 2026 18:18:06 +0000</pubDate>
+      <description><![CDATA[<p>千问创作推出Agent Teams功能，覆盖AI短剧、漫剧等专业创作场景</p><p>标签: Agent Teams, 千问创作</p>]]></description>
+      <category>Agent Teams</category>
+      <category>千问创作</category>
+    </item>
+    <item>
+      <title><![CDATA[MIT将价态约束前置，材料生成前先让AI学会化学规则]]></title>
+      <link>https://www.jiqizhixin.com/articles/dc3aa306-caf6-4558-954f-a98b76ca3050</link>
+      <guid>dc3aa306-caf6-4558-954f-a98b76ca3050</guid>
+      <pubDate>Mon, 31 Aug 2026 18:17:50 +0000</pubDate>
+      <description><![CDATA[<p>MIT将价态约束前置，材料生成前先让AI学会化学规则</p><p>标签: AI for Science（AI4S）, CrysVCD, 麻省理工学院（MIT）</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>CrysVCD</category>
+      <category>麻省理工学院（MIT）</category>
     </item>
     <item>
       <title><![CDATA[AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验]]></title>
