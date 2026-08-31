@@ -4,8 +4,35 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 31 Aug 2026 03:14:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 10:12:15 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[ECCV社交副本开启！来AI Talent Night，聊聊新技术、见见新老朋友]]></title>
+      <link>https://www.jiqizhixin.com/articles/522d4725-767f-44d7-9a91-32105186061e</link>
+      <guid>522d4725-767f-44d7-9a91-32105186061e</guid>
+      <pubDate>Mon, 31 Aug 2026 10:09:44 +0000</pubDate>
+      <description><![CDATA[<p>ECCV社交副本开启！来AI Talent Night，聊聊新技术、见见新老朋友</p><p>标签: ECCV 2026 AI Talent Night, ECCV 2026</p>]]></description>
+      <category>ECCV 2026 AI Talent Night</category>
+      <category>ECCV 2026</category>
+    </item>
+    <item>
+      <title><![CDATA[今天，「人工智能」这个学科诞生70年了]]></title>
+      <link>https://www.jiqizhixin.com/articles/1f783325-344f-48d3-81ab-01ff3324b73e</link>
+      <guid>1f783325-344f-48d3-81ab-01ff3324b73e</guid>
+      <pubDate>Mon, 31 Aug 2026 10:09:43 +0000</pubDate>
+      <description><![CDATA[<p>今天，「人工智能」这个学科诞生70年了</p><p>标签: 通用人工智能, 人工智能</p>]]></description>
+      <category>通用人工智能</category>
+      <category>人工智能</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，OpenClaw 2.0来了，龙虾升级]]></title>
+      <link>https://www.jiqizhixin.com/articles/4dce4a3b-5391-4360-b770-9c2f736a4d88</link>
+      <guid>4dce4a3b-5391-4360-b770-9c2f736a4d88</guid>
+      <pubDate>Mon, 31 Aug 2026 10:10:14 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，OpenClaw 2.0来了，龙虾升级</p><p>标签: 龙虾, OpenClaw 2.0</p>]]></description>
+      <category>龙虾</category>
+      <category>OpenClaw 2.0</category>
+    </item>
     <item>
       <title><![CDATA[AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验]]></title>
       <link>https://www.jiqizhixin.com/articles/ac81d3fd-241a-4000-bee9-e2b003245668</link>
@@ -54,74 +81,6 @@
       <category>VibeGame</category>
       <category>新加坡南洋理工大学</category>
       <category>南京大学</category>
-    </item>
-    <item>
-      <title><![CDATA[Claude安全机制大翻车！AI怒删开发者700GB主目录]]></title>
-      <link>https://www.jiqizhixin.com/articles/5e318166-894f-48c2-8cb5-446c472c9687</link>
-      <guid>5e318166-894f-48c2-8cb5-446c472c9687</guid>
-      <pubDate>Sun, 30 Aug 2026 17:49:39 +0000</pubDate>
-      <description><![CDATA[<p>Claude安全机制大翻车！AI怒删开发者700GB主目录</p><p>标签: Claude Code, Anthropic</p>]]></description>
-      <category>Claude Code</category>
-      <category>Anthropic</category>
-    </item>
-    <item>
-      <title><![CDATA[端侧模型专用Harness，用Qwen3.8-27B实现「零成本推理」]]></title>
-      <link>https://www.jiqizhixin.com/articles/01033521-faee-4e1b-ba7a-fea25220f5df</link>
-      <guid>01033521-faee-4e1b-ba7a-fea25220f5df</guid>
-      <pubDate>Sun, 30 Aug 2026 17:49:38 +0000</pubDate>
-      <description><![CDATA[<p>端侧模型专用Harness，用Qwen3.8-27B实现「零成本推理」</p><p>标签: Harness, Portable Computer, Perplexity AI</p>]]></description>
-      <category>Harness</category>
-      <category>Portable Computer</category>
-      <category>Perplexity AI</category>
-    </item>
-    <item>
-      <title><![CDATA[当 AI 开始为 AI 造“认知外骨骼”：不训模型，也能让小 AI 能力翻倍？AI4AI 正从这里开始]]></title>
-      <link>https://www.jiqizhixin.com/articles/587a6b76-aa1e-4a37-997c-35ac8df165f6</link>
-      <guid>587a6b76-aa1e-4a37-997c-35ac8df165f6</guid>
-      <pubDate>Sun, 30 Aug 2026 17:50:39 +0000</pubDate>
-      <description><![CDATA[<p>当 AI 开始为 AI 造“认知外骨骼”：不训模型，也能让小 AI 能力翻倍？AI4AI 正从这里开始</p><p>标签: AI4AI, UIUC, Salesforce AI</p>]]></description>
-      <category>AI4AI</category>
-      <category>UIUC</category>
-      <category>Salesforce AI</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，Claude Code额度「明升实降」：永久涨25%，眼下却少17%]]></title>
-      <link>https://www.jiqizhixin.com/articles/e38a8d77-0936-440b-b05f-06affb20a68a</link>
-      <guid>e38a8d77-0936-440b-b05f-06affb20a68a</guid>
-      <pubDate>Sun, 30 Aug 2026 17:50:11 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，Claude Code额度「明升实降」：永久涨25%，眼下却少17%</p><p>标签: Claude Code, Anthropic</p>]]></description>
-      <category>Claude Code</category>
-      <category>Anthropic</category>
-    </item>
-    <item>
-      <title><![CDATA[让大模型真正学会「发现」，设计下一个实验]]></title>
-      <link>https://www.jiqizhixin.com/articles/92e2af1e-8eab-4c89-ade8-b945df493745</link>
-      <guid>92e2af1e-8eab-4c89-ade8-b945df493745</guid>
-      <pubDate>Sun, 30 Aug 2026 17:50:41 +0000</pubDate>
-      <description><![CDATA[<p>让大模型真正学会「发现」，设计下一个实验</p><p>标签: LDMs）, 大发现模型（Large Discovery Models, 汪军, 伦敦大学</p>]]></description>
-      <category>LDMs）</category>
-      <category>大发现模型（Large Discovery Models</category>
-      <category>汪军</category>
-      <category>伦敦大学</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，OpenAI要给Codex、ChatGPT Work付费用户集体回血了]]></title>
-      <link>https://www.jiqizhixin.com/articles/f64d5489-6181-4689-9edd-5f4d194cffdb</link>
-      <guid>f64d5489-6181-4689-9edd-5f4d194cffdb</guid>
-      <pubDate>Sun, 30 Aug 2026 17:51:40 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，OpenAI要给Codex、ChatGPT Work付费用户集体回血了</p><p>标签: ChatGPT Work, Codex, OpenAI</p>]]></description>
-      <category>ChatGPT Work</category>
-      <category>Codex</category>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[AI 如何塑造生产力？复旦联合斯坦福、伯克利、牛津、普林斯顿、UCL 等 12 家机构给出 68 页答案]]></title>
-      <link>https://www.jiqizhixin.com/articles/38bb988d-a372-4ccb-99f8-e137fc32889b</link>
-      <guid>38bb988d-a372-4ccb-99f8-e137fc32889b</guid>
-      <pubDate>Sun, 30 Aug 2026 17:51:27 +0000</pubDate>
-      <description><![CDATA[<p>AI 如何塑造生产力？复旦联合斯坦福、伯克利、牛津、普林斯顿、UCL 等 12 家机构给出 68 页答案</p><p>标签: AI4X Project Team, 浙江大学</p>]]></description>
-      <category>AI4X Project Team</category>
-      <category>浙江大学</category>
     </item>
   </channel>
 </rss>
