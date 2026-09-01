@@ -4,8 +4,66 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 01 Sep 2026 02:13:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 08:59:19 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Nature子刊｜寻找化学反应最难捕捉的瞬间，上智院新框架生成复杂三维过渡态]]></title>
+      <link>https://www.jiqizhixin.com/articles/96945f56-5852-4c0f-a532-4213bf32eae6</link>
+      <guid>96945f56-5852-4c0f-a532-4213bf32eae6</guid>
+      <pubDate>Tue, 01 Sep 2026 08:57:47 +0000</pubDate>
+      <description><![CDATA[<p>Nature子刊｜寻找化学反应最难捕捉的瞬间，上智院新框架生成复杂三维过渡态</p><p>标签: AI for Science（AI4S）, UniTS, 自动化过渡态生成框架, 上海科学智能研究院</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>UniTS</category>
+      <category>自动化过渡态生成框架</category>
+      <category>上海科学智能研究院</category>
+    </item>
+    <item>
+      <title><![CDATA[Kimi、WorkBuddy、MiniMax能力包，招行这张信用卡全包了，AI办公新入口来了！]]></title>
+      <link>https://www.jiqizhixin.com/articles/c8a81a10-29eb-43d7-beeb-66ab14ad53f5</link>
+      <guid>c8a81a10-29eb-43d7-beeb-66ab14ad53f5</guid>
+      <pubDate>Tue, 01 Sep 2026 08:57:47 +0000</pubDate>
+      <description><![CDATA[<p>Kimi、WorkBuddy、MiniMax能力包，招行这张信用卡全包了，AI办公新入口来了！</p><p>标签: 招商银行, AI 权益信用卡</p>]]></description>
+      <category>招商银行</category>
+      <category>AI 权益信用卡</category>
+    </item>
+    <item>
+      <title><![CDATA[Runway把世界模型做成了操作系统！不用代码直接生成界面]]></title>
+      <link>https://www.jiqizhixin.com/articles/4465dba2-9782-4944-986c-27982b3b3a22</link>
+      <guid>4465dba2-9782-4944-986c-27982b3b3a22</guid>
+      <pubDate>Tue, 01 Sep 2026 08:58:18 +0000</pubDate>
+      <description><![CDATA[<p>Runway把世界模型做成了操作系统！不用代码直接生成界面</p><p>标签: Solaris, Runway</p>]]></description>
+      <category>Solaris</category>
+      <category>Runway</category>
+    </item>
+    <item>
+      <title><![CDATA[当AI从工具到认知主体，我们需要警惕哪些新风险？]]></title>
+      <link>https://www.jiqizhixin.com/articles/4d87c0fb-f97a-4b4c-866c-fe16a0044080</link>
+      <guid>4d87c0fb-f97a-4b4c-866c-fe16a0044080</guid>
+      <pubDate>Tue, 01 Sep 2026 08:58:16 +0000</pubDate>
+      <description><![CDATA[<p>当AI从工具到认知主体，我们需要警惕哪些新风险？</p><p>标签: AI 认知（AI cognition）, 香港中文大学（深圳）, 上海人工智能实验室</p>]]></description>
+      <category>AI 认知（AI cognition）</category>
+      <category>香港中文大学（深圳）</category>
+      <category>上海人工智能实验室</category>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI新付费方式：AI没把活干完，钱就不用付]]></title>
+      <link>https://www.jiqizhixin.com/articles/ea18e26d-2068-4ded-9a72-ecddd304cdfa</link>
+      <guid>ea18e26d-2068-4ded-9a72-ecddd304cdfa</guid>
+      <pubDate>Tue, 01 Sep 2026 08:59:19 +0000</pubDate>
+      <description><![CDATA[<p>OpenAI新付费方式：AI没把活干完，钱就不用付</p><p>标签: SaaS, 计费方式, OpenAI</p>]]></description>
+      <category>SaaS</category>
+      <category>计费方式</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[少数Full Attention层如何重塑内部计算？混合线性注意力大模型中的「尖峰」与「平台」之谜首次揭开]]></title>
+      <link>https://www.jiqizhixin.com/articles/0f64dc02-86b7-4320-a357-acd09832104e</link>
+      <guid>0f64dc02-86b7-4320-a357-acd09832104e</guid>
+      <pubDate>Tue, 01 Sep 2026 08:59:03 +0000</pubDate>
+      <description><![CDATA[<p>少数Full Attention层如何重塑内部计算？混合线性注意力大模型中的「尖峰」与「平台」之谜首次揭开</p><p>标签: Massive Activations, StartLux</p>]]></description>
+      <category>Massive Activations</category>
+      <category>StartLux</category>
+    </item>
     <item>
       <title><![CDATA[ECCV社交副本开启！来AI Talent Night，聊聊新技术、见见新老朋友]]></title>
       <link>https://www.jiqizhixin.com/articles/522d4725-767f-44d7-9a91-32105186061e</link>
@@ -59,65 +117,6 @@
       <description><![CDATA[<p>千问创作推出Agent Teams功能，覆盖AI短剧、漫剧等专业创作场景</p><p>标签: Agent Teams, 千问创作</p>]]></description>
       <category>Agent Teams</category>
       <category>千问创作</category>
-    </item>
-    <item>
-      <title><![CDATA[MIT将价态约束前置，材料生成前先让AI学会化学规则]]></title>
-      <link>https://www.jiqizhixin.com/articles/dc3aa306-caf6-4558-954f-a98b76ca3050</link>
-      <guid>dc3aa306-caf6-4558-954f-a98b76ca3050</guid>
-      <pubDate>Mon, 31 Aug 2026 18:17:50 +0000</pubDate>
-      <description><![CDATA[<p>MIT将价态约束前置，材料生成前先让AI学会化学规则</p><p>标签: AI for Science（AI4S）, CrysVCD, 麻省理工学院（MIT）</p>]]></description>
-      <category>AI for Science（AI4S）</category>
-      <category>CrysVCD</category>
-      <category>麻省理工学院（MIT）</category>
-    </item>
-    <item>
-      <title><![CDATA[AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验]]></title>
-      <link>https://www.jiqizhixin.com/articles/ac81d3fd-241a-4000-bee9-e2b003245668</link>
-      <guid>ac81d3fd-241a-4000-bee9-e2b003245668</guid>
-      <pubDate>Mon, 31 Aug 2026 03:12:22 +0000</pubDate>
-      <description><![CDATA[<p>AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验</p><p>标签: AQuA, 蚂蚁集团, 普林斯顿大学</p>]]></description>
-      <category>AQuA</category>
-      <category>蚂蚁集团</category>
-      <category>普林斯顿大学</category>
-    </item>
-    <item>
-      <title><![CDATA[HOMIE Gen2全新发布！解锁人类经验的Scaling Law]]></title>
-      <link>https://www.jiqizhixin.com/articles/9d6e5da8-384c-493a-b12d-ab6209b9a75d</link>
-      <guid>9d6e5da8-384c-493a-b12d-ab6209b9a75d</guid>
-      <pubDate>Mon, 31 Aug 2026 03:12:22 +0000</pubDate>
-      <description><![CDATA[<p>HOMIE Gen2全新发布！解锁人类经验的Scaling Law</p><p>标签: HOMIE Gen2, Ropedia, Physical AI</p>]]></description>
-      <category>HOMIE Gen2</category>
-      <category>Ropedia</category>
-      <category>Physical AI</category>
-    </item>
-    <item>
-      <title><![CDATA[Mac mini缺货原因找到了！OpenAI、Anthropic都在抢]]></title>
-      <link>https://www.jiqizhixin.com/articles/810280f1-12c9-435b-b3a7-b553a21612d7</link>
-      <guid>810280f1-12c9-435b-b3a7-b553a21612d7</guid>
-      <pubDate>Mon, 31 Aug 2026 03:13:08 +0000</pubDate>
-      <description><![CDATA[<p>Mac mini缺货原因找到了！OpenAI、Anthropic都在抢</p><p>标签: Anthropic, OpenAI, 苹果</p>]]></description>
-      <category>Anthropic</category>
-      <category>OpenAI</category>
-      <category>苹果</category>
-    </item>
-    <item>
-      <title><![CDATA[Astra接管OpenAI！创立第三代智能体文明的新模型有多猛？]]></title>
-      <link>https://www.jiqizhixin.com/articles/cb619a6c-de11-4e9b-8071-a320247b7e66</link>
-      <guid>cb619a6c-de11-4e9b-8071-a320247b7e66</guid>
-      <pubDate>Mon, 31 Aug 2026 03:13:08 +0000</pubDate>
-      <description><![CDATA[<p>Astra接管OpenAI！创立第三代智能体文明的新模型有多猛？</p><p>标签: Astra, OpenAI</p>]]></description>
-      <category>Astra</category>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[为 Agent 重造一台游戏引擎：南大联合南洋理工提出 VibeGame，Agent 团队自己试玩、反思、进化]]></title>
-      <link>https://www.jiqizhixin.com/articles/bb6f1940-a046-4ad6-9465-6c06ba349719</link>
-      <guid>bb6f1940-a046-4ad6-9465-6c06ba349719</guid>
-      <pubDate>Mon, 31 Aug 2026 03:14:10 +0000</pubDate>
-      <description><![CDATA[<p>为 Agent 重造一台游戏引擎：南大联合南洋理工提出 VibeGame，Agent 团队自己试玩、反思、进化</p><p>标签: VibeGame, 新加坡南洋理工大学, 南京大学</p>]]></description>
-      <category>VibeGame</category>
-      <category>新加坡南洋理工大学</category>
-      <category>南京大学</category>
     </item>
   </channel>
 </rss>
