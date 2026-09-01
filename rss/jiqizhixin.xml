@@ -4,8 +4,47 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 01 Sep 2026 08:59:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 14:22:30 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[要火！AI版西游记，登上湖南卫视黄金档]]></title>
+      <link>https://www.jiqizhixin.com/articles/5276e367-de10-4fd6-a0ac-c77963faa14b</link>
+      <guid>5276e367-de10-4fd6-a0ac-c77963faa14b</guid>
+      <pubDate>Tue, 01 Sep 2026 14:22:00 +0000</pubDate>
+      <description><![CDATA[<p>要火！AI版西游记，登上湖南卫视黄金档</p><p>标签: 湖南卫视, AI 长剧, 后西游记</p>]]></description>
+      <category>湖南卫视</category>
+      <category>AI 长剧</category>
+      <category>后西游记</category>
+    </item>
+    <item>
+      <title><![CDATA[AI能挖漏洞吗？北航等机构把真实漏洞炼进了模型参数]]></title>
+      <link>https://www.jiqizhixin.com/articles/3dcb21ff-86cb-4683-931a-18cd302e2a32</link>
+      <guid>3dcb21ff-86cb-4683-931a-18cd302e2a32</guid>
+      <pubDate>Tue, 01 Sep 2026 14:22:00 +0000</pubDate>
+      <description><![CDATA[<p>AI能挖漏洞吗？北航等机构把真实漏洞炼进了模型参数</p><p>标签: OpenAegis, CyberFactory, 北京航空航天大学</p>]]></description>
+      <category>OpenAegis</category>
+      <category>CyberFactory</category>
+      <category>北京航空航天大学</category>
+    </item>
+    <item>
+      <title><![CDATA[大模型的逐字生成模式，正在拖慢你的Agent，有人跑出了5倍提速]]></title>
+      <link>https://www.jiqizhixin.com/articles/89416b75-c48b-46b1-8057-4133a1e8445d</link>
+      <guid>89416b75-c48b-46b1-8057-4133a1e8445d</guid>
+      <pubDate>Tue, 01 Sep 2026 14:22:29 +0000</pubDate>
+      <description><![CDATA[<p>大模型的逐字生成模式，正在拖慢你的Agent，有人跑出了5倍提速</p><p>标签: 扩散语言模型, 扩散智能 DiffuSpace</p>]]></description>
+      <category>扩散语言模型</category>
+      <category>扩散智能 DiffuSpace</category>
+    </item>
+    <item>
+      <title><![CDATA[AI到底能不能自己造AI？别吵了，有人做出来了]]></title>
+      <link>https://www.jiqizhixin.com/articles/3688ce58-05f7-480b-9cfa-1c9d2d20aa9e</link>
+      <guid>3688ce58-05f7-480b-9cfa-1c9d2d20aa9e</guid>
+      <pubDate>Tue, 01 Sep 2026 14:22:29 +0000</pubDate>
+      <description><![CDATA[<p>AI到底能不能自己造AI？别吵了，有人做出来了</p><p>标签: 深势科技, iCoder-27B, 上海交通大学</p>]]></description>
+      <category>深势科技</category>
+      <category>iCoder-27B</category>
+      <category>上海交通大学</category>
+    </item>
     <item>
       <title><![CDATA[Nature子刊｜寻找化学反应最难捕捉的瞬间，上智院新框架生成复杂三维过渡态]]></title>
       <link>https://www.jiqizhixin.com/articles/96945f56-5852-4c0f-a532-4213bf32eae6</link>
@@ -81,42 +120,6 @@
       <description><![CDATA[<p>今天，「人工智能」这个学科诞生70年了</p><p>标签: 通用人工智能, 人工智能</p>]]></description>
       <category>通用人工智能</category>
       <category>人工智能</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，我们用千问创作做了一部「JoJo的奇幻买瓜」]]></title>
-      <link>https://www.jiqizhixin.com/articles/511d5f38-ef20-43c5-957c-3ad435487a4d</link>
-      <guid>511d5f38-ef20-43c5-957c-3ad435487a4d</guid>
-      <pubDate>Mon, 31 Aug 2026 18:17:21 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，我们用千问创作做了一部「JoJo的奇幻买瓜」</p><p>标签: 千问创作, Wan 3.0, 阿里巴巴</p>]]></description>
-      <category>千问创作</category>
-      <category>Wan 3.0</category>
-      <category>阿里巴巴</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，OpenClaw 2.0来了，龙虾升级]]></title>
-      <link>https://www.jiqizhixin.com/articles/4dce4a3b-5391-4360-b770-9c2f736a4d88</link>
-      <guid>4dce4a3b-5391-4360-b770-9c2f736a4d88</guid>
-      <pubDate>Mon, 31 Aug 2026 10:10:14 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，OpenClaw 2.0来了，龙虾升级</p><p>标签: 龙虾, OpenClaw 2.0</p>]]></description>
-      <category>龙虾</category>
-      <category>OpenClaw 2.0</category>
-    </item>
-    <item>
-      <title><![CDATA[豆包推出开学季学生优惠，送大学生3个月免费订阅权益]]></title>
-      <link>https://www.jiqizhixin.com/articles/5bc5dd92-03f2-4d43-8f74-077fcd491f89</link>
-      <guid>5bc5dd92-03f2-4d43-8f74-077fcd491f89</guid>
-      <pubDate>Mon, 31 Aug 2026 18:17:21 +0000</pubDate>
-      <description><![CDATA[<p>豆包推出开学季学生优惠，送大学生3个月免费订阅权益</p><p>标签: 豆包</p>]]></description>
-      <category>豆包</category>
-    </item>
-    <item>
-      <title><![CDATA[千问创作推出Agent Teams功能，覆盖AI短剧、漫剧等专业创作场景]]></title>
-      <link>https://www.jiqizhixin.com/articles/f746be33-8df9-4f04-89de-5bf396a31c9d</link>
-      <guid>f746be33-8df9-4f04-89de-5bf396a31c9d</guid>
-      <pubDate>Mon, 31 Aug 2026 18:18:06 +0000</pubDate>
-      <description><![CDATA[<p>千问创作推出Agent Teams功能，覆盖AI短剧、漫剧等专业创作场景</p><p>标签: Agent Teams, 千问创作</p>]]></description>
-      <category>Agent Teams</category>
-      <category>千问创作</category>
     </item>
   </channel>
 </rss>
