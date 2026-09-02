@@ -4,8 +4,57 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 02 Sep 2026 01:36:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 06:34:02 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Vibe Coding杀进3D领域！OpenAI总裁都在围观这种新玩法]]></title>
+      <link>https://www.jiqizhixin.com/articles/cd8384e2-ecff-4158-ba16-d6a5749d332e</link>
+      <guid>cd8384e2-ecff-4158-ba16-d6a5749d332e</guid>
+      <pubDate>Wed, 02 Sep 2026 06:30:59 +0000</pubDate>
+      <description><![CDATA[<p>Vibe Coding杀进3D领域！OpenAI总裁都在围观这种新玩法</p><p>标签: Tripo P2.0, VAST, AI 3D</p>]]></description>
+      <category>Tripo P2.0</category>
+      <category>VAST</category>
+      <category>AI 3D</category>
+    </item>
+    <item>
+      <title><![CDATA[李飞飞发布Atlas，世界模型进入新时代]]></title>
+      <link>https://www.jiqizhixin.com/articles/1763fc23-7406-4da3-add9-04ac28549d89</link>
+      <guid>1763fc23-7406-4da3-add9-04ac28549d89</guid>
+      <pubDate>Wed, 02 Sep 2026 06:31:00 +0000</pubDate>
+      <description><![CDATA[<p>李飞飞发布Atlas，世界模型进入新时代</p><p>标签: Atlas, 世界模型, World Labs, 李飞飞</p>]]></description>
+      <category>Atlas</category>
+      <category>世界模型</category>
+      <category>World Labs</category>
+      <category>李飞飞</category>
+    </item>
+    <item>
+      <title><![CDATA[一张心电图，AI不到2秒读出隐藏的心脏疾病信号]]></title>
+      <link>https://www.jiqizhixin.com/articles/e6200f7a-6333-43c8-9765-3c781f7e7d53</link>
+      <guid>e6200f7a-6333-43c8-9765-3c781f7e7d53</guid>
+      <pubDate>Wed, 02 Sep 2026 06:31:30 +0000</pubDate>
+      <description><![CDATA[<p>一张心电图，AI不到2秒读出隐藏的心脏疾病信号</p><p>标签: AI for Science（AI4S）, AI-ECG, 帝国理工学院</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>AI-ECG</category>
+      <category>帝国理工学院</category>
+    </item>
+    <item>
+      <title><![CDATA[阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一]]></title>
+      <link>https://www.jiqizhixin.com/articles/027f3fa7-1093-4125-982c-eed048f3eb2a</link>
+      <guid>027f3fa7-1093-4125-982c-eed048f3eb2a</guid>
+      <pubDate>Wed, 02 Sep 2026 06:31:31 +0000</pubDate>
+      <description><![CDATA[<p>阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一</p><p>标签: Qwen3.8-Max, 阿里巴巴</p>]]></description>
+      <category>Qwen3.8-Max</category>
+      <category>阿里巴巴</category>
+    </item>
+    <item>
+      <title><![CDATA[33%！Claude、GPT、Gemini 在真实网站上集体翻车，ClawBench 把 AI agent 打回原形]]></title>
+      <link>https://www.jiqizhixin.com/articles/7ad621b0-56cb-458a-975a-03708c600c8b</link>
+      <guid>7ad621b0-56cb-458a-975a-03708c600c8b</guid>
+      <pubDate>Wed, 02 Sep 2026 06:34:02 +0000</pubDate>
+      <description><![CDATA[<p>33%！Claude、GPT、Gemini 在真实网站上集体翻车，ClawBench 把 AI agent 打回原形</p><p>标签: MMLU-Pro, ClawBench</p>]]></description>
+      <category>MMLU-Pro</category>
+      <category>ClawBench</category>
+    </item>
     <item>
       <title><![CDATA[要火！AI版西游记，登上湖南卫视黄金档]]></title>
       <link>https://www.jiqizhixin.com/articles/5276e367-de10-4fd6-a0ac-c77963faa14b</link>
@@ -34,92 +83,6 @@
       <description><![CDATA[<p>大模型的逐字生成模式，正在拖慢你的Agent，有人跑出了5倍提速</p><p>标签: 扩散语言模型, 扩散智能 DiffuSpace</p>]]></description>
       <category>扩散语言模型</category>
       <category>扩散智能 DiffuSpace</category>
-    </item>
-    <item>
-      <title><![CDATA[AI到底能不能自己造AI？别吵了，有人做出来了]]></title>
-      <link>https://www.jiqizhixin.com/articles/3688ce58-05f7-480b-9cfa-1c9d2d20aa9e</link>
-      <guid>3688ce58-05f7-480b-9cfa-1c9d2d20aa9e</guid>
-      <pubDate>Tue, 01 Sep 2026 14:22:29 +0000</pubDate>
-      <description><![CDATA[<p>AI到底能不能自己造AI？别吵了，有人做出来了</p><p>标签: 深势科技, iCoder-27B, 上海交通大学</p>]]></description>
-      <category>深势科技</category>
-      <category>iCoder-27B</category>
-      <category>上海交通大学</category>
-    </item>
-    <item>
-      <title><![CDATA[Nature子刊｜寻找化学反应最难捕捉的瞬间，上智院新框架生成复杂三维过渡态]]></title>
-      <link>https://www.jiqizhixin.com/articles/96945f56-5852-4c0f-a532-4213bf32eae6</link>
-      <guid>96945f56-5852-4c0f-a532-4213bf32eae6</guid>
-      <pubDate>Tue, 01 Sep 2026 08:57:47 +0000</pubDate>
-      <description><![CDATA[<p>Nature子刊｜寻找化学反应最难捕捉的瞬间，上智院新框架生成复杂三维过渡态</p><p>标签: AI for Science（AI4S）, UniTS, 自动化过渡态生成框架, 上海科学智能研究院</p>]]></description>
-      <category>AI for Science（AI4S）</category>
-      <category>UniTS</category>
-      <category>自动化过渡态生成框架</category>
-      <category>上海科学智能研究院</category>
-    </item>
-    <item>
-      <title><![CDATA[Kimi、WorkBuddy、MiniMax能力包，招行这张信用卡全包了，AI办公新入口来了！]]></title>
-      <link>https://www.jiqizhixin.com/articles/c8a81a10-29eb-43d7-beeb-66ab14ad53f5</link>
-      <guid>c8a81a10-29eb-43d7-beeb-66ab14ad53f5</guid>
-      <pubDate>Tue, 01 Sep 2026 08:57:47 +0000</pubDate>
-      <description><![CDATA[<p>Kimi、WorkBuddy、MiniMax能力包，招行这张信用卡全包了，AI办公新入口来了！</p><p>标签: 招商银行, AI 权益信用卡</p>]]></description>
-      <category>招商银行</category>
-      <category>AI 权益信用卡</category>
-    </item>
-    <item>
-      <title><![CDATA[Runway把世界模型做成了操作系统！不用代码直接生成界面]]></title>
-      <link>https://www.jiqizhixin.com/articles/4465dba2-9782-4944-986c-27982b3b3a22</link>
-      <guid>4465dba2-9782-4944-986c-27982b3b3a22</guid>
-      <pubDate>Tue, 01 Sep 2026 08:58:18 +0000</pubDate>
-      <description><![CDATA[<p>Runway把世界模型做成了操作系统！不用代码直接生成界面</p><p>标签: Solaris, Runway</p>]]></description>
-      <category>Solaris</category>
-      <category>Runway</category>
-    </item>
-    <item>
-      <title><![CDATA[当AI从工具到认知主体，我们需要警惕哪些新风险？]]></title>
-      <link>https://www.jiqizhixin.com/articles/4d87c0fb-f97a-4b4c-866c-fe16a0044080</link>
-      <guid>4d87c0fb-f97a-4b4c-866c-fe16a0044080</guid>
-      <pubDate>Tue, 01 Sep 2026 08:58:16 +0000</pubDate>
-      <description><![CDATA[<p>当AI从工具到认知主体，我们需要警惕哪些新风险？</p><p>标签: AI 认知（AI cognition）, 香港中文大学（深圳）, 上海人工智能实验室</p>]]></description>
-      <category>AI 认知（AI cognition）</category>
-      <category>香港中文大学（深圳）</category>
-      <category>上海人工智能实验室</category>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI新付费方式：AI没把活干完，钱就不用付]]></title>
-      <link>https://www.jiqizhixin.com/articles/ea18e26d-2068-4ded-9a72-ecddd304cdfa</link>
-      <guid>ea18e26d-2068-4ded-9a72-ecddd304cdfa</guid>
-      <pubDate>Tue, 01 Sep 2026 08:59:19 +0000</pubDate>
-      <description><![CDATA[<p>OpenAI新付费方式：AI没把活干完，钱就不用付</p><p>标签: SaaS, 计费方式, OpenAI</p>]]></description>
-      <category>SaaS</category>
-      <category>计费方式</category>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[少数Full Attention层如何重塑内部计算？混合线性注意力大模型中的「尖峰」与「平台」之谜首次揭开]]></title>
-      <link>https://www.jiqizhixin.com/articles/0f64dc02-86b7-4320-a357-acd09832104e</link>
-      <guid>0f64dc02-86b7-4320-a357-acd09832104e</guid>
-      <pubDate>Tue, 01 Sep 2026 08:59:03 +0000</pubDate>
-      <description><![CDATA[<p>少数Full Attention层如何重塑内部计算？混合线性注意力大模型中的「尖峰」与「平台」之谜首次揭开</p><p>标签: Massive Activations, StartLux</p>]]></description>
-      <category>Massive Activations</category>
-      <category>StartLux</category>
-    </item>
-    <item>
-      <title><![CDATA[ECCV社交副本开启！来AI Talent Night，聊聊新技术、见见新老朋友]]></title>
-      <link>https://www.jiqizhixin.com/articles/522d4725-767f-44d7-9a91-32105186061e</link>
-      <guid>522d4725-767f-44d7-9a91-32105186061e</guid>
-      <pubDate>Mon, 31 Aug 2026 10:09:44 +0000</pubDate>
-      <description><![CDATA[<p>ECCV社交副本开启！来AI Talent Night，聊聊新技术、见见新老朋友</p><p>标签: ECCV 2026 AI Talent Night, ECCV 2026</p>]]></description>
-      <category>ECCV 2026 AI Talent Night</category>
-      <category>ECCV 2026</category>
-    </item>
-    <item>
-      <title><![CDATA[今天，「人工智能」这个学科诞生70年了]]></title>
-      <link>https://www.jiqizhixin.com/articles/1f783325-344f-48d3-81ab-01ff3324b73e</link>
-      <guid>1f783325-344f-48d3-81ab-01ff3324b73e</guid>
-      <pubDate>Mon, 31 Aug 2026 10:09:43 +0000</pubDate>
-      <description><![CDATA[<p>今天，「人工智能」这个学科诞生70年了</p><p>标签: 通用人工智能, 人工智能</p>]]></description>
-      <category>通用人工智能</category>
-      <category>人工智能</category>
     </item>
   </channel>
 </rss>
