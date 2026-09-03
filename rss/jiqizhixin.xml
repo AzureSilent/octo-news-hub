@@ -4,8 +4,65 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 03 Sep 2026 01:40:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 06:36:41 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[RSI离我们有多远？这家中国团队给出了第一梯队的工程解]]></title>
+      <link>https://www.jiqizhixin.com/articles/84bbcbfe-bf2a-45b2-95bd-42c4fb2c1022</link>
+      <guid>84bbcbfe-bf2a-45b2-95bd-42c4fb2c1022</guid>
+      <pubDate>Thu, 03 Sep 2026 06:34:49 +0000</pubDate>
+      <description><![CDATA[<p>RSI离我们有多远？这家中国团队给出了第一梯队的工程解</p><p>标签: GEP（Gene Evolution Protocol）, EvoX, EvoMap</p>]]></description>
+      <category>GEP（Gene Evolution Protocol）</category>
+      <category>EvoX</category>
+      <category>EvoMap</category>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI Astra被曝引入「循环深度」能力飙升！安全专家坐不住了]]></title>
+      <link>https://www.jiqizhixin.com/articles/7bcbc1cd-bfa0-4610-981d-c8e42eb7fb57</link>
+      <guid>7bcbc1cd-bfa0-4610-981d-c8e42eb7fb57</guid>
+      <pubDate>Thu, 03 Sep 2026 06:34:51 +0000</pubDate>
+      <description><![CDATA[<p>OpenAI Astra被曝引入「循环深度」能力飙升！安全专家坐不住了</p><p>标签: Astra, OpenAI</p>]]></description>
+      <category>Astra</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[全球首个通用决策大模型，AI推演现实世界的技术揭秘]]></title>
+      <link>https://www.jiqizhixin.com/articles/79fc2d9c-408b-4f1b-b85c-644363153e89</link>
+      <guid>79fc2d9c-408b-4f1b-b85c-644363153e89</guid>
+      <pubDate>Thu, 03 Sep 2026 06:35:37 +0000</pubDate>
+      <description><![CDATA[<p>全球首个通用决策大模型，AI推演现实世界的技术揭秘</p><p>标签: MetaWorld, 决策机 Decitron, 中科闻歌</p>]]></description>
+      <category>MetaWorld</category>
+      <category>决策机 Decitron</category>
+      <category>中科闻歌</category>
+    </item>
+    <item>
+      <title><![CDATA[答对了却没看图？EASE给多模态RLVR装上「视线校正器」]]></title>
+      <link>https://www.jiqizhixin.com/articles/3aec04f8-a2fa-4f25-9c68-655e68831c57</link>
+      <guid>3aec04f8-a2fa-4f25-9c68-655e68831c57</guid>
+      <pubDate>Thu, 03 Sep 2026 06:35:21 +0000</pubDate>
+      <description><![CDATA[<p>答对了却没看图？EASE给多模态RLVR装上「视线校正器」</p><p>标签: 哈尔滨工业大学, EASE（Evidence-Anchored Spatial Attention）, 中关村学院</p>]]></description>
+      <category>哈尔滨工业大学</category>
+      <category>EASE（Evidence-Anchored Spatial Attention）</category>
+      <category>中关村学院</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，谷歌Gemini 3.8登场！姚顺宇：RSI巨大飞跃]]></title>
+      <link>https://www.jiqizhixin.com/articles/26e9d222-7a26-4a02-b51a-baa9c52b4460</link>
+      <guid>26e9d222-7a26-4a02-b51a-baa9c52b4460</guid>
+      <pubDate>Thu, 03 Sep 2026 06:35:51 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，谷歌Gemini 3.8登场！姚顺宇：RSI巨大飞跃</p><p>标签: Gemini 3.8, 谷歌</p>]]></description>
+      <category>Gemini 3.8</category>
+      <category>谷歌</category>
+    </item>
+    <item>
+      <title><![CDATA[Facet-0：NTU王子为团队让机器人在精密装配中「看得懂、插得准、出错能恢复」]]></title>
+      <link>https://www.jiqizhixin.com/articles/353dbb1b-087d-459a-9b6e-4f62aad3b9a9</link>
+      <guid>353dbb1b-087d-459a-9b6e-4f62aad3b9a9</guid>
+      <pubDate>Thu, 03 Sep 2026 06:36:40 +0000</pubDate>
+      <description><![CDATA[<p>Facet-0：NTU王子为团队让机器人在精密装配中「看得懂、插得准、出错能恢复」</p><p>标签: Facet-0, 新加坡南洋理工大学</p>]]></description>
+      <category>Facet-0</category>
+      <category>新加坡南洋理工大学</category>
+    </item>
     <item>
       <title><![CDATA[4秒卖出一只的爆款鸭，中国制造，宇树都来推销电机，复刻比买贵？]]></title>
       <link>https://www.jiqizhixin.com/articles/a3f424cf-904a-4dc8-82d8-cbef4aa66f35</link>
@@ -61,66 +118,6 @@
       <description><![CDATA[<p>豆包工作功能更新，支持多Agents并行、Mac操作电脑屏幕</p><p>标签: 豆包, 豆包工作</p>]]></description>
       <category>豆包</category>
       <category>豆包工作</category>
-    </item>
-    <item>
-      <title><![CDATA[Vibe Coding杀进3D领域！OpenAI总裁都在围观这种新玩法]]></title>
-      <link>https://www.jiqizhixin.com/articles/cd8384e2-ecff-4158-ba16-d6a5749d332e</link>
-      <guid>cd8384e2-ecff-4158-ba16-d6a5749d332e</guid>
-      <pubDate>Wed, 02 Sep 2026 06:30:59 +0000</pubDate>
-      <description><![CDATA[<p>Vibe Coding杀进3D领域！OpenAI总裁都在围观这种新玩法</p><p>标签: Tripo P2.0, VAST, AI 3D</p>]]></description>
-      <category>Tripo P2.0</category>
-      <category>VAST</category>
-      <category>AI 3D</category>
-    </item>
-    <item>
-      <title><![CDATA[李飞飞发布Atlas，世界模型进入新时代]]></title>
-      <link>https://www.jiqizhixin.com/articles/1763fc23-7406-4da3-add9-04ac28549d89</link>
-      <guid>1763fc23-7406-4da3-add9-04ac28549d89</guid>
-      <pubDate>Wed, 02 Sep 2026 06:31:00 +0000</pubDate>
-      <description><![CDATA[<p>李飞飞发布Atlas，世界模型进入新时代</p><p>标签: Atlas, 世界模型, World Labs, 李飞飞</p>]]></description>
-      <category>Atlas</category>
-      <category>世界模型</category>
-      <category>World Labs</category>
-      <category>李飞飞</category>
-    </item>
-    <item>
-      <title><![CDATA[一张心电图，AI不到2秒读出隐藏的心脏疾病信号]]></title>
-      <link>https://www.jiqizhixin.com/articles/e6200f7a-6333-43c8-9765-3c781f7e7d53</link>
-      <guid>e6200f7a-6333-43c8-9765-3c781f7e7d53</guid>
-      <pubDate>Wed, 02 Sep 2026 06:31:30 +0000</pubDate>
-      <description><![CDATA[<p>一张心电图，AI不到2秒读出隐藏的心脏疾病信号</p><p>标签: AI for Science（AI4S）, AI-ECG, 帝国理工学院</p>]]></description>
-      <category>AI for Science（AI4S）</category>
-      <category>AI-ECG</category>
-      <category>帝国理工学院</category>
-    </item>
-    <item>
-      <title><![CDATA[阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一]]></title>
-      <link>https://www.jiqizhixin.com/articles/027f3fa7-1093-4125-982c-eed048f3eb2a</link>
-      <guid>027f3fa7-1093-4125-982c-eed048f3eb2a</guid>
-      <pubDate>Wed, 02 Sep 2026 06:31:31 +0000</pubDate>
-      <description><![CDATA[<p>阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一</p><p>标签: Qwen3.8-Max, 阿里巴巴</p>]]></description>
-      <category>Qwen3.8-Max</category>
-      <category>阿里巴巴</category>
-    </item>
-    <item>
-      <title><![CDATA[重磅！前字节、腾讯AI核心研发孙鹏加盟星尘智能，加码机器人强化学习后训练]]></title>
-      <link>https://www.jiqizhixin.com/articles/07e96fa2-fce1-4fca-9dd1-97b6dddfab78</link>
-      <guid>07e96fa2-fce1-4fca-9dd1-97b6dddfab78</guid>
-      <pubDate>Wed, 02 Sep 2026 12:21:46 +0000</pubDate>
-      <description><![CDATA[<p>重磅！前字节、腾讯AI核心研发孙鹏加盟星尘智能，加码机器人强化学习后训练</p><p>标签: 机器人强化学习, 星尘智能, 孙鹏</p>]]></description>
-      <category>机器人强化学习</category>
-      <category>星尘智能</category>
-      <category>孙鹏</category>
-    </item>
-    <item>
-      <title><![CDATA[让 AI Scientist 真正“做出材料”， 鼎犀智创完成数亿元 Pre-A 轮融资]]></title>
-      <link>https://www.jiqizhixin.com/articles/c5c83038-9e13-4168-8e40-dde7424f6c52</link>
-      <guid>c5c83038-9e13-4168-8e40-dde7424f6c52</guid>
-      <pubDate>Wed, 02 Sep 2026 12:22:03 +0000</pubDate>
-      <description><![CDATA[<p>让 AI Scientist 真正“做出材料”， 鼎犀智创完成数亿元 Pre-A 轮融资</p><p>标签: AI Scientist, AI 新材料, 鼎犀智创（Rhinovate™）</p>]]></description>
-      <category>AI Scientist</category>
-      <category>AI 新材料</category>
-      <category>鼎犀智创（Rhinovate™）</category>
     </item>
   </channel>
 </rss>
