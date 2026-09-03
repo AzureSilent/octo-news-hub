@@ -4,8 +4,45 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 03 Sep 2026 06:36:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:18:24 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理]]></title>
+      <link>https://www.jiqizhixin.com/articles/c4ac5a05-355b-4c52-8ac4-4f900f461b75</link>
+      <guid>c4ac5a05-355b-4c52-8ac4-4f900f461b75</guid>
+      <pubDate>Thu, 03 Sep 2026 12:17:54 +0000</pubDate>
+      <description><![CDATA[<p>机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理</p><p>标签: SmoothRL, 星尘智能（Astribot）</p>]]></description>
+      <category>SmoothRL</category>
+      <category>星尘智能（Astribot）</category>
+    </item>
+    <item>
+      <title><![CDATA[不炫技，只搬砖，拟25亿美元上市，Agility戳破人形机器人泡沫]]></title>
+      <link>https://www.jiqizhixin.com/articles/581c1c49-f4e1-430a-91ad-effc42d03d56</link>
+      <guid>581c1c49-f4e1-430a-91ad-effc42d03d56</guid>
+      <pubDate>Thu, 03 Sep 2026 12:17:54 +0000</pubDate>
+      <description><![CDATA[<p>不炫技，只搬砖，拟25亿美元上市，Agility戳破人形机器人泡沫</p><p>标签: AI for Science（AI4S）, DIGIT, Agility Robotics</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>DIGIT</category>
+      <category>Agility Robotics</category>
+    </item>
+    <item>
+      <title><![CDATA[从1000通到1.5万通，百融智能的「硅基客服」真正开始「上岗」]]></title>
+      <link>https://www.jiqizhixin.com/articles/53132976-8926-41ff-8a03-f92a9f5ee588</link>
+      <guid>53132976-8926-41ff-8a03-f92a9f5ee588</guid>
+      <pubDate>Thu, 03 Sep 2026 12:18:23 +0000</pubDate>
+      <description><![CDATA[<p>从1000通到1.5万通，百融智能的「硅基客服」真正开始「上岗」</p><p>标签: AICC（AI Contact Center）, 百融智能</p>]]></description>
+      <category>AICC（AI Contact Center）</category>
+      <category>百融智能</category>
+    </item>
+    <item>
+      <title><![CDATA[苹果新作：内化视觉思考，推理提速 5 倍]]></title>
+      <link>https://www.jiqizhixin.com/articles/247f757d-c536-40af-b96e-46fda0788bb6</link>
+      <guid>247f757d-c536-40af-b96e-46fda0788bb6</guid>
+      <pubDate>Thu, 03 Sep 2026 12:18:24 +0000</pubDate>
+      <description><![CDATA[<p>苹果新作：内化视觉思考，推理提速 5 倍</p><p>标签: Internalized Visual Thinking（IVT，内化视觉思考）, Apple</p>]]></description>
+      <category>Internalized Visual Thinking（IVT，内化视觉思考）</category>
+      <category>Apple</category>
+    </item>
     <item>
       <title><![CDATA[RSI离我们有多远？这家中国团队给出了第一梯队的工程解]]></title>
       <link>https://www.jiqizhixin.com/articles/84bbcbfe-bf2a-45b2-95bd-42c4fb2c1022</link>
@@ -81,43 +118,6 @@
       <category>2026 Inclusion・外滩大会</category>
       <category>具身大模型挑战赛</category>
       <category>蚂蚁灵波科技</category>
-    </item>
-    <item>
-      <title><![CDATA[OmAI联汇登顶Google DeepMind权威基准，以78.8%准确率刷新全球纪录]]></title>
-      <link>https://www.jiqizhixin.com/articles/783db6a3-44a2-4f3b-9514-9985bf89eabc</link>
-      <guid>783db6a3-44a2-4f3b-9514-9985bf89eabc</guid>
-      <pubDate>Wed, 02 Sep 2026 12:20:47 +0000</pubDate>
-      <description><![CDATA[<p>OmAI联汇登顶Google DeepMind权威基准，以78.8%准确率刷新全球纪录</p><p>标签: VLX-VR, 视频深度推理模型, OmAI联汇</p>]]></description>
-      <category>VLX-VR</category>
-      <category>视频深度推理模型</category>
-      <category>OmAI联汇</category>
-    </item>
-    <item>
-      <title><![CDATA[腾讯WorkBuddy开放平台上线：首批超百家伙伴入局 国内首个同时打通软硬件、开发者三层生态的Agent基座]]></title>
-      <link>https://www.jiqizhixin.com/articles/6eea5d5e-1916-482a-83b1-a5ad1316eb44</link>
-      <guid>6eea5d5e-1916-482a-83b1-a5ad1316eb44</guid>
-      <pubDate>Wed, 02 Sep 2026 12:20:47 +0000</pubDate>
-      <description><![CDATA[<p>腾讯WorkBuddy开放平台上线：首批超百家伙伴入局 国内首个同时打通软硬件、开发者三层生态的Agent基座</p><p>标签: WorkBuddy, 腾讯</p>]]></description>
-      <category>WorkBuddy</category>
-      <category>腾讯</category>
-    </item>
-    <item>
-      <title><![CDATA[SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来]]></title>
-      <link>https://www.jiqizhixin.com/articles/01a9ce46-93f0-4496-90d7-5fd5942e30be</link>
-      <guid>01a9ce46-93f0-4496-90d7-5fd5942e30be</guid>
-      <pubDate>Wed, 02 Sep 2026 12:21:17 +0000</pubDate>
-      <description><![CDATA[<p>SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来</p><p>标签: AI短剧, SkyProduction（天工工作台）</p>]]></description>
-      <category>AI短剧</category>
-      <category>SkyProduction（天工工作台）</category>
-    </item>
-    <item>
-      <title><![CDATA[豆包工作功能更新，支持多Agents并行、Mac操作电脑屏幕]]></title>
-      <link>https://www.jiqizhixin.com/articles/efec0e88-b336-4673-ad79-84af1fe4420a</link>
-      <guid>efec0e88-b336-4673-ad79-84af1fe4420a</guid>
-      <pubDate>Wed, 02 Sep 2026 12:21:17 +0000</pubDate>
-      <description><![CDATA[<p>豆包工作功能更新，支持多Agents并行、Mac操作电脑屏幕</p><p>标签: 豆包, 豆包工作</p>]]></description>
-      <category>豆包</category>
-      <category>豆包工作</category>
     </item>
   </channel>
 </rss>
