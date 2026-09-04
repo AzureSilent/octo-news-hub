@@ -4,8 +4,66 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 04 Sep 2026 01:33:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 06:38:41 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[GPT-6突破「素数间隔」纪录！这次是加入OpenAI的北大数院07级校友]]></title>
+      <link>https://www.jiqizhixin.com/articles/c776bf5b-d0a4-4937-a5ef-9ca8403ae138</link>
+      <guid>c776bf5b-d0a4-4937-a5ef-9ca8403ae138</guid>
+      <pubDate>Fri, 04 Sep 2026 06:37:13 +0000</pubDate>
+      <description><![CDATA[<p>GPT-6突破「素数间隔」纪录！这次是加入OpenAI的北大数院07级校友</p><p>标签: OpenAI, GPT-6 Astra</p>]]></description>
+      <category>OpenAI</category>
+      <category>GPT-6 Astra</category>
+    </item>
+    <item>
+      <title><![CDATA[T-RO综述重构Foundation Model时代机器人操作知识版图]]></title>
+      <link>https://www.jiqizhixin.com/articles/545fb5f3-6977-46c3-8415-2144b754f3fe</link>
+      <guid>545fb5f3-6977-46c3-8415-2144b754f3fe</guid>
+      <pubDate>Fri, 04 Sep 2026 06:37:13 +0000</pubDate>
+      <description><![CDATA[<p>T-RO综述重构Foundation Model时代机器人操作知识版图</p><p>标签: 机器人, Foundation Model, 西安交通大学</p>]]></description>
+      <category>机器人</category>
+      <category>Foundation Model</category>
+      <category>西安交通大学</category>
+    </item>
+    <item>
+      <title><![CDATA[谷歌发布WeatherNext3：每小时预报，5公里级别分辨率]]></title>
+      <link>https://www.jiqizhixin.com/articles/61c95e2f-f767-4f19-bd31-d510810eb5eb</link>
+      <guid>61c95e2f-f767-4f19-bd31-d510810eb5eb</guid>
+      <pubDate>Fri, 04 Sep 2026 06:37:40 +0000</pubDate>
+      <description><![CDATA[<p>谷歌发布WeatherNext3：每小时预报，5公里级别分辨率</p><p>标签: AI for Science（AI4S）, AI 天气模型, WeatherNext3, 谷歌</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>AI 天气模型</category>
+      <category>WeatherNext3</category>
+      <category>谷歌</category>
+    </item>
+    <item>
+      <title><![CDATA[拒绝视频生成，深度跃迁提出具身基座模型全新路线]]></title>
+      <link>https://www.jiqizhixin.com/articles/ee7e8907-883c-42ea-b8a6-376f33afe95d</link>
+      <guid>ee7e8907-883c-42ea-b8a6-376f33afe95d</guid>
+      <pubDate>Fri, 04 Sep 2026 06:37:41 +0000</pubDate>
+      <description><![CDATA[<p>拒绝视频生成，深度跃迁提出具身基座模型全新路线</p><p>标签: DELE-w0.5, 深度跃迁</p>]]></description>
+      <category>DELE-w0.5</category>
+      <category>深度跃迁</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，OpenAI GPT-6 Astra震撼发布！AGI时代来了]]></title>
+      <link>https://www.jiqizhixin.com/articles/b741bfd6-ee04-49ae-aa32-31b5959fbc9e</link>
+      <guid>b741bfd6-ee04-49ae-aa32-31b5959fbc9e</guid>
+      <pubDate>Fri, 04 Sep 2026 06:38:09 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，OpenAI GPT-6 Astra震撼发布！AGI时代来了</p><p>标签: GPT-6 Astra, OpenAI</p>]]></description>
+      <category>GPT-6 Astra</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[微软×UIUC：给每个学生造一个「数字分身」，AI教师终于有了陪练]]></title>
+      <link>https://www.jiqizhixin.com/articles/10195e66-6932-4f9e-8b6d-51b1f44a196a</link>
+      <guid>10195e66-6932-4f9e-8b6d-51b1f44a196a</guid>
+      <pubDate>Fri, 04 Sep 2026 06:38:37 +0000</pubDate>
+      <description><![CDATA[<p>微软×UIUC：给每个学生造一个「数字分身」，AI教师终于有了陪练</p><p>标签: StudentSim, UIUC, 微软</p>]]></description>
+      <category>StudentSim</category>
+      <category>UIUC</category>
+      <category>微软</category>
+    </item>
     <item>
       <title><![CDATA[机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理]]></title>
       <link>https://www.jiqizhixin.com/articles/c4ac5a05-355b-4c52-8ac4-4f900f461b75</link>
@@ -52,72 +110,6 @@
       <category>GEP（Gene Evolution Protocol）</category>
       <category>EvoX</category>
       <category>EvoMap</category>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI Astra被曝引入「循环深度」能力飙升！安全专家坐不住了]]></title>
-      <link>https://www.jiqizhixin.com/articles/7bcbc1cd-bfa0-4610-981d-c8e42eb7fb57</link>
-      <guid>7bcbc1cd-bfa0-4610-981d-c8e42eb7fb57</guid>
-      <pubDate>Thu, 03 Sep 2026 06:34:51 +0000</pubDate>
-      <description><![CDATA[<p>OpenAI Astra被曝引入「循环深度」能力飙升！安全专家坐不住了</p><p>标签: Astra, OpenAI</p>]]></description>
-      <category>Astra</category>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[全球首个通用决策大模型，AI推演现实世界的技术揭秘]]></title>
-      <link>https://www.jiqizhixin.com/articles/79fc2d9c-408b-4f1b-b85c-644363153e89</link>
-      <guid>79fc2d9c-408b-4f1b-b85c-644363153e89</guid>
-      <pubDate>Thu, 03 Sep 2026 06:35:37 +0000</pubDate>
-      <description><![CDATA[<p>全球首个通用决策大模型，AI推演现实世界的技术揭秘</p><p>标签: MetaWorld, 决策机 Decitron, 中科闻歌</p>]]></description>
-      <category>MetaWorld</category>
-      <category>决策机 Decitron</category>
-      <category>中科闻歌</category>
-    </item>
-    <item>
-      <title><![CDATA[答对了却没看图？EASE给多模态RLVR装上「视线校正器」]]></title>
-      <link>https://www.jiqizhixin.com/articles/3aec04f8-a2fa-4f25-9c68-655e68831c57</link>
-      <guid>3aec04f8-a2fa-4f25-9c68-655e68831c57</guid>
-      <pubDate>Thu, 03 Sep 2026 06:35:21 +0000</pubDate>
-      <description><![CDATA[<p>答对了却没看图？EASE给多模态RLVR装上「视线校正器」</p><p>标签: 哈尔滨工业大学, EASE（Evidence-Anchored Spatial Attention）, 中关村学院</p>]]></description>
-      <category>哈尔滨工业大学</category>
-      <category>EASE（Evidence-Anchored Spatial Attention）</category>
-      <category>中关村学院</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，谷歌Gemini 3.8登场！姚顺宇：RSI巨大飞跃]]></title>
-      <link>https://www.jiqizhixin.com/articles/26e9d222-7a26-4a02-b51a-baa9c52b4460</link>
-      <guid>26e9d222-7a26-4a02-b51a-baa9c52b4460</guid>
-      <pubDate>Thu, 03 Sep 2026 06:35:51 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，谷歌Gemini 3.8登场！姚顺宇：RSI巨大飞跃</p><p>标签: Gemini 3.8, 谷歌</p>]]></description>
-      <category>Gemini 3.8</category>
-      <category>谷歌</category>
-    </item>
-    <item>
-      <title><![CDATA[Facet-0：NTU王子为团队让机器人在精密装配中「看得懂、插得准、出错能恢复」]]></title>
-      <link>https://www.jiqizhixin.com/articles/353dbb1b-087d-459a-9b6e-4f62aad3b9a9</link>
-      <guid>353dbb1b-087d-459a-9b6e-4f62aad3b9a9</guid>
-      <pubDate>Thu, 03 Sep 2026 06:36:40 +0000</pubDate>
-      <description><![CDATA[<p>Facet-0：NTU王子为团队让机器人在精密装配中「看得懂、插得准、出错能恢复」</p><p>标签: Facet-0, 新加坡南洋理工大学</p>]]></description>
-      <category>Facet-0</category>
-      <category>新加坡南洋理工大学</category>
-    </item>
-    <item>
-      <title><![CDATA[4秒卖出一只的爆款鸭，中国制造，宇树都来推销电机，复刻比买贵？]]></title>
-      <link>https://www.jiqizhixin.com/articles/a3f424cf-904a-4dc8-82d8-cbef4aa66f35</link>
-      <guid>a3f424cf-904a-4dc8-82d8-cbef4aa66f35</guid>
-      <pubDate>Wed, 02 Sep 2026 12:20:17 +0000</pubDate>
-      <description><![CDATA[<p>4秒卖出一只的爆款鸭，中国制造，宇树都来推销电机，复刻比买贵？</p><p>标签: Microduck, Hugging Face</p>]]></description>
-      <category>Microduck</category>
-      <category>Hugging Face</category>
-    </item>
-    <item>
-      <title><![CDATA[从模型到真实世界：具身智能落地面临哪些关键问题？]]></title>
-      <link>https://www.jiqizhixin.com/articles/4fe8a7ca-9358-4ece-98af-beb3a9a2b573</link>
-      <guid>4fe8a7ca-9358-4ece-98af-beb3a9a2b573</guid>
-      <pubDate>Wed, 02 Sep 2026 12:20:17 +0000</pubDate>
-      <description><![CDATA[<p>从模型到真实世界：具身智能落地面临哪些关键问题？</p><p>标签: 2026 Inclusion・外滩大会, 具身大模型挑战赛, 蚂蚁灵波科技</p>]]></description>
-      <category>2026 Inclusion・外滩大会</category>
-      <category>具身大模型挑战赛</category>
-      <category>蚂蚁灵波科技</category>
     </item>
   </channel>
 </rss>
