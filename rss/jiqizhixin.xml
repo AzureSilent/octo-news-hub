@@ -4,8 +4,26 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 04 Sep 2026 06:38:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 12:19:28 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[AI卷到物理世界，小米迎来自己的主场？]]></title>
+      <link>https://www.jiqizhixin.com/articles/451390a8-efc3-45ca-a785-fca50e3c2bea</link>
+      <guid>451390a8-efc3-45ca-a785-fca50e3c2bea</guid>
+      <pubDate>Fri, 04 Sep 2026 12:18:57 +0000</pubDate>
+      <description><![CDATA[<p>AI卷到物理世界，小米迎来自己的主场？</p><p>标签: MiMo, 小米</p>]]></description>
+      <category>MiMo</category>
+      <category>小米</category>
+    </item>
+    <item>
+      <title><![CDATA[Meta全开源HumanCLAW：基础模型正进入具身智能的决策层]]></title>
+      <link>https://www.jiqizhixin.com/articles/c0466cfb-8c3d-4cfb-a616-9c98a6cd08de</link>
+      <guid>c0466cfb-8c3d-4cfb-a616-9c98a6cd08de</guid>
+      <pubDate>Fri, 04 Sep 2026 12:18:58 +0000</pubDate>
+      <description><![CDATA[<p>Meta全开源HumanCLAW：基础模型正进入具身智能的决策层</p><p>标签: HumanCLAW, Meta AI</p>]]></description>
+      <category>HumanCLAW</category>
+      <category>Meta AI</category>
+    </item>
     <item>
       <title><![CDATA[GPT-6突破「素数间隔」纪录！这次是加入OpenAI的北大数院07级校友]]></title>
       <link>https://www.jiqizhixin.com/articles/c776bf5b-d0a4-4937-a5ef-9ca8403ae138</link>
@@ -44,6 +62,15 @@
       <description><![CDATA[<p>拒绝视频生成，深度跃迁提出具身基座模型全新路线</p><p>标签: DELE-w0.5, 深度跃迁</p>]]></description>
       <category>DELE-w0.5</category>
       <category>深度跃迁</category>
+    </item>
+    <item>
+      <title><![CDATA[让代码接管世界演化，西湖大学发布Code视频世界模型]]></title>
+      <link>https://www.jiqizhixin.com/articles/317c9307-5a50-47e2-a4a7-bf232f30ee9e</link>
+      <guid>317c9307-5a50-47e2-a4a7-bf232f30ee9e</guid>
+      <pubDate>Fri, 04 Sep 2026 12:19:28 +0000</pubDate>
+      <description><![CDATA[<p>让代码接管世界演化，西湖大学发布Code视频世界模型</p><p>标签: Code World Model, 西湖大学</p>]]></description>
+      <category>Code World Model</category>
+      <category>西湖大学</category>
     </item>
     <item>
       <title><![CDATA[刚刚，OpenAI GPT-6 Astra震撼发布！AGI时代来了]]></title>
@@ -91,25 +118,6 @@
       <description><![CDATA[<p>从1000通到1.5万通，百融智能的「硅基客服」真正开始「上岗」</p><p>标签: AICC（AI Contact Center）, 百融智能</p>]]></description>
       <category>AICC（AI Contact Center）</category>
       <category>百融智能</category>
-    </item>
-    <item>
-      <title><![CDATA[苹果新作：内化视觉思考，推理提速 5 倍]]></title>
-      <link>https://www.jiqizhixin.com/articles/247f757d-c536-40af-b96e-46fda0788bb6</link>
-      <guid>247f757d-c536-40af-b96e-46fda0788bb6</guid>
-      <pubDate>Thu, 03 Sep 2026 12:18:24 +0000</pubDate>
-      <description><![CDATA[<p>苹果新作：内化视觉思考，推理提速 5 倍</p><p>标签: Internalized Visual Thinking（IVT，内化视觉思考）, Apple</p>]]></description>
-      <category>Internalized Visual Thinking（IVT，内化视觉思考）</category>
-      <category>Apple</category>
-    </item>
-    <item>
-      <title><![CDATA[RSI离我们有多远？这家中国团队给出了第一梯队的工程解]]></title>
-      <link>https://www.jiqizhixin.com/articles/84bbcbfe-bf2a-45b2-95bd-42c4fb2c1022</link>
-      <guid>84bbcbfe-bf2a-45b2-95bd-42c4fb2c1022</guid>
-      <pubDate>Thu, 03 Sep 2026 06:34:49 +0000</pubDate>
-      <description><![CDATA[<p>RSI离我们有多远？这家中国团队给出了第一梯队的工程解</p><p>标签: GEP（Gene Evolution Protocol）, EvoX, EvoMap</p>]]></description>
-      <category>GEP（Gene Evolution Protocol）</category>
-      <category>EvoX</category>
-      <category>EvoMap</category>
     </item>
   </channel>
 </rss>
