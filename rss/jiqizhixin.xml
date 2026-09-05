@@ -4,8 +4,74 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 05 Sep 2026 06:23:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 11:28:09 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[AI实现原子级自动化，逐原子创建定制功能的人造石墨烯]]></title>
+      <link>https://www.jiqizhixin.com/articles/82351eed-6432-4bc8-8118-6ad3ab763ad0</link>
+      <guid>82351eed-6432-4bc8-8118-6ad3ab763ad0</guid>
+      <pubDate>Sat, 05 Sep 2026 11:26:12 +0000</pubDate>
+      <description><![CDATA[<p>AI实现原子级自动化，逐原子创建定制功能的人造石墨烯</p><p>标签: CNMS, ACS Nano, AI for Science（AI4S）</p>]]></description>
+      <category>CNMS</category>
+      <category>ACS Nano</category>
+      <category>AI for Science（AI4S）</category>
+    </item>
+    <item>
+      <title><![CDATA[VLA开环盲区，终于被堵上了：40M Corrector让机器人边做边纠错]]></title>
+      <link>https://www.jiqizhixin.com/articles/44b6fa53-dff2-4b81-a971-21ee9f4b74ed</link>
+      <guid>44b6fa53-dff2-4b81-a971-21ee9f4b74ed</guid>
+      <pubDate>Sat, 05 Sep 2026 11:26:12 +0000</pubDate>
+      <description><![CDATA[<p>VLA开环盲区，终于被堵上了：40M Corrector让机器人边做边纠错</p><p>标签: VLA-Corrector, 浙江大学</p>]]></description>
+      <category>VLA-Corrector</category>
+      <category>浙江大学</category>
+    </item>
+    <item>
+      <title><![CDATA[Alaya Lab：为AGI构建下一代游戏工程]]></title>
+      <link>https://www.jiqizhixin.com/articles/099b70b6-501c-470d-857d-41056f34c303</link>
+      <guid>099b70b6-501c-470d-857d-41056f34c303</guid>
+      <pubDate>Sat, 05 Sep 2026 11:26:41 +0000</pubDate>
+      <description><![CDATA[<p>Alaya Lab：为AGI构建下一代游戏工程</p><p>标签: 游戏工程, Alaya Lab, Project Gear</p>]]></description>
+      <category>游戏工程</category>
+      <category>Alaya Lab</category>
+      <category>Project Gear</category>
+    </item>
+    <item>
+      <title><![CDATA[走两步，就忘了路｜UrbanGround：上交、NUS 等团队把大模型放进「真实三维香港」]]></title>
+      <link>https://www.jiqizhixin.com/articles/4b25b9d3-884e-47ee-af2e-7da08788dc7b</link>
+      <guid>4b25b9d3-884e-47ee-af2e-7da08788dc7b</guid>
+      <pubDate>Sat, 05 Sep 2026 11:26:43 +0000</pubDate>
+      <description><![CDATA[<p>走两步，就忘了路｜UrbanGround：上交、NUS 等团队把大模型放进「真实三维香港」</p><p>标签: 上海交通大学, UrbanGround</p>]]></description>
+      <category>上海交通大学</category>
+      <category>UrbanGround</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，GPT-6 Astra全面开放！额度刷新，快蹬起来]]></title>
+      <link>https://www.jiqizhixin.com/articles/c9857bc8-ce83-4423-aef7-2571e3e89257</link>
+      <guid>c9857bc8-ce83-4423-aef7-2571e3e89257</guid>
+      <pubDate>Sat, 05 Sep 2026 11:27:09 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，GPT-6 Astra全面开放！额度刷新，快蹬起来</p><p>标签: OpenAI, GPT-6 Astra, Sam Altman</p>]]></description>
+      <category>OpenAI</category>
+      <category>GPT-6 Astra</category>
+      <category>Sam Altman</category>
+    </item>
+    <item>
+      <title><![CDATA[AI开始「研究自己」：Mechanist开启机器智能机制科学]]></title>
+      <link>https://www.jiqizhixin.com/articles/ae422a9f-7c86-428e-bc90-cff19563de96</link>
+      <guid>ae422a9f-7c86-428e-bc90-cff19563de96</guid>
+      <pubDate>Sat, 05 Sep 2026 11:27:12 +0000</pubDate>
+      <description><![CDATA[<p>AI开始「研究自己」：Mechanist开启机器智能机制科学</p><p>标签: 机器智能, Mechanist</p>]]></description>
+      <category>机器智能</category>
+      <category>Mechanist</category>
+    </item>
+    <item>
+      <title><![CDATA[ECCV 2026｜突破伪目标天花板：ART重新定义高保真妆容迁移]]></title>
+      <link>https://www.jiqizhixin.com/articles/362fd967-fb95-4490-bfb2-b0c55a521a43</link>
+      <guid>362fd967-fb95-4490-bfb2-b0c55a521a43</guid>
+      <pubDate>Sat, 05 Sep 2026 11:27:41 +0000</pubDate>
+      <description><![CDATA[<p>ECCV 2026｜突破伪目标天花板：ART重新定义高保真妆容迁移</p><p>标签: 妆容迁移（makeup transfer）, ECCV 2026</p>]]></description>
+      <category>妆容迁移（makeup transfer）</category>
+      <category>ECCV 2026</category>
+    </item>
     <item>
       <title><![CDATA[AI卷到物理世界，小米迎来自己的主场？]]></title>
       <link>https://www.jiqizhixin.com/articles/451390a8-efc3-45ca-a785-fca50e3c2bea</link>
@@ -42,82 +108,6 @@
       <category>机器人</category>
       <category>Foundation Model</category>
       <category>西安交通大学</category>
-    </item>
-    <item>
-      <title><![CDATA[谷歌发布WeatherNext3：每小时预报，5公里级别分辨率]]></title>
-      <link>https://www.jiqizhixin.com/articles/61c95e2f-f767-4f19-bd31-d510810eb5eb</link>
-      <guid>61c95e2f-f767-4f19-bd31-d510810eb5eb</guid>
-      <pubDate>Fri, 04 Sep 2026 06:37:40 +0000</pubDate>
-      <description><![CDATA[<p>谷歌发布WeatherNext3：每小时预报，5公里级别分辨率</p><p>标签: AI for Science（AI4S）, AI 天气模型, WeatherNext3, 谷歌</p>]]></description>
-      <category>AI for Science（AI4S）</category>
-      <category>AI 天气模型</category>
-      <category>WeatherNext3</category>
-      <category>谷歌</category>
-    </item>
-    <item>
-      <title><![CDATA[拒绝视频生成，深度跃迁提出具身基座模型全新路线]]></title>
-      <link>https://www.jiqizhixin.com/articles/ee7e8907-883c-42ea-b8a6-376f33afe95d</link>
-      <guid>ee7e8907-883c-42ea-b8a6-376f33afe95d</guid>
-      <pubDate>Fri, 04 Sep 2026 06:37:41 +0000</pubDate>
-      <description><![CDATA[<p>拒绝视频生成，深度跃迁提出具身基座模型全新路线</p><p>标签: DELE-w0.5, 深度跃迁</p>]]></description>
-      <category>DELE-w0.5</category>
-      <category>深度跃迁</category>
-    </item>
-    <item>
-      <title><![CDATA[让代码接管世界演化，西湖大学发布Code视频世界模型]]></title>
-      <link>https://www.jiqizhixin.com/articles/317c9307-5a50-47e2-a4a7-bf232f30ee9e</link>
-      <guid>317c9307-5a50-47e2-a4a7-bf232f30ee9e</guid>
-      <pubDate>Fri, 04 Sep 2026 12:19:28 +0000</pubDate>
-      <description><![CDATA[<p>让代码接管世界演化，西湖大学发布Code视频世界模型</p><p>标签: Code World Model, 西湖大学</p>]]></description>
-      <category>Code World Model</category>
-      <category>西湖大学</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，OpenAI GPT-6 Astra震撼发布！AGI时代来了]]></title>
-      <link>https://www.jiqizhixin.com/articles/b741bfd6-ee04-49ae-aa32-31b5959fbc9e</link>
-      <guid>b741bfd6-ee04-49ae-aa32-31b5959fbc9e</guid>
-      <pubDate>Fri, 04 Sep 2026 06:38:09 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，OpenAI GPT-6 Astra震撼发布！AGI时代来了</p><p>标签: GPT-6 Astra, OpenAI</p>]]></description>
-      <category>GPT-6 Astra</category>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[微软×UIUC：给每个学生造一个「数字分身」，AI教师终于有了陪练]]></title>
-      <link>https://www.jiqizhixin.com/articles/10195e66-6932-4f9e-8b6d-51b1f44a196a</link>
-      <guid>10195e66-6932-4f9e-8b6d-51b1f44a196a</guid>
-      <pubDate>Fri, 04 Sep 2026 06:38:37 +0000</pubDate>
-      <description><![CDATA[<p>微软×UIUC：给每个学生造一个「数字分身」，AI教师终于有了陪练</p><p>标签: StudentSim, UIUC, 微软</p>]]></description>
-      <category>StudentSim</category>
-      <category>UIUC</category>
-      <category>微软</category>
-    </item>
-    <item>
-      <title><![CDATA[机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理]]></title>
-      <link>https://www.jiqizhixin.com/articles/c4ac5a05-355b-4c52-8ac4-4f900f461b75</link>
-      <guid>c4ac5a05-355b-4c52-8ac4-4f900f461b75</guid>
-      <pubDate>Thu, 03 Sep 2026 12:17:54 +0000</pubDate>
-      <description><![CDATA[<p>机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理</p><p>标签: SmoothRL, 星尘智能（Astribot）</p>]]></description>
-      <category>SmoothRL</category>
-      <category>星尘智能（Astribot）</category>
-    </item>
-    <item>
-      <title><![CDATA[不炫技，只搬砖，拟25亿美元上市，Agility戳破人形机器人泡沫]]></title>
-      <link>https://www.jiqizhixin.com/articles/581c1c49-f4e1-430a-91ad-effc42d03d56</link>
-      <guid>581c1c49-f4e1-430a-91ad-effc42d03d56</guid>
-      <pubDate>Thu, 03 Sep 2026 12:17:54 +0000</pubDate>
-      <description><![CDATA[<p>不炫技，只搬砖，拟25亿美元上市，Agility戳破人形机器人泡沫</p><p>标签: AI for Science（AI4S）, DIGIT, Agility Robotics</p>]]></description>
-      <category>AI for Science（AI4S）</category>
-      <category>DIGIT</category>
-      <category>Agility Robotics</category>
-    </item>
-    <item>
-      <title><![CDATA[从1000通到1.5万通，百融智能的「硅基客服」真正开始「上岗」]]></title>
-      <link>https://www.jiqizhixin.com/articles/53132976-8926-41ff-8a03-f92a9f5ee588</link>
-      <guid>53132976-8926-41ff-8a03-f92a9f5ee588</guid>
-      <pubDate>Thu, 03 Sep 2026 12:18:23 +0000</pubDate>
-      <description><![CDATA[<p>从1000通到1.5万通，百融智能的「硅基客服」真正开始「上岗」</p><p>标签: AICC（AI Contact Center）, 百融智能</p>]]></description>
-      <category>AICC（AI Contact Center）</category>
-      <category>百融智能</category>
     </item>
   </channel>
 </rss>
