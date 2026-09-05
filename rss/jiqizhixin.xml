@@ -4,7 +4,7 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 05 Sep 2026 11:28:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 14:04:31 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title><![CDATA[AI实现原子级自动化，逐原子创建定制功能的人造石墨烯]]></title>
@@ -62,6 +62,16 @@
       <description><![CDATA[<p>AI开始「研究自己」：Mechanist开启机器智能机制科学</p><p>标签: 机器智能, Mechanist</p>]]></description>
       <category>机器智能</category>
       <category>Mechanist</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，Claude完成费马大定理首个完整形式化证明]]></title>
+      <link>https://www.jiqizhixin.com/articles/9c42b847-a2aa-4bfc-bfed-25f9e9afded1</link>
+      <guid>9c42b847-a2aa-4bfc-bfed-25f9e9afded1</guid>
+      <pubDate>Sat, 05 Sep 2026 14:04:31 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，Claude完成费马大定理首个完整形式化证明</p><p>标签: 费马大定理, Claude, Anthropic</p>]]></description>
+      <category>费马大定理</category>
+      <category>Claude</category>
+      <category>Anthropic</category>
     </item>
     <item>
       <title><![CDATA[ECCV 2026｜突破伪目标天花板：ART重新定义高保真妆容迁移]]></title>
