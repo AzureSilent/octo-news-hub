@@ -4,8 +4,17 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 07 Sep 2026 13:45:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 18:27:20 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[全扩散架构、无需图文对预训练，LLaDA杀穿开源文生图]]></title>
+      <link>https://www.jiqizhixin.com/articles/7c3de41c-36b4-48ce-9c22-503c4a74eb2d</link>
+      <guid>7c3de41c-36b4-48ce-9c22-503c4a74eb2d</guid>
+      <pubDate>Mon, 07 Sep 2026 18:27:20 +0000</pubDate>
+      <description><![CDATA[<p>全扩散架构、无需图文对预训练，LLaDA杀穿开源文生图</p><p>标签: Inclusion AI, LLaDA-Image</p>]]></description>
+      <category>Inclusion AI</category>
+      <category>LLaDA-Image</category>
+    </item>
     <item>
       <title><![CDATA[超越CRISPR？基因调控新利器TIGRa：体积小、效率高，在体内发挥作用]]></title>
       <link>https://www.jiqizhixin.com/articles/a85a03e9-8552-4f8f-826f-3f51c046af62</link>
@@ -25,6 +34,16 @@
       <category>Agnes Video 2.5 Flash</category>
       <category>Agnes AI</category>
       <category>Pavo</category>
+    </item>
+    <item>
+      <title><![CDATA[颜水成团队重磅发布VoiceMem,提出「流式双脑架构」打造下一代实时交互基础设施]]></title>
+      <link>https://www.jiqizhixin.com/articles/843b8e10-69a4-49d3-8192-ade603cc2bfb</link>
+      <guid>843b8e10-69a4-49d3-8192-ade603cc2bfb</guid>
+      <pubDate>Mon, 07 Sep 2026 18:27:20 +0000</pubDate>
+      <description><![CDATA[<p>颜水成团队重磅发布VoiceMem,提出「流式双脑架构」打造下一代实时交互基础设施</p><p>标签: 颜水成, VoiceMem, AGI Being</p>]]></description>
+      <category>颜水成</category>
+      <category>VoiceMem</category>
+      <category>AGI Being</category>
     </item>
     <item>
       <title><![CDATA[机器人基础模型的「协作时代」来了！芝诺机器人发布全球首个协作具身智能基础模型]]></title>
@@ -100,15 +119,6 @@
       <description><![CDATA[<p>不会写代码的人，在B站造出了百万用户产品</p><p>标签: 新加坡国立大学, build in bilibili・AI 创造公开赛</p>]]></description>
       <category>新加坡国立大学</category>
       <category>build in bilibili・AI 创造公开赛</category>
-    </item>
-    <item>
-      <title><![CDATA[20%数据超GR00T N1.6、RoboDojo超WAM！StarVLA只用16卡训出全新VLA！]]></title>
-      <link>https://www.jiqizhixin.com/articles/7faf2c8d-5ec8-4bbe-b89f-0040b8e1bef7</link>
-      <guid>7faf2c8d-5ec8-4bbe-b89f-0040b8e1bef7</guid>
-      <pubDate>Sun, 06 Sep 2026 11:49:17 +0000</pubDate>
-      <description><![CDATA[<p>20%数据超GR00T N1.6、RoboDojo超WAM！StarVLA只用16卡训出全新VLA！</p><p>标签: VLAct, StarVLA</p>]]></description>
-      <category>VLAct</category>
-      <category>StarVLA</category>
     </item>
   </channel>
 </rss>
