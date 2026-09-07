@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>机器之心 - 2026年08月25日 文章列表</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f5f5f5;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 1.8em;
+            margin-bottom: 5px;
+            font-weight: 600;
+        }
+        
+        .header p {
+            font-size: 0.95em;
+            opacity: 0.9;
+        }
+        
+        .nav-links {
+            padding: 15px 30px;
+            background: #f9fafb;
+            border-bottom: 1px solid #e5e7eb;
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        .nav-link {
+            padding: 8px 16px;
+            background: white;
+            border: 1px solid #d1d5db;
+            border-radius: 6px;
+            text-decoration: none;
+            color: #374151;
+            transition: all 0.2s ease;
+        }
+        
+        .nav-link:hover {
+            background: #f3f4f6;
+            border-color: #9ca3af;
+        }
+        
+        .prev-link {
+            margin-right: auto;
+        }
+        
+        .next-link {
+            margin-left: auto;
+        }
+        
+        .content {
+            padding: 30px;
+        }
+        
+        .article {
+            border-bottom: 1px solid #e5e7eb;
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+        }
+        
+        .article:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+        }
+        
+        .article-header {
+            cursor: pointer;
+            padding: 10px 0;
+            transition: background 0.2s ease;
+        }
+        
+        .article-header:hover {
+            background: #f9fafb;
+            margin: 0 -10px;
+            padding: 10px;
+            border-radius: 6px;
+        }
+        
+        .article-title {
+            font-size: 1.2em;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #1f2937;
+        }
+        
+        .article-meta {
+            display: flex;
+            gap: 15px;
+            font-size: 0.9em;
+            color: #6b7280;
+            align-items: center;
+        }
+        
+        .article-time {
+            background: #e5e7eb;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-weight: 500;
+        }
+        
+        .article-link a {
+            color: #667eea;
+            text-decoration: none;
+        }
+        
+        .article-link a:hover {
+            text-decoration: underline;
+        }
+        
+        .article-content {
+            margin-top: 15px;
+            padding: 15px;
+            background: #f9fafb;
+            border-radius: 6px;
+            border-left: 3px solid #667eea;
+        }
+        
+        .article-summary {
+            margin-bottom: 15px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #e5e7eb;
+        }
+        
+        .article-full {
+            color: #374151;
+        }
+        
+        .article-full img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+        
+        .article-full p {
+            margin-bottom: 10px;
+        }
+        
+        .no-articles {
+            text-align: center;
+            padding: 60px 20px;
+            color: #6b7280;
+        }
+        
+        .footer {
+            background: #f9fafb;
+            padding: 20px;
+            text-align: center;
+            color: #6b7280;
+            border-top: 1px solid #e5e7eb;
+            font-size: 0.9em;
+        }
+        
+        .footer a {
+            color: #667eea;
+            text-decoration: none;
+        }
+        
+        .footer a:hover {
+            text-decoration: underline;
+        }
+        
+        @media (max-width: 768px) {
+            .content {
+                padding: 20px;
+            }
+            
+            .header {
+                padding: 20px;
+            }
+            
+            .article-title {
+                font-size: 1.1em;
+            }
+        }
+    </style>
+    <script>
+        function toggleArticle(id) {
+            var content = document.getElementById('content-' + id);
+            if (content.style.display === 'none') {
+                content.style.display = 'block';
+            } else {
+                content.style.display = 'none';
+            }
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>机器之心 - 2026年08月25日 文章列表</h1>
+            <p>专业的人工智能媒体和服务平台</p>
+        </div>
+        
+        <div class="nav-links">
+        <a href="2026-08-24.html" class="nav-link prev-link">← 2026-08-24</a>
+        <a href="2026-08-26.html" class="nav-link next-link">2026-08-26 →</a>
+      </div>
+
+        
+        <div class="content">
+            
+    <article class="article" id="article-0">
+      <div class="article-header" onclick="toggleArticle(0)">
+        <h2 class="article-title">12. 给优秀实习生期权！刚刚，一项面向AI顶级人才的「面壁计划」启动了</h2>
+        <div class="article-meta">
+          <span class="article-time">08-25 22:33</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/a4f1df86-8577-49f3-b896-a2337d39ab5b" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-0" style="display: none;">
+        <p>给优秀实习生期权！刚刚，一项面向AI顶级人才的「面壁计划」启动了</p><p>标签: 「前进四」顶尖人才计划, 面壁智能</p>
+      </div>
+    </article>
+    <article class="article" id="article-1">
+      <div class="article-header" onclick="toggleArticle(1)">
+        <h2 class="article-title">11. Ilya新模型要来了？投资人爆料：今年最重要的发布！</h2>
+        <div class="article-meta">
+          <span class="article-time">08-25 22:33</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/c6ffafa0-3756-4fa9-8676-6a568bc7526c" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-1" style="display: none;">
+        <p>Ilya新模型要来了？投资人爆料：今年最重要的发布！</p><p>标签: SSI, Ilya Sutskever</p>
+      </div>
+    </article>
+    <article class="article" id="article-2">
+      <div class="article-header" onclick="toggleArticle(2)">
+        <h2 class="article-title">10. 八年研究沉淀，原方智能试图让机器拥有关于世界的「信念」</h2>
+        <div class="article-meta">
+          <span class="article-time">08-25 18:19</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/d7b2f96f-1597-4518-b6ae-6102f34d448f" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-2" style="display: none;">
+        <p>八年研究沉淀，原方智能试图让机器拥有关于世界的「信念」</p><p>标签: 原方智能（Cirquar AI）, 具身智能</p>
+      </div>
+    </article>
+    <article class="article" id="article-3">
+      <div class="article-header" onclick="toggleArticle(3)">
+        <h2 class="article-title">9. V-RAE：把「看懂视频」的能力带入生成，重新思考视频模型的潜空间</h2>
+        <div class="article-meta">
+          <span class="article-time">08-25 18:19</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/4fa8b31f-a4de-46d2-9a9b-2a4c52245b77" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-3" style="display: none;">
+        <p>V-RAE：把「看懂视频」的能力带入生成，重新思考视频模型的潜空间</p><p>标签: V-RAE, 牛津大学, 新加坡国立大学</p>
+      </div>
+    </article>
+    <article class="article" id="article-4">
+      <div class="article-header" onclick="toggleArticle(4)">
+        <h2 class="article-title">8. 6个Claude Code神作，Anthropic亲选</h2>
+        <div class="article-meta">
+          <span class="article-time">08-25 14:23</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/43d19862-cf05-4f8c-9421-7e49910cdc57" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-4" style="display: none;">
+        <p>6个Claude Code神作，Anthropic亲选</p><p>标签: Anthropic, Claude</p>
+      </div>
+    </article>
+    <article class="article" id="article-5">
+      <div class="article-header" onclick="toggleArticle(5)">
+        <h2 class="article-title">7. 「重置之神」Tibo：Codex真的有一个「重置」按钮，实体的</h2>
+        <div class="article-meta">
+          <span class="article-time">08-25 14:22</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/28ecb2d9-dff3-4358-b367-6925d8160701" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-5" style="display: none;">
+        <p>「重置之神」Tibo：Codex真的有一个「重置」按钮，实体的</p><p>标签: OpenAI, Codex, Thibault Sottiaux</p>
+      </div>
+    </article>
+    <article class="article" id="article-6">
+      <div class="article-header" onclick="toggleArticle(6)">
+        <h2 class="article-title">6. 一句话变成量子实验：AI把论文直接送上量子计算机</h2>
+        <div class="article-meta">
+          <span class="article-time">08-25 14:22</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/f5f860e4-41a7-45e6-86b1-7bcc65e1e286" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-6" style="display: none;">
+        <p>一句话变成量子实验：AI把论文直接送上量子计算机</p><p>标签: AI for Science（AI4S）, 量子计算机, 量子计算</p>
+      </div>
+    </article>
+    <article class="article" id="article-7">
+      <div class="article-header" onclick="toggleArticle(7)">
+        <h2 class="article-title">5. 华师大智金院孵化金融原生基模Mint-Agent：超越GPT-5.6与Claude Opus 4.8，商业订单已超亿元</h2>
+        <div class="article-meta">
+          <span class="article-time">08-25 12:26</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/9727ea09-fc22-4462-b272-d9403a75fc87" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-7" style="display: none;">
+        <p>华师大智金院孵化金融原生基模Mint-Agent：超越GPT-5.6与Claude Opus 4.8，商业订单已超亿元</p><p>标签: Mint-Agent, Agentic Foundation Model</p>
+      </div>
+    </article>
+    <article class="article" id="article-8">
+      <div class="article-header" onclick="toggleArticle(8)">
+        <h2 class="article-title">4. 英伟达Vera Rubin首秀，DeepSeek V4 Pro 跑出30倍Agent吞吐</h2>
+        <div class="article-meta">
+          <span class="article-time">08-25 12:26</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/0cfcb80a-e504-4bd0-ade7-5e72e620d2a2" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-8" style="display: none;">
+        <p>英伟达Vera Rubin首秀，DeepSeek V4 Pro 跑出30倍Agent吞吐</p><p>标签: Vera Rubin, NVIDIA</p>
+      </div>
+    </article>
+    <article class="article" id="article-9">
+      <div class="article-header" onclick="toggleArticle(9)">
+        <h2 class="article-title">3. 豆包工作正式发布：让 AI 从生成内容到完成工作</h2>
+        <div class="article-meta">
+          <span class="article-time">08-25 10:49</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/8a0770e7-8102-46d9-9f1b-e620f8526bce" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-9" style="display: none;">
+        <p>豆包工作正式发布：让 AI 从生成内容到完成工作</p><p>标签: 豆包工作, 豆包</p>
+      </div>
+    </article>
+    <article class="article" id="article-10">
+      <div class="article-header" onclick="toggleArticle(10)">
+        <h2 class="article-title">2. 英伟达服务器涨价超15%！百亿AI基建的「内存难题」</h2>
+        <div class="article-meta">
+          <span class="article-time">08-25 00:00</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/209c2b16-8a66-4595-9de2-53dd79599691" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-10" style="display: none;">
+        <p>英伟达服务器涨价超15%！百亿AI基建的「内存难题」</p><p>标签: 黄仁勋, 英伟达</p>
+      </div>
+    </article>
+    <article class="article" id="article-11">
+      <div class="article-header" onclick="toggleArticle(11)">
+        <h2 class="article-title">1. 斯坦福教授直播训练535B大模型，模型训练背后的「黑箱」正在被打开？</h2>
+        <div class="article-meta">
+          <span class="article-time">08-25 00:00</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/e0142a29-1829-4c2c-a597-7bb75a49eb9e" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-11" style="display: none;">
+        <p>斯坦福教授直播训练535B大模型，模型训练背后的「黑箱」正在被打开？</p><p>标签: Marin 535B-A23B, 斯坦福大学</p>
+      </div>
+    </article>
+        </div>
+        
+        <div class="footer">
+            <p>生成时间: 2026-08-26 09:27:22</p>
+        </div>
+    </div>
+</body>
+</html>

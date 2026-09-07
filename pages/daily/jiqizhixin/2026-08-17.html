@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>机器之心 - 2026年08月17日 文章列表</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f5f5f5;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 1.8em;
+            margin-bottom: 5px;
+            font-weight: 600;
+        }
+        
+        .header p {
+            font-size: 0.95em;
+            opacity: 0.9;
+        }
+        
+        .nav-links {
+            padding: 15px 30px;
+            background: #f9fafb;
+            border-bottom: 1px solid #e5e7eb;
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        .nav-link {
+            padding: 8px 16px;
+            background: white;
+            border: 1px solid #d1d5db;
+            border-radius: 6px;
+            text-decoration: none;
+            color: #374151;
+            transition: all 0.2s ease;
+        }
+        
+        .nav-link:hover {
+            background: #f3f4f6;
+            border-color: #9ca3af;
+        }
+        
+        .prev-link {
+            margin-right: auto;
+        }
+        
+        .next-link {
+            margin-left: auto;
+        }
+        
+        .content {
+            padding: 30px;
+        }
+        
+        .article {
+            border-bottom: 1px solid #e5e7eb;
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+        }
+        
+        .article:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+        }
+        
+        .article-header {
+            cursor: pointer;
+            padding: 10px 0;
+            transition: background 0.2s ease;
+        }
+        
+        .article-header:hover {
+            background: #f9fafb;
+            margin: 0 -10px;
+            padding: 10px;
+            border-radius: 6px;
+        }
+        
+        .article-title {
+            font-size: 1.2em;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #1f2937;
+        }
+        
+        .article-meta {
+            display: flex;
+            gap: 15px;
+            font-size: 0.9em;
+            color: #6b7280;
+            align-items: center;
+        }
+        
+        .article-time {
+            background: #e5e7eb;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-weight: 500;
+        }
+        
+        .article-link a {
+            color: #667eea;
+            text-decoration: none;
+        }
+        
+        .article-link a:hover {
+            text-decoration: underline;
+        }
+        
+        .article-content {
+            margin-top: 15px;
+            padding: 15px;
+            background: #f9fafb;
+            border-radius: 6px;
+            border-left: 3px solid #667eea;
+        }
+        
+        .article-summary {
+            margin-bottom: 15px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #e5e7eb;
+        }
+        
+        .article-full {
+            color: #374151;
+        }
+        
+        .article-full img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+        
+        .article-full p {
+            margin-bottom: 10px;
+        }
+        
+        .no-articles {
+            text-align: center;
+            padding: 60px 20px;
+            color: #6b7280;
+        }
+        
+        .footer {
+            background: #f9fafb;
+            padding: 20px;
+            text-align: center;
+            color: #6b7280;
+            border-top: 1px solid #e5e7eb;
+            font-size: 0.9em;
+        }
+        
+        .footer a {
+            color: #667eea;
+            text-decoration: none;
+        }
+        
+        .footer a:hover {
+            text-decoration: underline;
+        }
+        
+        @media (max-width: 768px) {
+            .content {
+                padding: 20px;
+            }
+            
+            .header {
+                padding: 20px;
+            }
+            
+            .article-title {
+                font-size: 1.1em;
+            }
+        }
+    </style>
+    <script>
+        function toggleArticle(id) {
+            var content = document.getElementById('content-' + id);
+            if (content.style.display === 'none') {
+                content.style.display = 'block';
+            } else {
+                content.style.display = 'none';
+            }
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>机器之心 - 2026年08月17日 文章列表</h1>
+            <p>专业的人工智能媒体和服务平台</p>
+        </div>
+        
+        <div class="nav-links">
+        <a href="2026-08-16.html" class="nav-link prev-link">← 2026-08-16</a>
+        <a href="2026-08-18.html" class="nav-link next-link">2026-08-18 →</a>
+      </div>
+
+        
+        <div class="content">
+            
+    <article class="article" id="article-0">
+      <div class="article-header" onclick="toggleArticle(0)">
+        <h2 class="article-title">14. 全球首个跨本体、跨视角、多模态物理世界模型，CurrentWorld-0 来了！</h2>
+        <div class="article-meta">
+          <span class="article-time">08-17 20:17</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/14983fca-e17e-4472-ab8a-f30511c8cc99" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-0" style="display: none;">
+        <p>全球首个跨本体、跨视角、多模态物理世界模型，CurrentWorld-0 来了！</p><p>标签: Curr-0, CurrentWorld-0, Current Robotics</p>
+      </div>
+    </article>
+    <article class="article" id="article-1">
+      <div class="article-header" onclick="toggleArticle(1)">
+        <h2 class="article-title">13. 起猛了，机器人开上卡丁车了！</h2>
+        <div class="article-meta">
+          <span class="article-time">08-17 20:17</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/8a21e919-16ea-4c6d-af98-52ed09fef6b3" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-1" style="display: none;">
+        <p>起猛了，机器人开上卡丁车了！</p><p>标签: Direct Perception Control（DPC）, Symbiosis Robotics（共生知行）</p>
+      </div>
+    </article>
+    <article class="article" id="article-2">
+      <div class="article-header" onclick="toggleArticle(2)">
+        <h2 class="article-title">12. OpenAI有个神秘邮箱，多大点事都能惊动奥特曼</h2>
+        <div class="article-meta">
+          <span class="article-time">08-17 18:19</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/c167f796-6ec1-48ae-9f94-e62e40f8b934" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-2" style="display: none;">
+        <p>OpenAI有个神秘邮箱，多大点事都能惊动奥特曼</p><p>标签: 山姆・奥特曼, friction, OpenAI</p>
+      </div>
+    </article>
+    <article class="article" id="article-3">
+      <div class="article-header" onclick="toggleArticle(3)">
+        <h2 class="article-title">11. 豆包“工作任务”升级，支持手机远程操控电脑</h2>
+        <div class="article-meta">
+          <span class="article-time">08-17 18:19</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/caf9850d-4afd-404a-8060-e7d25bf268a5" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-3" style="display: none;">
+        <p>豆包“工作任务”升级，支持手机远程操控电脑</p><p>标签: 豆包</p>
+      </div>
+    </article>
+    <article class="article" id="article-4">
+      <div class="article-header" onclick="toggleArticle(4)">
+        <h2 class="article-title">10. ICML 2026 | DNA大模型不止于LLM，湖南大学OpticalDNA开启视觉理解新范式</h2>
+        <div class="article-meta">
+          <span class="article-time">08-17 16:28</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/81a6fa5b-4290-4322-8aff-4ffa9e4f00ce" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-4" style="display: none;">
+        <p>ICML 2026 | DNA大模型不止于LLM，湖南大学OpticalDNA开启视觉理解新范式</p><p>标签: AI for Science（AI4S）, OpticalDNA, 湖南大学, ICML 2026</p>
+      </div>
+    </article>
+    <article class="article" id="article-5">
+      <div class="article-header" onclick="toggleArticle(5)">
+        <h2 class="article-title">9. Seedance 2.5 正式支持 1080P，API 同步开放</h2>
+        <div class="article-meta">
+          <span class="article-time">08-17 16:28</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/78baf3f7-bde4-4676-a5e3-da66a33575e1" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-5" style="display: none;">
+        <p>Seedance 2.5 正式支持 1080P，API 同步开放</p><p>标签: Seedance 2.5, 火山引擎</p>
+      </div>
+    </article>
+    <article class="article" id="article-6">
+      <div class="article-header" onclick="toggleArticle(6)">
+        <h2 class="article-title">8. 千问办公开源MyContext，为Agent打造全新的上下文基础设施</h2>
+        <div class="article-meta">
+          <span class="article-time">08-17 14:27</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/8f3ba5e8-2e23-4d07-895a-d32e15c39df8" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-6" style="display: none;">
+        <p>千问办公开源MyContext，为Agent打造全新的上下文基础设施</p><p>标签: MyContext, 千问办公</p>
+      </div>
+    </article>
+    <article class="article" id="article-7">
+      <div class="article-header" onclick="toggleArticle(7)">
+        <h2 class="article-title">7. OpenAI失去了「CUDA内核之神」</h2>
+        <div class="article-meta">
+          <span class="article-time">08-17 14:27</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/0e594add-2be7-4a26-946c-5e55baefe785" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-7" style="display: none;">
+        <p>OpenAI失去了「CUDA内核之神」</p><p>标签: OpenAI, Scott Gray</p>
+      </div>
+    </article>
+    <article class="article" id="article-8">
+      <div class="article-header" onclick="toggleArticle(8)">
+        <h2 class="article-title">6. RoboScience机器科学发布轮式仿人形机器人REX G1，打造新一代具身生产力伙伴</h2>
+        <div class="article-meta">
+          <span class="article-time">08-17 14:26</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/74df60e9-e73f-4e01-8ee6-f2183a830489" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-8" style="display: none;">
+        <p>RoboScience机器科学发布轮式仿人形机器人REX G1，打造新一代具身生产力伙伴</p><p>标签: REX G1, RoboScience机器科学</p>
+      </div>
+    </article>
+    <article class="article" id="article-9">
+      <div class="article-header" onclick="toggleArticle(9)">
+        <h2 class="article-title">5. 华为携手浙大二院发布三大联创成果，共探智慧医疗AI落地新实践</h2>
+        <div class="article-meta">
+          <span class="article-time">08-17 12:29</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/65850d29-9765-4f45-accc-267bc1045c25" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-9" style="display: none;">
+        <p>华为携手浙大二院发布三大联创成果，共探智慧医疗AI落地新实践</p><p>标签: 智慧医疗, 华为</p>
+      </div>
+    </article>
+    <article class="article" id="article-10">
+      <div class="article-header" onclick="toggleArticle(10)">
+        <h2 class="article-title">4. ECCV 2026 | 智能助手何时该主动开口？Vinci2让第一视角AI助手从「有问必答」走向「主动服务」</h2>
+        <div class="article-meta">
+          <span class="article-time">08-17 10:50</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/46917c26-8d62-4e3d-9188-354b7f68af8c" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-10" style="display: none;">
+        <p>ECCV 2026 | 智能助手何时该主动开口？Vinci2让第一视角AI助手从「有问必答」走向「主动服务」</p><p>标签: 大连理工大学, Vinci2, ECCV 2026</p>
+      </div>
+    </article>
+    <article class="article" id="article-11">
+      <div class="article-header" onclick="toggleArticle(11)">
+        <h2 class="article-title">3. Claude水印已被破解，斩获11k Star！但会被拒绝安装</h2>
+        <div class="article-meta">
+          <span class="article-time">08-17 10:50</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/9c1983e9-6ebd-43c7-aa5d-52dee60f7e57" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-11" style="display: none;">
+        <p>Claude水印已被破解，斩获11k Star！但会被拒绝安装</p><p>标签: watermarks-remover, AI 水印, Anthropic</p>
+      </div>
+    </article>
+    <article class="article" id="article-12">
+      <div class="article-header" onclick="toggleArticle(12)">
+        <h2 class="article-title">2. 刚刚，HiDream-O1-World首秀登顶，原生全模态UiT架构打造「可交互时代」</h2>
+        <div class="article-meta">
+          <span class="article-time">08-17 10:50</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/2e8c01a5-9cd1-405d-add2-bc2db1563ef1" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-12" style="display: none;">
+        <p>刚刚，HiDream-O1-World首秀登顶，原生全模态UiT架构打造「可交互时代」</p><p>标签: 智象未来 HiDream.ai, HiDream-O1-World</p>
+      </div>
+    </article>
+    <article class="article" id="article-13">
+      <div class="article-header" onclick="toggleArticle(13)">
+        <h2 class="article-title">1. 北大联合阶跃星辰提出TensorCast：统一可编程管理大模型张量，推理「首字延迟」最高降低93.2%</h2>
+        <div class="article-meta">
+          <span class="article-time">08-17 10:50</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/a4a1ee8a-569b-4923-b52c-78a6e76829e8" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-13" style="display: none;">
+        <p>北大联合阶跃星辰提出TensorCast：统一可编程管理大模型张量，推理「首字延迟」最高降低93.2%</p><p>标签: TensorCast, 阶跃星辰, 北京大学</p>
+      </div>
+    </article>
+        </div>
+        
+        <div class="footer">
+            <p>生成时间: 2026-08-18 09:22:01</p>
+        </div>
+    </div>
+</body>
+</html>

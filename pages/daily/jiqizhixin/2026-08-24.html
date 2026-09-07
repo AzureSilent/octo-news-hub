@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>机器之心 - 2026年08月24日 文章列表</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f5f5f5;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 1.8em;
+            margin-bottom: 5px;
+            font-weight: 600;
+        }
+        
+        .header p {
+            font-size: 0.95em;
+            opacity: 0.9;
+        }
+        
+        .nav-links {
+            padding: 15px 30px;
+            background: #f9fafb;
+            border-bottom: 1px solid #e5e7eb;
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        .nav-link {
+            padding: 8px 16px;
+            background: white;
+            border: 1px solid #d1d5db;
+            border-radius: 6px;
+            text-decoration: none;
+            color: #374151;
+            transition: all 0.2s ease;
+        }
+        
+        .nav-link:hover {
+            background: #f3f4f6;
+            border-color: #9ca3af;
+        }
+        
+        .prev-link {
+            margin-right: auto;
+        }
+        
+        .next-link {
+            margin-left: auto;
+        }
+        
+        .content {
+            padding: 30px;
+        }
+        
+        .article {
+            border-bottom: 1px solid #e5e7eb;
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+        }
+        
+        .article:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+        }
+        
+        .article-header {
+            cursor: pointer;
+            padding: 10px 0;
+            transition: background 0.2s ease;
+        }
+        
+        .article-header:hover {
+            background: #f9fafb;
+            margin: 0 -10px;
+            padding: 10px;
+            border-radius: 6px;
+        }
+        
+        .article-title {
+            font-size: 1.2em;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #1f2937;
+        }
+        
+        .article-meta {
+            display: flex;
+            gap: 15px;
+            font-size: 0.9em;
+            color: #6b7280;
+            align-items: center;
+        }
+        
+        .article-time {
+            background: #e5e7eb;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-weight: 500;
+        }
+        
+        .article-link a {
+            color: #667eea;
+            text-decoration: none;
+        }
+        
+        .article-link a:hover {
+            text-decoration: underline;
+        }
+        
+        .article-content {
+            margin-top: 15px;
+            padding: 15px;
+            background: #f9fafb;
+            border-radius: 6px;
+            border-left: 3px solid #667eea;
+        }
+        
+        .article-summary {
+            margin-bottom: 15px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #e5e7eb;
+        }
+        
+        .article-full {
+            color: #374151;
+        }
+        
+        .article-full img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+        
+        .article-full p {
+            margin-bottom: 10px;
+        }
+        
+        .no-articles {
+            text-align: center;
+            padding: 60px 20px;
+            color: #6b7280;
+        }
+        
+        .footer {
+            background: #f9fafb;
+            padding: 20px;
+            text-align: center;
+            color: #6b7280;
+            border-top: 1px solid #e5e7eb;
+            font-size: 0.9em;
+        }
+        
+        .footer a {
+            color: #667eea;
+            text-decoration: none;
+        }
+        
+        .footer a:hover {
+            text-decoration: underline;
+        }
+        
+        @media (max-width: 768px) {
+            .content {
+                padding: 20px;
+            }
+            
+            .header {
+                padding: 20px;
+            }
+            
+            .article-title {
+                font-size: 1.1em;
+            }
+        }
+    </style>
+    <script>
+        function toggleArticle(id) {
+            var content = document.getElementById('content-' + id);
+            if (content.style.display === 'none') {
+                content.style.display = 'block';
+            } else {
+                content.style.display = 'none';
+            }
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>机器之心 - 2026年08月24日 文章列表</h1>
+            <p>专业的人工智能媒体和服务平台</p>
+        </div>
+        
+        <div class="nav-links">
+        <a href="2026-08-23.html" class="nav-link prev-link">← 2026-08-23</a>
+        <a href="2026-08-25.html" class="nav-link next-link">2026-08-25 →</a>
+      </div>
+
+        
+        <div class="content">
+            
+    <article class="article" id="article-0">
+      <div class="article-header" onclick="toggleArticle(0)">
+        <h2 class="article-title">14. ClinFusion：视觉为核的医疗多模态大模型，与临床对齐的评测新范式</h2>
+        <div class="article-meta">
+          <span class="article-time">08-24 20:20</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/da240b89-7a28-4477-98e4-73f75d34c4cd" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-0" style="display: none;">
+        <p>ClinFusion：视觉为核的医疗多模态大模型，与临床对齐的评测新范式</p><p>标签: AI for Science（AI4S）, ClinFusion, 阿里巴巴达摩院</p>
+      </div>
+    </article>
+    <article class="article" id="article-1">
+      <div class="article-header" onclick="toggleArticle(1)">
+        <h2 class="article-title">13. 小米新一代玄戒芯片，一发就是三款，从手机迈向全场景AI</h2>
+        <div class="article-meta">
+          <span class="article-time">08-24 20:20</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/93b0e93c-be7e-4bf0-8fc2-efd399c0822a" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-1" style="display: none;">
+        <p>小米新一代玄戒芯片，一发就是三款，从手机迈向全场景AI</p><p>标签: 大语言模型, AI 芯片技术, 小米</p>
+      </div>
+    </article>
+    <article class="article" id="article-2">
+      <div class="article-header" onclick="toggleArticle(2)">
+        <h2 class="article-title">12. 把事实核查嵌入诊疗流程：MedGuard给「诊疗安全」当守门人</h2>
+        <div class="article-meta">
+          <span class="article-time">08-24 18:26</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/ab56f81c-2f68-425e-a2fc-6dd9604495b9" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-2" style="display: none;">
+        <p>把事实核查嵌入诊疗流程：MedGuard给「诊疗安全」当守门人</p><p>标签: MedGuard, 厦门大学, 蚂蚁集团</p>
+      </div>
+    </article>
+    <article class="article" id="article-3">
+      <div class="article-header" onclick="toggleArticle(3)">
+        <h2 class="article-title">11. 一个大脑，多种本体：江行智能详解物理AI工业落地的系统解法</h2>
+        <div class="article-meta">
+          <span class="article-time">08-24 18:26</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/9d6e453a-facb-4d80-aba2-f6342d0e0cb6" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-3" style="display: none;">
+        <p>一个大脑，多种本体：江行智能详解物理AI工业落地的系统解法</p><p>标签: 2026世界机器人大会（WRC 2026）, 江行智能</p>
+      </div>
+    </article>
+    <article class="article" id="article-4">
+      <div class="article-header" onclick="toggleArticle(4)">
+        <h2 class="article-title">10. 都在问世界模型怎么落地，PixVerse把答案做成了「好玩」</h2>
+        <div class="article-meta">
+          <span class="article-time">08-24 18:25</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/645f6cda-8af9-4690-8e4b-961bef650caa" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-4" style="display: none;">
+        <p>都在问世界模型怎么落地，PixVerse把答案做成了「好玩」</p><p>标签: PixVerse R2, Omni Causal AR, PixVerse（爱诗科技）</p>
+      </div>
+    </article>
+    <article class="article" id="article-5">
+      <div class="article-header" onclick="toggleArticle(5)">
+        <h2 class="article-title">9. WRC 2026｜生数科技发布最新研究成果，提出通用世界模型五级发展路线</h2>
+        <div class="article-meta">
+          <span class="article-time">08-24 18:25</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/6aaadf59-2556-43a6-8e67-7a2a7e63b789" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-5" style="display: none;">
+        <p>WRC 2026｜生数科技发布最新研究成果，提出通用世界模型五级发展路线</p><p>标签: 朱军, 2026世界机器人大会（WRC 2026）</p>
+      </div>
+    </article>
+    <article class="article" id="article-6">
+      <div class="article-header" onclick="toggleArticle(6)">
+        <h2 class="article-title">8. 刚刚，清华黄高、北大刘譞哲等入选2026科学探索奖</h2>
+        <div class="article-meta">
+          <span class="article-time">08-24 16:33</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/e5e0f04e-7989-4da9-a192-8c939e5ed3b5" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-6" style="display: none;">
+        <p>刚刚，清华黄高、北大刘譞哲等入选2026科学探索奖</p><p>标签: 刘譞哲, 黄高, 科学探索奖</p>
+      </div>
+    </article>
+    <article class="article" id="article-7">
+      <div class="article-header" onclick="toggleArticle(7)">
+        <h2 class="article-title">7. 蚂蚁阿福获IDC AI大奖：OceanBase 数据沙箱让AI应用研发从天级进入分钟级</h2>
+        <div class="article-meta">
+          <span class="article-time">08-24 16:33</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/9a192e23-5da4-4154-8f22-8d3c242b0f8f" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-7" style="display: none;">
+        <p>蚂蚁阿福获IDC AI大奖：OceanBase 数据沙箱让AI应用研发从天级进入分钟级</p><p>标签: OceanBase, 蚂蚁阿福</p>
+      </div>
+    </article>
+    <article class="article" id="article-8">
+      <div class="article-header" onclick="toggleArticle(8)">
+        <h2 class="article-title">6. 登上Science Robotics顶刊！清华团队耗时22年，终于教会机器人踢足球</h2>
+        <div class="article-meta">
+          <span class="article-time">08-24 14:31</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/7c78ea57-c4bc-4f6d-8d0d-4f48a8a6c2e7" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-8" style="display: none;">
+        <p>登上Science Robotics顶刊！清华团队耗时22年，终于教会机器人踢足球</p><p>标签: 人形机器人, 清华大学, Science Robotics</p>
+      </div>
+    </article>
+    <article class="article" id="article-9">
+      <div class="article-header" onclick="toggleArticle(9)">
+        <h2 class="article-title">5. 阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤</h2>
+        <div class="article-meta">
+          <span class="article-time">08-24 14:31</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/23cf63e1-26b8-4acd-895b-a5bb147eff63" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-9" style="display: none;">
+        <p>阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤</p><p>标签: 医疗AI, 肝癌诊断AI模型, DAMO LiON, 阿里巴巴达摩院</p>
+      </div>
+    </article>
+    <article class="article" id="article-10">
+      <div class="article-header" onclick="toggleArticle(10)">
+        <h2 class="article-title">4. 阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”</h2>
+        <div class="article-meta">
+          <span class="article-time">08-24 12:33</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/8973e67d-3ad4-4e30-bf4e-bdd87f321e03" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-10" style="display: none;">
+        <p>阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”</p><p>标签: Wan3.0, 视频生成大模型, 阿里巴巴</p>
+      </div>
+    </article>
+    <article class="article" id="article-11">
+      <div class="article-header" onclick="toggleArticle(11)">
+        <h2 class="article-title">3. 视频世界模型困在像素网格里：腾讯开源SCoPE，用射线空间重写位置关系</h2>
+        <div class="article-meta">
+          <span class="article-time">08-24 10:54</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/55002590-1485-44a5-a09b-bf5ac2af59de" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-11" style="display: none;">
+        <p>视频世界模型困在像素网格里：腾讯开源SCoPE，用射线空间重写位置关系</p><p>标签: SCoPE（Sightline-Coordinate Positional Encoding）, 香港科技大学, 香港大学</p>
+      </div>
+    </article>
+    <article class="article" id="article-12">
+      <div class="article-header" onclick="toggleArticle(12)">
+        <h2 class="article-title">2. 刚刚，Claude两个新模型曝光！</h2>
+        <div class="article-meta">
+          <span class="article-time">08-24 10:53</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/8db9d636-47f4-4c55-a63d-6ca04adbc97a" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-12" style="display: none;">
+        <p>刚刚，Claude两个新模型曝光！</p><p>标签: Claude, Anthropic</p>
+      </div>
+    </article>
+    <article class="article" id="article-13">
+      <div class="article-header" onclick="toggleArticle(13)">
+        <h2 class="article-title">1. Claude加速蛋白设计与化学分析，让AI连接文献、计算、设计与实验</h2>
+        <div class="article-meta">
+          <span class="article-time">08-24 10:53</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/39fa36da-7204-4fcf-8995-f21ae52820b9" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-13" style="display: none;">
+        <p>Claude加速蛋白设计与化学分析，让AI连接文献、计算、设计与实验</p><p>标签: AI for Science（AI4S）, Minibinder, Anthropic</p>
+      </div>
+    </article>
+        </div>
+        
+        <div class="footer">
+            <p>生成时间: 2026-08-25 09:23:50</p>
+        </div>
+    </div>
+</body>
+</html>

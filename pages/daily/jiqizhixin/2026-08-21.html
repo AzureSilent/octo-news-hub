@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>机器之心 - 2026年08月21日 文章列表</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f5f5f5;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 1.8em;
+            margin-bottom: 5px;
+            font-weight: 600;
+        }
+        
+        .header p {
+            font-size: 0.95em;
+            opacity: 0.9;
+        }
+        
+        .nav-links {
+            padding: 15px 30px;
+            background: #f9fafb;
+            border-bottom: 1px solid #e5e7eb;
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        .nav-link {
+            padding: 8px 16px;
+            background: white;
+            border: 1px solid #d1d5db;
+            border-radius: 6px;
+            text-decoration: none;
+            color: #374151;
+            transition: all 0.2s ease;
+        }
+        
+        .nav-link:hover {
+            background: #f3f4f6;
+            border-color: #9ca3af;
+        }
+        
+        .prev-link {
+            margin-right: auto;
+        }
+        
+        .next-link {
+            margin-left: auto;
+        }
+        
+        .content {
+            padding: 30px;
+        }
+        
+        .article {
+            border-bottom: 1px solid #e5e7eb;
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+        }
+        
+        .article:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+        }
+        
+        .article-header {
+            cursor: pointer;
+            padding: 10px 0;
+            transition: background 0.2s ease;
+        }
+        
+        .article-header:hover {
+            background: #f9fafb;
+            margin: 0 -10px;
+            padding: 10px;
+            border-radius: 6px;
+        }
+        
+        .article-title {
+            font-size: 1.2em;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #1f2937;
+        }
+        
+        .article-meta {
+            display: flex;
+            gap: 15px;
+            font-size: 0.9em;
+            color: #6b7280;
+            align-items: center;
+        }
+        
+        .article-time {
+            background: #e5e7eb;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-weight: 500;
+        }
+        
+        .article-link a {
+            color: #667eea;
+            text-decoration: none;
+        }
+        
+        .article-link a:hover {
+            text-decoration: underline;
+        }
+        
+        .article-content {
+            margin-top: 15px;
+            padding: 15px;
+            background: #f9fafb;
+            border-radius: 6px;
+            border-left: 3px solid #667eea;
+        }
+        
+        .article-summary {
+            margin-bottom: 15px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #e5e7eb;
+        }
+        
+        .article-full {
+            color: #374151;
+        }
+        
+        .article-full img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+        
+        .article-full p {
+            margin-bottom: 10px;
+        }
+        
+        .no-articles {
+            text-align: center;
+            padding: 60px 20px;
+            color: #6b7280;
+        }
+        
+        .footer {
+            background: #f9fafb;
+            padding: 20px;
+            text-align: center;
+            color: #6b7280;
+            border-top: 1px solid #e5e7eb;
+            font-size: 0.9em;
+        }
+        
+        .footer a {
+            color: #667eea;
+            text-decoration: none;
+        }
+        
+        .footer a:hover {
+            text-decoration: underline;
+        }
+        
+        @media (max-width: 768px) {
+            .content {
+                padding: 20px;
+            }
+            
+            .header {
+                padding: 20px;
+            }
+            
+            .article-title {
+                font-size: 1.1em;
+            }
+        }
+    </style>
+    <script>
+        function toggleArticle(id) {
+            var content = document.getElementById('content-' + id);
+            if (content.style.display === 'none') {
+                content.style.display = 'block';
+            } else {
+                content.style.display = 'none';
+            }
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>机器之心 - 2026年08月21日 文章列表</h1>
+            <p>专业的人工智能媒体和服务平台</p>
+        </div>
+        
+        <div class="nav-links">
+        <a href="2026-08-20.html" class="nav-link prev-link">← 2026-08-20</a>
+        <a href="2026-08-22.html" class="nav-link next-link">2026-08-22 →</a>
+      </div>
+
+        
+        <div class="content">
+            
+    <article class="article" id="article-0">
+      <div class="article-header" onclick="toggleArticle(0)">
+        <h2 class="article-title">12. 极佳视界发布GigaBrain-0.7，开源第一！颠覆性首创System-3+双塔体系</h2>
+        <div class="article-meta">
+          <span class="article-time">08-21 22:22</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/93669ca7-082a-4b4f-b12b-10fe83407001" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-0" style="display: none;">
+        <p>极佳视界发布GigaBrain-0.7，开源第一！颠覆性首创System-3+双塔体系</p><p>标签: GigaBrain-0.7, 极佳视界（GigaAI）, 2026世界机器人大会（WRC 2026）</p>
+      </div>
+    </article>
+    <article class="article" id="article-1">
+      <div class="article-header" onclick="toggleArticle(1)">
+        <h2 class="article-title">11. 刚刚，DeepSeek多模态模型上线！</h2>
+        <div class="article-meta">
+          <span class="article-time">08-21 22:22</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/598dc835-02ba-4dd0-abc2-7d90164410a5" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-1" style="display: none;">
+        <p>刚刚，DeepSeek多模态模型上线！</p><p>标签: 多模态模型, DeepSeek</p>
+      </div>
+    </article>
+    <article class="article" id="article-2">
+      <div class="article-header" onclick="toggleArticle(2)">
+        <h2 class="article-title">10. 浙江人形 NAVIAI 亮相 2026 世界机器人大会，落地多品类精准操作能力</h2>
+        <div class="article-meta">
+          <span class="article-time">08-21 18:17</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/2b36669e-56b0-4a81-b8de-cc9c85120b83" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-2" style="display: none;">
+        <p>浙江人形 NAVIAI 亮相 2026 世界机器人大会，落地多品类精准操作能力</p><p>标签: 浙江人形, 2026世界机器人大会（WRC）</p>
+      </div>
+    </article>
+    <article class="article" id="article-3">
+      <div class="article-header" onclick="toggleArticle(3)">
+        <h2 class="article-title">9. 全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会，超维动力KAI全栈具身智能硬核登场</h2>
+        <div class="article-meta">
+          <span class="article-time">08-21 16:23</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/a38b319d-c95d-4e9c-9453-05adcd2534f4" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-3" style="display: none;">
+        <p>全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会，超维动力KAI全栈具身智能硬核登场</p><p>标签: 超维动力, 2026世界机器人大会（WRC 2026）</p>
+      </div>
+    </article>
+    <article class="article" id="article-4">
+      <div class="article-header" onclick="toggleArticle(4)">
+        <h2 class="article-title">8. 刚刚，豆包成了机器之心编辑部「实习生」</h2>
+        <div class="article-meta">
+          <span class="article-time">08-21 12:27</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/8f4f3a3b-c91c-4ee5-b0f4-a3363c8321b8" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-4" style="display: none;">
+        <p>刚刚，豆包成了机器之心编辑部「实习生」</p><p>标签: 工作伙伴・小队, 豆包桌面端, 豆包</p>
+      </div>
+    </article>
+    <article class="article" id="article-5">
+      <div class="article-header" onclick="toggleArticle(5)">
+        <h2 class="article-title">7. 明略科技携手海康机器人亮相世界机器人大会，以"Agent+具身"联合进入商业机器人场景</h2>
+        <div class="article-meta">
+          <span class="article-time">08-21 12:26</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/0738e91b-0fa2-45ca-be35-ff1167d2a07f" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-5" style="display: none;">
+        <p>明略科技携手海康机器人亮相世界机器人大会，以"Agent+具身"联合进入商业机器人场景</p><p>标签: 智能赛道, 明略科技, 2026世界机器人大会（WRC）</p>
+      </div>
+    </article>
+    <article class="article" id="article-6">
+      <div class="article-header" onclick="toggleArticle(6)">
+        <h2 class="article-title">6. 端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿</h2>
+        <div class="article-meta">
+          <span class="article-time">08-21 12:26</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/46e4c32f-b4ee-44e8-808c-948fd63f23e0" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-6" style="display: none;">
+        <p>端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿</p><p>标签: 研究论文生成系统, Spark-to-Paper</p>
+      </div>
+    </article>
+    <article class="article" id="article-7">
+      <div class="article-header" onclick="toggleArticle(7)">
+        <h2 class="article-title">5. 把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」</h2>
+        <div class="article-meta">
+          <span class="article-time">08-21 12:26</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/168feb18-fee7-49a8-9bf9-264934ea07b7" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-7" style="display: none;">
+        <p>把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」</p><p>标签: 玻尔・科学空间（公开测试版）, 深势科技</p>
+      </div>
+    </article>
+    <article class="article" id="article-8">
+      <div class="article-header" onclick="toggleArticle(8)">
+        <h2 class="article-title">4. WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑</h2>
+        <div class="article-meta">
+          <span class="article-time">08-21 12:26</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/7ae86121-3f22-4d5b-a3d9-bd517d426f50" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-8" style="display: none;">
+        <p>WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑</p><p>标签: MORPHI KINO, 2026世界机器人大会（WRC 2026）, 墨奇智能</p>
+      </div>
+    </article>
+    <article class="article" id="article-9">
+      <div class="article-header" onclick="toggleArticle(9)">
+        <h2 class="article-title">3. 会说24种语言、能「捏」出任意音色、还能随手改：小红书FireRedTTS3发布！</h2>
+        <div class="article-meta">
+          <span class="article-time">08-21 10:53</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/d16bca1e-a476-421a-af34-41405a54b6bb" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-9" style="display: none;">
+        <p>会说24种语言、能「捏」出任意音色、还能随手改：小红书FireRedTTS3发布！</p><p>标签: FireRedTTS3, 小红书</p>
+      </div>
+    </article>
+    <article class="article" id="article-10">
+      <div class="article-header" onclick="toggleArticle(10)">
+        <h2 class="article-title">2. 还在手搓论文poster？自进化设计Harness直接出</h2>
+        <div class="article-meta">
+          <span class="article-time">08-21 10:53</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/6c75d92d-3700-4355-8ef1-1a5be0678beb" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-10" style="display: none;">
+        <p>还在手搓论文poster？自进化设计Harness直接出</p><p>标签: Harness, AutoDesign</p>
+      </div>
+    </article>
+    <article class="article" id="article-11">
+      <div class="article-header" onclick="toggleArticle(11)">
+        <h2 class="article-title">1. 史上最大IPO？Anthropic或超越SpaceX，估值剑指2万亿美元</h2>
+        <div class="article-meta">
+          <span class="article-time">08-21 10:53</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/ec37f96b-e47f-4b76-ad5a-40dcc8e36979" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-11" style="display: none;">
+        <p>史上最大IPO？Anthropic或超越SpaceX，估值剑指2万亿美元</p><p>标签: Claude Code, Anthropic</p>
+      </div>
+    </article>
+        </div>
+        
+        <div class="footer">
+            <p>生成时间: 2026-08-22 09:22:21</p>
+        </div>
+    </div>
+</body>
+</html>
