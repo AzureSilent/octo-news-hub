@@ -4,7 +4,7 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 08 Sep 2026 06:39:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 12:20:44 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title><![CDATA[谷歌「抓」中性原子：量子计算的下一场路线之争，可能不只在芯片上]]></title>
@@ -45,6 +45,16 @@
       <category>WAIC 2026</category>
     </item>
     <item>
+      <title><![CDATA[正面Pk美国普罗米修斯！比特无限击败全球团队拿下ECCV 2026 CAD Challenge]]></title>
+      <link>https://www.jiqizhixin.com/articles/d61b9eb4-c024-4658-a469-ca31068acd23</link>
+      <guid>d61b9eb4-c024-4658-a469-ca31068acd23</guid>
+      <pubDate>Tue, 08 Sep 2026 12:20:43 +0000</pubDate>
+      <description><![CDATA[<p>正面Pk美国普罗米修斯！比特无限击败全球团队拿下ECCV 2026 CAD Challenge</p><p>标签: 比特无限, CAD Challenge, ECCV 2026</p>]]></description>
+      <category>比特无限</category>
+      <category>CAD Challenge</category>
+      <category>ECCV 2026</category>
+    </item>
+    <item>
       <title><![CDATA[EMNLP 2026 Main｜预测越像真实环境，Agent反而做得更差？我们把世界模型的训练目标从"状态一致"换成了"行为一致"]]></title>
       <link>https://www.jiqizhixin.com/articles/611a64d6-6c49-4c5a-8d36-aba60332d955</link>
       <guid>611a64d6-6c49-4c5a-8d36-aba60332d955</guid>
@@ -61,6 +71,16 @@
       <description><![CDATA[<p>Anthropic Labs揭秘：20人小队、两周决定去留，允许80%想法失败</p><p>标签: Ben Mann, Anthropic</p>]]></description>
       <category>Ben Mann</category>
       <category>Anthropic</category>
+    </item>
+    <item>
+      <title><![CDATA[同等预算下，Looped Transformer更强吗？清华、字节Seed给出答案]]></title>
+      <link>https://www.jiqizhixin.com/articles/af570ef3-4b32-4977-ab30-85570cf0264f</link>
+      <guid>af570ef3-4b32-4977-ab30-85570cf0264f</guid>
+      <pubDate>Tue, 08 Sep 2026 12:20:44 +0000</pubDate>
+      <description><![CDATA[<p>同等预算下，Looped Transformer更强吗？清华、字节Seed给出答案</p><p>标签: SMELT, 字节跳动 Seed, 清华大学</p>]]></description>
+      <category>SMELT</category>
+      <category>字节跳动 Seed</category>
+      <category>清华大学</category>
     </item>
     <item>
       <title><![CDATA[全扩散架构、无需图文对预训练，LLaDA杀穿开源文生图]]></title>
