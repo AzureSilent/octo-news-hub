@@ -4,8 +4,26 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 08 Sep 2026 12:20:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 17:37:46 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[GPT-6 Astra为何如此惊艳？S-Space透视多模态模型内部的空间智能]]></title>
+      <link>https://www.jiqizhixin.com/articles/c8e928dd-b1b7-4c9c-b7c3-66b3bf35ef17</link>
+      <guid>c8e928dd-b1b7-4c9c-b7c3-66b3bf35ef17</guid>
+      <pubDate>Tue, 08 Sep 2026 17:37:45 +0000</pubDate>
+      <description><![CDATA[<p>GPT-6 Astra为何如此惊艳？S-Space透视多模态模型内部的空间智能</p><p>标签: S-Space, MirroS</p>]]></description>
+      <category>S-Space</category>
+      <category>MirroS</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，DeepSeek V4.1开启测试]]></title>
+      <link>https://www.jiqizhixin.com/articles/c7667f2d-ee35-4a22-a438-d0f52edde10d</link>
+      <guid>c7667f2d-ee35-4a22-a438-d0f52edde10d</guid>
+      <pubDate>Tue, 08 Sep 2026 17:37:46 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，DeepSeek V4.1开启测试</p><p>标签: DeepSeek V4.1 Flash, DeepSeek</p>]]></description>
+      <category>DeepSeek V4.1 Flash</category>
+      <category>DeepSeek</category>
+    </item>
     <item>
       <title><![CDATA[谷歌「抓」中性原子：量子计算的下一场路线之争，可能不只在芯片上]]></title>
       <link>https://www.jiqizhixin.com/articles/0fcf4bd7-622b-4b3d-bd1e-8ca55b6875a6</link>
@@ -100,26 +118,6 @@
       <category>AI for Science（AI4S）</category>
       <category>TIGRa</category>
       <category>斯坦福大学</category>
-    </item>
-    <item>
-      <title><![CDATA[不注册、不花钱，10秒出一条带声音的AI视频，这家公司要干啥？]]></title>
-      <link>https://www.jiqizhixin.com/articles/7f7d71c9-42ba-4a30-ad30-7190e8c69693</link>
-      <guid>7f7d71c9-42ba-4a30-ad30-7190e8c69693</guid>
-      <pubDate>Mon, 07 Sep 2026 13:44:36 +0000</pubDate>
-      <description><![CDATA[<p>不注册、不花钱，10秒出一条带声音的AI视频，这家公司要干啥？</p><p>标签: Agnes Video 2.5 Flash, Agnes AI, Pavo</p>]]></description>
-      <category>Agnes Video 2.5 Flash</category>
-      <category>Agnes AI</category>
-      <category>Pavo</category>
-    </item>
-    <item>
-      <title><![CDATA[颜水成团队重磅发布VoiceMem,提出「流式双脑架构」打造下一代实时交互基础设施]]></title>
-      <link>https://www.jiqizhixin.com/articles/843b8e10-69a4-49d3-8192-ade603cc2bfb</link>
-      <guid>843b8e10-69a4-49d3-8192-ade603cc2bfb</guid>
-      <pubDate>Mon, 07 Sep 2026 18:27:20 +0000</pubDate>
-      <description><![CDATA[<p>颜水成团队重磅发布VoiceMem,提出「流式双脑架构」打造下一代实时交互基础设施</p><p>标签: 颜水成, VoiceMem, AGI Being</p>]]></description>
-      <category>颜水成</category>
-      <category>VoiceMem</category>
-      <category>AGI Being</category>
     </item>
   </channel>
 </rss>
