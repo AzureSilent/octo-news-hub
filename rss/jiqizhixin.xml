@@ -4,8 +4,27 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 09 Sep 2026 17:23:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 20:06:55 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[RoboPapers专访光轮智能谢晨：具身Scaling Law的两座金字塔]]></title>
+      <link>https://www.jiqizhixin.com/articles/5c4ebe23-571f-4c25-a36b-74bdf806094b</link>
+      <guid>5c4ebe23-571f-4c25-a36b-74bdf806094b</guid>
+      <pubDate>Wed, 09 Sep 2026 20:06:55 +0000</pubDate>
+      <description><![CDATA[<p>RoboPapers专访光轮智能谢晨：具身Scaling Law的两座金字塔</p><p>标签: EgoSuite-Open100K, RoboPapers, 光轮智能</p>]]></description>
+      <category>EgoSuite-Open100K</category>
+      <category>RoboPapers</category>
+      <category>光轮智能</category>
+    </item>
+    <item>
+      <title><![CDATA[快去提问！沐神空降小红书，在线答疑]]></title>
+      <link>https://www.jiqizhixin.com/articles/7b23ae1e-9947-4675-bc51-2463cd05c202</link>
+      <guid>7b23ae1e-9947-4675-bc51-2463cd05c202</guid>
+      <pubDate>Wed, 09 Sep 2026 20:06:55 +0000</pubDate>
+      <description><![CDATA[<p>快去提问！沐神空降小红书，在线答疑</p><p>标签: 李沐, 深度学习</p>]]></description>
+      <category>李沐</category>
+      <category>深度学习</category>
+    </item>
     <item>
       <title><![CDATA[离开自动驾驶量产一线，张颖创业做AI for Physical AI]]></title>
       <link>https://www.jiqizhixin.com/articles/862698bb-8dea-4db6-9de0-a6c769e2a87d</link>
@@ -99,25 +118,6 @@
       <description><![CDATA[<p>GPT-6 Astra为何如此惊艳？S-Space透视多模态模型内部的空间智能</p><p>标签: S-Space, MirroS</p>]]></description>
       <category>S-Space</category>
       <category>MirroS</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，DeepSeek V4.1开启测试]]></title>
-      <link>https://www.jiqizhixin.com/articles/c7667f2d-ee35-4a22-a438-d0f52edde10d</link>
-      <guid>c7667f2d-ee35-4a22-a438-d0f52edde10d</guid>
-      <pubDate>Tue, 08 Sep 2026 17:37:46 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，DeepSeek V4.1开启测试</p><p>标签: DeepSeek V4.1 Flash, DeepSeek</p>]]></description>
-      <category>DeepSeek V4.1 Flash</category>
-      <category>DeepSeek</category>
-    </item>
-    <item>
-      <title><![CDATA[谷歌「抓」中性原子：量子计算的下一场路线之争，可能不只在芯片上]]></title>
-      <link>https://www.jiqizhixin.com/articles/0fcf4bd7-622b-4b3d-bd1e-8ca55b6875a6</link>
-      <guid>0fcf4bd7-622b-4b3d-bd1e-8ca55b6875a6</guid>
-      <pubDate>Tue, 08 Sep 2026 06:37:23 +0000</pubDate>
-      <description><![CDATA[<p>谷歌「抓」中性原子：量子计算的下一场路线之争，可能不只在芯片上</p><p>标签: AI for Science（AI4S）, 中性原子, 谷歌</p>]]></description>
-      <category>AI for Science（AI4S）</category>
-      <category>中性原子</category>
-      <category>谷歌</category>
     </item>
   </channel>
 </rss>
