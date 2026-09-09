@@ -4,8 +4,36 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 09 Sep 2026 06:50:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 12:32:17 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[离开自动驾驶量产一线，张颖创业做AI for Physical AI]]></title>
+      <link>https://www.jiqizhixin.com/articles/862698bb-8dea-4db6-9de0-a6c769e2a87d</link>
+      <guid>862698bb-8dea-4db6-9de0-a6c769e2a87d</guid>
+      <pubDate>Wed, 09 Sep 2026 12:31:48 +0000</pubDate>
+      <description><![CDATA[<p>离开自动驾驶量产一线，张颖创业做AI for Physical AI</p><p>标签: 张颖, Physical AI</p>]]></description>
+      <category>张颖</category>
+      <category>Physical AI</category>
+    </item>
+    <item>
+      <title><![CDATA[Action Map Policy：从高维动作回归到像素分类，一种新的机器人操作学习范式]]></title>
+      <link>https://www.jiqizhixin.com/articles/c2fdd9ee-ef98-4f63-805b-9958fe5d0c3e</link>
+      <guid>c2fdd9ee-ef98-4f63-805b-9958fe5d0c3e</guid>
+      <pubDate>Wed, 09 Sep 2026 12:31:46 +0000</pubDate>
+      <description><![CDATA[<p>Action Map Policy：从高维动作回归到像素分类，一种新的机器人操作学习范式</p><p>标签: 3D 关键点轨迹, Action Map Policy（AMP）</p>]]></description>
+      <category>3D 关键点轨迹</category>
+      <category>Action Map Policy（AMP）</category>
+    </item>
+    <item>
+      <title><![CDATA[蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流]]></title>
+      <link>https://www.jiqizhixin.com/articles/558a3774-499d-499b-bb5a-4e4f1644e49d</link>
+      <guid>558a3774-499d-499b-bb5a-4e4f1644e49d</guid>
+      <pubDate>Wed, 09 Sep 2026 12:32:17 +0000</pubDate>
+      <description><![CDATA[<p>蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流</p><p>标签: 蚂蚁集团, Ling-3.0-flash-Fin, 金融增强开放模型</p>]]></description>
+      <category>蚂蚁集团</category>
+      <category>Ling-3.0-flash-Fin</category>
+      <category>金融增强开放模型</category>
+    </item>
     <item>
       <title><![CDATA[谷歌DeepMind发布AlphaGenome Atlas：1PB级数据库，解码90亿种人类基因组变异]]></title>
       <link>https://www.jiqizhixin.com/articles/71f3c891-64ec-4ecd-8387-c704c3464707</link>
@@ -90,34 +118,6 @@
       <category>AI for Science（AI4S）</category>
       <category>中性原子</category>
       <category>谷歌</category>
-    </item>
-    <item>
-      <title><![CDATA[端侧模型太夯了！面壁智能开源2B「小钢炮」，通用Agent杀到端侧]]></title>
-      <link>https://www.jiqizhixin.com/articles/4e70b9b2-4b73-4e12-943f-bf1133d3bb0b</link>
-      <guid>4e70b9b2-4b73-4e12-943f-bf1133d3bb0b</guid>
-      <pubDate>Tue, 08 Sep 2026 06:37:24 +0000</pubDate>
-      <description><![CDATA[<p>端侧模型太夯了！面壁智能开源2B「小钢炮」，通用Agent杀到端侧</p><p>标签: MiniCPM5-2B, 面壁智能</p>]]></description>
-      <category>MiniCPM5-2B</category>
-      <category>面壁智能</category>
-    </item>
-    <item>
-      <title><![CDATA[Agent长时工作如何不跑偏？WorkSwarm用「永续会话」给出解法]]></title>
-      <link>https://www.jiqizhixin.com/articles/e538c5bb-73b2-4756-874c-57beb4fc72ea</link>
-      <guid>e538c5bb-73b2-4756-874c-57beb4fc72ea</guid>
-      <pubDate>Tue, 08 Sep 2026 06:37:51 +0000</pubDate>
-      <description><![CDATA[<p>Agent长时工作如何不跑偏？WorkSwarm用「永续会话」给出解法</p><p>标签: Persist Session, openJiuwen, WorkSwarm</p>]]></description>
-      <category>Persist Session</category>
-      <category>openJiuwen</category>
-      <category>WorkSwarm</category>
-    </item>
-    <item>
-      <title><![CDATA[深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递]]></title>
-      <link>https://www.jiqizhixin.com/articles/3de14d3b-4d21-449c-82cf-07f4ff420ed4</link>
-      <guid>3de14d3b-4d21-449c-82cf-07f4ff420ed4</guid>
-      <pubDate>Tue, 08 Sep 2026 06:37:52 +0000</pubDate>
-      <description><![CDATA[<p>深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递</p><p>标签: WAIC CONNECT MALAYSIA, WAIC 2026</p>]]></description>
-      <category>WAIC CONNECT MALAYSIA</category>
-      <category>WAIC 2026</category>
     </item>
   </channel>
 </rss>
