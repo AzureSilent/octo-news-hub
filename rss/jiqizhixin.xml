@@ -4,8 +4,65 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 09 Sep 2026 01:45:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 06:50:42 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[谷歌DeepMind发布AlphaGenome Atlas：1PB级数据库，解码90亿种人类基因组变异]]></title>
+      <link>https://www.jiqizhixin.com/articles/71f3c891-64ec-4ecd-8387-c704c3464707</link>
+      <guid>71f3c891-64ec-4ecd-8387-c704c3464707</guid>
+      <pubDate>Wed, 09 Sep 2026 06:48:59 +0000</pubDate>
+      <description><![CDATA[<p>谷歌DeepMind发布AlphaGenome Atlas：1PB级数据库，解码90亿种人类基因组变异</p><p>标签: AI for Science（AI4S）, AlphaGenome Atlas, 谷歌 DeepMind</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>AlphaGenome Atlas</category>
+      <category>谷歌 DeepMind</category>
+    </item>
+    <item>
+      <title><![CDATA[Agent驱动的模型训练，基元律动做了一次迈向RSI的实验]]></title>
+      <link>https://www.jiqizhixin.com/articles/1ef56338-21c5-463b-928d-9154bae3f3ac</link>
+      <guid>1ef56338-21c5-463b-928d-9154bae3f3ac</guid>
+      <pubDate>Wed, 09 Sep 2026 06:48:58 +0000</pubDate>
+      <description><![CDATA[<p>Agent驱动的模型训练，基元律动做了一次迈向RSI的实验</p><p>标签: NeoHorse-1, 基元律动</p>]]></description>
+      <category>NeoHorse-1</category>
+      <category>基元律动</category>
+    </item>
+    <item>
+      <title><![CDATA[DeepSeek官宣大降价：最高降60%]]></title>
+      <link>https://www.jiqizhixin.com/articles/67b175c1-6988-4ae9-a789-ff599a5126b2</link>
+      <guid>67b175c1-6988-4ae9-a789-ff599a5126b2</guid>
+      <pubDate>Wed, 09 Sep 2026 06:49:49 +0000</pubDate>
+      <description><![CDATA[<p>DeepSeek官宣大降价：最高降60%</p><p>标签: API 定价, DeepSeek</p>]]></description>
+      <category>API 定价</category>
+      <category>DeepSeek</category>
+    </item>
+    <item>
+      <title><![CDATA[SkyProduction天工工作台联合 MiniMax H3 768P 自部署多模态生成模型限时开放]]></title>
+      <link>https://www.jiqizhixin.com/articles/7ad594d5-b080-4e58-9310-bbdd6993013e</link>
+      <guid>7ad594d5-b080-4e58-9310-bbdd6993013e</guid>
+      <pubDate>Wed, 09 Sep 2026 06:50:13 +0000</pubDate>
+      <description><![CDATA[<p>SkyProduction天工工作台联合 MiniMax H3 768P 自部署多模态生成模型限时开放</p><p>标签: MiniMax H3, 阿里巴巴, SkyProduction（天工工作台）</p>]]></description>
+      <category>MiniMax H3</category>
+      <category>阿里巴巴</category>
+      <category>SkyProduction（天工工作台）</category>
+    </item>
+    <item>
+      <title><![CDATA[突发！OpenAI官宣88小时突破NS方程千禧年难题]]></title>
+      <link>https://www.jiqizhixin.com/articles/fa91767f-f0ab-45c5-a927-416f14ebb659</link>
+      <guid>fa91767f-f0ab-45c5-a927-416f14ebb659</guid>
+      <pubDate>Wed, 09 Sep 2026 06:50:18 +0000</pubDate>
+      <description><![CDATA[<p>突发！OpenAI官宣88小时突破NS方程千禧年难题</p><p>标签: 纳维 - 斯托克斯方程（Navier-Stokes Equation）, 克雷数学研究所, OpenAI</p>]]></description>
+      <category>纳维 - 斯托克斯方程（Navier-Stokes Equation）</category>
+      <category>克雷数学研究所</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[首个统一元递归自我改进架构，让AI「变强的方式」本身变强]]></title>
+      <link>https://www.jiqizhixin.com/articles/31798a3a-a9f4-44f9-bca0-4b01d26d3efb</link>
+      <guid>31798a3a-a9f4-44f9-bca0-4b01d26d3efb</guid>
+      <pubDate>Wed, 09 Sep 2026 06:50:42 +0000</pubDate>
+      <description><![CDATA[<p>首个统一元递归自我改进架构，让AI「变强的方式」本身变强</p><p>标签: MetaRSI-v1, CosmosMind</p>]]></description>
+      <category>MetaRSI-v1</category>
+      <category>CosmosMind</category>
+    </item>
     <item>
       <title><![CDATA[GPT-6 Astra为何如此惊艳？S-Space透视多模态模型内部的空间智能]]></title>
       <link>https://www.jiqizhixin.com/articles/c8e928dd-b1b7-4c9c-b7c3-66b3bf35ef17</link>
@@ -61,63 +118,6 @@
       <description><![CDATA[<p>深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递</p><p>标签: WAIC CONNECT MALAYSIA, WAIC 2026</p>]]></description>
       <category>WAIC CONNECT MALAYSIA</category>
       <category>WAIC 2026</category>
-    </item>
-    <item>
-      <title><![CDATA[正面Pk美国普罗米修斯！比特无限击败全球团队拿下ECCV 2026 CAD Challenge]]></title>
-      <link>https://www.jiqizhixin.com/articles/d61b9eb4-c024-4658-a469-ca31068acd23</link>
-      <guid>d61b9eb4-c024-4658-a469-ca31068acd23</guid>
-      <pubDate>Tue, 08 Sep 2026 12:20:43 +0000</pubDate>
-      <description><![CDATA[<p>正面Pk美国普罗米修斯！比特无限击败全球团队拿下ECCV 2026 CAD Challenge</p><p>标签: 比特无限, CAD Challenge, ECCV 2026</p>]]></description>
-      <category>比特无限</category>
-      <category>CAD Challenge</category>
-      <category>ECCV 2026</category>
-    </item>
-    <item>
-      <title><![CDATA[EMNLP 2026 Main｜预测越像真实环境，Agent反而做得更差？我们把世界模型的训练目标从"状态一致"换成了"行为一致"]]></title>
-      <link>https://www.jiqizhixin.com/articles/611a64d6-6c49-4c5a-8d36-aba60332d955</link>
-      <guid>611a64d6-6c49-4c5a-8d36-aba60332d955</guid>
-      <pubDate>Tue, 08 Sep 2026 06:38:21 +0000</pubDate>
-      <description><![CDATA[<p>EMNLP 2026 Main｜预测越像真实环境，Agent反而做得更差？我们把世界模型的训练目标从"状态一致"换成了"行为一致"</p><p>标签: 大连理工大学, EMNLP 2026 Main</p>]]></description>
-      <category>大连理工大学</category>
-      <category>EMNLP 2026 Main</category>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic Labs揭秘：20人小队、两周决定去留，允许80%想法失败]]></title>
-      <link>https://www.jiqizhixin.com/articles/8e34d045-c4f0-4e5a-90b8-d01704071736</link>
-      <guid>8e34d045-c4f0-4e5a-90b8-d01704071736</guid>
-      <pubDate>Tue, 08 Sep 2026 06:38:50 +0000</pubDate>
-      <description><![CDATA[<p>Anthropic Labs揭秘：20人小队、两周决定去留，允许80%想法失败</p><p>标签: Ben Mann, Anthropic</p>]]></description>
-      <category>Ben Mann</category>
-      <category>Anthropic</category>
-    </item>
-    <item>
-      <title><![CDATA[同等预算下，Looped Transformer更强吗？清华、字节Seed给出答案]]></title>
-      <link>https://www.jiqizhixin.com/articles/af570ef3-4b32-4977-ab30-85570cf0264f</link>
-      <guid>af570ef3-4b32-4977-ab30-85570cf0264f</guid>
-      <pubDate>Tue, 08 Sep 2026 12:20:44 +0000</pubDate>
-      <description><![CDATA[<p>同等预算下，Looped Transformer更强吗？清华、字节Seed给出答案</p><p>标签: SMELT, 字节跳动 Seed, 清华大学</p>]]></description>
-      <category>SMELT</category>
-      <category>字节跳动 Seed</category>
-      <category>清华大学</category>
-    </item>
-    <item>
-      <title><![CDATA[全扩散架构、无需图文对预训练，LLaDA杀穿开源文生图]]></title>
-      <link>https://www.jiqizhixin.com/articles/7c3de41c-36b4-48ce-9c22-503c4a74eb2d</link>
-      <guid>7c3de41c-36b4-48ce-9c22-503c4a74eb2d</guid>
-      <pubDate>Mon, 07 Sep 2026 18:27:20 +0000</pubDate>
-      <description><![CDATA[<p>全扩散架构、无需图文对预训练，LLaDA杀穿开源文生图</p><p>标签: Inclusion AI, LLaDA-Image</p>]]></description>
-      <category>Inclusion AI</category>
-      <category>LLaDA-Image</category>
-    </item>
-    <item>
-      <title><![CDATA[超越CRISPR？基因调控新利器TIGRa：体积小、效率高，在体内发挥作用]]></title>
-      <link>https://www.jiqizhixin.com/articles/a85a03e9-8552-4f8f-826f-3f51c046af62</link>
-      <guid>a85a03e9-8552-4f8f-826f-3f51c046af62</guid>
-      <pubDate>Mon, 07 Sep 2026 13:44:36 +0000</pubDate>
-      <description><![CDATA[<p>超越CRISPR？基因调控新利器TIGRa：体积小、效率高，在体内发挥作用</p><p>标签: AI for Science（AI4S）, TIGRa, 斯坦福大学</p>]]></description>
-      <category>AI for Science（AI4S）</category>
-      <category>TIGRa</category>
-      <category>斯坦福大学</category>
     </item>
   </channel>
 </rss>
