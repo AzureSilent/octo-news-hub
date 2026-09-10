@@ -4,8 +4,45 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 10 Sep 2026 12:26:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:24:13 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[世界模型到底是什么？李飞飞、朱军等如何解读？]]></title>
+      <link>https://www.jiqizhixin.com/articles/0cdbbe8a-e395-4c81-a302-c25d17215ed6</link>
+      <guid>0cdbbe8a-e395-4c81-a302-c25d17215ed6</guid>
+      <pubDate>Thu, 10 Sep 2026 17:22:43 +0000</pubDate>
+      <description><![CDATA[<p>世界模型到底是什么？李飞飞、朱军等如何解读？</p><p>标签: Motus2, 生数科技, 世界模型</p>]]></description>
+      <category>Motus2</category>
+      <category>生数科技</category>
+      <category>世界模型</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，ECCV最佳论文出炉，李飞飞获时间检验奖]]></title>
+      <link>https://www.jiqizhixin.com/articles/d09738af-b7aa-428a-8a0f-959c047ca7fa</link>
+      <guid>d09738af-b7aa-428a-8a0f-959c047ca7fa</guid>
+      <pubDate>Thu, 10 Sep 2026 17:22:42 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，ECCV最佳论文出炉，李飞飞获时间检验奖</p><p>标签: 时间检验奖, ECCV 2026</p>]]></description>
+      <category>时间检验奖</category>
+      <category>ECCV 2026</category>
+    </item>
+    <item>
+      <title><![CDATA[实测央企出品数字员工，它的强大远超预期！]]></title>
+      <link>https://www.jiqizhixin.com/articles/0c26af60-b056-4140-bc42-fcc6daca4ac4</link>
+      <guid>0c26af60-b056-4140-bc42-fcc6daca4ac4</guid>
+      <pubDate>Thu, 10 Sep 2026 17:23:46 +0000</pubDate>
+      <description><![CDATA[<p>实测央企出品数字员工，它的强大远超预期！</p><p>标签: 元景数字员工, 中国联通</p>]]></description>
+      <category>元景数字员工</category>
+      <category>中国联通</category>
+    </item>
+    <item>
+      <title><![CDATA[国家级顶流AI赛事再开战！第三届「兴智杯」报名开启，等你来战]]></title>
+      <link>https://www.jiqizhixin.com/articles/12e8758e-62fe-41c4-acaf-72e58e312ed0</link>
+      <guid>12e8758e-62fe-41c4-acaf-72e58e312ed0</guid>
+      <pubDate>Thu, 10 Sep 2026 17:23:12 +0000</pubDate>
+      <description><![CDATA[<p>国家级顶流AI赛事再开战！第三届「兴智杯」报名开启，等你来战</p><p>标签: 「兴智杯」全国人工智能创新应用大赛, 中国信息通信研究院</p>]]></description>
+      <category>「兴智杯」全国人工智能创新应用大赛</category>
+      <category>中国信息通信研究院</category>
+    </item>
     <item>
       <title><![CDATA[IDC预测AI数据基础设施迈向万亿级市场，国产数据库迎来新增长空间]]></title>
       <link>https://www.jiqizhixin.com/articles/630210e5-964e-431e-a32e-5e847a5b163d</link>
@@ -71,43 +108,6 @@
       <category>京东</category>
       <category>JoyAI-EchoWM</category>
       <category>京东全球科技探索者大会（JDD）</category>
-    </item>
-    <item>
-      <title><![CDATA[RoboPapers专访光轮智能谢晨：具身Scaling Law的两座金字塔]]></title>
-      <link>https://www.jiqizhixin.com/articles/5c4ebe23-571f-4c25-a36b-74bdf806094b</link>
-      <guid>5c4ebe23-571f-4c25-a36b-74bdf806094b</guid>
-      <pubDate>Wed, 09 Sep 2026 20:06:55 +0000</pubDate>
-      <description><![CDATA[<p>RoboPapers专访光轮智能谢晨：具身Scaling Law的两座金字塔</p><p>标签: EgoSuite-Open100K, RoboPapers, 光轮智能</p>]]></description>
-      <category>EgoSuite-Open100K</category>
-      <category>RoboPapers</category>
-      <category>光轮智能</category>
-    </item>
-    <item>
-      <title><![CDATA[快去提问！沐神空降小红书，在线答疑]]></title>
-      <link>https://www.jiqizhixin.com/articles/7b23ae1e-9947-4675-bc51-2463cd05c202</link>
-      <guid>7b23ae1e-9947-4675-bc51-2463cd05c202</guid>
-      <pubDate>Wed, 09 Sep 2026 20:06:55 +0000</pubDate>
-      <description><![CDATA[<p>快去提问！沐神空降小红书，在线答疑</p><p>标签: 李沐, 深度学习</p>]]></description>
-      <category>李沐</category>
-      <category>深度学习</category>
-    </item>
-    <item>
-      <title><![CDATA[离开自动驾驶量产一线，张颖创业做AI for Physical AI]]></title>
-      <link>https://www.jiqizhixin.com/articles/862698bb-8dea-4db6-9de0-a6c769e2a87d</link>
-      <guid>862698bb-8dea-4db6-9de0-a6c769e2a87d</guid>
-      <pubDate>Wed, 09 Sep 2026 12:31:48 +0000</pubDate>
-      <description><![CDATA[<p>离开自动驾驶量产一线，张颖创业做AI for Physical AI</p><p>标签: 张颖, Physical AI</p>]]></description>
-      <category>张颖</category>
-      <category>Physical AI</category>
-    </item>
-    <item>
-      <title><![CDATA[Action Map Policy：从高维动作回归到像素分类，一种新的机器人操作学习范式]]></title>
-      <link>https://www.jiqizhixin.com/articles/c2fdd9ee-ef98-4f63-805b-9958fe5d0c3e</link>
-      <guid>c2fdd9ee-ef98-4f63-805b-9958fe5d0c3e</guid>
-      <pubDate>Wed, 09 Sep 2026 12:31:46 +0000</pubDate>
-      <description><![CDATA[<p>Action Map Policy：从高维动作回归到像素分类，一种新的机器人操作学习范式</p><p>标签: 3D 关键点轨迹, Action Map Policy（AMP）</p>]]></description>
-      <category>3D 关键点轨迹</category>
-      <category>Action Map Policy（AMP）</category>
     </item>
   </channel>
 </rss>
