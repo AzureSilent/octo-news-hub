@@ -4,7 +4,7 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 10 Sep 2026 17:24:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 20:09:19 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title><![CDATA[世界模型到底是什么？李飞飞、朱军等如何解读？]]></title>
@@ -108,6 +108,15 @@
       <category>京东</category>
       <category>JoyAI-EchoWM</category>
       <category>京东全球科技探索者大会（JDD）</category>
+    </item>
+    <item>
+      <title><![CDATA[ECCV 2026 | AgentVLN：让机器人导航进入Agent时代]]></title>
+      <link>https://www.jiqizhixin.com/articles/0694a2cc-b7d7-4fa8-a2a5-d4efcb9dd481</link>
+      <guid>0694a2cc-b7d7-4fa8-a2a5-d4efcb9dd481</guid>
+      <pubDate>Thu, 10 Sep 2026 20:09:19 +0000</pubDate>
+      <description><![CDATA[<p>ECCV 2026 | AgentVLN：让机器人导航进入Agent时代</p><p>标签: AgentVLN, ECCV 2026</p>]]></description>
+      <category>AgentVLN</category>
+      <category>ECCV 2026</category>
     </item>
   </channel>
 </rss>
