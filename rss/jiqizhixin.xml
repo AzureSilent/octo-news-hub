@@ -4,8 +4,55 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 10 Sep 2026 01:40:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 06:45:31 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[刚刚，DeepSeek V4.1 Flash正式上线！已适配Harness]]></title>
+      <link>https://www.jiqizhixin.com/articles/cf756732-f7a2-4e4a-ae0e-da3e6ff9cd69</link>
+      <guid>cf756732-f7a2-4e4a-ae0e-da3e6ff9cd69</guid>
+      <pubDate>Thu, 10 Sep 2026 06:43:30 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，DeepSeek V4.1 Flash正式上线！已适配Harness</p><p>标签: DeepSeek V4.1 Flash, DeepSeek</p>]]></description>
+      <category>DeepSeek V4.1 Flash</category>
+      <category>DeepSeek</category>
+    </item>
+    <item>
+      <title><![CDATA[报名｜RSI走到哪一步？9月23日，自进化AI核心力量齐聚张江]]></title>
+      <link>https://www.jiqizhixin.com/articles/160af54b-e6b0-4c2d-ad60-0de4e558f51d</link>
+      <guid>160af54b-e6b0-4c2d-ad60-0de4e558f51d</guid>
+      <pubDate>Thu, 10 Sep 2026 06:43:26 +0000</pubDate>
+      <description><![CDATA[<p>报名｜RSI走到哪一步？9月23日，自进化AI核心力量齐聚张江</p><p>标签: 张江 AI 创新小镇, RSI</p>]]></description>
+      <category>张江 AI 创新小镇</category>
+      <category>RSI</category>
+    </item>
+    <item>
+      <title><![CDATA[迈向原生世界状态的统一多模态世界模型，大晓机器人联合南洋理工大学S-Lab发布Puffin-World]]></title>
+      <link>https://www.jiqizhixin.com/articles/8a43818a-46a6-4898-8e33-7e280973979a</link>
+      <guid>8a43818a-46a6-4898-8e33-7e280973979a</guid>
+      <pubDate>Thu, 10 Sep 2026 06:43:56 +0000</pubDate>
+      <description><![CDATA[<p>迈向原生世界状态的统一多模态世界模型，大晓机器人联合南洋理工大学S-Lab发布Puffin-World</p><p>标签: Puffin-World, 大晓机器人</p>]]></description>
+      <category>Puffin-World</category>
+      <category>大晓机器人</category>
+    </item>
+    <item>
+      <title><![CDATA[在外滩大会，看AI如何走进艺术现场]]></title>
+      <link>https://www.jiqizhixin.com/articles/b5d7c766-f01f-4196-9ba5-1adbb9c594a4</link>
+      <guid>b5d7c766-f01f-4196-9ba5-1adbb9c594a4</guid>
+      <pubDate>Thu, 10 Sep 2026 06:44:00 +0000</pubDate>
+      <description><![CDATA[<p>在外滩大会，看AI如何走进艺术现场</p><p>标签: AI艺术节, 2026 Inclusion·外滩大会</p>]]></description>
+      <category>AI艺术节</category>
+      <category>2026 Inclusion·外滩大会</category>
+    </item>
+    <item>
+      <title><![CDATA[AI4S大牛顾全全创业公司Geodesic Intelligence亮相，瞄准药物发现]]></title>
+      <link>https://www.jiqizhixin.com/articles/56e19c7c-d694-4337-b123-768e8417aeb7</link>
+      <guid>56e19c7c-d694-4337-b123-768e8417aeb7</guid>
+      <pubDate>Thu, 10 Sep 2026 06:44:30 +0000</pubDate>
+      <description><![CDATA[<p>AI4S大牛顾全全创业公司Geodesic Intelligence亮相，瞄准药物发现</p><p>标签: AI for Science（AI4S）, NovaDDE, Geodesic Intelligence, 顾全全</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>NovaDDE</category>
+      <category>Geodesic Intelligence</category>
+      <category>顾全全</category>
+    </item>
     <item>
       <title><![CDATA[RoboPapers专访光轮智能谢晨：具身Scaling Law的两座金字塔]]></title>
       <link>https://www.jiqizhixin.com/articles/5c4ebe23-571f-4c25-a36b-74bdf806094b</link>
@@ -52,72 +99,6 @@
       <category>蚂蚁集团</category>
       <category>Ling-3.0-flash-Fin</category>
       <category>金融增强开放模型</category>
-    </item>
-    <item>
-      <title><![CDATA[谷歌DeepMind发布AlphaGenome Atlas：1PB级数据库，解码90亿种人类基因组变异]]></title>
-      <link>https://www.jiqizhixin.com/articles/71f3c891-64ec-4ecd-8387-c704c3464707</link>
-      <guid>71f3c891-64ec-4ecd-8387-c704c3464707</guid>
-      <pubDate>Wed, 09 Sep 2026 06:48:59 +0000</pubDate>
-      <description><![CDATA[<p>谷歌DeepMind发布AlphaGenome Atlas：1PB级数据库，解码90亿种人类基因组变异</p><p>标签: AI for Science（AI4S）, AlphaGenome Atlas, 谷歌 DeepMind</p>]]></description>
-      <category>AI for Science（AI4S）</category>
-      <category>AlphaGenome Atlas</category>
-      <category>谷歌 DeepMind</category>
-    </item>
-    <item>
-      <title><![CDATA[Agent驱动的模型训练，基元律动做了一次迈向RSI的实验]]></title>
-      <link>https://www.jiqizhixin.com/articles/1ef56338-21c5-463b-928d-9154bae3f3ac</link>
-      <guid>1ef56338-21c5-463b-928d-9154bae3f3ac</guid>
-      <pubDate>Wed, 09 Sep 2026 06:48:58 +0000</pubDate>
-      <description><![CDATA[<p>Agent驱动的模型训练，基元律动做了一次迈向RSI的实验</p><p>标签: NeoHorse-1, 基元律动</p>]]></description>
-      <category>NeoHorse-1</category>
-      <category>基元律动</category>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek官宣大降价：最高降60%]]></title>
-      <link>https://www.jiqizhixin.com/articles/67b175c1-6988-4ae9-a789-ff599a5126b2</link>
-      <guid>67b175c1-6988-4ae9-a789-ff599a5126b2</guid>
-      <pubDate>Wed, 09 Sep 2026 06:49:49 +0000</pubDate>
-      <description><![CDATA[<p>DeepSeek官宣大降价：最高降60%</p><p>标签: API 定价, DeepSeek</p>]]></description>
-      <category>API 定价</category>
-      <category>DeepSeek</category>
-    </item>
-    <item>
-      <title><![CDATA[SkyProduction天工工作台联合 MiniMax H3 768P 自部署多模态生成模型限时开放]]></title>
-      <link>https://www.jiqizhixin.com/articles/7ad594d5-b080-4e58-9310-bbdd6993013e</link>
-      <guid>7ad594d5-b080-4e58-9310-bbdd6993013e</guid>
-      <pubDate>Wed, 09 Sep 2026 06:50:13 +0000</pubDate>
-      <description><![CDATA[<p>SkyProduction天工工作台联合 MiniMax H3 768P 自部署多模态生成模型限时开放</p><p>标签: MiniMax H3, 阿里巴巴, SkyProduction（天工工作台）</p>]]></description>
-      <category>MiniMax H3</category>
-      <category>阿里巴巴</category>
-      <category>SkyProduction（天工工作台）</category>
-    </item>
-    <item>
-      <title><![CDATA[突发！OpenAI官宣88小时突破NS方程千禧年难题]]></title>
-      <link>https://www.jiqizhixin.com/articles/fa91767f-f0ab-45c5-a927-416f14ebb659</link>
-      <guid>fa91767f-f0ab-45c5-a927-416f14ebb659</guid>
-      <pubDate>Wed, 09 Sep 2026 06:50:18 +0000</pubDate>
-      <description><![CDATA[<p>突发！OpenAI官宣88小时突破NS方程千禧年难题</p><p>标签: 纳维 - 斯托克斯方程（Navier-Stokes Equation）, 克雷数学研究所, OpenAI</p>]]></description>
-      <category>纳维 - 斯托克斯方程（Navier-Stokes Equation）</category>
-      <category>克雷数学研究所</category>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[首个统一元递归自我改进架构，让AI「变强的方式」本身变强]]></title>
-      <link>https://www.jiqizhixin.com/articles/31798a3a-a9f4-44f9-bca0-4b01d26d3efb</link>
-      <guid>31798a3a-a9f4-44f9-bca0-4b01d26d3efb</guid>
-      <pubDate>Wed, 09 Sep 2026 06:50:42 +0000</pubDate>
-      <description><![CDATA[<p>首个统一元递归自我改进架构，让AI「变强的方式」本身变强</p><p>标签: MetaRSI-v1, CosmosMind</p>]]></description>
-      <category>MetaRSI-v1</category>
-      <category>CosmosMind</category>
-    </item>
-    <item>
-      <title><![CDATA[GPT-6 Astra为何如此惊艳？S-Space透视多模态模型内部的空间智能]]></title>
-      <link>https://www.jiqizhixin.com/articles/c8e928dd-b1b7-4c9c-b7c3-66b3bf35ef17</link>
-      <guid>c8e928dd-b1b7-4c9c-b7c3-66b3bf35ef17</guid>
-      <pubDate>Tue, 08 Sep 2026 17:37:45 +0000</pubDate>
-      <description><![CDATA[<p>GPT-6 Astra为何如此惊艳？S-Space透视多模态模型内部的空间智能</p><p>标签: S-Space, MirroS</p>]]></description>
-      <category>S-Space</category>
-      <category>MirroS</category>
     </item>
   </channel>
 </rss>
