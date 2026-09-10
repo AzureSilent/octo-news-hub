@@ -4,8 +4,17 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 10 Sep 2026 06:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 12:26:16 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[IDC预测AI数据基础设施迈向万亿级市场，国产数据库迎来新增长空间]]></title>
+      <link>https://www.jiqizhixin.com/articles/630210e5-964e-431e-a32e-5e847a5b163d</link>
+      <guid>630210e5-964e-431e-a32e-5e847a5b163d</guid>
+      <pubDate>Thu, 10 Sep 2026 12:25:15 +0000</pubDate>
+      <description><![CDATA[<p>IDC预测AI数据基础设施迈向万亿级市场，国产数据库迎来新增长空间</p><p>标签: OceanBase, 2026 Inclusion·外滩大会</p>]]></description>
+      <category>OceanBase</category>
+      <category>2026 Inclusion·外滩大会</category>
+    </item>
     <item>
       <title><![CDATA[刚刚，DeepSeek V4.1 Flash正式上线！已适配Harness]]></title>
       <link>https://www.jiqizhixin.com/articles/cf756732-f7a2-4e4a-ae0e-da3e6ff9cd69</link>
@@ -54,6 +63,16 @@
       <category>顾全全</category>
     </item>
     <item>
+      <title><![CDATA[国产世界模型EchoWM开源！会发声的「可探索世界」来了]]></title>
+      <link>https://www.jiqizhixin.com/articles/975d9853-8c3a-41d2-a172-c99e41b5d6f2</link>
+      <guid>975d9853-8c3a-41d2-a172-c99e41b5d6f2</guid>
+      <pubDate>Thu, 10 Sep 2026 12:25:15 +0000</pubDate>
+      <description><![CDATA[<p>国产世界模型EchoWM开源！会发声的「可探索世界」来了</p><p>标签: 京东, JoyAI-EchoWM, 京东全球科技探索者大会（JDD）</p>]]></description>
+      <category>京东</category>
+      <category>JoyAI-EchoWM</category>
+      <category>京东全球科技探索者大会（JDD）</category>
+    </item>
+    <item>
       <title><![CDATA[RoboPapers专访光轮智能谢晨：具身Scaling Law的两座金字塔]]></title>
       <link>https://www.jiqizhixin.com/articles/5c4ebe23-571f-4c25-a36b-74bdf806094b</link>
       <guid>5c4ebe23-571f-4c25-a36b-74bdf806094b</guid>
@@ -89,16 +108,6 @@
       <description><![CDATA[<p>Action Map Policy：从高维动作回归到像素分类，一种新的机器人操作学习范式</p><p>标签: 3D 关键点轨迹, Action Map Policy（AMP）</p>]]></description>
       <category>3D 关键点轨迹</category>
       <category>Action Map Policy（AMP）</category>
-    </item>
-    <item>
-      <title><![CDATA[蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流]]></title>
-      <link>https://www.jiqizhixin.com/articles/558a3774-499d-499b-bb5a-4e4f1644e49d</link>
-      <guid>558a3774-499d-499b-bb5a-4e4f1644e49d</guid>
-      <pubDate>Wed, 09 Sep 2026 12:32:17 +0000</pubDate>
-      <description><![CDATA[<p>蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流</p><p>标签: 蚂蚁集团, Ling-3.0-flash-Fin, 金融增强开放模型</p>]]></description>
-      <category>蚂蚁集团</category>
-      <category>Ling-3.0-flash-Fin</category>
-      <category>金融增强开放模型</category>
     </item>
   </channel>
 </rss>
