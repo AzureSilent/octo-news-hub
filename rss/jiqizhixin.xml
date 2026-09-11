@@ -4,8 +4,27 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 11 Sep 2026 06:45:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 12:23:48 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Nature封面 | 面向流体动力学的强化学习平台，华盛顿大学等提出HydroGym]]></title>
+      <link>https://www.jiqizhixin.com/articles/05709c6e-dbac-4fa1-a456-86f1a6d26449</link>
+      <guid>05709c6e-dbac-4fa1-a456-86f1a6d26449</guid>
+      <pubDate>Fri, 11 Sep 2026 12:23:48 +0000</pubDate>
+      <description><![CDATA[<p>Nature封面 | 面向流体动力学的强化学习平台，华盛顿大学等提出HydroGym</p><p>标签: AI for Science（AI4S）, HydroGym, 华盛顿大学</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>HydroGym</category>
+      <category>华盛顿大学</category>
+    </item>
+    <item>
+      <title><![CDATA[IIFAA智能体可信身份工作组成立，50余家机构参与生态共建]]></title>
+      <link>https://www.jiqizhixin.com/articles/09f8a5d1-0325-42bb-a254-02aaaae2d226</link>
+      <guid>09f8a5d1-0325-42bb-a254-02aaaae2d226</guid>
+      <pubDate>Fri, 11 Sep 2026 12:23:48 +0000</pubDate>
+      <description><![CDATA[<p>IIFAA智能体可信身份工作组成立，50余家机构参与生态共建</p><p>标签: IIFAA, 2026 Inclusion·外滩大会</p>]]></description>
+      <category>IIFAA</category>
+      <category>2026 Inclusion·外滩大会</category>
+    </item>
     <item>
       <title><![CDATA[从GitHub爆火到ECCV Oral，全球开发者把LingBot-Map玩出新高度]]></title>
       <link>https://www.jiqizhixin.com/articles/f25162e8-2a2e-4b93-9e0e-959df49ca760</link>
@@ -99,24 +118,6 @@
       <description><![CDATA[<p>刚刚，ECCV最佳论文出炉，李飞飞获时间检验奖</p><p>标签: 时间检验奖, ECCV 2026</p>]]></description>
       <category>时间检验奖</category>
       <category>ECCV 2026</category>
-    </item>
-    <item>
-      <title><![CDATA[实测央企出品数字员工，它的强大远超预期！]]></title>
-      <link>https://www.jiqizhixin.com/articles/0c26af60-b056-4140-bc42-fcc6daca4ac4</link>
-      <guid>0c26af60-b056-4140-bc42-fcc6daca4ac4</guid>
-      <pubDate>Thu, 10 Sep 2026 17:23:46 +0000</pubDate>
-      <description><![CDATA[<p>实测央企出品数字员工，它的强大远超预期！</p><p>标签: 元景数字员工, 中国联通</p>]]></description>
-      <category>元景数字员工</category>
-      <category>中国联通</category>
-    </item>
-    <item>
-      <title><![CDATA[国家级顶流AI赛事再开战！第三届「兴智杯」报名开启，等你来战]]></title>
-      <link>https://www.jiqizhixin.com/articles/12e8758e-62fe-41c4-acaf-72e58e312ed0</link>
-      <guid>12e8758e-62fe-41c4-acaf-72e58e312ed0</guid>
-      <pubDate>Thu, 10 Sep 2026 17:23:12 +0000</pubDate>
-      <description><![CDATA[<p>国家级顶流AI赛事再开战！第三届「兴智杯」报名开启，等你来战</p><p>标签: 「兴智杯」全国人工智能创新应用大赛, 中国信息通信研究院</p>]]></description>
-      <category>「兴智杯」全国人工智能创新应用大赛</category>
-      <category>中国信息通信研究院</category>
     </item>
   </channel>
 </rss>
