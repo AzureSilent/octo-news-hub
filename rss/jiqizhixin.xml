@@ -4,7 +4,7 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 12 Sep 2026 14:32:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 17:56:52 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title><![CDATA[GPT-5.6 Sol跑量子实验，AI直连实验室实现自主决策]]></title>
@@ -53,6 +53,36 @@
       <category>淘天集团</category>
       <category>S266 系列编码器</category>
       <category>第 19 届 MSU 世界视频编码器大赛</category>
+    </item>
+    <item>
+      <title><![CDATA[从认路到「跌倒再战」，机器人也在重走大模型的Scaling之路？]]></title>
+      <link>https://www.jiqizhixin.com/articles/bc02d280-8434-4bea-8cc6-76fc786fb2bb</link>
+      <guid>bc02d280-8434-4bea-8cc6-76fc786fb2bb</guid>
+      <pubDate>Sat, 12 Sep 2026 17:55:43 +0000</pubDate>
+      <description><![CDATA[<p>从认路到「跌倒再战」，机器人也在重走大模型的Scaling之路？</p><p>标签: Light REACT, LightNav-0, 具身智能, 亮源新创</p>]]></description>
+      <category>Light REACT</category>
+      <category>LightNav-0</category>
+      <category>具身智能</category>
+      <category>亮源新创</category>
+    </item>
+    <item>
+      <title><![CDATA[从「Disable」到「Able」，爱博智能在康复里寻找答案]]></title>
+      <link>https://www.jiqizhixin.com/articles/a5addeab-3330-4a5c-a07d-6a427f708552</link>
+      <guid>a5addeab-3330-4a5c-a07d-6a427f708552</guid>
+      <pubDate>Sat, 12 Sep 2026 17:55:43 +0000</pubDate>
+      <description><![CDATA[<p>从「Disable」到「Able」，爱博智能在康复里寻找答案</p><p>标签: 脑机接口, 爱博智能</p>]]></description>
+      <category>脑机接口</category>
+      <category>爱博智能</category>
+    </item>
+    <item>
+      <title><![CDATA[突发！陶哲轩、邓煜等25位菲尔兹奖得主联合声明：AI公司正在摧毁数学]]></title>
+      <link>https://www.jiqizhixin.com/articles/e02f1bcb-95ef-48a9-9187-069bda9d256a</link>
+      <guid>e02f1bcb-95ef-48a9-9187-069bda9d256a</guid>
+      <pubDate>Sat, 12 Sep 2026 17:56:52 +0000</pubDate>
+      <description><![CDATA[<p>突发！陶哲轩、邓煜等25位菲尔兹奖得主联合声明：AI公司正在摧毁数学</p><p>标签: 陶哲轩, AI数学, 菲尔兹奖</p>]]></description>
+      <category>陶哲轩</category>
+      <category>AI数学</category>
+      <category>菲尔兹奖</category>
     </item>
     <item>
       <title><![CDATA[破局单模型局限！清华大学李秀教授团队提出EMERGE-Policy：以多智能体协作迈向「具身智能系统」时代]]></title>
