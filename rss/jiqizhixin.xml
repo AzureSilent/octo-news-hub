@@ -4,8 +4,65 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 12 Sep 2026 11:45:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 14:32:08 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[GPT-5.6 Sol跑量子实验，AI直连实验室实现自主决策]]></title>
+      <link>https://www.jiqizhixin.com/articles/a4ee02d4-59a8-4673-8d10-03de9c40f1f4</link>
+      <guid>a4ee02d4-59a8-4673-8d10-03de9c40f1f4</guid>
+      <pubDate>Sat, 12 Sep 2026 14:28:55 +0000</pubDate>
+      <description><![CDATA[<p>GPT-5.6 Sol跑量子实验，AI直连实验室实现自主决策</p><p>标签: AI for Science（AI4S）, GPT-5.6 Sol, 量子计算</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>GPT-5.6 Sol</category>
+      <category>量子计算</category>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI智能体还攻击过Ruby生态？但选择当鸵鸟！]]></title>
+      <link>https://www.jiqizhixin.com/articles/c11ab005-6884-49ee-9403-3cca42d271bd</link>
+      <guid>c11ab005-6884-49ee-9403-3cca42d271bd</guid>
+      <pubDate>Sat, 12 Sep 2026 14:28:56 +0000</pubDate>
+      <description><![CDATA[<p>OpenAI智能体还攻击过Ruby生态？但选择当鸵鸟！</p><p>标签: Hugging Face, RubyGems, OpenAI</p>]]></description>
+      <category>Hugging Face</category>
+      <category>RubyGems</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[AI又攻克了一个40年数学猜想]]></title>
+      <link>https://www.jiqizhixin.com/articles/5cc8ee98-2572-431b-98cc-5fb55513563e</link>
+      <guid>5cc8ee98-2572-431b-98cc-5fb55513563e</guid>
+      <pubDate>Sat, 12 Sep 2026 14:29:29 +0000</pubDate>
+      <description><![CDATA[<p>AI又攻克了一个40年数学猜想</p><p>标签: Komlós 猜想（Komlós conjecture）, Odin Automatic AI Research Agent</p>]]></description>
+      <category>Komlós 猜想（Komlós conjecture）</category>
+      <category>Odin Automatic AI Research Agent</category>
+    </item>
+    <item>
+      <title><![CDATA[DeepSeek V4.1 Flash用了哪些黑科技？竟让Flash（差点）逼退Pro]]></title>
+      <link>https://www.jiqizhixin.com/articles/f148d5e9-90b3-4740-831c-0c1a0a14511d</link>
+      <guid>f148d5e9-90b3-4740-831c-0c1a0a14511d</guid>
+      <pubDate>Sat, 12 Sep 2026 14:29:29 +0000</pubDate>
+      <description><![CDATA[<p>DeepSeek V4.1 Flash用了哪些黑科技？竟让Flash（差点）逼退Pro</p><p>标签: DeepSeek V4.1 Flash, DeepSeek</p>]]></description>
+      <category>DeepSeek V4.1 Flash</category>
+      <category>DeepSeek</category>
+    </item>
+    <item>
+      <title><![CDATA[淘天自研编码器斩获MSU 6项冠军，视频编码技术支撑内容体验升级]]></title>
+      <link>https://www.jiqizhixin.com/articles/4499552c-366f-476d-bb5b-ffc21aa22c3c</link>
+      <guid>4499552c-366f-476d-bb5b-ffc21aa22c3c</guid>
+      <pubDate>Sat, 12 Sep 2026 14:30:00 +0000</pubDate>
+      <description><![CDATA[<p>淘天自研编码器斩获MSU 6项冠军，视频编码技术支撑内容体验升级</p><p>标签: 淘天集团, S266 系列编码器, 第 19 届 MSU 世界视频编码器大赛</p>]]></description>
+      <category>淘天集团</category>
+      <category>S266 系列编码器</category>
+      <category>第 19 届 MSU 世界视频编码器大赛</category>
+    </item>
+    <item>
+      <title><![CDATA[破局单模型局限！清华大学李秀教授团队提出EMERGE-Policy：以多智能体协作迈向「具身智能系统」时代]]></title>
+      <link>https://www.jiqizhixin.com/articles/def883fa-dda9-4460-81ee-65cbc4ec067f</link>
+      <guid>def883fa-dda9-4460-81ee-65cbc4ec067f</guid>
+      <pubDate>Sat, 12 Sep 2026 14:32:08 +0000</pubDate>
+      <description><![CDATA[<p>破局单模型局限！清华大学李秀教授团队提出EMERGE-Policy：以多智能体协作迈向「具身智能系统」时代</p><p>标签: EMERGE-Policy, 清华大学深圳国际研究生院</p>]]></description>
+      <category>EMERGE-Policy</category>
+      <category>清华大学深圳国际研究生院</category>
+    </item>
     <item>
       <title><![CDATA[灵影正式发布，蚂蚁加码AI终端开放生态]]></title>
       <link>https://www.jiqizhixin.com/articles/94dca45d-506f-41e3-ac50-232a67ea6a92</link>
@@ -34,91 +91,6 @@
       <description><![CDATA[<p>IIFAA智能体可信身份工作组成立，50余家机构参与生态共建</p><p>标签: IIFAA, 2026 Inclusion·外滩大会</p>]]></description>
       <category>IIFAA</category>
       <category>2026 Inclusion·外滩大会</category>
-    </item>
-    <item>
-      <title><![CDATA[从GitHub爆火到ECCV Oral，全球开发者把LingBot-Map玩出新高度]]></title>
-      <link>https://www.jiqizhixin.com/articles/f25162e8-2a2e-4b93-9e0e-959df49ca760</link>
-      <guid>f25162e8-2a2e-4b93-9e0e-959df49ca760</guid>
-      <pubDate>Fri, 11 Sep 2026 06:42:56 +0000</pubDate>
-      <description><![CDATA[<p>从GitHub爆火到ECCV Oral，全球开发者把LingBot-Map玩出新高度</p><p>标签: LingBot-Map, 蚂蚁灵波</p>]]></description>
-      <category>LingBot-Map</category>
-      <category>蚂蚁灵波</category>
-    </item>
-    <item>
-      <title><![CDATA[《npj Robotics》：还在疯狂堆数据？北航、NTU联合提出PhyFilter，让机器人在有限数据下学会举一反三]]></title>
-      <link>https://www.jiqizhixin.com/articles/2599792a-a533-45e1-8ce6-5b4f159318ee</link>
-      <guid>2599792a-a533-45e1-8ce6-5b4f159318ee</guid>
-      <pubDate>Fri, 11 Sep 2026 06:42:58 +0000</pubDate>
-      <description><![CDATA[<p>《npj Robotics》：还在疯狂堆数据？北航、NTU联合提出PhyFilter，让机器人在有限数据下学会举一反三</p><p>标签: PhyFilter, 北京航空航天大学, Nature npj Robotics</p>]]></description>
-      <category>PhyFilter</category>
-      <category>北京航空航天大学</category>
-      <category>Nature npj Robotics</category>
-    </item>
-    <item>
-      <title><![CDATA[90后发Nature，10后进ICML，我在这场蚂蚁InTech论坛看见被AI折叠的科研]]></title>
-      <link>https://www.jiqizhixin.com/articles/94e92852-4a2e-44af-bc5f-78eea6a9dd21</link>
-      <guid>94e92852-4a2e-44af-bc5f-78eea6a9dd21</guid>
-      <pubDate>Fri, 11 Sep 2026 06:43:28 +0000</pubDate>
-      <description><![CDATA[<p>90后发Nature，10后进ICML，我在这场蚂蚁InTech论坛看见被AI折叠的科研</p><p>标签: InTech 青年先锋论坛, 2026 Inclusion・外滩大会</p>]]></description>
-      <category>InTech 青年先锋论坛</category>
-      <category>2026 Inclusion・外滩大会</category>
-    </item>
-    <item>
-      <title><![CDATA[openJiuwen首发双维度RSI框架，AI自修改，落地办公智能体，算力亲和助力又快又省]]></title>
-      <link>https://www.jiqizhixin.com/articles/711bc4ff-7837-493e-929a-42902240bccf</link>
-      <guid>711bc4ff-7837-493e-929a-42902240bccf</guid>
-      <pubDate>Fri, 11 Sep 2026 06:43:29 +0000</pubDate>
-      <description><![CDATA[<p>openJiuwen首发双维度RSI框架，AI自修改，落地办公智能体，算力亲和助力又快又省</p><p>标签: RSI, openJiuwen</p>]]></description>
-      <category>RSI</category>
-      <category>openJiuwen</category>
-    </item>
-    <item>
-      <title><![CDATA[万卡国产训推之后，科大讯飞开始让AI反哺算力]]></title>
-      <link>https://www.jiqizhixin.com/articles/0367de5a-ebdd-4a48-ae45-c3943543040a</link>
-      <guid>0367de5a-ebdd-4a48-ae45-c3943543040a</guid>
-      <pubDate>Fri, 11 Sep 2026 06:44:31 +0000</pubDate>
-      <description><![CDATA[<p>万卡国产训推之后，科大讯飞开始让AI反哺算力</p><p>标签: 星火 X2.5, 科大讯飞</p>]]></description>
-      <category>星火 X2.5</category>
-      <category>科大讯飞</category>
-    </item>
-    <item>
-      <title><![CDATA[PhyAgentOS v1.0.0发布：为物理智能体打造可执行、可验证、可演进的Harness]]></title>
-      <link>https://www.jiqizhixin.com/articles/efa94d18-8bd3-4b23-b545-a38faf3725a9</link>
-      <guid>efa94d18-8bd3-4b23-b545-a38faf3725a9</guid>
-      <pubDate>Fri, 11 Sep 2026 06:44:00 +0000</pubDate>
-      <description><![CDATA[<p>PhyAgentOS v1.0.0发布：为物理智能体打造可执行、可验证、可演进的Harness</p><p>标签: X-Era Lab（拓元智慧）, 中山大学, PhyAgentOS v1.0.0</p>]]></description>
-      <category>X-Era Lab（拓元智慧）</category>
-      <category>中山大学</category>
-      <category>PhyAgentOS v1.0.0</category>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI宣布：ChatGPT Pro 20X停止订阅]]></title>
-      <link>https://www.jiqizhixin.com/articles/ec4feb74-7360-4cd4-a548-b217fa7573c2</link>
-      <guid>ec4feb74-7360-4cd4-a548-b217fa7573c2</guid>
-      <pubDate>Fri, 11 Sep 2026 06:44:45 +0000</pubDate>
-      <description><![CDATA[<p>OpenAI宣布：ChatGPT Pro 20X停止订阅</p><p>标签: ChatGPT Pro, GPT‑6 Astra, OpenAI</p>]]></description>
-      <category>ChatGPT Pro</category>
-      <category>GPT‑6 Astra</category>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[EMNLP 2026 | DiffuTester: 加速扩散语言模型生成单元测试]]></title>
-      <link>https://www.jiqizhixin.com/articles/6d86b1a9-712d-4704-8ab5-56f50c2db4f6</link>
-      <guid>6d86b1a9-712d-4704-8ab5-56f50c2db4f6</guid>
-      <pubDate>Fri, 11 Sep 2026 06:45:02 +0000</pubDate>
-      <description><![CDATA[<p>EMNLP 2026 | DiffuTester: 加速扩散语言模型生成单元测试</p><p>标签: 清华大学, DiffuTester</p>]]></description>
-      <category>清华大学</category>
-      <category>DiffuTester</category>
-    </item>
-    <item>
-      <title><![CDATA[世界模型到底是什么？李飞飞、朱军等如何解读？]]></title>
-      <link>https://www.jiqizhixin.com/articles/0cdbbe8a-e395-4c81-a302-c25d17215ed6</link>
-      <guid>0cdbbe8a-e395-4c81-a302-c25d17215ed6</guid>
-      <pubDate>Thu, 10 Sep 2026 17:22:43 +0000</pubDate>
-      <description><![CDATA[<p>世界模型到底是什么？李飞飞、朱军等如何解读？</p><p>标签: Motus2, 生数科技, 世界模型</p>]]></description>
-      <category>Motus2</category>
-      <category>生数科技</category>
-      <category>世界模型</category>
     </item>
   </channel>
 </rss>
