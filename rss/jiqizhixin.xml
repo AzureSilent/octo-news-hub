@@ -4,8 +4,18 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 12 Sep 2026 01:45:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 06:36:04 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[灵影正式发布，蚂蚁加码AI终端开放生态]]></title>
+      <link>https://www.jiqizhixin.com/articles/94dca45d-506f-41e3-ac50-232a67ea6a92</link>
+      <guid>94dca45d-506f-41e3-ac50-232a67ea6a92</guid>
+      <pubDate>Sat, 12 Sep 2026 06:36:04 +0000</pubDate>
+      <description><![CDATA[<p>灵影正式发布，蚂蚁加码AI终端开放生态</p><p>标签: AI Agent, 蚂蚁集团, 2026 Inclusion·外滩大会</p>]]></description>
+      <category>AI Agent</category>
+      <category>蚂蚁集团</category>
+      <category>2026 Inclusion·外滩大会</category>
+    </item>
     <item>
       <title><![CDATA[Nature封面 | 面向流体动力学的强化学习平台，华盛顿大学等提出HydroGym]]></title>
       <link>https://www.jiqizhixin.com/articles/05709c6e-dbac-4fa1-a456-86f1a6d26449</link>
@@ -109,15 +119,6 @@
       <category>Motus2</category>
       <category>生数科技</category>
       <category>世界模型</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，ECCV最佳论文出炉，李飞飞获时间检验奖]]></title>
-      <link>https://www.jiqizhixin.com/articles/d09738af-b7aa-428a-8a0f-959c047ca7fa</link>
-      <guid>d09738af-b7aa-428a-8a0f-959c047ca7fa</guid>
-      <pubDate>Thu, 10 Sep 2026 17:22:42 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，ECCV最佳论文出炉，李飞飞获时间检验奖</p><p>标签: 时间检验奖, ECCV 2026</p>]]></description>
-      <category>时间检验奖</category>
-      <category>ECCV 2026</category>
     </item>
   </channel>
 </rss>
