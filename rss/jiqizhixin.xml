@@ -4,8 +4,37 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 15 Sep 2026 14:32:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 19:19:53 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[「天赐之物」与「道德风险」，Mu2e项目物理学家谈AI的能与不能]]></title>
+      <link>https://www.jiqizhixin.com/articles/15663d3d-18d3-4520-bbc8-e47af59d2f84</link>
+      <guid>15663d3d-18d3-4520-bbc8-e47af59d2f84</guid>
+      <pubDate>Tue, 15 Sep 2026 19:19:25 +0000</pubDate>
+      <description><![CDATA[<p>「天赐之物」与「道德风险」，Mu2e项目物理学家谈AI的能与不能</p><p>标签: AI for Science（AI4S）, Mu2e, Sarah Demers, 耶鲁大学</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>Mu2e</category>
+      <category>Sarah Demers</category>
+      <category>耶鲁大学</category>
+    </item>
+    <item>
+      <title><![CDATA[实时编辑、实时互动视频双旗舰，Vidu S2发布即体验]]></title>
+      <link>https://www.jiqizhixin.com/articles/3b4574a2-f694-4063-8d30-279239e6ba8a</link>
+      <guid>3b4574a2-f694-4063-8d30-279239e6ba8a</guid>
+      <pubDate>Tue, 15 Sep 2026 19:19:24 +0000</pubDate>
+      <description><![CDATA[<p>实时编辑、实时互动视频双旗舰，Vidu S2发布即体验</p><p>标签: Vidu S2, 生数科技</p>]]></description>
+      <category>Vidu S2</category>
+      <category>生数科技</category>
+    </item>
+    <item>
+      <title><![CDATA[高德联合南大、清华、北大发布WorldRoamBench，定义交互式世界模型长时漫游评测新范式]]></title>
+      <link>https://www.jiqizhixin.com/articles/b7caf801-01f4-4dc9-ab7b-334811a0c12a</link>
+      <guid>b7caf801-01f4-4dc9-ab7b-334811a0c12a</guid>
+      <pubDate>Tue, 15 Sep 2026 19:19:52 +0000</pubDate>
+      <description><![CDATA[<p>高德联合南大、清华、北大发布WorldRoamBench，定义交互式世界模型长时漫游评测新范式</p><p>标签: WorldRoamBench, 高德地图</p>]]></description>
+      <category>WorldRoamBench</category>
+      <category>高德地图</category>
+    </item>
     <item>
       <title><![CDATA[卡位具身智能规模化落地“最后一公里”！无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA]]></title>
       <link>https://www.jiqizhixin.com/articles/6ed8c0b2-628d-45cc-af28-b9ab94ccdd0d</link>
@@ -92,34 +121,6 @@
       <category>looped transformer</category>
       <category>Sebastian Raschka</category>
       <category>GPT-6 Astra</category>
-    </item>
-    <item>
-      <title><![CDATA[「人类造的最后一个AI」还有多远？一张图看懂OpenAI、Anthropic等大厂的RSI进度]]></title>
-      <link>https://www.jiqizhixin.com/articles/f4407a48-3f99-461d-bd79-484a478c13d2</link>
-      <guid>f4407a48-3f99-461d-bd79-484a478c13d2</guid>
-      <pubDate>Mon, 14 Sep 2026 07:16:25 +0000</pubDate>
-      <description><![CDATA[<p>「人类造的最后一个AI」还有多远？一张图看懂OpenAI、Anthropic等大厂的RSI进度</p><p>标签: Theseus Labs, 递归式自我改进</p>]]></description>
-      <category>Theseus Labs</category>
-      <category>递归式自我改进</category>
-    </item>
-    <item>
-      <title><![CDATA[当AI幻觉开始操作电脑：深大、港科大提出ECA，让Agent行动前先验证证据]]></title>
-      <link>https://www.jiqizhixin.com/articles/444c6764-9981-4f3c-a83e-97e740db01ad</link>
-      <guid>444c6764-9981-4f3c-a83e-97e740db01ad</guid>
-      <pubDate>Mon, 14 Sep 2026 07:16:28 +0000</pubDate>
-      <description><![CDATA[<p>当AI幻觉开始操作电脑：深大、港科大提出ECA，让Agent行动前先验证证据</p><p>标签: ECA（Evidence-Carrying Multimodal Agents）, 香港科技大学, 深圳大学</p>]]></description>
-      <category>ECA（Evidence-Carrying Multimodal Agents）</category>
-      <category>香港科技大学</category>
-      <category>深圳大学</category>
-    </item>
-    <item>
-      <title><![CDATA[豆包手机助手发布消费者版本 首款新机将于9月16日正式开售]]></title>
-      <link>https://www.jiqizhixin.com/articles/ec2016f2-990d-4c4e-bed1-02dfe68d3f30</link>
-      <guid>ec2016f2-990d-4c4e-bed1-02dfe68d3f30</guid>
-      <pubDate>Mon, 14 Sep 2026 07:17:02 +0000</pubDate>
-      <description><![CDATA[<p>豆包手机助手发布消费者版本 首款新机将于9月16日正式开售</p><p>标签: 努比亚 NaviX Ultra, 豆包手机助手</p>]]></description>
-      <category>努比亚 NaviX Ultra</category>
-      <category>豆包手机助手</category>
     </item>
   </channel>
 </rss>
