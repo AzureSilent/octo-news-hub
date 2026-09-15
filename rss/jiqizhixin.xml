@@ -4,8 +4,18 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 15 Sep 2026 09:04:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 14:32:29 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[卡位具身智能规模化落地“最后一公里”！无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA]]></title>
+      <link>https://www.jiqizhixin.com/articles/6ed8c0b2-628d-45cc-af28-b9ab94ccdd0d</link>
+      <guid>6ed8c0b2-628d-45cc-af28-b9ab94ccdd0d</guid>
+      <pubDate>Tue, 15 Sep 2026 14:32:05 +0000</pubDate>
+      <description><![CDATA[<p>卡位具身智能规模化落地“最后一公里”！无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA</p><p>标签: APXInf, 清华大学, 无问芯穹（Infinigence-AI）</p>]]></description>
+      <category>APXInf</category>
+      <category>清华大学</category>
+      <category>无问芯穹（Infinigence-AI）</category>
+    </item>
     <item>
       <title><![CDATA[在多项高难度Benchmark超越GPT-6 Astra，RSIAgent让开源模型自主探索新环境]]></title>
       <link>https://www.jiqizhixin.com/articles/77500c0d-10d3-4ae0-8c0e-710ab89b8b48</link>
@@ -25,6 +35,26 @@
       <category>MBZUAI</category>
     </item>
     <item>
+      <title><![CDATA[飞书 CEO 谢欣：飞书与豆包工作是 AI 时代的最优解]]></title>
+      <link>https://www.jiqizhixin.com/articles/d97e4b0c-c687-4426-bfc8-dad5d52076b9</link>
+      <guid>d97e4b0c-c687-4426-bfc8-dad5d52076b9</guid>
+      <pubDate>Tue, 15 Sep 2026 14:31:24 +0000</pubDate>
+      <description><![CDATA[<p>飞书 CEO 谢欣：飞书与豆包工作是 AI 时代的最优解</p><p>标签: 豆包工作, 飞书, 2026 飞书未来无限大会</p>]]></description>
+      <category>豆包工作</category>
+      <category>飞书</category>
+      <category>2026 飞书未来无限大会</category>
+    </item>
+    <item>
+      <title><![CDATA[从Chat、Code到Discovery，AI开始学着做科学家]]></title>
+      <link>https://www.jiqizhixin.com/articles/32879445-6d1b-42ac-bfad-d3a21634b837</link>
+      <guid>32879445-6d1b-42ac-bfad-d3a21634b837</guid>
+      <pubDate>Tue, 15 Sep 2026 14:31:53 +0000</pubDate>
+      <description><![CDATA[<p>从Chat、Code到Discovery，AI开始学着做科学家</p><p>标签: Discovery Loop, PhAI Labs, Jeff Dean</p>]]></description>
+      <category>Discovery Loop</category>
+      <category>PhAI Labs</category>
+      <category>Jeff Dean</category>
+    </item>
+    <item>
       <title><![CDATA[ECCV 2026｜不靠「上帝视角」，也不等「完美指令」：REAL 让具身智能体走向开放世界]]></title>
       <link>https://www.jiqizhixin.com/articles/eacdc763-e999-4616-be9a-859530834a6f</link>
       <guid>eacdc763-e999-4616-be9a-859530834a6f</guid>
@@ -42,6 +72,16 @@
       <category>Anthropic</category>
       <category>Palantir</category>
       <category>英伟达</category>
+    </item>
+    <item>
+      <title><![CDATA[Claude Mods开始上线，社区用插件「魔改」Claude Code]]></title>
+      <link>https://www.jiqizhixin.com/articles/dda864f2-0111-4956-95fd-242a1a20e82f</link>
+      <guid>dda864f2-0111-4956-95fd-242a1a20e82f</guid>
+      <pubDate>Tue, 15 Sep 2026 14:32:29 +0000</pubDate>
+      <description><![CDATA[<p>Claude Mods开始上线，社区用插件「魔改」Claude Code</p><p>标签: Anthropic, Claude Mods, Claude Code</p>]]></description>
+      <category>Anthropic</category>
+      <category>Claude Mods</category>
+      <category>Claude Code</category>
     </item>
     <item>
       <title><![CDATA[万字详解GPT-6 Astra，Sebastian Raschka带你读懂循环Transformer与隐藏的思维链]]></title>
