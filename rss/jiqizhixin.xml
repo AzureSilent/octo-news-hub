@@ -4,8 +4,86 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 16 Sep 2026 01:54:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 06:56:56 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[豆包 2.1 Pro模型更新，已接入豆包工作]]></title>
+      <link>https://www.jiqizhixin.com/articles/37ab2128-1a25-4185-b45a-3f732465c1f3</link>
+      <guid>37ab2128-1a25-4185-b45a-3f732465c1f3</guid>
+      <pubDate>Wed, 16 Sep 2026 06:55:30 +0000</pubDate>
+      <description><![CDATA[<p>豆包 2.1 Pro模型更新，已接入豆包工作</p><p>标签: 豆包工作, 豆包 2.1 Pro</p>]]></description>
+      <category>豆包工作</category>
+      <category>豆包 2.1 Pro</category>
+    </item>
+    <item>
+      <title><![CDATA[大卫贝克主导，9460万美元计划要AI自己实现蛋白质学习设计]]></title>
+      <link>https://www.jiqizhixin.com/articles/67e8d7de-e269-4191-9c1e-766f880d9171</link>
+      <guid>67e8d7de-e269-4191-9c1e-766f880d9171</guid>
+      <pubDate>Wed, 16 Sep 2026 06:55:29 +0000</pubDate>
+      <description><![CDATA[<p>大卫贝克主导，9460万美元计划要AI自己实现蛋白质学习设计</p><p>标签: AI for Science（AI4S）, 蛋白质设计, Allen Institute, AI BioDesign</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>蛋白质设计</category>
+      <category>Allen Institute</category>
+      <category>AI BioDesign</category>
+    </item>
+    <item>
+      <title><![CDATA[本地该怎么做RSI？我们与StartLux CTO聊了聊]]></title>
+      <link>https://www.jiqizhixin.com/articles/e650c6e3-4d4a-4305-b1ec-430635387adc</link>
+      <guid>e650c6e3-4d4a-4305-b1ec-430635387adc</guid>
+      <pubDate>Wed, 16 Sep 2026 06:55:58 +0000</pubDate>
+      <description><![CDATA[<p>本地该怎么做RSI？我们与StartLux CTO聊了聊</p><p>标签: 郭权玮, 递归自我改进, StartLux</p>]]></description>
+      <category>郭权玮</category>
+      <category>递归自我改进</category>
+      <category>StartLux</category>
+    </item>
+    <item>
+      <title><![CDATA[复杂的Harness Evolution，甚至不如多跑几遍]]></title>
+      <link>https://www.jiqizhixin.com/articles/c70ba31b-6f2f-46ee-8b91-70c4603d576f</link>
+      <guid>c70ba31b-6f2f-46ee-8b91-70c4603d576f</guid>
+      <pubDate>Wed, 16 Sep 2026 06:56:00 +0000</pubDate>
+      <description><![CDATA[<p>复杂的Harness Evolution，甚至不如多跑几遍</p><p>标签: 华盛顿大学, AI2, Harness Evolution</p>]]></description>
+      <category>华盛顿大学</category>
+      <category>AI2</category>
+      <category>Harness Evolution</category>
+    </item>
+    <item>
+      <title><![CDATA[换题还是第一！DM0.5横扫RoboColiseum四榜]]></title>
+      <link>https://www.jiqizhixin.com/articles/14ac4c83-b05a-423a-a144-9da2f5841f09</link>
+      <guid>14ac4c83-b05a-423a-a144-9da2f5841f09</guid>
+      <pubDate>Wed, 16 Sep 2026 06:56:26 +0000</pubDate>
+      <description><![CDATA[<p>换题还是第一！DM0.5横扫RoboColiseum四榜</p><p>标签: DM0.5, 原力灵机, 具身智能</p>]]></description>
+      <category>DM0.5</category>
+      <category>原力灵机</category>
+      <category>具身智能</category>
+    </item>
+    <item>
+      <title><![CDATA[清华团队再探 On-Policy Distillation：数据撑死，算法饿死]]></title>
+      <link>https://www.jiqizhixin.com/articles/15c439eb-392b-4feb-930a-99ffad3810bb</link>
+      <guid>15c439eb-392b-4feb-930a-99ffad3810bb</guid>
+      <pubDate>Wed, 16 Sep 2026 06:56:27 +0000</pubDate>
+      <description><![CDATA[<p>清华团队再探 On-Policy Distillation：数据撑死，算法饿死</p><p>标签: On-Policy Distillation, 清华大学</p>]]></description>
+      <category>On-Policy Distillation</category>
+      <category>清华大学</category>
+    </item>
+    <item>
+      <title><![CDATA[GPT-6 Sol要来了？OpenAI本周或迎「发布狂潮」]]></title>
+      <link>https://www.jiqizhixin.com/articles/b240da03-6d4c-42ad-b70c-b6632178fde1</link>
+      <guid>b240da03-6d4c-42ad-b70c-b6632178fde1</guid>
+      <pubDate>Wed, 16 Sep 2026 06:56:54 +0000</pubDate>
+      <description><![CDATA[<p>GPT-6 Sol要来了？OpenAI本周或迎「发布狂潮」</p><p>标签: GPT-6 Sol, OpenAI</p>]]></description>
+      <category>GPT-6 Sol</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[别让Agent瞎想乱搜还闯祸：哪些能力该内化进模型，哪些必须交给Harness，这篇讲透]]></title>
+      <link>https://www.jiqizhixin.com/articles/af097533-9b87-4598-8a34-b0bfa923e52c</link>
+      <guid>af097533-9b87-4598-8a34-b0bfa923e52c</guid>
+      <pubDate>Wed, 16 Sep 2026 06:56:56 +0000</pubDate>
+      <description><![CDATA[<p>别让Agent瞎想乱搜还闯祸：哪些能力该内化进模型，哪些必须交给Harness，这篇讲透</p><p>标签: Theory of Agent, 北京航空航天大学, 南方科技大学</p>]]></description>
+      <category>Theory of Agent</category>
+      <category>北京航空航天大学</category>
+      <category>南方科技大学</category>
+    </item>
     <item>
       <title><![CDATA[「天赐之物」与「道德风险」，Mu2e项目物理学家谈AI的能与不能]]></title>
       <link>https://www.jiqizhixin.com/articles/15663d3d-18d3-4520-bbc8-e47af59d2f84</link>
@@ -44,83 +122,6 @@
       <category>APXInf</category>
       <category>清华大学</category>
       <category>无问芯穹（Infinigence-AI）</category>
-    </item>
-    <item>
-      <title><![CDATA[在多项高难度Benchmark超越GPT-6 Astra，RSIAgent让开源模型自主探索新环境]]></title>
-      <link>https://www.jiqizhixin.com/articles/77500c0d-10d3-4ae0-8c0e-710ab89b8b48</link>
-      <guid>77500c0d-10d3-4ae0-8c0e-710ab89b8b48</guid>
-      <pubDate>Tue, 15 Sep 2026 09:01:00 +0000</pubDate>
-      <description><![CDATA[<p>在多项高难度Benchmark超越GPT-6 Astra，RSIAgent让开源模型自主探索新环境</p><p>标签: RSIAgent, Aether AI, 因果智能</p>]]></description>
-      <category>RSIAgent</category>
-      <category>Aether AI</category>
-      <category>因果智能</category>
-    </item>
-    <item>
-      <title><![CDATA[全奖读AI！人工智能排名前十的MBZUAI本硕博招生启动]]></title>
-      <link>https://www.jiqizhixin.com/articles/486f9014-3782-4489-b084-14363d280efd</link>
-      <guid>486f9014-3782-4489-b084-14363d280efd</guid>
-      <pubDate>Tue, 15 Sep 2026 09:01:30 +0000</pubDate>
-      <description><![CDATA[<p>全奖读AI！人工智能排名前十的MBZUAI本硕博招生启动</p><p>标签: MBZUAI</p>]]></description>
-      <category>MBZUAI</category>
-    </item>
-    <item>
-      <title><![CDATA[飞书 CEO 谢欣：飞书与豆包工作是 AI 时代的最优解]]></title>
-      <link>https://www.jiqizhixin.com/articles/d97e4b0c-c687-4426-bfc8-dad5d52076b9</link>
-      <guid>d97e4b0c-c687-4426-bfc8-dad5d52076b9</guid>
-      <pubDate>Tue, 15 Sep 2026 14:31:24 +0000</pubDate>
-      <description><![CDATA[<p>飞书 CEO 谢欣：飞书与豆包工作是 AI 时代的最优解</p><p>标签: 豆包工作, 飞书, 2026 飞书未来无限大会</p>]]></description>
-      <category>豆包工作</category>
-      <category>飞书</category>
-      <category>2026 飞书未来无限大会</category>
-    </item>
-    <item>
-      <title><![CDATA[从Chat、Code到Discovery，AI开始学着做科学家]]></title>
-      <link>https://www.jiqizhixin.com/articles/32879445-6d1b-42ac-bfad-d3a21634b837</link>
-      <guid>32879445-6d1b-42ac-bfad-d3a21634b837</guid>
-      <pubDate>Tue, 15 Sep 2026 14:31:53 +0000</pubDate>
-      <description><![CDATA[<p>从Chat、Code到Discovery，AI开始学着做科学家</p><p>标签: Discovery Loop, PhAI Labs, Jeff Dean</p>]]></description>
-      <category>Discovery Loop</category>
-      <category>PhAI Labs</category>
-      <category>Jeff Dean</category>
-    </item>
-    <item>
-      <title><![CDATA[ECCV 2026｜不靠「上帝视角」，也不等「完美指令」：REAL 让具身智能体走向开放世界]]></title>
-      <link>https://www.jiqizhixin.com/articles/eacdc763-e999-4616-be9a-859530834a6f</link>
-      <guid>eacdc763-e999-4616-be9a-859530834a6f</guid>
-      <pubDate>Tue, 15 Sep 2026 09:03:00 +0000</pubDate>
-      <description><![CDATA[<p>ECCV 2026｜不靠「上帝视角」，也不等「完美指令」：REAL 让具身智能体走向开放世界</p><p>标签: REAL, ECCV 2026</p>]]></description>
-      <category>REAL</category>
-      <category>ECCV 2026</category>
-    </item>
-    <item>
-      <title><![CDATA[英伟达，开始限制Claude使用了]]></title>
-      <link>https://www.jiqizhixin.com/articles/4f4af821-665c-4c4d-a654-7d0cb6f1c311</link>
-      <guid>4f4af821-665c-4c4d-a654-7d0cb6f1c311</guid>
-      <pubDate>Tue, 15 Sep 2026 09:03:43 +0000</pubDate>
-      <description><![CDATA[<p>英伟达，开始限制Claude使用了</p><p>标签: Anthropic, Palantir, 英伟达</p>]]></description>
-      <category>Anthropic</category>
-      <category>Palantir</category>
-      <category>英伟达</category>
-    </item>
-    <item>
-      <title><![CDATA[Claude Mods开始上线，社区用插件「魔改」Claude Code]]></title>
-      <link>https://www.jiqizhixin.com/articles/dda864f2-0111-4956-95fd-242a1a20e82f</link>
-      <guid>dda864f2-0111-4956-95fd-242a1a20e82f</guid>
-      <pubDate>Tue, 15 Sep 2026 14:32:29 +0000</pubDate>
-      <description><![CDATA[<p>Claude Mods开始上线，社区用插件「魔改」Claude Code</p><p>标签: Anthropic, Claude Mods, Claude Code</p>]]></description>
-      <category>Anthropic</category>
-      <category>Claude Mods</category>
-      <category>Claude Code</category>
-    </item>
-    <item>
-      <title><![CDATA[万字详解GPT-6 Astra，Sebastian Raschka带你读懂循环Transformer与隐藏的思维链]]></title>
-      <link>https://www.jiqizhixin.com/articles/fbfc3eca-ce20-49c7-80be-5fdc5b9ee061</link>
-      <guid>fbfc3eca-ce20-49c7-80be-5fdc5b9ee061</guid>
-      <pubDate>Tue, 15 Sep 2026 09:04:11 +0000</pubDate>
-      <description><![CDATA[<p>万字详解GPT-6 Astra，Sebastian Raschka带你读懂循环Transformer与隐藏的思维链</p><p>标签: looped transformer, Sebastian Raschka, GPT-6 Astra</p>]]></description>
-      <category>looped transformer</category>
-      <category>Sebastian Raschka</category>
-      <category>GPT-6 Astra</category>
     </item>
   </channel>
 </rss>
