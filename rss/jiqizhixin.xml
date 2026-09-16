@@ -4,8 +4,59 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 16 Sep 2026 06:56:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 12:54:54 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[OpenAI百亿投入砸向具身，机器人竞争进入数据与算力时代]]></title>
+      <link>https://www.jiqizhixin.com/articles/6a937ace-6829-49eb-aaf5-c771045a6644</link>
+      <guid>6a937ace-6829-49eb-aaf5-c771045a6644</guid>
+      <pubDate>Wed, 16 Sep 2026 12:53:54 +0000</pubDate>
+      <description><![CDATA[<p>OpenAI百亿投入砸向具身，机器人竞争进入数据与算力时代</p><p>标签: GPT-6 Astra, 具身智能, 银河通用</p>]]></description>
+      <category>GPT-6 Astra</category>
+      <category>具身智能</category>
+      <category>银河通用</category>
+    </item>
+    <item>
+      <title><![CDATA[AI会做题，却未必能自进化：字节Seed等提出三项新基准]]></title>
+      <link>https://www.jiqizhixin.com/articles/9b716e50-823e-435e-bab0-58f18df46891</link>
+      <guid>9b716e50-823e-435e-bab0-58f18df46891</guid>
+      <pubDate>Wed, 16 Sep 2026 12:53:54 +0000</pubDate>
+      <description><![CDATA[<p>AI会做题，却未必能自进化：字节Seed等提出三项新基准</p><p>标签: HarnessDev, S³Gym, ASPIRE</p>]]></description>
+      <category>HarnessDev</category>
+      <category>S³Gym</category>
+      <category>ASPIRE</category>
+    </item>
+    <item>
+      <title><![CDATA[全球首款AI智能体手机正式上市！努比亚NaviX Ultra 5499元起]]></title>
+      <link>https://www.jiqizhixin.com/articles/d502650b-3f9b-42a0-b7a8-7f2652546d88</link>
+      <guid>d502650b-3f9b-42a0-b7a8-7f2652546d88</guid>
+      <pubDate>Wed, 16 Sep 2026 12:54:24 +0000</pubDate>
+      <description><![CDATA[<p>全球首款AI智能体手机正式上市！努比亚NaviX Ultra 5499元起</p><p>标签: 努比亚NaviX Ultra, 豆包手机助手</p>]]></description>
+      <category>努比亚NaviX Ultra</category>
+      <category>豆包手机助手</category>
+    </item>
+    <item>
+      <title><![CDATA[天玑9600 Pro发布：330亿晶体管、双超大核4.55GHz]]></title>
+      <link>https://www.jiqizhixin.com/articles/e47c72f8-35b5-46f4-8371-f7ccbccfe282</link>
+      <guid>e47c72f8-35b5-46f4-8371-f7ccbccfe282</guid>
+      <pubDate>Wed, 16 Sep 2026 12:54:25 +0000</pubDate>
+      <description><![CDATA[<p>天玑9600 Pro发布：330亿晶体管、双超大核4.55GHz</p><p>标签: OPPO, VIVO, AI 芯片技术, AI 智能体, NPU, 联发科</p>]]></description>
+      <category>OPPO</category>
+      <category>VIVO</category>
+      <category>AI 芯片技术</category>
+      <category>AI 智能体</category>
+      <category>NPU</category>
+      <category>联发科</category>
+    </item>
+    <item>
+      <title><![CDATA[击败Google，清华团队LimiX-2登顶国际主流Benchmark]]></title>
+      <link>https://www.jiqizhixin.com/articles/3abf186d-8fa2-49c3-9def-0a983b4b1c79</link>
+      <guid>3abf186d-8fa2-49c3-9def-0a983b4b1c79</guid>
+      <pubDate>Wed, 16 Sep 2026 12:54:54 +0000</pubDate>
+      <description><![CDATA[<p>击败Google，清华团队LimiX-2登顶国际主流Benchmark</p><p>标签: 稳准智能, LimiX-2</p>]]></description>
+      <category>稳准智能</category>
+      <category>LimiX-2</category>
+    </item>
     <item>
       <title><![CDATA[豆包 2.1 Pro模型更新，已接入豆包工作]]></title>
       <link>https://www.jiqizhixin.com/articles/37ab2128-1a25-4185-b45a-3f732465c1f3</link>
@@ -73,55 +124,6 @@
       <description><![CDATA[<p>GPT-6 Sol要来了？OpenAI本周或迎「发布狂潮」</p><p>标签: GPT-6 Sol, OpenAI</p>]]></description>
       <category>GPT-6 Sol</category>
       <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[别让Agent瞎想乱搜还闯祸：哪些能力该内化进模型，哪些必须交给Harness，这篇讲透]]></title>
-      <link>https://www.jiqizhixin.com/articles/af097533-9b87-4598-8a34-b0bfa923e52c</link>
-      <guid>af097533-9b87-4598-8a34-b0bfa923e52c</guid>
-      <pubDate>Wed, 16 Sep 2026 06:56:56 +0000</pubDate>
-      <description><![CDATA[<p>别让Agent瞎想乱搜还闯祸：哪些能力该内化进模型，哪些必须交给Harness，这篇讲透</p><p>标签: Theory of Agent, 北京航空航天大学, 南方科技大学</p>]]></description>
-      <category>Theory of Agent</category>
-      <category>北京航空航天大学</category>
-      <category>南方科技大学</category>
-    </item>
-    <item>
-      <title><![CDATA[「天赐之物」与「道德风险」，Mu2e项目物理学家谈AI的能与不能]]></title>
-      <link>https://www.jiqizhixin.com/articles/15663d3d-18d3-4520-bbc8-e47af59d2f84</link>
-      <guid>15663d3d-18d3-4520-bbc8-e47af59d2f84</guid>
-      <pubDate>Tue, 15 Sep 2026 19:19:25 +0000</pubDate>
-      <description><![CDATA[<p>「天赐之物」与「道德风险」，Mu2e项目物理学家谈AI的能与不能</p><p>标签: AI for Science（AI4S）, Mu2e, Sarah Demers, 耶鲁大学</p>]]></description>
-      <category>AI for Science（AI4S）</category>
-      <category>Mu2e</category>
-      <category>Sarah Demers</category>
-      <category>耶鲁大学</category>
-    </item>
-    <item>
-      <title><![CDATA[实时编辑、实时互动视频双旗舰，Vidu S2发布即体验]]></title>
-      <link>https://www.jiqizhixin.com/articles/3b4574a2-f694-4063-8d30-279239e6ba8a</link>
-      <guid>3b4574a2-f694-4063-8d30-279239e6ba8a</guid>
-      <pubDate>Tue, 15 Sep 2026 19:19:24 +0000</pubDate>
-      <description><![CDATA[<p>实时编辑、实时互动视频双旗舰，Vidu S2发布即体验</p><p>标签: Vidu S2, 生数科技</p>]]></description>
-      <category>Vidu S2</category>
-      <category>生数科技</category>
-    </item>
-    <item>
-      <title><![CDATA[高德联合南大、清华、北大发布WorldRoamBench，定义交互式世界模型长时漫游评测新范式]]></title>
-      <link>https://www.jiqizhixin.com/articles/b7caf801-01f4-4dc9-ab7b-334811a0c12a</link>
-      <guid>b7caf801-01f4-4dc9-ab7b-334811a0c12a</guid>
-      <pubDate>Tue, 15 Sep 2026 19:19:52 +0000</pubDate>
-      <description><![CDATA[<p>高德联合南大、清华、北大发布WorldRoamBench，定义交互式世界模型长时漫游评测新范式</p><p>标签: WorldRoamBench, 高德地图</p>]]></description>
-      <category>WorldRoamBench</category>
-      <category>高德地图</category>
-    </item>
-    <item>
-      <title><![CDATA[卡位具身智能规模化落地“最后一公里”！无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA]]></title>
-      <link>https://www.jiqizhixin.com/articles/6ed8c0b2-628d-45cc-af28-b9ab94ccdd0d</link>
-      <guid>6ed8c0b2-628d-45cc-af28-b9ab94ccdd0d</guid>
-      <pubDate>Tue, 15 Sep 2026 14:32:05 +0000</pubDate>
-      <description><![CDATA[<p>卡位具身智能规模化落地“最后一公里”！无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA</p><p>标签: APXInf, 清华大学, 无问芯穹（Infinigence-AI）</p>]]></description>
-      <category>APXInf</category>
-      <category>清华大学</category>
-      <category>无问芯穹（Infinigence-AI）</category>
     </item>
   </channel>
 </rss>
