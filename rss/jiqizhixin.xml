@@ -4,8 +4,28 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 17 Sep 2026 09:00:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 14:30:25 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[安芯启程｜安芯724北京基地正式投产]]></title>
+      <link>https://www.jiqizhixin.com/articles/baf35785-cc77-4ff7-bf60-28a9c1d49723</link>
+      <guid>baf35785-cc77-4ff7-bf60-28a9c1d49723</guid>
+      <pubDate>Thu, 17 Sep 2026 14:30:25 +0000</pubDate>
+      <description><![CDATA[<p>安芯启程｜安芯724北京基地正式投产</p><p>标签: 安芯724北京基地, 安芯724</p>]]></description>
+      <category>安芯724北京基地</category>
+      <category>安芯724</category>
+    </item>
+    <item>
+      <title><![CDATA[Nature封面 | 打破高分辨率限制，谷歌AI气象模型精准预测台风路径]]></title>
+      <link>https://www.jiqizhixin.com/articles/a6a9a4a8-91a3-4f82-af9a-1998b8da2a5e</link>
+      <guid>a6a9a4a8-91a3-4f82-af9a-1998b8da2a5e</guid>
+      <pubDate>Thu, 17 Sep 2026 14:30:25 +0000</pubDate>
+      <description><![CDATA[<p>Nature封面 | 打破高分辨率限制，谷歌AI气象模型精准预测台风路径</p><p>标签: AI for Science（AI4S）, 气象预报, WeatherNext Cyclones, 谷歌</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>气象预报</category>
+      <category>WeatherNext Cyclones</category>
+      <category>谷歌</category>
+    </item>
     <item>
       <title><![CDATA[开源模型夯爆了！ZDTaichu5.0-9B，10B以内空间具身智能卷出通用类第一]]></title>
       <link>https://www.jiqizhixin.com/articles/da3fbafc-55a2-4ee8-8c88-3deeee9f13dc</link>
@@ -97,26 +117,6 @@
       <description><![CDATA[<p>刚刚，Anthropic关闭Claude Cowork独立入口，与Chat合并</p><p>标签: Claude, Claude Cowork</p>]]></description>
       <category>Claude</category>
       <category>Claude Cowork</category>
-    </item>
-    <item>
-      <title><![CDATA[Meshy: 角色驱动下SPMD范式的RL训练框架]]></title>
-      <link>https://www.jiqizhixin.com/articles/bb634257-e167-4167-9e32-2bbbf7aab66e</link>
-      <guid>bb634257-e167-4167-9e32-2bbbf7aab66e</guid>
-      <pubDate>Thu, 17 Sep 2026 09:00:40 +0000</pubDate>
-      <description><![CDATA[<p>Meshy: 角色驱动下SPMD范式的RL训练框架</p><p>标签: SPMD, Single-Controller, Meshy</p>]]></description>
-      <category>SPMD</category>
-      <category>Single-Controller</category>
-      <category>Meshy</category>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI百亿投入砸向具身，机器人竞争进入数据与算力时代]]></title>
-      <link>https://www.jiqizhixin.com/articles/6a937ace-6829-49eb-aaf5-c771045a6644</link>
-      <guid>6a937ace-6829-49eb-aaf5-c771045a6644</guid>
-      <pubDate>Wed, 16 Sep 2026 12:53:54 +0000</pubDate>
-      <description><![CDATA[<p>OpenAI百亿投入砸向具身，机器人竞争进入数据与算力时代</p><p>标签: GPT-6 Astra, 具身智能, 银河通用</p>]]></description>
-      <category>GPT-6 Astra</category>
-      <category>具身智能</category>
-      <category>银河通用</category>
     </item>
   </channel>
 </rss>
