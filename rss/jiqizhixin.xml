@@ -4,8 +4,48 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 18 Sep 2026 06:48:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 12:25:39 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[刚刚，Claude四周重写30个生物模型，ScienceIDE已规模化训练AI科学家]]></title>
+      <link>https://www.jiqizhixin.com/articles/1b8b099f-cfa7-4b5e-9985-aff54401b145</link>
+      <guid>1b8b099f-cfa7-4b5e-9985-aff54401b145</guid>
+      <pubDate>Fri, 18 Sep 2026 12:25:08 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，Claude四周重写30个生物模型，ScienceIDE已规模化训练AI科学家</p><p>标签: PLUTO, ScienceIDE, AItonomy Foundation</p>]]></description>
+      <category>PLUTO</category>
+      <category>ScienceIDE</category>
+      <category>AItonomy Foundation</category>
+    </item>
+    <item>
+      <title><![CDATA[Claude，黑进了OpenAI]]></title>
+      <link>https://www.jiqizhixin.com/articles/1494c009-80fb-4058-8b69-d1991ab01e1d</link>
+      <guid>1494c009-80fb-4058-8b69-d1991ab01e1d</guid>
+      <pubDate>Fri, 18 Sep 2026 12:25:08 +0000</pubDate>
+      <description><![CDATA[<p>Claude，黑进了OpenAI</p><p>标签: s1r1us, OpenAI, Claude</p>]]></description>
+      <category>s1r1us</category>
+      <category>OpenAI</category>
+      <category>Claude</category>
+    </item>
+    <item>
+      <title><![CDATA[火山引擎×AMD助力砹脉营销（A.M.A）以Seedance重塑汽车营销新范式]]></title>
+      <link>https://www.jiqizhixin.com/articles/6285e259-e417-40db-9e67-d91d5e2279d5</link>
+      <guid>6285e259-e417-40db-9e67-d91d5e2279d5</guid>
+      <pubDate>Fri, 18 Sep 2026 12:25:39 +0000</pubDate>
+      <description><![CDATA[<p>火山引擎×AMD助力砹脉营销（A.M.A）以Seedance重塑汽车营销新范式</p><p>标签: AMD, Seedance 2.0, 火山引擎</p>]]></description>
+      <category>AMD</category>
+      <category>Seedance 2.0</category>
+      <category>火山引擎</category>
+    </item>
+    <item>
+      <title><![CDATA[中山大学、南洋理工大学、混沌摆实验室提出 ProSA 多模态文档解析评测框架｜EMNLP 2026]]></title>
+      <link>https://www.jiqizhixin.com/articles/2d1c0708-66d4-46cc-8fbf-a5ff78a73b6f</link>
+      <guid>2d1c0708-66d4-46cc-8fbf-a5ff78a73b6f</guid>
+      <pubDate>Fri, 18 Sep 2026 12:25:39 +0000</pubDate>
+      <description><![CDATA[<p>中山大学、南洋理工大学、混沌摆实验室提出 ProSA 多模态文档解析评测框架｜EMNLP 2026</p><p>标签: 中山大学, EMNLP 2026, ProSA</p>]]></description>
+      <category>中山大学</category>
+      <category>EMNLP 2026</category>
+      <category>ProSA</category>
+    </item>
     <item>
       <title><![CDATA[Hinton预言十年后，阿里通用医疗影像AI登Science正刊]]></title>
       <link>https://www.jiqizhixin.com/articles/c045f85f-66a9-492f-a7d8-2434651b3bb2</link>
@@ -82,44 +122,6 @@
       <description><![CDATA[<p>Claude自我进化突然变快：半年时间，从1%到26%</p><p>标签: Claude, Anthropic</p>]]></description>
       <category>Claude</category>
       <category>Anthropic</category>
-    </item>
-    <item>
-      <title><![CDATA[TPAMI26 | 全面升级PolaFormer++：极性感知计算流 +通道级尖峰，实现线性注意力的新天花板]]></title>
-      <link>https://www.jiqizhixin.com/articles/779543c1-485b-48c6-b9bd-5bc21671a35d</link>
-      <guid>779543c1-485b-48c6-b9bd-5bc21671a35d</guid>
-      <pubDate>Fri, 18 Sep 2026 06:48:25 +0000</pubDate>
-      <description><![CDATA[<p>TPAMI26 | 全面升级PolaFormer++：极性感知计算流 +通道级尖峰，实现线性注意力的新天花板</p><p>标签: PolaFormer++, TPAMI26</p>]]></description>
-      <category>PolaFormer++</category>
-      <category>TPAMI26</category>
-    </item>
-    <item>
-      <title><![CDATA[安芯启程｜安芯724北京基地正式投产]]></title>
-      <link>https://www.jiqizhixin.com/articles/baf35785-cc77-4ff7-bf60-28a9c1d49723</link>
-      <guid>baf35785-cc77-4ff7-bf60-28a9c1d49723</guid>
-      <pubDate>Thu, 17 Sep 2026 14:30:25 +0000</pubDate>
-      <description><![CDATA[<p>安芯启程｜安芯724北京基地正式投产</p><p>标签: 安芯724北京基地, 安芯724</p>]]></description>
-      <category>安芯724北京基地</category>
-      <category>安芯724</category>
-    </item>
-    <item>
-      <title><![CDATA[Nature封面 | 打破高分辨率限制，谷歌AI气象模型精准预测台风路径]]></title>
-      <link>https://www.jiqizhixin.com/articles/a6a9a4a8-91a3-4f82-af9a-1998b8da2a5e</link>
-      <guid>a6a9a4a8-91a3-4f82-af9a-1998b8da2a5e</guid>
-      <pubDate>Thu, 17 Sep 2026 14:30:25 +0000</pubDate>
-      <description><![CDATA[<p>Nature封面 | 打破高分辨率限制，谷歌AI气象模型精准预测台风路径</p><p>标签: AI for Science（AI4S）, 气象预报, WeatherNext Cyclones, 谷歌</p>]]></description>
-      <category>AI for Science（AI4S）</category>
-      <category>气象预报</category>
-      <category>WeatherNext Cyclones</category>
-      <category>谷歌</category>
-    </item>
-    <item>
-      <title><![CDATA[开源模型夯爆了！ZDTaichu5.0-9B，10B以内空间具身智能卷出通用类第一]]></title>
-      <link>https://www.jiqizhixin.com/articles/da3fbafc-55a2-4ee8-8c88-3deeee9f13dc</link>
-      <guid>da3fbafc-55a2-4ee8-8c88-3deeee9f13dc</guid>
-      <pubDate>Thu, 17 Sep 2026 08:58:06 +0000</pubDate>
-      <description><![CDATA[<p>开源模型夯爆了！ZDTaichu5.0-9B，10B以内空间具身智能卷出通用类第一</p><p>标签: ZDTaichu5.0-9B, 紫东太初</p>]]></description>
-      <category>ZDTaichu5.0-9B</category>
-      <category>紫东太初</category>
     </item>
   </channel>
 </rss>
