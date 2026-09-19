@@ -4,8 +4,83 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 19 Sep 2026 12:06:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 16:53:03 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[登顶单细胞与空间组学基准，无界进化开放科研Agent工作台Karl Workbench内测]]></title>
+      <link>https://www.jiqizhixin.com/articles/d7249151-bb15-4a5b-a4da-968b7db297e0</link>
+      <guid>d7249151-bb15-4a5b-a4da-968b7db297e0</guid>
+      <pubDate>Sat, 19 Sep 2026 16:51:37 +0000</pubDate>
+      <description><![CDATA[<p>登顶单细胞与空间组学基准，无界进化开放科研Agent工作台Karl Workbench内测</p><p>标签: Karl Workbench, 无界进化（INFevo）</p>]]></description>
+      <category>Karl Workbench</category>
+      <category>无界进化（INFevo）</category>
+    </item>
+    <item>
+      <title><![CDATA[KV Cache不用「精挑细选」？随机删除媲美最强基线，推理吞吐最高再提43%]]></title>
+      <link>https://www.jiqizhixin.com/articles/3b6bf410-7f8d-4115-a373-29275005cea3</link>
+      <guid>3b6bf410-7f8d-4115-a373-29275005cea3</guid>
+      <pubDate>Sat, 19 Sep 2026 16:51:38 +0000</pubDate>
+      <description><![CDATA[<p>KV Cache不用「精挑细选」？随机删除媲美最强基线，推理吞吐最高再提43%</p><p>标签: UIUC, Salesforce AI Research, Random Attention</p>]]></description>
+      <category>UIUC</category>
+      <category>Salesforce AI Research</category>
+      <category>Random Attention</category>
+    </item>
+    <item>
+      <title><![CDATA[鸿蒙7发布后，手机里的App进入智能体时代了]]></title>
+      <link>https://www.jiqizhixin.com/articles/ab9b3196-dc5b-4562-a4c1-619e948fc56f</link>
+      <guid>ab9b3196-dc5b-4562-a4c1-619e948fc56f</guid>
+      <pubDate>Sat, 19 Sep 2026 16:52:06 +0000</pubDate>
+      <description><![CDATA[<p>鸿蒙7发布后，手机里的App进入智能体时代了</p><p>标签: 华为全场景新品发布会, HarmonyOS 7</p>]]></description>
+      <category>华为全场景新品发布会</category>
+      <category>HarmonyOS 7</category>
+    </item>
+    <item>
+      <title><![CDATA[Astra两周抢走13%份额，Anthropic或提前发新模型]]></title>
+      <link>https://www.jiqizhixin.com/articles/4f8746d2-806c-4119-a45d-cebc151935b8</link>
+      <guid>4f8746d2-806c-4119-a45d-cebc151935b8</guid>
+      <pubDate>Sat, 19 Sep 2026 16:52:07 +0000</pubDate>
+      <description><![CDATA[<p>Astra两周抢走13%份额，Anthropic或提前发新模型</p><p>标签: Dario Amodei, Anthropic</p>]]></description>
+      <category>Dario Amodei</category>
+      <category>Anthropic</category>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic接受OpenAI标准，智能体从此共用一份AGENTS.md]]></title>
+      <link>https://www.jiqizhixin.com/articles/f0aeccff-4570-4a2e-a5ae-1b6f29a86056</link>
+      <guid>f0aeccff-4570-4a2e-a5ae-1b6f29a86056</guid>
+      <pubDate>Sat, 19 Sep 2026 16:52:34 +0000</pubDate>
+      <description><![CDATA[<p>Anthropic接受OpenAI标准，智能体从此共用一份AGENTS.md</p><p>标签: CLAUDE.md, AGENTS.md, OpenAI, Anthropic</p>]]></description>
+      <category>CLAUDE.md</category>
+      <category>AGENTS.md</category>
+      <category>OpenAI</category>
+      <category>Anthropic</category>
+    </item>
+    <item>
+      <title><![CDATA[开源Editable-Design，让AI生图终于能改字、拖图层]]></title>
+      <link>https://www.jiqizhixin.com/articles/f231fb34-12ba-4aec-a9a2-3a7dc7a9a03e</link>
+      <guid>f231fb34-12ba-4aec-a9a2-3a7dc7a9a03e</guid>
+      <pubDate>Sat, 19 Sep 2026 16:52:35 +0000</pubDate>
+      <description><![CDATA[<p>开源Editable-Design，让AI生图终于能改字、拖图层</p><p>标签: Agent Design Replay, Editable Design</p>]]></description>
+      <category>Agent Design Replay</category>
+      <category>Editable Design</category>
+    </item>
+    <item>
+      <title><![CDATA[Fable 5.1超越人类却贵了2.5倍，NeoCognition给Agent进公司算了笔账]]></title>
+      <link>https://www.jiqizhixin.com/articles/40a3b020-fb02-4472-87b0-31dd0aac21f0</link>
+      <guid>40a3b020-fb02-4472-87b0-31dd0aac21f0</guid>
+      <pubDate>Sat, 19 Sep 2026 16:53:03 +0000</pubDate>
+      <description><![CDATA[<p>Fable 5.1超越人类却贵了2.5倍，NeoCognition给Agent进公司算了笔账</p><p>标签: ApprenticeBench, NeoCognition</p>]]></description>
+      <category>ApprenticeBench</category>
+      <category>NeoCognition</category>
+    </item>
+    <item>
+      <title><![CDATA[突发！Anthropic设立生物学实验室，并非专门用于药物发现]]></title>
+      <link>https://www.jiqizhixin.com/articles/50093538-e8a4-47d6-bb9d-e699a4c7518f</link>
+      <guid>50093538-e8a4-47d6-bb9d-e699a4c7518f</guid>
+      <pubDate>Sat, 19 Sep 2026 16:53:03 +0000</pubDate>
+      <description><![CDATA[<p>突发！Anthropic设立生物学实验室，并非专门用于药物发现</p><p>标签: 生物学实验室, Anthropic</p>]]></description>
+      <category>生物学实验室</category>
+      <category>Anthropic</category>
+    </item>
     <item>
       <title><![CDATA[刚刚，Claude四周重写30个生物模型，ScienceIDE已规模化训练AI科学家]]></title>
       <link>https://www.jiqizhixin.com/articles/1b8b099f-cfa7-4b5e-9985-aff54401b145</link>
@@ -45,83 +120,6 @@
       <category>中山大学</category>
       <category>EMNLP 2026</category>
       <category>ProSA</category>
-    </item>
-    <item>
-      <title><![CDATA[Hinton预言十年后，阿里通用医疗影像AI登Science正刊]]></title>
-      <link>https://www.jiqizhixin.com/articles/c045f85f-66a9-492f-a7d8-2434651b3bb2</link>
-      <guid>c045f85f-66a9-492f-a7d8-2434651b3bb2</guid>
-      <pubDate>Fri, 18 Sep 2026 06:46:29 +0000</pubDate>
-      <description><![CDATA[<p>Hinton预言十年后，阿里通用医疗影像AI登Science正刊</p><p>标签: DAMO RADAR, 浙江大学, 阿里达摩院</p>]]></description>
-      <category>DAMO RADAR</category>
-      <category>浙江大学</category>
-      <category>阿里达摩院</category>
-    </item>
-    <item>
-      <title><![CDATA[斯坦福团队让AI组成虚拟药企：多智能体系统共同分析药物研发]]></title>
-      <link>https://www.jiqizhixin.com/articles/a4012330-98a0-4e07-8440-4fd91d386ef3</link>
-      <guid>a4012330-98a0-4e07-8440-4fd91d386ef3</guid>
-      <pubDate>Fri, 18 Sep 2026 06:46:31 +0000</pubDate>
-      <description><![CDATA[<p>斯坦福团队让AI组成虚拟药企：多智能体系统共同分析药物研发</p><p>标签: 斯坦福大学, AI for Science（AI4S）, Virtual Biotech</p>]]></description>
-      <category>斯坦福大学</category>
-      <category>AI for Science（AI4S）</category>
-      <category>Virtual Biotech</category>
-    </item>
-    <item>
-      <title><![CDATA[EMNLP 2026主会｜北大×易鑫AI Lab：大模型明明「知道」，为什么还会答错？]]></title>
-      <link>https://www.jiqizhixin.com/articles/263c53ce-cba5-4e0f-9032-c1c508833880</link>
-      <guid>263c53ce-cba5-4e0f-9032-c1c508833880</guid>
-      <pubDate>Fri, 18 Sep 2026 06:46:59 +0000</pubDate>
-      <description><![CDATA[<p>EMNLP 2026主会｜北大×易鑫AI Lab：大模型明明「知道」，为什么还会答错？</p><p>标签: 易鑫（YIXIN）AI Lab, 北京大学, EMNLP 2026</p>]]></description>
-      <category>易鑫（YIXIN）AI Lab</category>
-      <category>北京大学</category>
-      <category>EMNLP 2026</category>
-    </item>
-    <item>
-      <title><![CDATA[豆包大模型再更新，发力多模态编程，一手实测来了]]></title>
-      <link>https://www.jiqizhixin.com/articles/6631e2fd-2f97-4505-aa72-23439fca6816</link>
-      <guid>6631e2fd-2f97-4505-aa72-23439fca6816</guid>
-      <pubDate>Fri, 18 Sep 2026 06:47:00 +0000</pubDate>
-      <description><![CDATA[<p>豆包大模型再更新，发力多模态编程，一手实测来了</p><p>标签: 字节跳动, 豆包 2.1 Pro</p>]]></description>
-      <category>字节跳动</category>
-      <category>豆包 2.1 Pro</category>
-    </item>
-    <item>
-      <title><![CDATA[大模型Scaling撞上成本墙：三星提出TrOPD新方法，把前沿智能塞进数亿终端]]></title>
-      <link>https://www.jiqizhixin.com/articles/b5d14e3b-5128-4be0-97ac-c182e7a89c6e</link>
-      <guid>b5d14e3b-5128-4be0-97ac-c182e7a89c6e</guid>
-      <pubDate>Fri, 18 Sep 2026 06:47:28 +0000</pubDate>
-      <description><![CDATA[<p>大模型Scaling撞上成本墙：三星提出TrOPD新方法，把前沿智能塞进数亿终端</p><p>标签: OPD（Trust Region On-Policy Distillation）, 牛津大学, 三星</p>]]></description>
-      <category>OPD（Trust Region On-Policy Distillation）</category>
-      <category>牛津大学</category>
-      <category>三星</category>
-    </item>
-    <item>
-      <title><![CDATA[无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向]]></title>
-      <link>https://www.jiqizhixin.com/articles/3fa26ee7-4cee-45a4-983c-d48945429490</link>
-      <guid>3fa26ee7-4cee-45a4-983c-d48945429490</guid>
-      <pubDate>Fri, 18 Sep 2026 06:47:32 +0000</pubDate>
-      <description><![CDATA[<p>无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向</p><p>标签: 华环电子, 无问芯穹（Infinigence-AI）</p>]]></description>
-      <category>华环电子</category>
-      <category>无问芯穹（Infinigence-AI）</category>
-    </item>
-    <item>
-      <title><![CDATA[千问办公接入高德门店经营专家套件，可一站式完成开店选址和经营分析]]></title>
-      <link>https://www.jiqizhixin.com/articles/6e790c4f-5e14-4a25-bcb5-f48ab10265a7</link>
-      <guid>6e790c4f-5e14-4a25-bcb5-f48ab10265a7</guid>
-      <pubDate>Fri, 18 Sep 2026 06:47:57 +0000</pubDate>
-      <description><![CDATA[<p>千问办公接入高德门店经营专家套件，可一站式完成开店选址和经营分析</p><p>标签: 千问, 阿里巴巴, 千问办公</p>]]></description>
-      <category>千问</category>
-      <category>阿里巴巴</category>
-      <category>千问办公</category>
-    </item>
-    <item>
-      <title><![CDATA[Claude自我进化突然变快：半年时间，从1%到26%]]></title>
-      <link>https://www.jiqizhixin.com/articles/6f6b35d8-25d3-45d6-8056-2c3565ecb138</link>
-      <guid>6f6b35d8-25d3-45d6-8056-2c3565ecb138</guid>
-      <pubDate>Fri, 18 Sep 2026 06:48:04 +0000</pubDate>
-      <description><![CDATA[<p>Claude自我进化突然变快：半年时间，从1%到26%</p><p>标签: Claude, Anthropic</p>]]></description>
-      <category>Claude</category>
-      <category>Anthropic</category>
     </item>
   </channel>
 </rss>
