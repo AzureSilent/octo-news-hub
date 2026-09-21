@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[机器之心]]></title>
+    <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 21 Sep 2026 07:21:02 +0000</lastBuildDate>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单]]></title>
+      <link>https://www.jiqizhixin.com/articles/52e57d4e-9c2f-42f4-8559-261ad249cc20</link>
+      <guid>52e57d4e-9c2f-42f4-8559-261ad249cc20</guid>
+      <pubDate>Mon, 21 Sep 2026 07:20:04 +0000</pubDate>
+      <description><![CDATA[<p>国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单</p><p>标签: Data Agent, OceanBase</p>]]></description>
+      <category>Data Agent</category>
+      <category>OceanBase</category>
+    </item>
+    <item>
+      <title><![CDATA[这次，Token要直接发给学生，每人30万元]]></title>
+      <link>https://www.jiqizhixin.com/articles/5456bc0d-47eb-482e-96b7-62446aa73662</link>
+      <guid>5456bc0d-47eb-482e-96b7-62446aa73662</guid>
+      <pubDate>Mon, 21 Sep 2026 07:20:04 +0000</pubDate>
+      <description><![CDATA[<p>这次，Token要直接发给学生，每人30万元</p><p>标签: 腾讯青云奖学金, 腾讯</p>]]></description>
+      <category>腾讯青云奖学金</category>
+      <category>腾讯</category>
+    </item>
+    <item>
+      <title><![CDATA[清华初创&UIUC学者用7B模型在预测市场上自我蒸馏，跑赢GPT-5.6和Opus 5]]></title>
+      <link>https://www.jiqizhixin.com/articles/edf2d953-8fae-4d2d-9dc6-233710b98a22</link>
+      <guid>edf2d953-8fae-4d2d-9dc6-233710b98a22</guid>
+      <pubDate>Mon, 21 Sep 2026 07:20:33 +0000</pubDate>
+      <description><![CDATA[<p>清华初创&UIUC学者用7B模型在预测市场上自我蒸馏，跑赢GPT-5.6和Opus 5</p><p>标签: Social World Model, UIUC</p>]]></description>
+      <category>Social World Model</category>
+      <category>UIUC</category>
+    </item>
+    <item>
+      <title><![CDATA[中国新云市场第一！商汤大装置全面领跑]]></title>
+      <link>https://www.jiqizhixin.com/articles/b35010e4-3de7-4f8b-9594-a8157fb94eec</link>
+      <guid>b35010e4-3de7-4f8b-9594-a8157fb94eec</guid>
+      <pubDate>Mon, 21 Sep 2026 07:20:33 +0000</pubDate>
+      <description><![CDATA[<p>中国新云市场第一！商汤大装置全面领跑</p><p>标签: 商汤科技, 商汤大装置</p>]]></description>
+      <category>商汤科技</category>
+      <category>商汤大装置</category>
+    </item>
+    <item>
+      <title><![CDATA[实测Livo｜我混进AI「西部世界」1小时，被NPC当场拆穿]]></title>
+      <link>https://www.jiqizhixin.com/articles/1f5f3b3b-03e2-4db2-a81e-fd99d3a8dd2c</link>
+      <guid>1f5f3b3b-03e2-4db2-a81e-fd99d3a8dd2c</guid>
+      <pubDate>Mon, 21 Sep 2026 07:21:02 +0000</pubDate>
+      <description><![CDATA[<p>实测Livo｜我混进AI「西部世界」1小时，被NPC当场拆穿</p><p>标签: Livo, 快看</p>]]></description>
+      <category>Livo</category>
+      <category>快看</category>
+    </item>
+    <item>
+      <title><![CDATA[开发者实锤：OpenAI的广告正在跨站收集你行为信息]]></title>
+      <link>https://www.jiqizhixin.com/articles/675266aa-d490-4b81-96d8-b9fc12fd7669</link>
+      <guid>675266aa-d490-4b81-96d8-b9fc12fd7669</guid>
+      <pubDate>Mon, 21 Sep 2026 07:21:02 +0000</pubDate>
+      <description><![CDATA[<p>开发者实锤：OpenAI的广告正在跨站收集你行为信息</p><p>标签: ChatGPT, OpenAI</p>]]></description>
+      <category>ChatGPT</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[拿下开源生图第一，千问Qwen-Image-2.1把生图卷出新高度]]></title>
+      <link>https://www.jiqizhixin.com/articles/be334fe9-767d-460a-bce3-136bd543b16b</link>
+      <guid>be334fe9-767d-460a-bce3-136bd543b16b</guid>
+      <pubDate>Sun, 20 Sep 2026 17:04:32 +0000</pubDate>
+      <description><![CDATA[<p>拿下开源生图第一，千问Qwen-Image-2.1把生图卷出新高度</p><p>标签: Qwen-Image-2.1, 千问, 阿里巴巴</p>]]></description>
+      <category>Qwen-Image-2.1</category>
+      <category>千问</category>
+      <category>阿里巴巴</category>
+    </item>
+    <item>
+      <title><![CDATA[EMNLP 2026 | 通过分解生成与动态自反馈，构建工具调用合成数据]]></title>
+      <link>https://www.jiqizhixin.com/articles/bc8ae0a2-9ea0-4453-ad15-3d2d2afe2ea1</link>
+      <guid>bc8ae0a2-9ea0-4453-ad15-3d2d2afe2ea1</guid>
+      <pubDate>Sun, 20 Sep 2026 17:04:32 +0000</pubDate>
+      <description><![CDATA[<p>EMNLP 2026 | 通过分解生成与动态自反馈，构建工具调用合成数据</p><p>标签: EMNLP 2026, ToolLoop</p>]]></description>
+      <category>EMNLP 2026</category>
+      <category>ToolLoop</category>
+    </item>
+    <item>
+      <title><![CDATA[荣登ECCV！全球首个可仿真的人–场景交互重建框架：大晓 HSImul3R 让人类视频变成机器人技能]]></title>
+      <link>https://www.jiqizhixin.com/articles/f04439f7-b3cb-40ff-9bfc-192fa1e35822</link>
+      <guid>f04439f7-b3cb-40ff-9bfc-192fa1e35822</guid>
+      <pubDate>Sun, 20 Sep 2026 12:41:15 +0000</pubDate>
+      <description><![CDATA[<p>荣登ECCV！全球首个可仿真的人–场景交互重建框架：大晓 HSImul3R 让人类视频变成机器人技能</p><p>标签: HSImul3R, 大晓机器人</p>]]></description>
+      <category>HSImul3R</category>
+      <category>大晓机器人</category>
+    </item>
+    <item>
+      <title><![CDATA[启元机器人接入WorkBuddy，成为首个接入WorkBuddy的具身智能企业]]></title>
+      <link>https://www.jiqizhixin.com/articles/cef3eaf8-e4cd-4ff6-828a-84779efd3a7f</link>
+      <guid>cef3eaf8-e4cd-4ff6-828a-84779efd3a7f</guid>
+      <pubDate>Sun, 20 Sep 2026 07:10:50 +0000</pubDate>
+      <description><![CDATA[<p>启元机器人接入WorkBuddy，成为首个接入WorkBuddy的具身智能企业</p><p>标签: WorkBuddy, 启元机器人</p>]]></description>
+      <category>WorkBuddy</category>
+      <category>启元机器人</category>
+    </item>
+    <item>
+      <title><![CDATA[Claude开始优化生物模型：从结构到蛋白设计全面降低计算门槛]]></title>
+      <link>https://www.jiqizhixin.com/articles/a782e6f5-e17f-45d3-948d-9cb7533f4c09</link>
+      <guid>a782e6f5-e17f-45d3-948d-9cb7533f4c09</guid>
+      <pubDate>Sun, 20 Sep 2026 07:10:50 +0000</pubDate>
+      <description><![CDATA[<p>Claude开始优化生物模型：从结构到蛋白设计全面降低计算门槛</p><p>标签: AI for Science（AI4S）, FlashPairformer, Anthropic</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>FlashPairformer</category>
+      <category>Anthropic</category>
+    </item>
+    <item>
+      <title><![CDATA[把「因果思维链」焊进世界模型，它凭什么登顶？]]></title>
+      <link>https://www.jiqizhixin.com/articles/305a857b-c4f7-47d4-9721-6a6d20881738</link>
+      <guid>305a857b-c4f7-47d4-9721-6a6d20881738</guid>
+      <pubDate>Sun, 20 Sep 2026 07:11:20 +0000</pubDate>
+      <description><![CDATA[<p>把「因果思维链」焊进世界模型，它凭什么登顶？</p><p>标签: Causal Chain-of-Thought, CausalWM, Aether AI</p>]]></description>
+      <category>Causal Chain-of-Thought</category>
+      <category>CausalWM</category>
+      <category>Aether AI</category>
+    </item>
+  </channel>
+</rss>
