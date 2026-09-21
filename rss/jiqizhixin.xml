@@ -4,8 +4,74 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 21 Sep 2026 07:21:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 14:38:20 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[ICLR 2027投稿冲到6万，比过去十几年加起来都多......]]></title>
+      <link>https://www.jiqizhixin.com/articles/5782b344-dbbb-4551-9723-c01a2e74c865</link>
+      <guid>5782b344-dbbb-4551-9723-c01a2e74c865</guid>
+      <pubDate>Mon, 21 Sep 2026 14:36:48 +0000</pubDate>
+      <description><![CDATA[<p>ICLR 2027投稿冲到6万，比过去十几年加起来都多......</p><p>标签: ICLR 2027, ICLR</p>]]></description>
+      <category>ICLR 2027</category>
+      <category>ICLR</category>
+    </item>
+    <item>
+      <title><![CDATA[ACM Multimedia 2026 Oral｜从「转述痕迹」到「看见证据」：ForgeryVCR用视觉中心推理重塑图像取证范式]]></title>
+      <link>https://www.jiqizhixin.com/articles/66d9ef03-e447-43e0-bd8f-6cf31b8fd044</link>
+      <guid>66d9ef03-e447-43e0-bd8f-6cf31b8fd044</guid>
+      <pubDate>Mon, 21 Sep 2026 14:36:49 +0000</pubDate>
+      <description><![CDATA[<p>ACM Multimedia 2026 Oral｜从「转述痕迹」到「看见证据」：ForgeryVCR用视觉中心推理重塑图像取证范式</p><p>标签: 腾讯优图实验室, ACM Multimedia 2026, ForgeryVCR</p>]]></description>
+      <category>腾讯优图实验室</category>
+      <category>ACM Multimedia 2026</category>
+      <category>ForgeryVCR</category>
+    </item>
+    <item>
+      <title><![CDATA[当 GPT-6 Astra 走向机器人，具身智能还需要什么？清华大学、无问芯穹、正行创新联合开源具身智能体基础设施RPent，任务加速 7 倍]]></title>
+      <link>https://www.jiqizhixin.com/articles/92e4053f-01cf-4a65-a0d6-d0947690154d</link>
+      <guid>92e4053f-01cf-4a65-a0d6-d0947690154d</guid>
+      <pubDate>Mon, 21 Sep 2026 14:37:18 +0000</pubDate>
+      <description><![CDATA[<p>当 GPT-6 Astra 走向机器人，具身智能还需要什么？清华大学、无问芯穹、正行创新联合开源具身智能体基础设施RPent，任务加速 7 倍</p><p>标签: 清华大学, 正行创新（Striding AI）, 无问芯穹（Infinigence-AI）, 具身智能</p>]]></description>
+      <category>清华大学</category>
+      <category>正行创新（Striding AI）</category>
+      <category>无问芯穹（Infinigence-AI）</category>
+      <category>具身智能</category>
+    </item>
+    <item>
+      <title><![CDATA[大晓机器人与中国石油上海销售公司达成战略合作，启动试运营首个加油站便利店场景的全闭环具身智能机器人项目]]></title>
+      <link>https://www.jiqizhixin.com/articles/6f8b330f-9587-4007-859b-2e1d264a0b15</link>
+      <guid>6f8b330f-9587-4007-859b-2e1d264a0b15</guid>
+      <pubDate>Mon, 21 Sep 2026 14:37:21 +0000</pubDate>
+      <description><![CDATA[<p>大晓机器人与中国石油上海销售公司达成战略合作，启动试运营首个加油站便利店场景的全闭环具身智能机器人项目</p><p>标签: 大晓机器人</p>]]></description>
+      <category>大晓机器人</category>
+    </item>
+    <item>
+      <title><![CDATA[华为云码道上线鸿蒙编码大模型 面向鸿蒙开发者全面升级]]></title>
+      <link>https://www.jiqizhixin.com/articles/4d906b37-6081-4063-9bd1-c06cd2776186</link>
+      <guid>4d906b37-6081-4063-9bd1-c06cd2776186</guid>
+      <pubDate>Mon, 21 Sep 2026 14:37:48 +0000</pubDate>
+      <description><![CDATA[<p>华为云码道上线鸿蒙编码大模型 面向鸿蒙开发者全面升级</p><p>标签: 华为云, 华为云码道（CodeArts）</p>]]></description>
+      <category>华为云</category>
+      <category>华为云码道（CodeArts）</category>
+    </item>
+    <item>
+      <title><![CDATA[Jev是分类器吗？今天向所有人开放，送1.2亿token]]></title>
+      <link>https://www.jiqizhixin.com/articles/4aed8538-c69d-4f93-b829-b386e5e1e4bc</link>
+      <guid>4aed8538-c69d-4f93-b829-b386e5e1e4bc</guid>
+      <pubDate>Mon, 21 Sep 2026 14:37:50 +0000</pubDate>
+      <description><![CDATA[<p>Jev是分类器吗？今天向所有人开放，送1.2亿token</p><p>标签: Jev, TypeSafe AI</p>]]></description>
+      <category>Jev</category>
+      <category>TypeSafe AI</category>
+    </item>
+    <item>
+      <title><![CDATA[预训练Token消耗直接腰斩！上海AI Lab&上交大提出全新预训练任务，开源首个8.9B隐空间大模型NCP-ArchPreview]]></title>
+      <link>https://www.jiqizhixin.com/articles/350d0397-425e-4b47-9528-e961ccbbec38</link>
+      <guid>350d0397-425e-4b47-9528-e961ccbbec38</guid>
+      <pubDate>Mon, 21 Sep 2026 14:38:20 +0000</pubDate>
+      <description><![CDATA[<p>预训练Token消耗直接腰斩！上海AI Lab&上交大提出全新预训练任务，开源首个8.9B隐空间大模型NCP-ArchPreview</p><p>标签: NCP-ArchPreview, LUMIA Lab, 上海人工智能实验室</p>]]></description>
+      <category>NCP-ArchPreview</category>
+      <category>LUMIA Lab</category>
+      <category>上海人工智能实验室</category>
+    </item>
     <item>
       <title><![CDATA[国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单]]></title>
       <link>https://www.jiqizhixin.com/articles/52e57d4e-9c2f-42f4-8559-261ad249cc20</link>
@@ -50,72 +116,6 @@
       <description><![CDATA[<p>实测Livo｜我混进AI「西部世界」1小时，被NPC当场拆穿</p><p>标签: Livo, 快看</p>]]></description>
       <category>Livo</category>
       <category>快看</category>
-    </item>
-    <item>
-      <title><![CDATA[开发者实锤：OpenAI的广告正在跨站收集你行为信息]]></title>
-      <link>https://www.jiqizhixin.com/articles/675266aa-d490-4b81-96d8-b9fc12fd7669</link>
-      <guid>675266aa-d490-4b81-96d8-b9fc12fd7669</guid>
-      <pubDate>Mon, 21 Sep 2026 07:21:02 +0000</pubDate>
-      <description><![CDATA[<p>开发者实锤：OpenAI的广告正在跨站收集你行为信息</p><p>标签: ChatGPT, OpenAI</p>]]></description>
-      <category>ChatGPT</category>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[拿下开源生图第一，千问Qwen-Image-2.1把生图卷出新高度]]></title>
-      <link>https://www.jiqizhixin.com/articles/be334fe9-767d-460a-bce3-136bd543b16b</link>
-      <guid>be334fe9-767d-460a-bce3-136bd543b16b</guid>
-      <pubDate>Sun, 20 Sep 2026 17:04:32 +0000</pubDate>
-      <description><![CDATA[<p>拿下开源生图第一，千问Qwen-Image-2.1把生图卷出新高度</p><p>标签: Qwen-Image-2.1, 千问, 阿里巴巴</p>]]></description>
-      <category>Qwen-Image-2.1</category>
-      <category>千问</category>
-      <category>阿里巴巴</category>
-    </item>
-    <item>
-      <title><![CDATA[EMNLP 2026 | 通过分解生成与动态自反馈，构建工具调用合成数据]]></title>
-      <link>https://www.jiqizhixin.com/articles/bc8ae0a2-9ea0-4453-ad15-3d2d2afe2ea1</link>
-      <guid>bc8ae0a2-9ea0-4453-ad15-3d2d2afe2ea1</guid>
-      <pubDate>Sun, 20 Sep 2026 17:04:32 +0000</pubDate>
-      <description><![CDATA[<p>EMNLP 2026 | 通过分解生成与动态自反馈，构建工具调用合成数据</p><p>标签: EMNLP 2026, ToolLoop</p>]]></description>
-      <category>EMNLP 2026</category>
-      <category>ToolLoop</category>
-    </item>
-    <item>
-      <title><![CDATA[荣登ECCV！全球首个可仿真的人–场景交互重建框架：大晓 HSImul3R 让人类视频变成机器人技能]]></title>
-      <link>https://www.jiqizhixin.com/articles/f04439f7-b3cb-40ff-9bfc-192fa1e35822</link>
-      <guid>f04439f7-b3cb-40ff-9bfc-192fa1e35822</guid>
-      <pubDate>Sun, 20 Sep 2026 12:41:15 +0000</pubDate>
-      <description><![CDATA[<p>荣登ECCV！全球首个可仿真的人–场景交互重建框架：大晓 HSImul3R 让人类视频变成机器人技能</p><p>标签: HSImul3R, 大晓机器人</p>]]></description>
-      <category>HSImul3R</category>
-      <category>大晓机器人</category>
-    </item>
-    <item>
-      <title><![CDATA[启元机器人接入WorkBuddy，成为首个接入WorkBuddy的具身智能企业]]></title>
-      <link>https://www.jiqizhixin.com/articles/cef3eaf8-e4cd-4ff6-828a-84779efd3a7f</link>
-      <guid>cef3eaf8-e4cd-4ff6-828a-84779efd3a7f</guid>
-      <pubDate>Sun, 20 Sep 2026 07:10:50 +0000</pubDate>
-      <description><![CDATA[<p>启元机器人接入WorkBuddy，成为首个接入WorkBuddy的具身智能企业</p><p>标签: WorkBuddy, 启元机器人</p>]]></description>
-      <category>WorkBuddy</category>
-      <category>启元机器人</category>
-    </item>
-    <item>
-      <title><![CDATA[Claude开始优化生物模型：从结构到蛋白设计全面降低计算门槛]]></title>
-      <link>https://www.jiqizhixin.com/articles/a782e6f5-e17f-45d3-948d-9cb7533f4c09</link>
-      <guid>a782e6f5-e17f-45d3-948d-9cb7533f4c09</guid>
-      <pubDate>Sun, 20 Sep 2026 07:10:50 +0000</pubDate>
-      <description><![CDATA[<p>Claude开始优化生物模型：从结构到蛋白设计全面降低计算门槛</p><p>标签: AI for Science（AI4S）, FlashPairformer, Anthropic</p>]]></description>
-      <category>AI for Science（AI4S）</category>
-      <category>FlashPairformer</category>
-      <category>Anthropic</category>
-    </item>
-    <item>
-      <title><![CDATA[把「因果思维链」焊进世界模型，它凭什么登顶？]]></title>
-      <link>https://www.jiqizhixin.com/articles/305a857b-c4f7-47d4-9721-6a6d20881738</link>
-      <guid>305a857b-c4f7-47d4-9721-6a6d20881738</guid>
-      <pubDate>Sun, 20 Sep 2026 07:11:20 +0000</pubDate>
-      <description><![CDATA[<p>把「因果思维链」焊进世界模型，它凭什么登顶？</p><p>标签: Causal Chain-of-Thought, CausalWM, Aether AI</p>]]></description>
-      <category>Causal Chain-of-Thought</category>
-      <category>CausalWM</category>
-      <category>Aether AI</category>
     </item>
   </channel>
 </rss>
