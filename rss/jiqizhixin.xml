@@ -4,8 +4,115 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 22 Sep 2026 00:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 06:59:14 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[清华与斯坦福团队在LLM内部发现两种神经元，定位奖励子系统]]></title>
+      <link>https://www.jiqizhixin.com/articles/03f0e4de-208b-4c4c-bafe-c044ee9df4fb</link>
+      <guid>03f0e4de-208b-4c4c-bafe-c044ee9df4fb</guid>
+      <pubDate>Tue, 22 Sep 2026 06:56:02 +0000</pubDate>
+      <description><![CDATA[<p>清华与斯坦福团队在LLM内部发现两种神经元，定位奖励子系统</p><p>标签: AI for Science（AI4S）, reward subsystem, 清华大学, 斯坦福大学</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>reward subsystem</category>
+      <category>清华大学</category>
+      <category>斯坦福大学</category>
+    </item>
+    <item>
+      <title><![CDATA[用GPT-6 Astra就能直接控制机器人？可具身真机没那么简单]]></title>
+      <link>https://www.jiqizhixin.com/articles/8a8afa13-c3c1-4d7c-9665-121675b50203</link>
+      <guid>8a8afa13-c3c1-4d7c-9665-121675b50203</guid>
+      <pubDate>Tue, 22 Sep 2026 06:56:00 +0000</pubDate>
+      <description><![CDATA[<p>用GPT-6 Astra就能直接控制机器人？可具身真机没那么简单</p><p>标签: RoboRSI, 穹彻智能 Noematrix</p>]]></description>
+      <category>RoboRSI</category>
+      <category>穹彻智能 Noematrix</category>
+    </item>
+    <item>
+      <title><![CDATA[Agent版Hugging Face来了，openJiuwen发布首个开源智能体资产平台]]></title>
+      <link>https://www.jiqizhixin.com/articles/d8473945-4da5-452f-bcba-90ccdfb53c3d</link>
+      <guid>d8473945-4da5-452f-bcba-90ccdfb53c3d</guid>
+      <pubDate>Tue, 22 Sep 2026 06:57:03 +0000</pubDate>
+      <description><![CDATA[<p>Agent版Hugging Face来了，openJiuwen发布首个开源智能体资产平台</p><p>标签: Agentic Hub, WorkSwarm 蜂群办公智能体, openJiuwen</p>]]></description>
+      <category>Agentic Hub</category>
+      <category>WorkSwarm 蜂群办公智能体</category>
+      <category>openJiuwen</category>
+    </item>
+    <item>
+      <title><![CDATA[全球唯一非侵入穿颅读脑突破！这家中国公司想成为脑科学的“英伟达”]]></title>
+      <link>https://www.jiqizhixin.com/articles/d7a0b274-cfa9-4dc3-b8a3-871822d18ded</link>
+      <guid>d7a0b274-cfa9-4dc3-b8a3-871822d18ded</guid>
+      <pubDate>Tue, 22 Sep 2026 06:57:13 +0000</pubDate>
+      <description><![CDATA[<p>全球唯一非侵入穿颅读脑突破！这家中国公司想成为脑科学的“英伟达”</p><p>标签: 声学空间智能, 颅脑超声, 鲲为科技</p>]]></description>
+      <category>声学空间智能</category>
+      <category>颅脑超声</category>
+      <category>鲲为科技</category>
+    </item>
+    <item>
+      <title><![CDATA[腾讯混元发布最新生图模型 Hy Image3.5 preview，为专业创作提供高性价比模型]]></title>
+      <link>https://www.jiqizhixin.com/articles/db11e77f-a213-4e01-a23f-4a0e3c49de9f</link>
+      <guid>db11e77f-a213-4e01-a23f-4a0e3c49de9f</guid>
+      <pubDate>Tue, 22 Sep 2026 06:57:35 +0000</pubDate>
+      <description><![CDATA[<p>腾讯混元发布最新生图模型 Hy Image3.5 preview，为专业创作提供高性价比模型</p><p>标签: Hy Image3.5 preview, 腾讯混元</p>]]></description>
+      <category>Hy Image3.5 preview</category>
+      <category>腾讯混元</category>
+    </item>
+    <item>
+      <title><![CDATA[假如有一万张卡，RL训练该怎么扩大规模？十万张呢？]]></title>
+      <link>https://www.jiqizhixin.com/articles/e4bbce22-121c-4fbf-b749-f253179069d1</link>
+      <guid>e4bbce22-121c-4fbf-b749-f253179069d1</guid>
+      <pubDate>Tue, 22 Sep 2026 06:57:44 +0000</pubDate>
+      <description><![CDATA[<p>假如有一万张卡，RL训练该怎么扩大规模？十万张呢？</p><p>标签: 强化学习, Batch Size, 腾讯混元</p>]]></description>
+      <category>强化学习</category>
+      <category>Batch Size</category>
+      <category>腾讯混元</category>
+    </item>
+    <item>
+      <title><![CDATA[红杉、云启领投，华超神控完成2亿元Pre-A轮融资，押注「非侵入式AI脑机接口」]]></title>
+      <link>https://www.jiqizhixin.com/articles/5b918893-2a0e-4b6d-b1f9-e8fd7a4f2825</link>
+      <guid>5b918893-2a0e-4b6d-b1f9-e8fd7a4f2825</guid>
+      <pubDate>Tue, 22 Sep 2026 06:58:12 +0000</pubDate>
+      <description><![CDATA[<p>红杉、云启领投，华超神控完成2亿元Pre-A轮融资，押注「非侵入式AI脑机接口」</p><p>标签: Neuro AI, 非侵入 AI 脑机接口, 华超神控（BCI-Sonics）</p>]]></description>
+      <category>Neuro AI</category>
+      <category>非侵入 AI 脑机接口</category>
+      <category>华超神控（BCI-Sonics）</category>
+    </item>
+    <item>
+      <title><![CDATA[迎接生成范式革命！复旦和Wan团队发布首篇Agentic视觉生成综述]]></title>
+      <link>https://www.jiqizhixin.com/articles/f96f7105-4790-4912-bb50-7260a661beb9</link>
+      <guid>f96f7105-4790-4912-bb50-7260a661beb9</guid>
+      <pubDate>Tue, 22 Sep 2026 06:58:14 +0000</pubDate>
+      <description><![CDATA[<p>迎接生成范式革命！复旦和Wan团队发布首篇Agentic视觉生成综述</p><p>标签: 复旦大学, Agentic Visual Generation（智能体式视觉生成）</p>]]></description>
+      <category>复旦大学</category>
+      <category>Agentic Visual Generation（智能体式视觉生成）</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，OpenAI成立独立数学顾问团！100+「已攻克」开放问题待审]]></title>
+      <link>https://www.jiqizhixin.com/articles/67cdd1cf-09bb-41b3-9787-2b6f77aa15c2</link>
+      <guid>67cdd1cf-09bb-41b3-9787-2b6f77aa15c2</guid>
+      <pubDate>Tue, 22 Sep 2026 06:58:43 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，OpenAI成立独立数学顾问团！100+「已攻克」开放问题待审</p><p>标签: AI数学, AGMAI, OpenAI</p>]]></description>
+      <category>AI数学</category>
+      <category>AGMAI</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，SpaceXAI最强Grok 4.7发布！价格杀疯，跑分令人失望]]></title>
+      <link>https://www.jiqizhixin.com/articles/11bff604-beb3-4ebc-bff1-cac10a0172fd</link>
+      <guid>11bff604-beb3-4ebc-bff1-cac10a0172fd</guid>
+      <pubDate>Tue, 22 Sep 2026 06:58:44 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，SpaceXAI最强Grok 4.7发布！价格杀疯，跑分令人失望</p><p>标签: Grok 4.7, SpaceXAI</p>]]></description>
+      <category>Grok 4.7</category>
+      <category>SpaceXAI</category>
+    </item>
+    <item>
+      <title><![CDATA[一滴盐水就是DNA计算机，不用电就能算100比特加法，梅努斯大学SDC登《Nature》]]></title>
+      <link>https://www.jiqizhixin.com/articles/aa32fafe-ce53-45f4-86b5-56d3bd2bd96b</link>
+      <guid>aa32fafe-ce53-45f4-86b5-56d3bd2bd96b</guid>
+      <pubDate>Tue, 22 Sep 2026 06:59:14 +0000</pubDate>
+      <description><![CDATA[<p>一滴盐水就是DNA计算机，不用电就能算100比特加法，梅努斯大学SDC登《Nature》</p><p>标签: AI for Science（AI4S）, DNA 计算机, 爱尔兰梅努斯大学</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>DNA 计算机</category>
+      <category>爱尔兰梅努斯大学</category>
+    </item>
     <item>
       <title><![CDATA[ICLR 2027投稿冲到6万，比过去十几年加起来都多......]]></title>
       <link>https://www.jiqizhixin.com/articles/5782b344-dbbb-4551-9723-c01a2e74c865</link>
@@ -14,108 +121,6 @@
       <description><![CDATA[<p>ICLR 2027投稿冲到6万，比过去十几年加起来都多......</p><p>标签: ICLR 2027, ICLR</p>]]></description>
       <category>ICLR 2027</category>
       <category>ICLR</category>
-    </item>
-    <item>
-      <title><![CDATA[ACM Multimedia 2026 Oral｜从「转述痕迹」到「看见证据」：ForgeryVCR用视觉中心推理重塑图像取证范式]]></title>
-      <link>https://www.jiqizhixin.com/articles/66d9ef03-e447-43e0-bd8f-6cf31b8fd044</link>
-      <guid>66d9ef03-e447-43e0-bd8f-6cf31b8fd044</guid>
-      <pubDate>Mon, 21 Sep 2026 14:36:49 +0000</pubDate>
-      <description><![CDATA[<p>ACM Multimedia 2026 Oral｜从「转述痕迹」到「看见证据」：ForgeryVCR用视觉中心推理重塑图像取证范式</p><p>标签: 腾讯优图实验室, ACM Multimedia 2026, ForgeryVCR</p>]]></description>
-      <category>腾讯优图实验室</category>
-      <category>ACM Multimedia 2026</category>
-      <category>ForgeryVCR</category>
-    </item>
-    <item>
-      <title><![CDATA[当 GPT-6 Astra 走向机器人，具身智能还需要什么？清华大学、无问芯穹、正行创新联合开源具身智能体基础设施RPent，任务加速 7 倍]]></title>
-      <link>https://www.jiqizhixin.com/articles/92e4053f-01cf-4a65-a0d6-d0947690154d</link>
-      <guid>92e4053f-01cf-4a65-a0d6-d0947690154d</guid>
-      <pubDate>Mon, 21 Sep 2026 14:37:18 +0000</pubDate>
-      <description><![CDATA[<p>当 GPT-6 Astra 走向机器人，具身智能还需要什么？清华大学、无问芯穹、正行创新联合开源具身智能体基础设施RPent，任务加速 7 倍</p><p>标签: 清华大学, 正行创新（Striding AI）, 无问芯穹（Infinigence-AI）, 具身智能</p>]]></description>
-      <category>清华大学</category>
-      <category>正行创新（Striding AI）</category>
-      <category>无问芯穹（Infinigence-AI）</category>
-      <category>具身智能</category>
-    </item>
-    <item>
-      <title><![CDATA[大晓机器人与中国石油上海销售公司达成战略合作，启动试运营首个加油站便利店场景的全闭环具身智能机器人项目]]></title>
-      <link>https://www.jiqizhixin.com/articles/6f8b330f-9587-4007-859b-2e1d264a0b15</link>
-      <guid>6f8b330f-9587-4007-859b-2e1d264a0b15</guid>
-      <pubDate>Mon, 21 Sep 2026 14:37:21 +0000</pubDate>
-      <description><![CDATA[<p>大晓机器人与中国石油上海销售公司达成战略合作，启动试运营首个加油站便利店场景的全闭环具身智能机器人项目</p><p>标签: 大晓机器人</p>]]></description>
-      <category>大晓机器人</category>
-    </item>
-    <item>
-      <title><![CDATA[华为云码道上线鸿蒙编码大模型 面向鸿蒙开发者全面升级]]></title>
-      <link>https://www.jiqizhixin.com/articles/4d906b37-6081-4063-9bd1-c06cd2776186</link>
-      <guid>4d906b37-6081-4063-9bd1-c06cd2776186</guid>
-      <pubDate>Mon, 21 Sep 2026 14:37:48 +0000</pubDate>
-      <description><![CDATA[<p>华为云码道上线鸿蒙编码大模型 面向鸿蒙开发者全面升级</p><p>标签: 华为云, 华为云码道（CodeArts）</p>]]></description>
-      <category>华为云</category>
-      <category>华为云码道（CodeArts）</category>
-    </item>
-    <item>
-      <title><![CDATA[Jev是分类器吗？今天向所有人开放，送1.2亿token]]></title>
-      <link>https://www.jiqizhixin.com/articles/4aed8538-c69d-4f93-b829-b386e5e1e4bc</link>
-      <guid>4aed8538-c69d-4f93-b829-b386e5e1e4bc</guid>
-      <pubDate>Mon, 21 Sep 2026 14:37:50 +0000</pubDate>
-      <description><![CDATA[<p>Jev是分类器吗？今天向所有人开放，送1.2亿token</p><p>标签: Jev, TypeSafe AI</p>]]></description>
-      <category>Jev</category>
-      <category>TypeSafe AI</category>
-    </item>
-    <item>
-      <title><![CDATA[预训练Token消耗直接腰斩！上海AI Lab&上交大提出全新预训练任务，开源首个8.9B隐空间大模型NCP-ArchPreview]]></title>
-      <link>https://www.jiqizhixin.com/articles/350d0397-425e-4b47-9528-e961ccbbec38</link>
-      <guid>350d0397-425e-4b47-9528-e961ccbbec38</guid>
-      <pubDate>Mon, 21 Sep 2026 14:38:20 +0000</pubDate>
-      <description><![CDATA[<p>预训练Token消耗直接腰斩！上海AI Lab&上交大提出全新预训练任务，开源首个8.9B隐空间大模型NCP-ArchPreview</p><p>标签: NCP-ArchPreview, LUMIA Lab, 上海人工智能实验室</p>]]></description>
-      <category>NCP-ArchPreview</category>
-      <category>LUMIA Lab</category>
-      <category>上海人工智能实验室</category>
-    </item>
-    <item>
-      <title><![CDATA[国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单]]></title>
-      <link>https://www.jiqizhixin.com/articles/52e57d4e-9c2f-42f4-8559-261ad249cc20</link>
-      <guid>52e57d4e-9c2f-42f4-8559-261ad249cc20</guid>
-      <pubDate>Mon, 21 Sep 2026 07:20:04 +0000</pubDate>
-      <description><![CDATA[<p>国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单</p><p>标签: Data Agent, OceanBase</p>]]></description>
-      <category>Data Agent</category>
-      <category>OceanBase</category>
-    </item>
-    <item>
-      <title><![CDATA[这次，Token要直接发给学生，每人30万元]]></title>
-      <link>https://www.jiqizhixin.com/articles/5456bc0d-47eb-482e-96b7-62446aa73662</link>
-      <guid>5456bc0d-47eb-482e-96b7-62446aa73662</guid>
-      <pubDate>Mon, 21 Sep 2026 07:20:04 +0000</pubDate>
-      <description><![CDATA[<p>这次，Token要直接发给学生，每人30万元</p><p>标签: 腾讯青云奖学金, 腾讯</p>]]></description>
-      <category>腾讯青云奖学金</category>
-      <category>腾讯</category>
-    </item>
-    <item>
-      <title><![CDATA[清华初创&UIUC学者用7B模型在预测市场上自我蒸馏，跑赢GPT-5.6和Opus 5]]></title>
-      <link>https://www.jiqizhixin.com/articles/edf2d953-8fae-4d2d-9dc6-233710b98a22</link>
-      <guid>edf2d953-8fae-4d2d-9dc6-233710b98a22</guid>
-      <pubDate>Mon, 21 Sep 2026 07:20:33 +0000</pubDate>
-      <description><![CDATA[<p>清华初创&UIUC学者用7B模型在预测市场上自我蒸馏，跑赢GPT-5.6和Opus 5</p><p>标签: Social World Model, UIUC</p>]]></description>
-      <category>Social World Model</category>
-      <category>UIUC</category>
-    </item>
-    <item>
-      <title><![CDATA[中国新云市场第一！商汤大装置全面领跑]]></title>
-      <link>https://www.jiqizhixin.com/articles/b35010e4-3de7-4f8b-9594-a8157fb94eec</link>
-      <guid>b35010e4-3de7-4f8b-9594-a8157fb94eec</guid>
-      <pubDate>Mon, 21 Sep 2026 07:20:33 +0000</pubDate>
-      <description><![CDATA[<p>中国新云市场第一！商汤大装置全面领跑</p><p>标签: 商汤科技, 商汤大装置</p>]]></description>
-      <category>商汤科技</category>
-      <category>商汤大装置</category>
-    </item>
-    <item>
-      <title><![CDATA[实测Livo｜我混进AI「西部世界」1小时，被NPC当场拆穿]]></title>
-      <link>https://www.jiqizhixin.com/articles/1f5f3b3b-03e2-4db2-a81e-fd99d3a8dd2c</link>
-      <guid>1f5f3b3b-03e2-4db2-a81e-fd99d3a8dd2c</guid>
-      <pubDate>Mon, 21 Sep 2026 07:21:02 +0000</pubDate>
-      <description><![CDATA[<p>实测Livo｜我混进AI「西部世界」1小时，被NPC当场拆穿</p><p>标签: Livo, 快看</p>]]></description>
-      <category>Livo</category>
-      <category>快看</category>
     </item>
   </channel>
 </rss>
