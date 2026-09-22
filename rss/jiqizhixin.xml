@@ -4,8 +4,35 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 22 Sep 2026 06:59:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 12:53:38 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建]]></title>
+      <link>https://www.jiqizhixin.com/articles/b23a451f-21dc-4208-a27f-4fa8d8d0f99c</link>
+      <guid>b23a451f-21dc-4208-a27f-4fa8d8d0f99c</guid>
+      <pubDate>Tue, 22 Sep 2026 12:53:09 +0000</pubDate>
+      <description><![CDATA[<p>虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建</p><p>标签: 鲸锐AI, 虎鲸文娱集团, 云栖大会</p>]]></description>
+      <category>鲸锐AI</category>
+      <category>虎鲸文娱集团</category>
+      <category>云栖大会</category>
+    </item>
+    <item>
+      <title><![CDATA[扫描全能王亮相2026云栖大会，一句话让“糊图”变高质量报告]]></title>
+      <link>https://www.jiqizhixin.com/articles/6b60203a-ed08-49b4-97d7-b9f522d22dbc</link>
+      <guid>6b60203a-ed08-49b4-97d7-b9f522d22dbc</guid>
+      <pubDate>Tue, 22 Sep 2026 12:53:08 +0000</pubDate>
+      <description><![CDATA[<p>扫描全能王亮相2026云栖大会，一句话让“糊图”变高质量报告</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[全球内存还在涨，合肥长鑫量产新一代DRAM]]></title>
+      <link>https://www.jiqizhixin.com/articles/556406dc-754a-4de2-b59b-4bcd41017c88</link>
+      <guid>556406dc-754a-4de2-b59b-4bcd41017c88</guid>
+      <pubDate>Tue, 22 Sep 2026 12:53:38 +0000</pubDate>
+      <description><![CDATA[<p>全球内存还在涨，合肥长鑫量产新一代DRAM</p><p>标签: LPDDR5X, DRAM, 长鑫存储</p>]]></description>
+      <category>LPDDR5X</category>
+      <category>DRAM</category>
+      <category>长鑫存储</category>
+    </item>
     <item>
       <title><![CDATA[清华与斯坦福团队在LLM内部发现两种神经元，定位奖励子系统]]></title>
       <link>https://www.jiqizhixin.com/articles/03f0e4de-208b-4c4c-bafe-c044ee9df4fb</link>
@@ -93,34 +120,6 @@
       <category>AI数学</category>
       <category>AGMAI</category>
       <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，SpaceXAI最强Grok 4.7发布！价格杀疯，跑分令人失望]]></title>
-      <link>https://www.jiqizhixin.com/articles/11bff604-beb3-4ebc-bff1-cac10a0172fd</link>
-      <guid>11bff604-beb3-4ebc-bff1-cac10a0172fd</guid>
-      <pubDate>Tue, 22 Sep 2026 06:58:44 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，SpaceXAI最强Grok 4.7发布！价格杀疯，跑分令人失望</p><p>标签: Grok 4.7, SpaceXAI</p>]]></description>
-      <category>Grok 4.7</category>
-      <category>SpaceXAI</category>
-    </item>
-    <item>
-      <title><![CDATA[一滴盐水就是DNA计算机，不用电就能算100比特加法，梅努斯大学SDC登《Nature》]]></title>
-      <link>https://www.jiqizhixin.com/articles/aa32fafe-ce53-45f4-86b5-56d3bd2bd96b</link>
-      <guid>aa32fafe-ce53-45f4-86b5-56d3bd2bd96b</guid>
-      <pubDate>Tue, 22 Sep 2026 06:59:14 +0000</pubDate>
-      <description><![CDATA[<p>一滴盐水就是DNA计算机，不用电就能算100比特加法，梅努斯大学SDC登《Nature》</p><p>标签: AI for Science（AI4S）, DNA 计算机, 爱尔兰梅努斯大学</p>]]></description>
-      <category>AI for Science（AI4S）</category>
-      <category>DNA 计算机</category>
-      <category>爱尔兰梅努斯大学</category>
-    </item>
-    <item>
-      <title><![CDATA[ICLR 2027投稿冲到6万，比过去十几年加起来都多......]]></title>
-      <link>https://www.jiqizhixin.com/articles/5782b344-dbbb-4551-9723-c01a2e74c865</link>
-      <guid>5782b344-dbbb-4551-9723-c01a2e74c865</guid>
-      <pubDate>Mon, 21 Sep 2026 14:36:48 +0000</pubDate>
-      <description><![CDATA[<p>ICLR 2027投稿冲到6万，比过去十几年加起来都多......</p><p>标签: ICLR 2027, ICLR</p>]]></description>
-      <category>ICLR 2027</category>
-      <category>ICLR</category>
     </item>
   </channel>
 </rss>
