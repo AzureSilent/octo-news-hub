@@ -4,7 +4,7 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 23 Sep 2026 07:23:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 13:05:19 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title><![CDATA[爱诗科技PixVerse R2 破解Scaling难题：实时、交互、持续进化]]></title>
@@ -107,16 +107,6 @@
       <description><![CDATA[<p>用GPT-6 Astra就能直接控制机器人？可具身真机没那么简单</p><p>标签: RoboRSI, 穹彻智能 Noematrix</p>]]></description>
       <category>RoboRSI</category>
       <category>穹彻智能 Noematrix</category>
-    </item>
-    <item>
-      <title><![CDATA[Agent版Hugging Face来了，openJiuwen发布首个开源智能体资产平台]]></title>
-      <link>https://www.jiqizhixin.com/articles/d8473945-4da5-452f-bcba-90ccdfb53c3d</link>
-      <guid>d8473945-4da5-452f-bcba-90ccdfb53c3d</guid>
-      <pubDate>Tue, 22 Sep 2026 06:57:03 +0000</pubDate>
-      <description><![CDATA[<p>Agent版Hugging Face来了，openJiuwen发布首个开源智能体资产平台</p><p>标签: Agentic Hub, WorkSwarm 蜂群办公智能体, openJiuwen</p>]]></description>
-      <category>Agentic Hub</category>
-      <category>WorkSwarm 蜂群办公智能体</category>
-      <category>openJiuwen</category>
     </item>
   </channel>
 </rss>
