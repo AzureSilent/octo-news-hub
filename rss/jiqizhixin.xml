@@ -4,8 +4,67 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 23 Sep 2026 13:05:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 18:02:18 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[用微生物在火星「建城」？Pioneer Labs培育新型细菌：吃火星土壤、产建筑塑料]]></title>
+      <link>https://www.jiqizhixin.com/articles/7d7beff5-467e-4f4d-a220-d85e356914d9</link>
+      <guid>7d7beff5-467e-4f4d-a220-d85e356914d9</guid>
+      <pubDate>Wed, 23 Sep 2026 18:01:20 +0000</pubDate>
+      <description><![CDATA[<p>用微生物在火星「建城」？Pioneer Labs培育新型细菌：吃火星土壤、产建筑塑料</p><p>标签: AI for Science（AI4S）, sPL.001, Pioneer Labs</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>sPL.001</category>
+      <category>Pioneer Labs</category>
+    </item>
+    <item>
+      <title><![CDATA[超越GPT-6 Astra登顶RoboDojo，成立3个月的Simate让机器人学会「设计下一个自己」]]></title>
+      <link>https://www.jiqizhixin.com/articles/09ee8205-deb4-4da1-ae06-76198f457417</link>
+      <guid>09ee8205-deb4-4da1-ae06-76198f457417</guid>
+      <pubDate>Wed, 23 Sep 2026 18:01:20 +0000</pubDate>
+      <description><![CDATA[<p>超越GPT-6 Astra登顶RoboDojo，成立3个月的Simate让机器人学会「设计下一个自己」</p><p>标签: autoresearch, Physical RSI, Simate（Silicon Mate，硅基伙伴）</p>]]></description>
+      <category>autoresearch</category>
+      <category>Physical RSI</category>
+      <category>Simate（Silicon Mate，硅基伙伴）</category>
+    </item>
+    <item>
+      <title><![CDATA[梁文锋署名，DeepSeek又发新论文了！]]></title>
+      <link>https://www.jiqizhixin.com/articles/d19c3599-7d81-49b9-949d-cfe4d2153e4d</link>
+      <guid>d19c3599-7d81-49b9-949d-cfe4d2153e4d</guid>
+      <pubDate>Wed, 23 Sep 2026 18:01:49 +0000</pubDate>
+      <description><![CDATA[<p>梁文锋署名，DeepSeek又发新论文了！</p><p>标签: DSec（DeepSeek Elastic Compute）, 梁文锋, DeepSeek</p>]]></description>
+      <category>DSec（DeepSeek Elastic Compute）</category>
+      <category>梁文锋</category>
+      <category>DeepSeek</category>
+    </item>
+    <item>
+      <title><![CDATA[4亿副耳机，正在等待一次AI改造]]></title>
+      <link>https://www.jiqizhixin.com/articles/413cd265-9846-4bc4-b2cf-ff6016ebe2fe</link>
+      <guid>413cd265-9846-4bc4-b2cf-ff6016ebe2fe</guid>
+      <pubDate>Wed, 23 Sep 2026 18:01:49 +0000</pubDate>
+      <description><![CDATA[<p>4亿副耳机，正在等待一次AI改造</p><p>标签: AI 耳机, Hojo 恒聚愿景</p>]]></description>
+      <category>AI 耳机</category>
+      <category>Hojo 恒聚愿景</category>
+    </item>
+    <item>
+      <title><![CDATA[从训练数据到科研验证，沐晨科技押注AI时代的新基础设施]]></title>
+      <link>https://www.jiqizhixin.com/articles/53a97b7f-222f-4024-a656-ef68e50bb8f4</link>
+      <guid>53a97b7f-222f-4024-a656-ef68e50bb8f4</guid>
+      <pubDate>Wed, 23 Sep 2026 18:02:17 +0000</pubDate>
+      <description><![CDATA[<p>从训练数据到科研验证，沐晨科技押注AI时代的新基础设施</p><p>标签: ScienceIDE, 沐晨科技（Muchen AI）</p>]]></description>
+      <category>ScienceIDE</category>
+      <category>沐晨科技（Muchen AI）</category>
+    </item>
+    <item>
+      <title><![CDATA[蚂蚁密算发布企业级可信智能云服务平台“密算一号”，启动首批定向邀测]]></title>
+      <link>https://www.jiqizhixin.com/articles/8aaace6d-1090-4974-a397-060fe2425fca</link>
+      <guid>8aaace6d-1090-4974-a397-060fe2425fca</guid>
+      <pubDate>Wed, 23 Sep 2026 18:02:18 +0000</pubDate>
+      <description><![CDATA[<p>蚂蚁密算发布企业级可信智能云服务平台“密算一号”，启动首批定向邀测</p><p>标签: 密算一号, 阿里云, 蚂蚁密算, 2026云栖大会</p>]]></description>
+      <category>密算一号</category>
+      <category>阿里云</category>
+      <category>蚂蚁密算</category>
+      <category>2026云栖大会</category>
+    </item>
     <item>
       <title><![CDATA[爱诗科技PixVerse R2 破解Scaling难题：实时、交互、持续进化]]></title>
       <link>https://www.jiqizhixin.com/articles/ab70ef8b-4ffb-4213-b91a-ceca81e391aa</link>
@@ -60,53 +119,6 @@
       <description><![CDATA[<p>「开源版Jev」登上Hugging Face热榜第一</p><p>标签: Hugging Face, Jev</p>]]></description>
       <category>Hugging Face</category>
       <category>Jev</category>
-    </item>
-    <item>
-      <title><![CDATA[虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建]]></title>
-      <link>https://www.jiqizhixin.com/articles/b23a451f-21dc-4208-a27f-4fa8d8d0f99c</link>
-      <guid>b23a451f-21dc-4208-a27f-4fa8d8d0f99c</guid>
-      <pubDate>Tue, 22 Sep 2026 12:53:09 +0000</pubDate>
-      <description><![CDATA[<p>虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建</p><p>标签: 鲸锐AI, 虎鲸文娱集团, 云栖大会</p>]]></description>
-      <category>鲸锐AI</category>
-      <category>虎鲸文娱集团</category>
-      <category>云栖大会</category>
-    </item>
-    <item>
-      <title><![CDATA[扫描全能王亮相2026云栖大会，一句话让“糊图”变高质量报告]]></title>
-      <link>https://www.jiqizhixin.com/articles/6b60203a-ed08-49b4-97d7-b9f522d22dbc</link>
-      <guid>6b60203a-ed08-49b4-97d7-b9f522d22dbc</guid>
-      <pubDate>Tue, 22 Sep 2026 12:53:08 +0000</pubDate>
-      <description><![CDATA[<p>扫描全能王亮相2026云栖大会，一句话让“糊图”变高质量报告</p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[全球内存还在涨，合肥长鑫量产新一代DRAM]]></title>
-      <link>https://www.jiqizhixin.com/articles/556406dc-754a-4de2-b59b-4bcd41017c88</link>
-      <guid>556406dc-754a-4de2-b59b-4bcd41017c88</guid>
-      <pubDate>Tue, 22 Sep 2026 12:53:38 +0000</pubDate>
-      <description><![CDATA[<p>全球内存还在涨，合肥长鑫量产新一代DRAM</p><p>标签: LPDDR5X, DRAM, 长鑫存储</p>]]></description>
-      <category>LPDDR5X</category>
-      <category>DRAM</category>
-      <category>长鑫存储</category>
-    </item>
-    <item>
-      <title><![CDATA[清华与斯坦福团队在LLM内部发现两种神经元，定位奖励子系统]]></title>
-      <link>https://www.jiqizhixin.com/articles/03f0e4de-208b-4c4c-bafe-c044ee9df4fb</link>
-      <guid>03f0e4de-208b-4c4c-bafe-c044ee9df4fb</guid>
-      <pubDate>Tue, 22 Sep 2026 06:56:02 +0000</pubDate>
-      <description><![CDATA[<p>清华与斯坦福团队在LLM内部发现两种神经元，定位奖励子系统</p><p>标签: AI for Science（AI4S）, reward subsystem, 清华大学, 斯坦福大学</p>]]></description>
-      <category>AI for Science（AI4S）</category>
-      <category>reward subsystem</category>
-      <category>清华大学</category>
-      <category>斯坦福大学</category>
-    </item>
-    <item>
-      <title><![CDATA[用GPT-6 Astra就能直接控制机器人？可具身真机没那么简单]]></title>
-      <link>https://www.jiqizhixin.com/articles/8a8afa13-c3c1-4d7c-9665-121675b50203</link>
-      <guid>8a8afa13-c3c1-4d7c-9665-121675b50203</guid>
-      <pubDate>Tue, 22 Sep 2026 06:56:00 +0000</pubDate>
-      <description><![CDATA[<p>用GPT-6 Astra就能直接控制机器人？可具身真机没那么简单</p><p>标签: RoboRSI, 穹彻智能 Noematrix</p>]]></description>
-      <category>RoboRSI</category>
-      <category>穹彻智能 Noematrix</category>
     </item>
   </channel>
 </rss>
