@@ -4,8 +4,69 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 24 Sep 2026 01:48:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 06:52:58 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Nature封面丨超600万细胞数据绘制迄今最大的人脑基因活动图谱]]></title>
+      <link>https://www.jiqizhixin.com/articles/b487655f-428f-4f51-8833-cd7df827186e</link>
+      <guid>b487655f-428f-4f51-8833-cd7df827186e</guid>
+      <pubDate>Thu, 24 Sep 2026 06:51:23 +0000</pubDate>
+      <description><![CDATA[<p>Nature封面丨超600万细胞数据绘制迄今最大的人脑基因活动图谱</p><p>标签: AI for Science（AI4S）, Nature, PsychAD</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>Nature</category>
+      <category>PsychAD</category>
+    </item>
+    <item>
+      <title><![CDATA[清华大学联合无问芯穹开源具身智能云原生纳管平台RLark，5分钟接入、10秒启动任务]]></title>
+      <link>https://www.jiqizhixin.com/articles/ed972655-9902-4212-b387-c38b46ddf836</link>
+      <guid>ed972655-9902-4212-b387-c38b46ddf836</guid>
+      <pubDate>Thu, 24 Sep 2026 06:51:22 +0000</pubDate>
+      <description><![CDATA[<p>清华大学联合无问芯穹开源具身智能云原生纳管平台RLark，5分钟接入、10秒启动任务</p><p>标签: RLark, 无问芯穹, 清华大学</p>]]></description>
+      <category>RLark</category>
+      <category>无问芯穹</category>
+      <category>清华大学</category>
+    </item>
+    <item>
+      <title><![CDATA[冻结模型权重，Agent还能持续进化：ModularRSI探索Harness自我改进]]></title>
+      <link>https://www.jiqizhixin.com/articles/ff6d9b54-4fbf-4017-a563-d66e30a472cb</link>
+      <guid>ff6d9b54-4fbf-4017-a563-d66e30a472cb</guid>
+      <pubDate>Thu, 24 Sep 2026 06:51:54 +0000</pubDate>
+      <description><![CDATA[<p>冻结模型权重，Agent还能持续进化：ModularRSI探索Harness自我改进</p><p>标签: Harness, ModularRSI, 北京航空航天大学, IQuest Research</p>]]></description>
+      <category>Harness</category>
+      <category>ModularRSI</category>
+      <category>北京航空航天大学</category>
+      <category>IQuest Research</category>
+    </item>
+    <item>
+      <title><![CDATA[从Hellome、Hzhermes到词元工场：拆解汇智智能的三层智能体技术体系]]></title>
+      <link>https://www.jiqizhixin.com/articles/97aca2bd-4ccd-42e8-ac24-9129740e5d0d</link>
+      <guid>97aca2bd-4ccd-42e8-ac24-9129740e5d0d</guid>
+      <pubDate>Thu, 24 Sep 2026 06:51:53 +0000</pubDate>
+      <description><![CDATA[<p>从Hellome、Hzhermes到词元工场：拆解汇智智能的三层智能体技术体系</p><p>标签: Agentsyun词元工场, Hzhermes, Hellome, 汇智智能</p>]]></description>
+      <category>Agentsyun词元工场</category>
+      <category>Hzhermes</category>
+      <category>Hellome</category>
+      <category>汇智智能</category>
+    </item>
+    <item>
+      <title><![CDATA[突发：Claude自主发现未知生物系统，或能编辑基因]]></title>
+      <link>https://www.jiqizhixin.com/articles/c29d40af-4770-4a92-ac84-7ea8a2537278</link>
+      <guid>c29d40af-4770-4a92-ac84-7ea8a2537278</guid>
+      <pubDate>Thu, 24 Sep 2026 06:52:26 +0000</pubDate>
+      <description><![CDATA[<p>突发：Claude自主发现未知生物系统，或能编辑基因</p><p>标签: 生物学, 阵列关联逆转录酶, Anthropic</p>]]></description>
+      <category>生物学</category>
+      <category>阵列关联逆转录酶</category>
+      <category>Anthropic</category>
+    </item>
+    <item>
+      <title><![CDATA[从AI Build AI到真正RSI：这场张江塔尖会把「自进化」拆到细节]]></title>
+      <link>https://www.jiqizhixin.com/articles/60bcfca0-3f63-466c-938a-e2d74633f083</link>
+      <guid>60bcfca0-3f63-466c-938a-e2d74633f083</guid>
+      <pubDate>Thu, 24 Sep 2026 06:52:58 +0000</pubDate>
+      <description><![CDATA[<p>从AI Build AI到真正RSI：这场张江塔尖会把「自进化」拆到细节</p><p>标签: 张江 AI 创新小镇, 递归自我改进（RSI）</p>]]></description>
+      <category>张江 AI 创新小镇</category>
+      <category>递归自我改进（RSI）</category>
+    </item>
     <item>
       <title><![CDATA[用微生物在火星「建城」？Pioneer Labs培育新型细菌：吃火星土壤、产建筑塑料]]></title>
       <link>https://www.jiqizhixin.com/articles/7d7beff5-467e-4f4d-a220-d85e356914d9</link>
@@ -53,72 +114,6 @@
       <description><![CDATA[<p>从训练数据到科研验证，沐晨科技押注AI时代的新基础设施</p><p>标签: ScienceIDE, 沐晨科技（Muchen AI）</p>]]></description>
       <category>ScienceIDE</category>
       <category>沐晨科技（Muchen AI）</category>
-    </item>
-    <item>
-      <title><![CDATA[蚂蚁密算发布企业级可信智能云服务平台“密算一号”，启动首批定向邀测]]></title>
-      <link>https://www.jiqizhixin.com/articles/8aaace6d-1090-4974-a397-060fe2425fca</link>
-      <guid>8aaace6d-1090-4974-a397-060fe2425fca</guid>
-      <pubDate>Wed, 23 Sep 2026 18:02:18 +0000</pubDate>
-      <description><![CDATA[<p>蚂蚁密算发布企业级可信智能云服务平台“密算一号”，启动首批定向邀测</p><p>标签: 密算一号, 阿里云, 蚂蚁密算, 2026云栖大会</p>]]></description>
-      <category>密算一号</category>
-      <category>阿里云</category>
-      <category>蚂蚁密算</category>
-      <category>2026云栖大会</category>
-    </item>
-    <item>
-      <title><![CDATA[爱诗科技PixVerse R2 破解Scaling难题：实时、交互、持续进化]]></title>
-      <link>https://www.jiqizhixin.com/articles/ab70ef8b-4ffb-4213-b91a-ceca81e391aa</link>
-      <guid>ab70ef8b-4ffb-4213-b91a-ceca81e391aa</guid>
-      <pubDate>Wed, 23 Sep 2026 07:22:44 +0000</pubDate>
-      <description><![CDATA[<p>爱诗科技PixVerse R2 破解Scaling难题：实时、交互、持续进化</p><p>标签: PixVerse R2, 爱诗科技</p>]]></description>
-      <category>PixVerse R2</category>
-      <category>爱诗科技</category>
-    </item>
-    <item>
-      <title><![CDATA[阿里千问AI平台全面升级模型服务、Agent服务、AI应用]]></title>
-      <link>https://www.jiqizhixin.com/articles/ab97a10f-9696-4a3e-b1d8-0b31bce02f9c</link>
-      <guid>ab97a10f-9696-4a3e-b1d8-0b31bce02f9c</guid>
-      <pubDate>Wed, 23 Sep 2026 07:22:43 +0000</pubDate>
-      <description><![CDATA[<p>阿里千问AI平台全面升级模型服务、Agent服务、AI应用</p><p>标签: 阿里巴巴, 2026云栖大会</p>]]></description>
-      <category>阿里巴巴</category>
-      <category>2026云栖大会</category>
-    </item>
-    <item>
-      <title><![CDATA[具身智能开始拼高质量数据了！灵初Psi-R2.5用强 Pair Data重做训练链路]]></title>
-      <link>https://www.jiqizhixin.com/articles/4c2617ad-6a1a-413f-84cc-5abb07979d69</link>
-      <guid>4c2617ad-6a1a-413f-84cc-5abb07979d69</guid>
-      <pubDate>Wed, 23 Sep 2026 07:23:13 +0000</pubDate>
-      <description><![CDATA[<p>具身智能开始拼高质量数据了！灵初Psi-R2.5用强 Pair Data重做训练链路</p><p>标签: Pair Data, Psi-R2.5, 灵初智能（PsiBot）</p>]]></description>
-      <category>Pair Data</category>
-      <category>Psi-R2.5</category>
-      <category>灵初智能（PsiBot）</category>
-    </item>
-    <item>
-      <title><![CDATA[大模型正在吃掉搜索广告位，下一代广告该怎么做？人大高瓴、斯坦福把拍卖写进Token生成过程]]></title>
-      <link>https://www.jiqizhixin.com/articles/0b14d44c-c4fe-400b-bcfd-56154973f583</link>
-      <guid>0b14d44c-c4fe-400b-bcfd-56154973f583</guid>
-      <pubDate>Wed, 23 Sep 2026 07:23:14 +0000</pubDate>
-      <description><![CDATA[<p>大模型正在吃掉搜索广告位，下一代广告该怎么做？人大高瓴、斯坦福把拍卖写进Token生成过程</p><p>标签: LAMA, 中国人民大学高瓴人工智能学院</p>]]></description>
-      <category>LAMA</category>
-      <category>中国人民大学高瓴人工智能学院</category>
-    </item>
-    <item>
-      <title><![CDATA[突发！GPT-6 Sol与Claude Opus 5.5同日开打，谁是「性价比之王」]]></title>
-      <link>https://www.jiqizhixin.com/articles/4b853b8d-2333-4c54-ad55-7ff34194d23e</link>
-      <guid>4b853b8d-2333-4c54-ad55-7ff34194d23e</guid>
-      <pubDate>Wed, 23 Sep 2026 07:23:43 +0000</pubDate>
-      <description><![CDATA[<p>突发！GPT-6 Sol与Claude Opus 5.5同日开打，谁是「性价比之王」</p><p>标签: Claude Opus 5.5, GPT-6 Sol</p>]]></description>
-      <category>Claude Opus 5.5</category>
-      <category>GPT-6 Sol</category>
-    </item>
-    <item>
-      <title><![CDATA[「开源版Jev」登上Hugging Face热榜第一]]></title>
-      <link>https://www.jiqizhixin.com/articles/d10f5ec6-b7e3-4e77-ad40-a9247ec4f1a4</link>
-      <guid>d10f5ec6-b7e3-4e77-ad40-a9247ec4f1a4</guid>
-      <pubDate>Wed, 23 Sep 2026 07:23:44 +0000</pubDate>
-      <description><![CDATA[<p>「开源版Jev」登上Hugging Face热榜第一</p><p>标签: Hugging Face, Jev</p>]]></description>
-      <category>Hugging Face</category>
-      <category>Jev</category>
     </item>
   </channel>
 </rss>
