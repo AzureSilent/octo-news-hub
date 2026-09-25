@@ -4,8 +4,27 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 25 Sep 2026 02:05:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 09:08:48 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[突发：DeepSeek Harness出桌面版了！]]></title>
+      <link>https://www.jiqizhixin.com/articles/ea8b54f0-b57a-4de8-9701-d1c393d61b5d</link>
+      <guid>ea8b54f0-b57a-4de8-9701-d1c393d61b5d</guid>
+      <pubDate>Fri, 25 Sep 2026 09:08:47 +0000</pubDate>
+      <description><![CDATA[<p>突发：DeepSeek Harness出桌面版了！</p><p>标签: DeepSeek Harness, DeepSeek</p>]]></description>
+      <category>DeepSeek Harness</category>
+      <category>DeepSeek</category>
+    </item>
+    <item>
+      <title><![CDATA[实测Opus 5.5：一句提示词造出100个网页，还会做动画谱曲]]></title>
+      <link>https://www.jiqizhixin.com/articles/ddfe50c9-b8d2-4819-9f9f-2b944e11f732</link>
+      <guid>ddfe50c9-b8d2-4819-9f9f-2b944e11f732</guid>
+      <pubDate>Fri, 25 Sep 2026 09:08:48 +0000</pubDate>
+      <description><![CDATA[<p>实测Opus 5.5：一句提示词造出100个网页，还会做动画谱曲</p><p>标签: Claude, Anthropic, Opus 5.5</p>]]></description>
+      <category>Claude</category>
+      <category>Anthropic</category>
+      <category>Opus 5.5</category>
+    </item>
     <item>
       <title><![CDATA[高通这一代骁龙：手机芯片，开始为Agent重新设计]]></title>
       <link>https://www.jiqizhixin.com/articles/af3423f1-ec4c-4a82-9de1-5a6c2c07f652</link>
@@ -104,25 +123,6 @@
       <category>水面搜救机器人</category>
       <category>水域搜救系统</category>
       <category>江淮实验室</category>
-    </item>
-    <item>
-      <title><![CDATA[突发：Claude自主发现未知生物系统，或能编辑基因]]></title>
-      <link>https://www.jiqizhixin.com/articles/c29d40af-4770-4a92-ac84-7ea8a2537278</link>
-      <guid>c29d40af-4770-4a92-ac84-7ea8a2537278</guid>
-      <pubDate>Thu, 24 Sep 2026 06:52:26 +0000</pubDate>
-      <description><![CDATA[<p>突发：Claude自主发现未知生物系统，或能编辑基因</p><p>标签: 生物学, 阵列关联逆转录酶, Anthropic</p>]]></description>
-      <category>生物学</category>
-      <category>阵列关联逆转录酶</category>
-      <category>Anthropic</category>
-    </item>
-    <item>
-      <title><![CDATA[从AI Build AI到真正RSI：这场张江塔尖会把「自进化」拆到细节]]></title>
-      <link>https://www.jiqizhixin.com/articles/60bcfca0-3f63-466c-938a-e2d74633f083</link>
-      <guid>60bcfca0-3f63-466c-938a-e2d74633f083</guid>
-      <pubDate>Thu, 24 Sep 2026 06:52:58 +0000</pubDate>
-      <description><![CDATA[<p>从AI Build AI到真正RSI：这场张江塔尖会把「自进化」拆到细节</p><p>标签: 张江 AI 创新小镇, 递归自我改进（RSI）</p>]]></description>
-      <category>张江 AI 创新小镇</category>
-      <category>递归自我改进（RSI）</category>
     </item>
   </channel>
 </rss>
