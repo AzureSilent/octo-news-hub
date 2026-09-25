@@ -4,8 +4,66 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 25 Sep 2026 09:08:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 14:50:35 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[从机器鸭乐高、宜家说明书到《塞尔达》，Opus 5.5正在重新定义vibe coding]]></title>
+      <link>https://www.jiqizhixin.com/articles/9d1c553e-d0f8-4cf7-8139-c0f7e98302b9</link>
+      <guid>9d1c553e-d0f8-4cf7-8139-c0f7e98302b9</guid>
+      <pubDate>Fri, 25 Sep 2026 14:49:35 +0000</pubDate>
+      <description><![CDATA[<p>从机器鸭乐高、宜家说明书到《塞尔达》，Opus 5.5正在重新定义vibe coding</p><p>标签: Hugging Face, Microduck, Claude Opus 5.5</p>]]></description>
+      <category>Hugging Face</category>
+      <category>Microduck</category>
+      <category>Claude Opus 5.5</category>
+    </item>
+    <item>
+      <title><![CDATA[Jev刷屏之后，竟然有人12个月前就提出了概率并行生成？]]></title>
+      <link>https://www.jiqizhixin.com/articles/50f3ad33-0767-4d9f-8774-5893f6dc2c90</link>
+      <guid>50f3ad33-0767-4d9f-8774-5893f6dc2c90</guid>
+      <pubDate>Fri, 25 Sep 2026 14:49:34 +0000</pubDate>
+      <description><![CDATA[<p>Jev刷屏之后，竟然有人12个月前就提出了概率并行生成？</p><p>标签: TimePrism, ICLR 2026, 香港中文大学</p>]]></description>
+      <category>TimePrism</category>
+      <category>ICLR 2026</category>
+      <category>香港中文大学</category>
+    </item>
+    <item>
+      <title><![CDATA[AI改图，终于懂点「用户心理学」了]]></title>
+      <link>https://www.jiqizhixin.com/articles/9fd89f1b-04f3-4b78-b2a1-344d17c92c18</link>
+      <guid>9fd89f1b-04f3-4b78-b2a1-344d17c92c18</guid>
+      <pubDate>Fri, 25 Sep 2026 14:50:06 +0000</pubDate>
+      <description><![CDATA[<p>AI改图，终于懂点「用户心理学」了</p><p>标签: KwaiMind, 快手技术</p>]]></description>
+      <category>KwaiMind</category>
+      <category>快手技术</category>
+    </item>
+    <item>
+      <title><![CDATA[AdaRoboVLG：适用于不同机械手的任务自适应视觉语言抓取框架]]></title>
+      <link>https://www.jiqizhixin.com/articles/19deaf78-7d57-4e89-9615-c1360cf83c23</link>
+      <guid>19deaf78-7d57-4e89-9615-c1360cf83c23</guid>
+      <pubDate>Fri, 25 Sep 2026 14:50:05 +0000</pubDate>
+      <description><![CDATA[<p>AdaRoboVLG：适用于不同机械手的任务自适应视觉语言抓取框架</p><p>标签: 北京大学, 华中科技大学, AdaRoboVLG</p>]]></description>
+      <category>北京大学</category>
+      <category>华中科技大学</category>
+      <category>AdaRoboVLG</category>
+    </item>
+    <item>
+      <title><![CDATA[每人持股约2%，却要50.1%投票权：Anthropic创始人的IPO算盘]]></title>
+      <link>https://www.jiqizhixin.com/articles/b27b0a17-f751-4c99-aff7-248ba2144c1d</link>
+      <guid>b27b0a17-f751-4c99-aff7-248ba2144c1d</guid>
+      <pubDate>Fri, 25 Sep 2026 14:50:35 +0000</pubDate>
+      <description><![CDATA[<p>每人持股约2%，却要50.1%投票权：Anthropic创始人的IPO算盘</p><p>标签: Palantir, Dario Amodei, Anthropic</p>]]></description>
+      <category>Palantir</category>
+      <category>Dario Amodei</category>
+      <category>Anthropic</category>
+    </item>
+    <item>
+      <title><![CDATA[IROS 2026最佳移动操作论文候选：ULTRA让人形机器人根据目标行动]]></title>
+      <link>https://www.jiqizhixin.com/articles/ae9bf28c-b6c2-4d05-b196-6d12e66791be</link>
+      <guid>ae9bf28c-b6c2-4d05-b196-6d12e66791be</guid>
+      <pubDate>Fri, 25 Sep 2026 14:50:35 +0000</pubDate>
+      <description><![CDATA[<p>IROS 2026最佳移动操作论文候选：ULTRA让人形机器人根据目标行动</p><p>标签: ULTRA, IROS 2026</p>]]></description>
+      <category>ULTRA</category>
+      <category>IROS 2026</category>
+    </item>
     <item>
       <title><![CDATA[突发：DeepSeek Harness出桌面版了！]]></title>
       <link>https://www.jiqizhixin.com/articles/ea8b54f0-b57a-4de8-9701-d1c393d61b5d</link>
@@ -62,67 +120,6 @@
       <description><![CDATA[<p>智能终端变成token工厂，这家公司要让AI真正被深度使用</p><p>标签: AutoOmni, 斑马智能</p>]]></description>
       <category>AutoOmni</category>
       <category>斑马智能</category>
-    </item>
-    <item>
-      <title><![CDATA[从数字AI到物理AI：英特尔全栈助力具身智能落地]]></title>
-      <link>https://www.jiqizhixin.com/articles/117728f3-f49a-413d-9a1e-e75d003d0a0f</link>
-      <guid>117728f3-f49a-413d-9a1e-e75d003d0a0f</guid>
-      <pubDate>Thu, 24 Sep 2026 12:58:25 +0000</pubDate>
-      <description><![CDATA[<p>从数字AI到物理AI：英特尔全栈助力具身智能落地</p><p>标签: 英特尔, 2026英特尔行业解决方案大会</p>]]></description>
-      <category>英特尔</category>
-      <category>2026英特尔行业解决方案大会</category>
-    </item>
-    <item>
-      <title><![CDATA[Nature封面丨超600万细胞数据绘制迄今最大的人脑基因活动图谱]]></title>
-      <link>https://www.jiqizhixin.com/articles/b487655f-428f-4f51-8833-cd7df827186e</link>
-      <guid>b487655f-428f-4f51-8833-cd7df827186e</guid>
-      <pubDate>Thu, 24 Sep 2026 06:51:23 +0000</pubDate>
-      <description><![CDATA[<p>Nature封面丨超600万细胞数据绘制迄今最大的人脑基因活动图谱</p><p>标签: AI for Science（AI4S）, Nature, PsychAD</p>]]></description>
-      <category>AI for Science（AI4S）</category>
-      <category>Nature</category>
-      <category>PsychAD</category>
-    </item>
-    <item>
-      <title><![CDATA[清华大学联合无问芯穹开源具身智能云原生纳管平台RLark，5分钟接入、10秒启动任务]]></title>
-      <link>https://www.jiqizhixin.com/articles/ed972655-9902-4212-b387-c38b46ddf836</link>
-      <guid>ed972655-9902-4212-b387-c38b46ddf836</guid>
-      <pubDate>Thu, 24 Sep 2026 06:51:22 +0000</pubDate>
-      <description><![CDATA[<p>清华大学联合无问芯穹开源具身智能云原生纳管平台RLark，5分钟接入、10秒启动任务</p><p>标签: RLark, 无问芯穹, 清华大学</p>]]></description>
-      <category>RLark</category>
-      <category>无问芯穹</category>
-      <category>清华大学</category>
-    </item>
-    <item>
-      <title><![CDATA[冻结模型权重，Agent还能持续进化：ModularRSI探索Harness自我改进]]></title>
-      <link>https://www.jiqizhixin.com/articles/ff6d9b54-4fbf-4017-a563-d66e30a472cb</link>
-      <guid>ff6d9b54-4fbf-4017-a563-d66e30a472cb</guid>
-      <pubDate>Thu, 24 Sep 2026 06:51:54 +0000</pubDate>
-      <description><![CDATA[<p>冻结模型权重，Agent还能持续进化：ModularRSI探索Harness自我改进</p><p>标签: Harness, ModularRSI, 北京航空航天大学, IQuest Research</p>]]></description>
-      <category>Harness</category>
-      <category>ModularRSI</category>
-      <category>北京航空航天大学</category>
-      <category>IQuest Research</category>
-    </item>
-    <item>
-      <title><![CDATA[从Hellome、Hzhermes到词元工场：拆解汇智智能的三层智能体技术体系]]></title>
-      <link>https://www.jiqizhixin.com/articles/97aca2bd-4ccd-42e8-ac24-9129740e5d0d</link>
-      <guid>97aca2bd-4ccd-42e8-ac24-9129740e5d0d</guid>
-      <pubDate>Thu, 24 Sep 2026 06:51:53 +0000</pubDate>
-      <description><![CDATA[<p>从Hellome、Hzhermes到词元工场：拆解汇智智能的三层智能体技术体系</p><p>标签: Agentsyun词元工场, Hzhermes, Hellome, 汇智智能</p>]]></description>
-      <category>Agentsyun词元工场</category>
-      <category>Hzhermes</category>
-      <category>Hellome</category>
-      <category>汇智智能</category>
-    </item>
-    <item>
-      <title><![CDATA[最该让机器人替代人的工作，也许就是「冒险救人」]]></title>
-      <link>https://www.jiqizhixin.com/articles/a259c9f0-7cfe-419f-8515-db2f9088c725</link>
-      <guid>a259c9f0-7cfe-419f-8515-db2f9088c725</guid>
-      <pubDate>Thu, 24 Sep 2026 12:58:24 +0000</pubDate>
-      <description><![CDATA[<p>最该让机器人替代人的工作，也许就是「冒险救人」</p><p>标签: 水面搜救机器人, 水域搜救系统, 江淮实验室</p>]]></description>
-      <category>水面搜救机器人</category>
-      <category>水域搜救系统</category>
-      <category>江淮实验室</category>
     </item>
   </channel>
 </rss>
