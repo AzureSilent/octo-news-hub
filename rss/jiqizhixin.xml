@@ -4,8 +4,93 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 26 Sep 2026 02:11:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 13:58:21 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[NASA给月亮造了个AI：用月面数据训练可复用基础模型]]></title>
+      <link>https://www.jiqizhixin.com/articles/bebb48b6-e59d-4091-b2fd-0db9914cf5bd</link>
+      <guid>bebb48b6-e59d-4091-b2fd-0db9914cf5bd</guid>
+      <pubDate>Sat, 26 Sep 2026 13:56:18 +0000</pubDate>
+      <description><![CDATA[<p>NASA给月亮造了个AI：用月面数据训练可复用基础模型</p><p>标签: NASA-IBM, NASA</p>]]></description>
+      <category>NASA-IBM</category>
+      <category>NASA</category>
+    </item>
+    <item>
+      <title><![CDATA[计算机科学学术界死了吗？AI博士生该何去何从]]></title>
+      <link>https://www.jiqizhixin.com/articles/881aa694-4f36-4be2-b064-c67861add201</link>
+      <guid>881aa694-4f36-4be2-b064-c67861add201</guid>
+      <pubDate>Sat, 26 Sep 2026 13:56:19 +0000</pubDate>
+      <description><![CDATA[<p>计算机科学学术界死了吗？AI博士生该何去何从</p><p>标签: 曹晋, 德克萨斯大学奥斯汀分校</p>]]></description>
+      <category>曹晋</category>
+      <category>德克萨斯大学奥斯汀分校</category>
+    </item>
+    <item>
+      <title><![CDATA[答对了，理由却错了：港科大提出LexAgentHallu，追踪智能体的「隐性幻觉」]]></title>
+      <link>https://www.jiqizhixin.com/articles/bf424758-5cf0-4d51-ae48-53367fc56e81</link>
+      <guid>bf424758-5cf0-4d51-ae48-53367fc56e81</guid>
+      <pubDate>Sat, 26 Sep 2026 13:56:48 +0000</pubDate>
+      <description><![CDATA[<p>答对了，理由却错了：港科大提出LexAgentHallu，追踪智能体的「隐性幻觉」</p><p>标签: LexAgentHallu, 香港科技大学</p>]]></description>
+      <category>LexAgentHallu</category>
+      <category>香港科技大学</category>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI承认：AI把用户图片传到了网上，53个案例公开]]></title>
+      <link>https://www.jiqizhixin.com/articles/6b9f75c5-4165-47c0-b503-08a88a44f671</link>
+      <guid>6b9f75c5-4165-47c0-b503-08a88a44f671</guid>
+      <pubDate>Sat, 26 Sep 2026 13:56:49 +0000</pubDate>
+      <description><![CDATA[<p>OpenAI承认：AI把用户图片传到了网上，53个案例公开</p><p>标签: Hugging Face, OpenAI</p>]]></description>
+      <category>Hugging Face</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[Nature Machine Intelligence｜不只是「像大脑」，人脑信号还能直接引导语言模型进行鲁棒推理]]></title>
+      <link>https://www.jiqizhixin.com/articles/d1780f51-5514-4871-ad73-26e1d4ad17a3</link>
+      <guid>d1780f51-5514-4871-ad73-26e1d4ad17a3</guid>
+      <pubDate>Sat, 26 Sep 2026 13:57:19 +0000</pubDate>
+      <description><![CDATA[<p>Nature Machine Intelligence｜不只是「像大脑」，人脑信号还能直接引导语言模型进行鲁棒推理</p><p>标签: Nature Machine Intelligence, 清华大学, 北京大学</p>]]></description>
+      <category>Nature Machine Intelligence</category>
+      <category>清华大学</category>
+      <category>北京大学</category>
+    </item>
+    <item>
+      <title><![CDATA[离谱！OpenAI智能体攻击Hugging Face时，竟想叫DeepSeek、Kimi和Qwen来帮忙]]></title>
+      <link>https://www.jiqizhixin.com/articles/2d5ff128-d527-45d0-adce-5e6c918c7428</link>
+      <guid>2d5ff128-d527-45d0-adce-5e6c918c7428</guid>
+      <pubDate>Sat, 26 Sep 2026 13:57:20 +0000</pubDate>
+      <description><![CDATA[<p>离谱！OpenAI智能体攻击Hugging Face时，竟想叫DeepSeek、Kimi和Qwen来帮忙</p><p>标签: Hugging Face, DeepSeek, OpenAI</p>]]></description>
+      <category>Hugging Face</category>
+      <category>DeepSeek</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[AI代写论文露馅？顶刊主编一问，作者啥都答不上来]]></title>
+      <link>https://www.jiqizhixin.com/articles/0e7926e0-a4dc-484c-b08e-55473846fe8f</link>
+      <guid>0e7926e0-a4dc-484c-b08e-55473846fe8f</guid>
+      <pubDate>Sat, 26 Sep 2026 13:57:50 +0000</pubDate>
+      <description><![CDATA[<p>AI代写论文露馅？顶刊主编一问，作者啥都答不上来</p><p>标签: AI代写, TMLR 2026</p>]]></description>
+      <category>AI代写</category>
+      <category>TMLR 2026</category>
+    </item>
+    <item>
+      <title><![CDATA[Claude取得理论物理突破，只用了一句话+几千美元]]></title>
+      <link>https://www.jiqizhixin.com/articles/4360ed55-c702-4f46-b038-daecdda78490</link>
+      <guid>4360ed55-c702-4f46-b038-daecdda78490</guid>
+      <pubDate>Sat, 26 Sep 2026 13:57:50 +0000</pubDate>
+      <description><![CDATA[<p>Claude取得理论物理突破，只用了一句话+几千美元</p><p>标签: 九圈六粒子散射振幅, 平面 N=4 超对称杨-米尔斯理论, Claude, Anthropic</p>]]></description>
+      <category>九圈六粒子散射振幅</category>
+      <category>平面 N=4 超对称杨-米尔斯理论</category>
+      <category>Claude</category>
+      <category>Anthropic</category>
+    </item>
+    <item>
+      <title><![CDATA[答案正确，推理就可靠吗？V-Rubrics用35万条细粒度准则细化多模态强化学习奖励]]></title>
+      <link>https://www.jiqizhixin.com/articles/5c6a48de-24b8-4695-879f-3a19977717c9</link>
+      <guid>5c6a48de-24b8-4695-879f-3a19977717c9</guid>
+      <pubDate>Sat, 26 Sep 2026 13:58:21 +0000</pubDate>
+      <description><![CDATA[<p>答案正确，推理就可靠吗？V-Rubrics用35万条细粒度准则细化多模态强化学习奖励</p><p>标签: V-Rubrics, 南洋理工大学</p>]]></description>
+      <category>V-Rubrics</category>
+      <category>南洋理工大学</category>
+    </item>
     <item>
       <title><![CDATA[从机器鸭乐高、宜家说明书到《塞尔达》，Opus 5.5正在重新定义vibe coding]]></title>
       <link>https://www.jiqizhixin.com/articles/9d1c553e-d0f8-4cf7-8139-c0f7e98302b9</link>
@@ -34,92 +119,6 @@
       <description><![CDATA[<p>AI改图，终于懂点「用户心理学」了</p><p>标签: KwaiMind, 快手技术</p>]]></description>
       <category>KwaiMind</category>
       <category>快手技术</category>
-    </item>
-    <item>
-      <title><![CDATA[AdaRoboVLG：适用于不同机械手的任务自适应视觉语言抓取框架]]></title>
-      <link>https://www.jiqizhixin.com/articles/19deaf78-7d57-4e89-9615-c1360cf83c23</link>
-      <guid>19deaf78-7d57-4e89-9615-c1360cf83c23</guid>
-      <pubDate>Fri, 25 Sep 2026 14:50:05 +0000</pubDate>
-      <description><![CDATA[<p>AdaRoboVLG：适用于不同机械手的任务自适应视觉语言抓取框架</p><p>标签: 北京大学, 华中科技大学, AdaRoboVLG</p>]]></description>
-      <category>北京大学</category>
-      <category>华中科技大学</category>
-      <category>AdaRoboVLG</category>
-    </item>
-    <item>
-      <title><![CDATA[每人持股约2%，却要50.1%投票权：Anthropic创始人的IPO算盘]]></title>
-      <link>https://www.jiqizhixin.com/articles/b27b0a17-f751-4c99-aff7-248ba2144c1d</link>
-      <guid>b27b0a17-f751-4c99-aff7-248ba2144c1d</guid>
-      <pubDate>Fri, 25 Sep 2026 14:50:35 +0000</pubDate>
-      <description><![CDATA[<p>每人持股约2%，却要50.1%投票权：Anthropic创始人的IPO算盘</p><p>标签: Palantir, Dario Amodei, Anthropic</p>]]></description>
-      <category>Palantir</category>
-      <category>Dario Amodei</category>
-      <category>Anthropic</category>
-    </item>
-    <item>
-      <title><![CDATA[IROS 2026最佳移动操作论文候选：ULTRA让人形机器人根据目标行动]]></title>
-      <link>https://www.jiqizhixin.com/articles/ae9bf28c-b6c2-4d05-b196-6d12e66791be</link>
-      <guid>ae9bf28c-b6c2-4d05-b196-6d12e66791be</guid>
-      <pubDate>Fri, 25 Sep 2026 14:50:35 +0000</pubDate>
-      <description><![CDATA[<p>IROS 2026最佳移动操作论文候选：ULTRA让人形机器人根据目标行动</p><p>标签: ULTRA, IROS 2026</p>]]></description>
-      <category>ULTRA</category>
-      <category>IROS 2026</category>
-    </item>
-    <item>
-      <title><![CDATA[突发：DeepSeek Harness出桌面版了！]]></title>
-      <link>https://www.jiqizhixin.com/articles/ea8b54f0-b57a-4de8-9701-d1c393d61b5d</link>
-      <guid>ea8b54f0-b57a-4de8-9701-d1c393d61b5d</guid>
-      <pubDate>Fri, 25 Sep 2026 09:08:47 +0000</pubDate>
-      <description><![CDATA[<p>突发：DeepSeek Harness出桌面版了！</p><p>标签: DeepSeek Harness, DeepSeek</p>]]></description>
-      <category>DeepSeek Harness</category>
-      <category>DeepSeek</category>
-    </item>
-    <item>
-      <title><![CDATA[实测Opus 5.5：一句提示词造出100个网页，还会做动画谱曲]]></title>
-      <link>https://www.jiqizhixin.com/articles/ddfe50c9-b8d2-4819-9f9f-2b944e11f732</link>
-      <guid>ddfe50c9-b8d2-4819-9f9f-2b944e11f732</guid>
-      <pubDate>Fri, 25 Sep 2026 09:08:48 +0000</pubDate>
-      <description><![CDATA[<p>实测Opus 5.5：一句提示词造出100个网页，还会做动画谱曲</p><p>标签: Claude, Anthropic, Opus 5.5</p>]]></description>
-      <category>Claude</category>
-      <category>Anthropic</category>
-      <category>Opus 5.5</category>
-    </item>
-    <item>
-      <title><![CDATA[高通这一代骁龙：手机芯片，开始为Agent重新设计]]></title>
-      <link>https://www.jiqizhixin.com/articles/af3423f1-ec4c-4a82-9de1-5a6c2c07f652</link>
-      <guid>af3423f1-ec4c-4a82-9de1-5a6c2c07f652</guid>
-      <pubDate>Thu, 24 Sep 2026 12:57:25 +0000</pubDate>
-      <description><![CDATA[<p>高通这一代骁龙：手机芯片，开始为Agent重新设计</p><p>标签: 高通, 2026 骁龙峰会</p>]]></description>
-      <category>高通</category>
-      <category>2026 骁龙峰会</category>
-    </item>
-    <item>
-      <title><![CDATA[七校联合开源OpenWAM：机器人的「世界模拟器」来了]]></title>
-      <link>https://www.jiqizhixin.com/articles/1cd27e22-b160-4277-b3e1-c6390ca0648a</link>
-      <guid>1cd27e22-b160-4277-b3e1-c6390ca0648a</guid>
-      <pubDate>Thu, 24 Sep 2026 12:57:26 +0000</pubDate>
-      <description><![CDATA[<p>七校联合开源OpenWAM：机器人的「世界模拟器」来了</p><p>标签: OpenWAM, 清华大学, 新加坡国立大学</p>]]></description>
-      <category>OpenWAM</category>
-      <category>清华大学</category>
-      <category>新加坡国立大学</category>
-    </item>
-    <item>
-      <title><![CDATA[代码生成越来越快，软件交付真正的瓶颈转向了哪里？]]></title>
-      <link>https://www.jiqizhixin.com/articles/7043e9d3-9748-4ec0-9d08-23facfeb50b0</link>
-      <guid>7043e9d3-9748-4ec0-9d08-23facfeb50b0</guid>
-      <pubDate>Thu, 24 Sep 2026 12:57:54 +0000</pubDate>
-      <description><![CDATA[<p>代码生成越来越快，软件交付真正的瓶颈转向了哪里？</p><p>标签: 阿里巴巴, 2026云栖大会, AI Native</p>]]></description>
-      <category>阿里巴巴</category>
-      <category>2026云栖大会</category>
-      <category>AI Native</category>
-    </item>
-    <item>
-      <title><![CDATA[智能终端变成token工厂，这家公司要让AI真正被深度使用]]></title>
-      <link>https://www.jiqizhixin.com/articles/b2404905-4713-4fb0-8dd5-64511684ad0b</link>
-      <guid>b2404905-4713-4fb0-8dd5-64511684ad0b</guid>
-      <pubDate>Thu, 24 Sep 2026 12:57:55 +0000</pubDate>
-      <description><![CDATA[<p>智能终端变成token工厂，这家公司要让AI真正被深度使用</p><p>标签: AutoOmni, 斑马智能</p>]]></description>
-      <category>AutoOmni</category>
-      <category>斑马智能</category>
     </item>
   </channel>
 </rss>
