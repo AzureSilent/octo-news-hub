@@ -4,8 +4,90 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 28 Sep 2026 02:08:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 10:15:59 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[SceneMosaic：让3D场景生成既快又「活」，一张图生成一屋子可仿真的多样布局]]></title>
+      <link>https://www.jiqizhixin.com/articles/b82d2f40-0059-431c-89d8-4dc09cb55811</link>
+      <guid>b82d2f40-0059-431c-89d8-4dc09cb55811</guid>
+      <pubDate>Mon, 28 Sep 2026 10:13:59 +0000</pubDate>
+      <description><![CDATA[<p>SceneMosaic：让3D场景生成既快又「活」，一张图生成一屋子可仿真的多样布局</p><p>标签: SceneMosaic, 香港大学</p>]]></description>
+      <category>SceneMosaic</category>
+      <category>香港大学</category>
+    </item>
+    <item>
+      <title><![CDATA[工业大模型下一关：从「会分析」到「真干活」，合肥中科纪元押注 ERI]]></title>
+      <link>https://www.jiqizhixin.com/articles/1d4836d4-024d-49c9-b44b-60230ca4bf4f</link>
+      <guid>1d4836d4-024d-49c9-b44b-60230ca4bf4f</guid>
+      <pubDate>Mon, 28 Sep 2026 10:13:59 +0000</pubDate>
+      <description><![CDATA[<p>工业大模型下一关：从「会分析」到「真干活」，合肥中科纪元押注 ERI</p><p>标签: ERI, 中科纪元, 2026 世界制造业大会</p>]]></description>
+      <category>ERI</category>
+      <category>中科纪元</category>
+      <category>2026 世界制造业大会</category>
+    </item>
+    <item>
+      <title><![CDATA[IDC×浪潮信息最新报告！22亿Agent背后，AI算力正迎来一场重构]]></title>
+      <link>https://www.jiqizhixin.com/articles/595af11a-d6c0-4aa7-8127-94662a2f0b2c</link>
+      <guid>595af11a-d6c0-4aa7-8127-94662a2f0b2c</guid>
+      <pubDate>Mon, 28 Sep 2026 10:14:28 +0000</pubDate>
+      <description><![CDATA[<p>IDC×浪潮信息最新报告！22亿Agent背后，AI算力正迎来一场重构</p><p>标签: AICC2026, IDC, 浪潮信息</p>]]></description>
+      <category>AICC2026</category>
+      <category>IDC</category>
+      <category>浪潮信息</category>
+    </item>
+    <item>
+      <title><![CDATA[18秒出片、视频生成提速265倍！北大清华阿里提出SparkDiffusion]]></title>
+      <link>https://www.jiqizhixin.com/articles/a684c4d5-2496-409c-a5d9-9050a2a0cbe1</link>
+      <guid>a684c4d5-2496-409c-a5d9-9050a2a0cbe1</guid>
+      <pubDate>Mon, 28 Sep 2026 10:14:29 +0000</pubDate>
+      <description><![CDATA[<p>18秒出片、视频生成提速265倍！北大清华阿里提出SparkDiffusion</p><p>标签: SparkDiffusion, 北京大学</p>]]></description>
+      <category>SparkDiffusion</category>
+      <category>北京大学</category>
+    </item>
+    <item>
+      <title><![CDATA[用AI造的！刚刚，代季峰团队首个模型开源]]></title>
+      <link>https://www.jiqizhixin.com/articles/4f985b3d-9dd5-4065-a883-ce579c3b7737</link>
+      <guid>4f985b3d-9dd5-4065-a883-ce579c3b7737</guid>
+      <pubDate>Mon, 28 Sep 2026 10:14:59 +0000</pubDate>
+      <description><![CDATA[<p>用AI造的！刚刚，代季峰团队首个模型开源</p><p>标签: Naive AI</p>]]></description>
+      <category>Naive AI</category>
+    </item>
+    <item>
+      <title><![CDATA[为了理解而生成：他们用合成数据教会模型「视频通话」]]></title>
+      <link>https://www.jiqizhixin.com/articles/15c4f82a-7656-4228-8895-85d20b2579ae</link>
+      <guid>15c4f82a-7656-4228-8895-85d20b2579ae</guid>
+      <pubDate>Mon, 28 Sep 2026 10:15:00 +0000</pubDate>
+      <description><![CDATA[<p>为了理解而生成：他们用合成数据教会模型「视频通话」</p><p>标签: 多模态大模型, 音视频联合生成</p>]]></description>
+      <category>多模态大模型</category>
+      <category>音视频联合生成</category>
+    </item>
+    <item>
+      <title><![CDATA[一句话协助设计酶的突变方案，AI协助蛋白质工程自动化]]></title>
+      <link>https://www.jiqizhixin.com/articles/f353e3d5-248f-4ba5-aa32-0b890e43bd8f</link>
+      <guid>f353e3d5-248f-4ba5-aa32-0b890e43bd8f</guid>
+      <pubDate>Mon, 28 Sep 2026 10:15:29 +0000</pubDate>
+      <description><![CDATA[<p>一句话协助设计酶的突变方案，AI协助蛋白质工程自动化</p><p>标签: AI for Science, 蛋白质工程</p>]]></description>
+      <category>AI for Science</category>
+      <category>蛋白质工程</category>
+    </item>
+    <item>
+      <title><![CDATA[LLM For Algorithm Design，华为联合团队斩获SAT 2026大赛AI赛道冠军]]></title>
+      <link>https://www.jiqizhixin.com/articles/cdd28540-a846-421b-b44f-832e10d04bb6</link>
+      <guid>cdd28540-a846-421b-b44f-832e10d04bb6</guid>
+      <pubDate>Mon, 28 Sep 2026 10:15:29 +0000</pubDate>
+      <description><![CDATA[<p>LLM For Algorithm Design，华为联合团队斩获SAT 2026大赛AI赛道冠军</p><p>标签: 华为, SAT Competition 2026</p>]]></description>
+      <category>华为</category>
+      <category>SAT Competition 2026</category>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI全新订阅方案出炉！5x和20x套餐已删除]]></title>
+      <link>https://www.jiqizhixin.com/articles/5d4b278d-5d1b-4e87-bc20-acd89e0ca6be</link>
+      <guid>5d4b278d-5d1b-4e87-bc20-acd89e0ca6be</guid>
+      <pubDate>Mon, 28 Sep 2026 10:15:59 +0000</pubDate>
+      <description><![CDATA[<p>OpenAI全新订阅方案出炉！5x和20x套餐已删除</p><p>标签: Codex, OpenAI</p>]]></description>
+      <category>Codex</category>
+      <category>OpenAI</category>
+    </item>
     <item>
       <title><![CDATA[Plan Mode才成标配，就有人宣布它「已死」]]></title>
       <link>https://www.jiqizhixin.com/articles/0ce339f4-f560-40a2-8a9e-a4bd3f5e55e6</link>
@@ -33,89 +115,6 @@
       <description><![CDATA[<p>Claude Code、Codex组队干活，Raven新版本既做总调度，也让Harness持续进化</p><p>标签: RAVEN, 递归自我改进</p>]]></description>
       <category>RAVEN</category>
       <category>递归自我改进</category>
-    </item>
-    <item>
-      <title><![CDATA[CoRL 2026 | 0条带力数据预训练！上海交大卢策吾、汶川团队让VLA学会力]]></title>
-      <link>https://www.jiqizhixin.com/articles/93daf637-66ea-45cb-a79f-07cb872a9cc4</link>
-      <guid>93daf637-66ea-45cb-a79f-07cb872a9cc4</guid>
-      <pubDate>Sun, 27 Sep 2026 14:52:06 +0000</pubDate>
-      <description><![CDATA[<p>CoRL 2026 | 0条带力数据预训练！上海交大卢策吾、汶川团队让VLA学会力</p><p>标签: LIFT, 上海交通大学, CoRL 2026</p>]]></description>
-      <category>LIFT</category>
-      <category>上海交通大学</category>
-      <category>CoRL 2026</category>
-    </item>
-    <item>
-      <title><![CDATA[模型越来越强，企业AI为什么还卡在「最后一公里」？]]></title>
-      <link>https://www.jiqizhixin.com/articles/1cbbdd8f-e3f4-4565-8e7b-5ec2eccbf14b</link>
-      <guid>1cbbdd8f-e3f4-4565-8e7b-5ec2eccbf14b</guid>
-      <pubDate>Sun, 27 Sep 2026 14:52:35 +0000</pubDate>
-      <description><![CDATA[<p>模型越来越强，企业AI为什么还卡在「最后一公里」？</p><p>标签: 联通云犀工作流智能体, 中国联通</p>]]></description>
-      <category>联通云犀工作流智能体</category>
-      <category>中国联通</category>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI横扫100多道世界难题，他却说：数学才刚开始]]></title>
-      <link>https://www.jiqizhixin.com/articles/f04bc517-aa50-4b33-bf76-52e6df78bb4e</link>
-      <guid>f04bc517-aa50-4b33-bf76-52e6df78bb4e</guid>
-      <pubDate>Sun, 27 Sep 2026 14:52:38 +0000</pubDate>
-      <description><![CDATA[<p>OpenAI横扫100多道世界难题，他却说：数学才刚开始</p><p>标签: Daniel Litt, OpenAI</p>]]></description>
-      <category>Daniel Litt</category>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，OpenAI又停训了：Agent逃出沙箱，更多越权事件被扒]]></title>
-      <link>https://www.jiqizhixin.com/articles/0a885e40-1a5f-4999-aab8-162ba492c104</link>
-      <guid>0a885e40-1a5f-4999-aab8-162ba492c104</guid>
-      <pubDate>Sun, 27 Sep 2026 14:53:03 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，OpenAI又停训了：Agent逃出沙箱，更多越权事件被扒</p><p>标签: AI Agent, DNS resolver, OpenAI</p>]]></description>
-      <category>AI Agent</category>
-      <category>DNS resolver</category>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[从 Computer-Use 到 Robot-Use：一套接口让 VLM 直接「玩转」真实机器人]]></title>
-      <link>https://www.jiqizhixin.com/articles/3fc64f40-55f6-4cb7-b37d-fab92f5a88b4</link>
-      <guid>3fc64f40-55f6-4cb7-b37d-fab92f5a88b4</guid>
-      <pubDate>Sun, 27 Sep 2026 14:53:07 +0000</pubDate>
-      <description><![CDATA[<p>从 Computer-Use 到 Robot-Use：一套接口让 VLM 直接「玩转」真实机器人</p><p>标签: 新加坡国立大学, Show-Harness</p>]]></description>
-      <category>新加坡国立大学</category>
-      <category>Show-Harness</category>
-    </item>
-    <item>
-      <title><![CDATA[NASA给月亮造了个AI：用月面数据训练可复用基础模型]]></title>
-      <link>https://www.jiqizhixin.com/articles/bebb48b6-e59d-4091-b2fd-0db9914cf5bd</link>
-      <guid>bebb48b6-e59d-4091-b2fd-0db9914cf5bd</guid>
-      <pubDate>Sat, 26 Sep 2026 13:56:18 +0000</pubDate>
-      <description><![CDATA[<p>NASA给月亮造了个AI：用月面数据训练可复用基础模型</p><p>标签: NASA-IBM, NASA</p>]]></description>
-      <category>NASA-IBM</category>
-      <category>NASA</category>
-    </item>
-    <item>
-      <title><![CDATA[计算机科学学术界死了吗？AI博士生该何去何从]]></title>
-      <link>https://www.jiqizhixin.com/articles/881aa694-4f36-4be2-b064-c67861add201</link>
-      <guid>881aa694-4f36-4be2-b064-c67861add201</guid>
-      <pubDate>Sat, 26 Sep 2026 13:56:19 +0000</pubDate>
-      <description><![CDATA[<p>计算机科学学术界死了吗？AI博士生该何去何从</p><p>标签: 曹晋, 德克萨斯大学奥斯汀分校</p>]]></description>
-      <category>曹晋</category>
-      <category>德克萨斯大学奥斯汀分校</category>
-    </item>
-    <item>
-      <title><![CDATA[答对了，理由却错了：港科大提出LexAgentHallu，追踪智能体的「隐性幻觉」]]></title>
-      <link>https://www.jiqizhixin.com/articles/bf424758-5cf0-4d51-ae48-53367fc56e81</link>
-      <guid>bf424758-5cf0-4d51-ae48-53367fc56e81</guid>
-      <pubDate>Sat, 26 Sep 2026 13:56:48 +0000</pubDate>
-      <description><![CDATA[<p>答对了，理由却错了：港科大提出LexAgentHallu，追踪智能体的「隐性幻觉」</p><p>标签: LexAgentHallu, 香港科技大学</p>]]></description>
-      <category>LexAgentHallu</category>
-      <category>香港科技大学</category>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI承认：AI把用户图片传到了网上，53个案例公开]]></title>
-      <link>https://www.jiqizhixin.com/articles/6b9f75c5-4165-47c0-b503-08a88a44f671</link>
-      <guid>6b9f75c5-4165-47c0-b503-08a88a44f671</guid>
-      <pubDate>Sat, 26 Sep 2026 13:56:49 +0000</pubDate>
-      <description><![CDATA[<p>OpenAI承认：AI把用户图片传到了网上，53个案例公开</p><p>标签: Hugging Face, OpenAI</p>]]></description>
-      <category>Hugging Face</category>
-      <category>OpenAI</category>
     </item>
   </channel>
 </rss>
