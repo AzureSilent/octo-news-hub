@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[机器之心]]></title>
+    <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 28 Sep 2026 02:08:52 +0000</lastBuildDate>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Plan Mode才成标配，就有人宣布它「已死」]]></title>
+      <link>https://www.jiqizhixin.com/articles/0ce339f4-f560-40a2-8a9e-a4bd3f5e55e6</link>
+      <guid>0ce339f4-f560-40a2-8a9e-a4bd3f5e55e6</guid>
+      <pubDate>Sun, 27 Sep 2026 19:21:51 +0000</pubDate>
+      <description><![CDATA[<p>Plan Mode才成标配，就有人宣布它「已死」</p><p>标签: Ayman Nadeem, Nuanced, Hacker News</p>]]></description>
+      <category>Ayman Nadeem</category>
+      <category>Nuanced</category>
+      <category>Hacker News</category>
+    </item>
+    <item>
+      <title><![CDATA[DeepSeek mHC多流残差坍塌失效了？]]></title>
+      <link>https://www.jiqizhixin.com/articles/9cf5948e-5018-4224-9ceb-c41ca56200dd</link>
+      <guid>9cf5948e-5018-4224-9ceb-c41ca56200dd</guid>
+      <pubDate>Sun, 27 Sep 2026 19:21:52 +0000</pubDate>
+      <description><![CDATA[<p>DeepSeek mHC多流残差坍塌失效了？</p><p>标签: mHC, DeepSeek</p>]]></description>
+      <category>mHC</category>
+      <category>DeepSeek</category>
+    </item>
+    <item>
+      <title><![CDATA[Claude Code、Codex组队干活，Raven新版本既做总调度，也让Harness持续进化]]></title>
+      <link>https://www.jiqizhixin.com/articles/1be56400-c63c-4f0a-9874-739432a2625b</link>
+      <guid>1be56400-c63c-4f0a-9874-739432a2625b</guid>
+      <pubDate>Sun, 27 Sep 2026 14:52:09 +0000</pubDate>
+      <description><![CDATA[<p>Claude Code、Codex组队干活，Raven新版本既做总调度，也让Harness持续进化</p><p>标签: RAVEN, 递归自我改进</p>]]></description>
+      <category>RAVEN</category>
+      <category>递归自我改进</category>
+    </item>
+    <item>
+      <title><![CDATA[CoRL 2026 | 0条带力数据预训练！上海交大卢策吾、汶川团队让VLA学会力]]></title>
+      <link>https://www.jiqizhixin.com/articles/93daf637-66ea-45cb-a79f-07cb872a9cc4</link>
+      <guid>93daf637-66ea-45cb-a79f-07cb872a9cc4</guid>
+      <pubDate>Sun, 27 Sep 2026 14:52:06 +0000</pubDate>
+      <description><![CDATA[<p>CoRL 2026 | 0条带力数据预训练！上海交大卢策吾、汶川团队让VLA学会力</p><p>标签: LIFT, 上海交通大学, CoRL 2026</p>]]></description>
+      <category>LIFT</category>
+      <category>上海交通大学</category>
+      <category>CoRL 2026</category>
+    </item>
+    <item>
+      <title><![CDATA[模型越来越强，企业AI为什么还卡在「最后一公里」？]]></title>
+      <link>https://www.jiqizhixin.com/articles/1cbbdd8f-e3f4-4565-8e7b-5ec2eccbf14b</link>
+      <guid>1cbbdd8f-e3f4-4565-8e7b-5ec2eccbf14b</guid>
+      <pubDate>Sun, 27 Sep 2026 14:52:35 +0000</pubDate>
+      <description><![CDATA[<p>模型越来越强，企业AI为什么还卡在「最后一公里」？</p><p>标签: 联通云犀工作流智能体, 中国联通</p>]]></description>
+      <category>联通云犀工作流智能体</category>
+      <category>中国联通</category>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI横扫100多道世界难题，他却说：数学才刚开始]]></title>
+      <link>https://www.jiqizhixin.com/articles/f04bc517-aa50-4b33-bf76-52e6df78bb4e</link>
+      <guid>f04bc517-aa50-4b33-bf76-52e6df78bb4e</guid>
+      <pubDate>Sun, 27 Sep 2026 14:52:38 +0000</pubDate>
+      <description><![CDATA[<p>OpenAI横扫100多道世界难题，他却说：数学才刚开始</p><p>标签: Daniel Litt, OpenAI</p>]]></description>
+      <category>Daniel Litt</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，OpenAI又停训了：Agent逃出沙箱，更多越权事件被扒]]></title>
+      <link>https://www.jiqizhixin.com/articles/0a885e40-1a5f-4999-aab8-162ba492c104</link>
+      <guid>0a885e40-1a5f-4999-aab8-162ba492c104</guid>
+      <pubDate>Sun, 27 Sep 2026 14:53:03 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，OpenAI又停训了：Agent逃出沙箱，更多越权事件被扒</p><p>标签: AI Agent, DNS resolver, OpenAI</p>]]></description>
+      <category>AI Agent</category>
+      <category>DNS resolver</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[从 Computer-Use 到 Robot-Use：一套接口让 VLM 直接「玩转」真实机器人]]></title>
+      <link>https://www.jiqizhixin.com/articles/3fc64f40-55f6-4cb7-b37d-fab92f5a88b4</link>
+      <guid>3fc64f40-55f6-4cb7-b37d-fab92f5a88b4</guid>
+      <pubDate>Sun, 27 Sep 2026 14:53:07 +0000</pubDate>
+      <description><![CDATA[<p>从 Computer-Use 到 Robot-Use：一套接口让 VLM 直接「玩转」真实机器人</p><p>标签: 新加坡国立大学, Show-Harness</p>]]></description>
+      <category>新加坡国立大学</category>
+      <category>Show-Harness</category>
+    </item>
+    <item>
+      <title><![CDATA[NASA给月亮造了个AI：用月面数据训练可复用基础模型]]></title>
+      <link>https://www.jiqizhixin.com/articles/bebb48b6-e59d-4091-b2fd-0db9914cf5bd</link>
+      <guid>bebb48b6-e59d-4091-b2fd-0db9914cf5bd</guid>
+      <pubDate>Sat, 26 Sep 2026 13:56:18 +0000</pubDate>
+      <description><![CDATA[<p>NASA给月亮造了个AI：用月面数据训练可复用基础模型</p><p>标签: NASA-IBM, NASA</p>]]></description>
+      <category>NASA-IBM</category>
+      <category>NASA</category>
+    </item>
+    <item>
+      <title><![CDATA[计算机科学学术界死了吗？AI博士生该何去何从]]></title>
+      <link>https://www.jiqizhixin.com/articles/881aa694-4f36-4be2-b064-c67861add201</link>
+      <guid>881aa694-4f36-4be2-b064-c67861add201</guid>
+      <pubDate>Sat, 26 Sep 2026 13:56:19 +0000</pubDate>
+      <description><![CDATA[<p>计算机科学学术界死了吗？AI博士生该何去何从</p><p>标签: 曹晋, 德克萨斯大学奥斯汀分校</p>]]></description>
+      <category>曹晋</category>
+      <category>德克萨斯大学奥斯汀分校</category>
+    </item>
+    <item>
+      <title><![CDATA[答对了，理由却错了：港科大提出LexAgentHallu，追踪智能体的「隐性幻觉」]]></title>
+      <link>https://www.jiqizhixin.com/articles/bf424758-5cf0-4d51-ae48-53367fc56e81</link>
+      <guid>bf424758-5cf0-4d51-ae48-53367fc56e81</guid>
+      <pubDate>Sat, 26 Sep 2026 13:56:48 +0000</pubDate>
+      <description><![CDATA[<p>答对了，理由却错了：港科大提出LexAgentHallu，追踪智能体的「隐性幻觉」</p><p>标签: LexAgentHallu, 香港科技大学</p>]]></description>
+      <category>LexAgentHallu</category>
+      <category>香港科技大学</category>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI承认：AI把用户图片传到了网上，53个案例公开]]></title>
+      <link>https://www.jiqizhixin.com/articles/6b9f75c5-4165-47c0-b503-08a88a44f671</link>
+      <guid>6b9f75c5-4165-47c0-b503-08a88a44f671</guid>
+      <pubDate>Sat, 26 Sep 2026 13:56:49 +0000</pubDate>
+      <description><![CDATA[<p>OpenAI承认：AI把用户图片传到了网上，53个案例公开</p><p>标签: Hugging Face, OpenAI</p>]]></description>
+      <category>Hugging Face</category>
+      <category>OpenAI</category>
+    </item>
+  </channel>
+</rss>

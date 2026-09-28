@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>机器之心 - 2026年09月16日 文章列表</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f5f5f5;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 1.8em;
+            margin-bottom: 5px;
+            font-weight: 600;
+        }
+        
+        .header p {
+            font-size: 0.95em;
+            opacity: 0.9;
+        }
+        
+        .nav-links {
+            padding: 15px 30px;
+            background: #f9fafb;
+            border-bottom: 1px solid #e5e7eb;
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        .nav-link {
+            padding: 8px 16px;
+            background: white;
+            border: 1px solid #d1d5db;
+            border-radius: 6px;
+            text-decoration: none;
+            color: #374151;
+            transition: all 0.2s ease;
+        }
+        
+        .nav-link:hover {
+            background: #f3f4f6;
+            border-color: #9ca3af;
+        }
+        
+        .prev-link {
+            margin-right: auto;
+        }
+        
+        .next-link {
+            margin-left: auto;
+        }
+        
+        .content {
+            padding: 30px;
+        }
+        
+        .article {
+            border-bottom: 1px solid #e5e7eb;
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+        }
+        
+        .article:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+        }
+        
+        .article-header {
+            cursor: pointer;
+            padding: 10px 0;
+            transition: background 0.2s ease;
+        }
+        
+        .article-header:hover {
+            background: #f9fafb;
+            margin: 0 -10px;
+            padding: 10px;
+            border-radius: 6px;
+        }
+        
+        .article-title {
+            font-size: 1.2em;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #1f2937;
+        }
+        
+        .article-meta {
+            display: flex;
+            gap: 15px;
+            font-size: 0.9em;
+            color: #6b7280;
+            align-items: center;
+        }
+        
+        .article-time {
+            background: #e5e7eb;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-weight: 500;
+        }
+        
+        .article-link a {
+            color: #667eea;
+            text-decoration: none;
+        }
+        
+        .article-link a:hover {
+            text-decoration: underline;
+        }
+        
+        .article-content {
+            margin-top: 15px;
+            padding: 15px;
+            background: #f9fafb;
+            border-radius: 6px;
+            border-left: 3px solid #667eea;
+        }
+        
+        .article-summary {
+            margin-bottom: 15px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #e5e7eb;
+        }
+        
+        .article-full {
+            color: #374151;
+        }
+        
+        .article-full img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+        
+        .article-full p {
+            margin-bottom: 10px;
+        }
+        
+        .no-articles {
+            text-align: center;
+            padding: 60px 20px;
+            color: #6b7280;
+        }
+        
+        .footer {
+            background: #f9fafb;
+            padding: 20px;
+            text-align: center;
+            color: #6b7280;
+            border-top: 1px solid #e5e7eb;
+            font-size: 0.9em;
+        }
+        
+        .footer a {
+            color: #667eea;
+            text-decoration: none;
+        }
+        
+        .footer a:hover {
+            text-decoration: underline;
+        }
+        
+        @media (max-width: 768px) {
+            .content {
+                padding: 20px;
+            }
+            
+            .header {
+                padding: 20px;
+            }
+            
+            .article-title {
+                font-size: 1.1em;
+            }
+        }
+    </style>
+    <script>
+        function toggleArticle(id) {
+            var content = document.getElementById('content-' + id);
+            if (content.style.display === 'none') {
+                content.style.display = 'block';
+            } else {
+                content.style.display = 'none';
+            }
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>机器之心 - 2026年09月16日 文章列表</h1>
+            <p>专业的人工智能媒体和服务平台</p>
+        </div>
+        
+        <div class="nav-links">
+        <a href="2026-09-15.html" class="nav-link prev-link">← 2026-09-15</a>
+        <a href="2026-09-17.html" class="nav-link next-link">2026-09-17 →</a>
+      </div>
+
+        
+        <div class="content">
+            
+    <article class="article" id="article-0">
+      <div class="article-header" onclick="toggleArticle(0)">
+        <h2 class="article-title">16. 击败Google，清华团队LimiX-2登顶国际主流Benchmark</h2>
+        <div class="article-meta">
+          <span class="article-time">09-16 20:54</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/3abf186d-8fa2-49c3-9def-0a983b4b1c79" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-0" style="display: none;">
+        <p>击败Google，清华团队LimiX-2登顶国际主流Benchmark</p><p>标签: 稳准智能, LimiX-2</p>
+      </div>
+    </article>
+    <article class="article" id="article-1">
+      <div class="article-header" onclick="toggleArticle(1)">
+        <h2 class="article-title">15. 天玑9600 Pro发布：330亿晶体管、双超大核4.55GHz</h2>
+        <div class="article-meta">
+          <span class="article-time">09-16 20:54</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/e47c72f8-35b5-46f4-8371-f7ccbccfe282" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-1" style="display: none;">
+        <p>天玑9600 Pro发布：330亿晶体管、双超大核4.55GHz</p><p>标签: OPPO, VIVO, AI 芯片技术, AI 智能体, NPU, 联发科</p>
+      </div>
+    </article>
+    <article class="article" id="article-2">
+      <div class="article-header" onclick="toggleArticle(2)">
+        <h2 class="article-title">14. 全球首款AI智能体手机正式上市！努比亚NaviX Ultra 5499元起</h2>
+        <div class="article-meta">
+          <span class="article-time">09-16 20:54</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/d502650b-3f9b-42a0-b7a8-7f2652546d88" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-2" style="display: none;">
+        <p>全球首款AI智能体手机正式上市！努比亚NaviX Ultra 5499元起</p><p>标签: 努比亚NaviX Ultra, 豆包手机助手</p>
+      </div>
+    </article>
+    <article class="article" id="article-3">
+      <div class="article-header" onclick="toggleArticle(3)">
+        <h2 class="article-title">13. OpenAI百亿投入砸向具身，机器人竞争进入数据与算力时代</h2>
+        <div class="article-meta">
+          <span class="article-time">09-16 20:53</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/6a937ace-6829-49eb-aaf5-c771045a6644" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-3" style="display: none;">
+        <p>OpenAI百亿投入砸向具身，机器人竞争进入数据与算力时代</p><p>标签: GPT-6 Astra, 具身智能, 银河通用</p>
+      </div>
+    </article>
+    <article class="article" id="article-4">
+      <div class="article-header" onclick="toggleArticle(4)">
+        <h2 class="article-title">12. AI会做题，却未必能自进化：字节Seed等提出三项新基准</h2>
+        <div class="article-meta">
+          <span class="article-time">09-16 20:53</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/9b716e50-823e-435e-bab0-58f18df46891" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-4" style="display: none;">
+        <p>AI会做题，却未必能自进化：字节Seed等提出三项新基准</p><p>标签: HarnessDev, S³Gym, ASPIRE</p>
+      </div>
+    </article>
+    <article class="article" id="article-5">
+      <div class="article-header" onclick="toggleArticle(5)">
+        <h2 class="article-title">11. 别让Agent瞎想乱搜还闯祸：哪些能力该内化进模型，哪些必须交给Harness，这篇讲透</h2>
+        <div class="article-meta">
+          <span class="article-time">09-16 14:56</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/af097533-9b87-4598-8a34-b0bfa923e52c" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-5" style="display: none;">
+        <p>别让Agent瞎想乱搜还闯祸：哪些能力该内化进模型，哪些必须交给Harness，这篇讲透</p><p>标签: Theory of Agent, 北京航空航天大学, 南方科技大学</p>
+      </div>
+    </article>
+    <article class="article" id="article-6">
+      <div class="article-header" onclick="toggleArticle(6)">
+        <h2 class="article-title">10. GPT-6 Sol要来了？OpenAI本周或迎「发布狂潮」</h2>
+        <div class="article-meta">
+          <span class="article-time">09-16 14:56</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/b240da03-6d4c-42ad-b70c-b6632178fde1" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-6" style="display: none;">
+        <p>GPT-6 Sol要来了？OpenAI本周或迎「发布狂潮」</p><p>标签: GPT-6 Sol, OpenAI</p>
+      </div>
+    </article>
+    <article class="article" id="article-7">
+      <div class="article-header" onclick="toggleArticle(7)">
+        <h2 class="article-title">9. 清华团队再探 On-Policy Distillation：数据撑死，算法饿死</h2>
+        <div class="article-meta">
+          <span class="article-time">09-16 14:56</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/15c439eb-392b-4feb-930a-99ffad3810bb" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-7" style="display: none;">
+        <p>清华团队再探 On-Policy Distillation：数据撑死，算法饿死</p><p>标签: On-Policy Distillation, 清华大学</p>
+      </div>
+    </article>
+    <article class="article" id="article-8">
+      <div class="article-header" onclick="toggleArticle(8)">
+        <h2 class="article-title">8. 换题还是第一！DM0.5横扫RoboColiseum四榜</h2>
+        <div class="article-meta">
+          <span class="article-time">09-16 14:56</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/14ac4c83-b05a-423a-a144-9da2f5841f09" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-8" style="display: none;">
+        <p>换题还是第一！DM0.5横扫RoboColiseum四榜</p><p>标签: DM0.5, 原力灵机, 具身智能</p>
+      </div>
+    </article>
+    <article class="article" id="article-9">
+      <div class="article-header" onclick="toggleArticle(9)">
+        <h2 class="article-title">7. 复杂的Harness Evolution，甚至不如多跑几遍</h2>
+        <div class="article-meta">
+          <span class="article-time">09-16 14:56</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/c70ba31b-6f2f-46ee-8b91-70c4603d576f" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-9" style="display: none;">
+        <p>复杂的Harness Evolution，甚至不如多跑几遍</p><p>标签: 华盛顿大学, AI2, Harness Evolution</p>
+      </div>
+    </article>
+    <article class="article" id="article-10">
+      <div class="article-header" onclick="toggleArticle(10)">
+        <h2 class="article-title">6. 本地该怎么做RSI？我们与StartLux CTO聊了聊</h2>
+        <div class="article-meta">
+          <span class="article-time">09-16 14:55</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/e650c6e3-4d4a-4305-b1ec-430635387adc" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-10" style="display: none;">
+        <p>本地该怎么做RSI？我们与StartLux CTO聊了聊</p><p>标签: 郭权玮, 递归自我改进, StartLux</p>
+      </div>
+    </article>
+    <article class="article" id="article-11">
+      <div class="article-header" onclick="toggleArticle(11)">
+        <h2 class="article-title">5. 豆包 2.1 Pro模型更新，已接入豆包工作</h2>
+        <div class="article-meta">
+          <span class="article-time">09-16 14:55</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/37ab2128-1a25-4185-b45a-3f732465c1f3" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-11" style="display: none;">
+        <p>豆包 2.1 Pro模型更新，已接入豆包工作</p><p>标签: 豆包工作, 豆包 2.1 Pro</p>
+      </div>
+    </article>
+    <article class="article" id="article-12">
+      <div class="article-header" onclick="toggleArticle(12)">
+        <h2 class="article-title">4. 大卫贝克主导，9460万美元计划要AI自己实现蛋白质学习设计</h2>
+        <div class="article-meta">
+          <span class="article-time">09-16 14:55</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/67e8d7de-e269-4191-9c1e-766f880d9171" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-12" style="display: none;">
+        <p>大卫贝克主导，9460万美元计划要AI自己实现蛋白质学习设计</p><p>标签: AI for Science（AI4S）, 蛋白质设计, Allen Institute, AI BioDesign</p>
+      </div>
+    </article>
+    <article class="article" id="article-13">
+      <div class="article-header" onclick="toggleArticle(13)">
+        <h2 class="article-title">3. 高德联合南大、清华、北大发布WorldRoamBench，定义交互式世界模型长时漫游评测新范式</h2>
+        <div class="article-meta">
+          <span class="article-time">09-16 03:19</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/b7caf801-01f4-4dc9-ab7b-334811a0c12a" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-13" style="display: none;">
+        <p>高德联合南大、清华、北大发布WorldRoamBench，定义交互式世界模型长时漫游评测新范式</p><p>标签: WorldRoamBench, 高德地图</p>
+      </div>
+    </article>
+    <article class="article" id="article-14">
+      <div class="article-header" onclick="toggleArticle(14)">
+        <h2 class="article-title">2. 「天赐之物」与「道德风险」，Mu2e项目物理学家谈AI的能与不能</h2>
+        <div class="article-meta">
+          <span class="article-time">09-16 03:19</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/15663d3d-18d3-4520-bbc8-e47af59d2f84" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-14" style="display: none;">
+        <p>「天赐之物」与「道德风险」，Mu2e项目物理学家谈AI的能与不能</p><p>标签: AI for Science（AI4S）, Mu2e, Sarah Demers, 耶鲁大学</p>
+      </div>
+    </article>
+    <article class="article" id="article-15">
+      <div class="article-header" onclick="toggleArticle(15)">
+        <h2 class="article-title">1. 实时编辑、实时互动视频双旗舰，Vidu S2发布即体验</h2>
+        <div class="article-meta">
+          <span class="article-time">09-16 03:19</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/3b4574a2-f694-4063-8d30-279239e6ba8a" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-15" style="display: none;">
+        <p>实时编辑、实时互动视频双旗舰，Vidu S2发布即体验</p><p>标签: Vidu S2, 生数科技</p>
+      </div>
+    </article>
+        </div>
+        
+        <div class="footer">
+            <p>生成时间: 2026-09-17 12:06:15</p>
+        </div>
+    </div>
+</body>
+</html>
