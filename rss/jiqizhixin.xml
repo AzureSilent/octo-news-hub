@@ -4,8 +4,37 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 29 Sep 2026 00:00:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 04:39:32 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Manus回来了！更新2.0并发布全天候智能体Cue]]></title>
+      <link>https://www.jiqizhixin.com/articles/e34c0169-080d-4d83-a188-ad89703ecaa1</link>
+      <guid>e34c0169-080d-4d83-a188-ad89703ecaa1</guid>
+      <pubDate>Tue, 29 Sep 2026 04:38:34 +0000</pubDate>
+      <description><![CDATA[<p>Manus回来了！更新2.0并发布全天候智能体Cue</p><p>标签: 肖弘, Manus 2.0, Manus</p>]]></description>
+      <category>肖弘</category>
+      <category>Manus 2.0</category>
+      <category>Manus</category>
+    </item>
+    <item>
+      <title><![CDATA[突发！World Labs加入AMD，李飞飞出任首席科学家]]></title>
+      <link>https://www.jiqizhixin.com/articles/11da8096-6ee2-496d-af07-8e0a91d6dee9</link>
+      <guid>11da8096-6ee2-496d-af07-8e0a91d6dee9</guid>
+      <pubDate>Tue, 29 Sep 2026 04:39:03 +0000</pubDate>
+      <description><![CDATA[<p>突发！World Labs加入AMD，李飞飞出任首席科学家</p><p>标签: World Labs, 李飞飞, AMD</p>]]></description>
+      <category>World Labs</category>
+      <category>李飞飞</category>
+      <category>AMD</category>
+    </item>
+    <item>
+      <title><![CDATA[Claude Sonnet 5.5上线！一半价格，性能逼近Opus 5.5]]></title>
+      <link>https://www.jiqizhixin.com/articles/243f739f-3606-4376-87fb-626567230542</link>
+      <guid>243f739f-3606-4376-87fb-626567230542</guid>
+      <pubDate>Tue, 29 Sep 2026 04:39:32 +0000</pubDate>
+      <description><![CDATA[<p>Claude Sonnet 5.5上线！一半价格，性能逼近Opus 5.5</p><p>标签: Claude Sonnet 5.5, Anthropic</p>]]></description>
+      <category>Claude Sonnet 5.5</category>
+      <category>Anthropic</category>
+    </item>
     <item>
       <title><![CDATA[给Agent一台可控的「云上计算机」：揭秘阿里云Agent Sandbox]]></title>
       <link>https://www.jiqizhixin.com/articles/aaf57d78-332e-4e67-9be9-5cb0b02d4efd</link>
@@ -78,43 +107,6 @@
       <description><![CDATA[<p>一句话协助设计酶的突变方案，AI协助蛋白质工程自动化</p><p>标签: AI for Science, 蛋白质工程</p>]]></description>
       <category>AI for Science</category>
       <category>蛋白质工程</category>
-    </item>
-    <item>
-      <title><![CDATA[LLM For Algorithm Design，华为联合团队斩获SAT 2026大赛AI赛道冠军]]></title>
-      <link>https://www.jiqizhixin.com/articles/cdd28540-a846-421b-b44f-832e10d04bb6</link>
-      <guid>cdd28540-a846-421b-b44f-832e10d04bb6</guid>
-      <pubDate>Mon, 28 Sep 2026 10:15:29 +0000</pubDate>
-      <description><![CDATA[<p>LLM For Algorithm Design，华为联合团队斩获SAT 2026大赛AI赛道冠军</p><p>标签: 华为, SAT Competition 2026</p>]]></description>
-      <category>华为</category>
-      <category>SAT Competition 2026</category>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI全新订阅方案出炉！5x和20x套餐已删除]]></title>
-      <link>https://www.jiqizhixin.com/articles/5d4b278d-5d1b-4e87-bc20-acd89e0ca6be</link>
-      <guid>5d4b278d-5d1b-4e87-bc20-acd89e0ca6be</guid>
-      <pubDate>Mon, 28 Sep 2026 10:15:59 +0000</pubDate>
-      <description><![CDATA[<p>OpenAI全新订阅方案出炉！5x和20x套餐已删除</p><p>标签: Codex, OpenAI</p>]]></description>
-      <category>Codex</category>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[Plan Mode才成标配，就有人宣布它「已死」]]></title>
-      <link>https://www.jiqizhixin.com/articles/0ce339f4-f560-40a2-8a9e-a4bd3f5e55e6</link>
-      <guid>0ce339f4-f560-40a2-8a9e-a4bd3f5e55e6</guid>
-      <pubDate>Sun, 27 Sep 2026 19:21:51 +0000</pubDate>
-      <description><![CDATA[<p>Plan Mode才成标配，就有人宣布它「已死」</p><p>标签: Ayman Nadeem, Nuanced, Hacker News</p>]]></description>
-      <category>Ayman Nadeem</category>
-      <category>Nuanced</category>
-      <category>Hacker News</category>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek mHC多流残差坍塌失效了？]]></title>
-      <link>https://www.jiqizhixin.com/articles/9cf5948e-5018-4224-9ceb-c41ca56200dd</link>
-      <guid>9cf5948e-5018-4224-9ceb-c41ca56200dd</guid>
-      <pubDate>Sun, 27 Sep 2026 19:21:52 +0000</pubDate>
-      <description><![CDATA[<p>DeepSeek mHC多流残差坍塌失效了？</p><p>标签: mHC, DeepSeek</p>]]></description>
-      <category>mHC</category>
-      <category>DeepSeek</category>
     </item>
   </channel>
 </rss>
