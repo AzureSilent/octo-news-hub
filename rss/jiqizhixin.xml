@@ -4,8 +4,83 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 29 Sep 2026 04:39:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 11:41:56 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[EAST 20周年，合肥“人造太阳”从3秒走到1066秒]]></title>
+      <link>https://www.jiqizhixin.com/articles/6bbb2826-b2b9-4164-8c6f-f6e87b5efeee</link>
+      <guid>6bbb2826-b2b9-4164-8c6f-f6e87b5efeee</guid>
+      <pubDate>Tue, 29 Sep 2026 11:40:27 +0000</pubDate>
+      <description><![CDATA[<p>EAST 20周年，合肥“人造太阳”从3秒走到1066秒</p><p>标签: BEST, 可控核聚变, EAST</p>]]></description>
+      <category>BEST</category>
+      <category>可控核聚变</category>
+      <category>EAST</category>
+    </item>
+    <item>
+      <title><![CDATA[AI制药新锐Enveda融资3.11亿美元，估值翻倍至20亿美元，它做对了什么？]]></title>
+      <link>https://www.jiqizhixin.com/articles/582b8d88-c570-4d59-90ee-a214aeb004b3</link>
+      <guid>582b8d88-c570-4d59-90ee-a214aeb004b3</guid>
+      <pubDate>Tue, 29 Sep 2026 11:40:26 +0000</pubDate>
+      <description><![CDATA[<p>AI制药新锐Enveda融资3.11亿美元，估值翻倍至20亿美元，它做对了什么？</p><p>标签: AI for Science（AI4S）, 药物研发, Enveda</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>药物研发</category>
+      <category>Enveda</category>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI将重新开放200美元套餐，但Tibo被骂惨了]]></title>
+      <link>https://www.jiqizhixin.com/articles/97e4abb7-0cfb-4d6c-83bb-f9181ad0b64e</link>
+      <guid>97e4abb7-0cfb-4d6c-83bb-f9181ad0b64e</guid>
+      <pubDate>Tue, 29 Sep 2026 11:40:56 +0000</pubDate>
+      <description><![CDATA[<p>OpenAI将重新开放200美元套餐，但Tibo被骂惨了</p><p>标签: OpenAI, Tibo</p>]]></description>
+      <category>OpenAI</category>
+      <category>Tibo</category>
+    </item>
+    <item>
+      <title><![CDATA[从发现漏洞到判定作弊：BenchShield提出Reward Hacking检测新框架]]></title>
+      <link>https://www.jiqizhixin.com/articles/c2d097f7-a63f-4543-9de4-4f7ec7067c6b</link>
+      <guid>c2d097f7-a63f-4543-9de4-4f7ec7067c6b</guid>
+      <pubDate>Tue, 29 Sep 2026 11:40:57 +0000</pubDate>
+      <description><![CDATA[<p>从发现漏洞到判定作弊：BenchShield提出Reward Hacking检测新框架</p><p>标签: Reward Hacking, BenchShield</p>]]></description>
+      <category>Reward Hacking</category>
+      <category>BenchShield</category>
+    </item>
+    <item>
+      <title><![CDATA[全国首个搭载国产电子架构的人形机器人正式发布，逐际动力携手东土科技共建产业生态]]></title>
+      <link>https://www.jiqizhixin.com/articles/6aded985-846b-4aef-afe9-b4256dcfaf95</link>
+      <guid>6aded985-846b-4aef-afe9-b4256dcfaf95</guid>
+      <pubDate>Tue, 29 Sep 2026 11:41:25 +0000</pubDate>
+      <description><![CDATA[<p>全国首个搭载国产电子架构的人形机器人正式发布，逐际动力携手东土科技共建产业生态</p><p>标签: 东土科技, 逐际动力</p>]]></description>
+      <category>东土科技</category>
+      <category>逐际动力</category>
+    </item>
+    <item>
+      <title><![CDATA[一出手就表现惊艳！国产开源大模型又杀出一匹黑马]]></title>
+      <link>https://www.jiqizhixin.com/articles/41868db4-3dee-4219-82db-2033c18edcbd</link>
+      <guid>41868db4-3dee-4219-82db-2033c18edcbd</guid>
+      <pubDate>Tue, 29 Sep 2026 11:41:26 +0000</pubDate>
+      <description><![CDATA[<p>一出手就表现惊艳！国产开源大模型又杀出一匹黑马</p><p>标签: IQuest-Q1, 至知创新研究院</p>]]></description>
+      <category>IQuest-Q1</category>
+      <category>至知创新研究院</category>
+    </item>
+    <item>
+      <title><![CDATA[GPT-6 Astra的隐藏推理，丹麦团队用tool calling撬出来了]]></title>
+      <link>https://www.jiqizhixin.com/articles/edfd5ed7-e7a0-4170-84a7-d171684811e4</link>
+      <guid>edfd5ed7-e7a0-4170-84a7-d171684811e4</guid>
+      <pubDate>Tue, 29 Sep 2026 11:41:55 +0000</pubDate>
+      <description><![CDATA[<p>GPT-6 Astra的隐藏推理，丹麦团队用tool calling撬出来了</p><p>标签: Seafill, 奥尔堡大学</p>]]></description>
+      <category>Seafill</category>
+      <category>奥尔堡大学</category>
+    </item>
+    <item>
+      <title><![CDATA[提速10.7倍！这个端侧推理引擎一开源，机器人本体跑大模型终于不卡了]]></title>
+      <link>https://www.jiqizhixin.com/articles/6fab75b3-4b43-4b90-b0ef-04edfc250c49</link>
+      <guid>6fab75b3-4b43-4b90-b0ef-04edfc250c49</guid>
+      <pubDate>Tue, 29 Sep 2026 11:41:56 +0000</pubDate>
+      <description><![CDATA[<p>提速10.7倍！这个端侧推理引擎一开源，机器人本体跑大模型终于不卡了</p><p>标签: APXInf, 无问芯穹（Infinigence-AI）, 清华大学</p>]]></description>
+      <category>APXInf</category>
+      <category>无问芯穹（Infinigence-AI）</category>
+      <category>清华大学</category>
+    </item>
     <item>
       <title><![CDATA[Manus回来了！更新2.0并发布全天候智能体Cue]]></title>
       <link>https://www.jiqizhixin.com/articles/e34c0169-080d-4d83-a188-ad89703ecaa1</link>
@@ -43,70 +118,6 @@
       <description><![CDATA[<p>给Agent一台可控的「云上计算机」：揭秘阿里云Agent Sandbox</p><p>标签: Agent Sandbox, 阿里云</p>]]></description>
       <category>Agent Sandbox</category>
       <category>阿里云</category>
-    </item>
-    <item>
-      <title><![CDATA[SceneMosaic：让3D场景生成既快又「活」，一张图生成一屋子可仿真的多样布局]]></title>
-      <link>https://www.jiqizhixin.com/articles/b82d2f40-0059-431c-89d8-4dc09cb55811</link>
-      <guid>b82d2f40-0059-431c-89d8-4dc09cb55811</guid>
-      <pubDate>Mon, 28 Sep 2026 10:13:59 +0000</pubDate>
-      <description><![CDATA[<p>SceneMosaic：让3D场景生成既快又「活」，一张图生成一屋子可仿真的多样布局</p><p>标签: SceneMosaic, 香港大学</p>]]></description>
-      <category>SceneMosaic</category>
-      <category>香港大学</category>
-    </item>
-    <item>
-      <title><![CDATA[工业大模型下一关：从「会分析」到「真干活」，合肥中科纪元押注 ERI]]></title>
-      <link>https://www.jiqizhixin.com/articles/1d4836d4-024d-49c9-b44b-60230ca4bf4f</link>
-      <guid>1d4836d4-024d-49c9-b44b-60230ca4bf4f</guid>
-      <pubDate>Mon, 28 Sep 2026 10:13:59 +0000</pubDate>
-      <description><![CDATA[<p>工业大模型下一关：从「会分析」到「真干活」，合肥中科纪元押注 ERI</p><p>标签: ERI, 中科纪元, 2026 世界制造业大会</p>]]></description>
-      <category>ERI</category>
-      <category>中科纪元</category>
-      <category>2026 世界制造业大会</category>
-    </item>
-    <item>
-      <title><![CDATA[IDC×浪潮信息最新报告！22亿Agent背后，AI算力正迎来一场重构]]></title>
-      <link>https://www.jiqizhixin.com/articles/595af11a-d6c0-4aa7-8127-94662a2f0b2c</link>
-      <guid>595af11a-d6c0-4aa7-8127-94662a2f0b2c</guid>
-      <pubDate>Mon, 28 Sep 2026 10:14:28 +0000</pubDate>
-      <description><![CDATA[<p>IDC×浪潮信息最新报告！22亿Agent背后，AI算力正迎来一场重构</p><p>标签: AICC2026, IDC, 浪潮信息</p>]]></description>
-      <category>AICC2026</category>
-      <category>IDC</category>
-      <category>浪潮信息</category>
-    </item>
-    <item>
-      <title><![CDATA[18秒出片、视频生成提速265倍！北大清华阿里提出SparkDiffusion]]></title>
-      <link>https://www.jiqizhixin.com/articles/a684c4d5-2496-409c-a5d9-9050a2a0cbe1</link>
-      <guid>a684c4d5-2496-409c-a5d9-9050a2a0cbe1</guid>
-      <pubDate>Mon, 28 Sep 2026 10:14:29 +0000</pubDate>
-      <description><![CDATA[<p>18秒出片、视频生成提速265倍！北大清华阿里提出SparkDiffusion</p><p>标签: SparkDiffusion, 北京大学</p>]]></description>
-      <category>SparkDiffusion</category>
-      <category>北京大学</category>
-    </item>
-    <item>
-      <title><![CDATA[用AI造的！刚刚，代季峰团队首个模型开源]]></title>
-      <link>https://www.jiqizhixin.com/articles/4f985b3d-9dd5-4065-a883-ce579c3b7737</link>
-      <guid>4f985b3d-9dd5-4065-a883-ce579c3b7737</guid>
-      <pubDate>Mon, 28 Sep 2026 10:14:59 +0000</pubDate>
-      <description><![CDATA[<p>用AI造的！刚刚，代季峰团队首个模型开源</p><p>标签: Naive AI</p>]]></description>
-      <category>Naive AI</category>
-    </item>
-    <item>
-      <title><![CDATA[为了理解而生成：他们用合成数据教会模型「视频通话」]]></title>
-      <link>https://www.jiqizhixin.com/articles/15c4f82a-7656-4228-8895-85d20b2579ae</link>
-      <guid>15c4f82a-7656-4228-8895-85d20b2579ae</guid>
-      <pubDate>Mon, 28 Sep 2026 10:15:00 +0000</pubDate>
-      <description><![CDATA[<p>为了理解而生成：他们用合成数据教会模型「视频通话」</p><p>标签: 多模态大模型, 音视频联合生成</p>]]></description>
-      <category>多模态大模型</category>
-      <category>音视频联合生成</category>
-    </item>
-    <item>
-      <title><![CDATA[一句话协助设计酶的突变方案，AI协助蛋白质工程自动化]]></title>
-      <link>https://www.jiqizhixin.com/articles/f353e3d5-248f-4ba5-aa32-0b890e43bd8f</link>
-      <guid>f353e3d5-248f-4ba5-aa32-0b890e43bd8f</guid>
-      <pubDate>Mon, 28 Sep 2026 10:15:29 +0000</pubDate>
-      <description><![CDATA[<p>一句话协助设计酶的突变方案，AI协助蛋白质工程自动化</p><p>标签: AI for Science, 蛋白质工程</p>]]></description>
-      <category>AI for Science</category>
-      <category>蛋白质工程</category>
     </item>
   </channel>
 </rss>
