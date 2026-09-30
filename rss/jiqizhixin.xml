@@ -4,8 +4,113 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 30 Sep 2026 00:49:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 07:37:56 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[192 米电子束贯通，合肥先进光源：工程落地后，产业转化才是核心命题]]></title>
+      <link>https://www.jiqizhixin.com/articles/82db4326-c7af-41a2-bac9-4c26e6f54bb9</link>
+      <guid>82db4326-c7af-41a2-bac9-4c26e6f54bb9</guid>
+      <pubDate>Wed, 30 Sep 2026 07:35:17 +0000</pubDate>
+      <description><![CDATA[<p>192 米电子束贯通，合肥先进光源：工程落地后，产业转化才是核心命题</p><p>标签: 先进光源（HALF）</p>]]></description>
+      <category>先进光源（HALF）</category>
+    </item>
+    <item>
+      <title><![CDATA[13 组横评综合性能第一！RunningHub 发布 RH Upscale，瞄准视频超分「不变样」难题]]></title>
+      <link>https://www.jiqizhixin.com/articles/b69d5843-7549-4595-bbe9-f630384c2737</link>
+      <guid>b69d5843-7549-4595-bbe9-f630384c2737</guid>
+      <pubDate>Wed, 30 Sep 2026 07:35:14 +0000</pubDate>
+      <description><![CDATA[<p>13 组横评综合性能第一！RunningHub 发布 RH Upscale，瞄准视频超分「不变样」难题</p><p>标签: RH Upscale, RunningHub, 海马云</p>]]></description>
+      <category>RH Upscale</category>
+      <category>RunningHub</category>
+      <category>海马云</category>
+    </item>
+    <item>
+      <title><![CDATA[给AI装上记忆，它就真的记对了吗？HaluMem拆解智能体记忆幻觉]]></title>
+      <link>https://www.jiqizhixin.com/articles/9ceb5dfd-5b99-439b-8118-41dd23f35718</link>
+      <guid>9ceb5dfd-5b99-439b-8118-41dd23f35718</guid>
+      <pubDate>Wed, 30 Sep 2026 07:35:43 +0000</pubDate>
+      <description><![CDATA[<p>给AI装上记忆，它就真的记对了吗？HaluMem拆解智能体记忆幻觉</p><p>标签: EMNLP 2026, HaluMem, 记忆张量（ MemTensor ）, 中国电信研究院</p>]]></description>
+      <category>EMNLP 2026</category>
+      <category>HaluMem</category>
+      <category>记忆张量（ MemTensor ）</category>
+      <category>中国电信研究院</category>
+    </item>
+    <item>
+      <title><![CDATA[AI利用物理感知生成金属微结构：一种新的材料逆向设计方法]]></title>
+      <link>https://www.jiqizhixin.com/articles/cacd96a4-7492-4856-a1a6-030b0fe8cadd</link>
+      <guid>cacd96a4-7492-4856-a1a6-030b0fe8cadd</guid>
+      <pubDate>Wed, 30 Sep 2026 07:35:50 +0000</pubDate>
+      <description><![CDATA[<p>AI利用物理感知生成金属微结构：一种新的材料逆向设计方法</p><p>标签: AI for Science（AI4S）, Inconel 625, 西北工业大学</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>Inconel 625</category>
+      <category>西北工业大学</category>
+    </item>
+    <item>
+      <title><![CDATA[GPT-6 Astra也会「看错」流程图? Einsia AI发布PPTBench，视觉编程还有多远？]]></title>
+      <link>https://www.jiqizhixin.com/articles/3bc782f6-c63e-4639-a81c-5a58f49ee5bf</link>
+      <guid>3bc782f6-c63e-4639-a81c-5a58f49ee5bf</guid>
+      <pubDate>Wed, 30 Sep 2026 07:36:12 +0000</pubDate>
+      <description><![CDATA[<p>GPT-6 Astra也会「看错」流程图? Einsia AI发布PPTBench，视觉编程还有多远？</p><p>标签: Navers Lab, Coding Agent, PPTBench, Einsia AI</p>]]></description>
+      <category>Navers Lab</category>
+      <category>Coding Agent</category>
+      <category>PPTBench</category>
+      <category>Einsia AI</category>
+    </item>
+    <item>
+      <title><![CDATA[DeepSeek开源昇腾基础组件：计算、通信与编译工具同步发布]]></title>
+      <link>https://www.jiqizhixin.com/articles/c0627369-2684-446e-b312-746633ecff6d</link>
+      <guid>c0627369-2684-446e-b312-746633ecff6d</guid>
+      <pubDate>Wed, 30 Sep 2026 07:36:19 +0000</pubDate>
+      <description><![CDATA[<p>DeepSeek开源昇腾基础组件：计算、通信与编译工具同步发布</p><p>标签: TileLang, DeepSeek</p>]]></description>
+      <category>TileLang</category>
+      <category>DeepSeek</category>
+    </item>
+    <item>
+      <title><![CDATA[多个榜单登顶、1.2B参数，轻量化TeleOCR解锁文档智能化解析新能力]]></title>
+      <link>https://www.jiqizhixin.com/articles/6b6c4591-a1c4-4994-9460-4bbc20004e3c</link>
+      <guid>6b6c4591-a1c4-4994-9460-4bbc20004e3c</guid>
+      <pubDate>Wed, 30 Sep 2026 07:36:46 +0000</pubDate>
+      <description><![CDATA[<p>多个榜单登顶、1.2B参数，轻量化TeleOCR解锁文档智能化解析新能力</p><p>标签: TeleOCR, 中国电信</p>]]></description>
+      <category>TeleOCR</category>
+      <category>中国电信</category>
+    </item>
+    <item>
+      <title><![CDATA[EMNLP 2026 | 大模型解码不能只看概率，人大团队引入语义冗余]]></title>
+      <link>https://www.jiqizhixin.com/articles/3afffb51-f4de-47c3-9b9f-e64e1b9ca6fb</link>
+      <guid>3afffb51-f4de-47c3-9b9f-e64e1b9ca6fb</guid>
+      <pubDate>Wed, 30 Sep 2026 07:36:55 +0000</pubDate>
+      <description><![CDATA[<p>EMNLP 2026 | 大模型解码不能只看概率，人大团队引入语义冗余</p><p>标签: Mahalanobis-Ensemble Decoding（ME-Decoding）, EMNLP 2026</p>]]></description>
+      <category>Mahalanobis-Ensemble Decoding（ME-Decoding）</category>
+      <category>EMNLP 2026</category>
+    </item>
+    <item>
+      <title><![CDATA[具身进实景，劳动最光荣！2026全球开发者先锋大会 暨国际具身智能技能大赛媒体通气会召开]]></title>
+      <link>https://www.jiqizhixin.com/articles/a7ff8681-4531-4cc3-b940-5ed6d542b4c5</link>
+      <guid>a7ff8681-4531-4cc3-b940-5ed6d542b4c5</guid>
+      <pubDate>Wed, 30 Sep 2026 07:37:20 +0000</pubDate>
+      <description><![CDATA[<p>具身进实景，劳动最光荣！2026全球开发者先锋大会 暨国际具身智能技能大赛媒体通气会召开</p><p>标签: 2026全球开发者先锋大会暨（GDPS）国际具身智能技能大赛</p>]]></description>
+      <category>2026全球开发者先锋大会暨（GDPS）国际具身智能技能大赛</category>
+    </item>
+    <item>
+      <title><![CDATA[GPT-6.1、全天候智能体，OpenAI这次DevDay全是大招]]></title>
+      <link>https://www.jiqizhixin.com/articles/aab388d4-5acf-48bb-9e08-7ccf2d4fa984</link>
+      <guid>aab388d4-5acf-48bb-9e08-7ccf2d4fa984</guid>
+      <pubDate>Wed, 30 Sep 2026 07:37:28 +0000</pubDate>
+      <description><![CDATA[<p>GPT-6.1、全天候智能体，OpenAI这次DevDay全是大招</p><p>标签: GPT-6.1, OpenAI DevDay, OpenAI</p>]]></description>
+      <category>GPT-6.1</category>
+      <category>OpenAI DevDay</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[GPT6-Astra搭的3D场景总和原图对不齐？Mira-Scene来解决！]]></title>
+      <link>https://www.jiqizhixin.com/articles/973b66b7-38cb-43b5-9030-33f4c95fe57b</link>
+      <guid>973b66b7-38cb-43b5-9030-33f4c95fe57b</guid>
+      <pubDate>Wed, 30 Sep 2026 07:37:56 +0000</pubDate>
+      <description><![CDATA[<p>GPT6-Astra搭的3D场景总和原图对不齐？Mira-Scene来解决！</p><p>标签: VAST, 香港大学, Mira-Scene</p>]]></description>
+      <category>VAST</category>
+      <category>香港大学</category>
+      <category>Mira-Scene</category>
+    </item>
     <item>
       <title><![CDATA[EAST 20周年，合肥“人造太阳”从3秒走到1066秒]]></title>
       <link>https://www.jiqizhixin.com/articles/6bbb2826-b2b9-4164-8c6f-f6e87b5efeee</link>
@@ -15,109 +120,6 @@
       <category>BEST</category>
       <category>可控核聚变</category>
       <category>EAST</category>
-    </item>
-    <item>
-      <title><![CDATA[AI制药新锐Enveda融资3.11亿美元，估值翻倍至20亿美元，它做对了什么？]]></title>
-      <link>https://www.jiqizhixin.com/articles/582b8d88-c570-4d59-90ee-a214aeb004b3</link>
-      <guid>582b8d88-c570-4d59-90ee-a214aeb004b3</guid>
-      <pubDate>Tue, 29 Sep 2026 11:40:26 +0000</pubDate>
-      <description><![CDATA[<p>AI制药新锐Enveda融资3.11亿美元，估值翻倍至20亿美元，它做对了什么？</p><p>标签: AI for Science（AI4S）, 药物研发, Enveda</p>]]></description>
-      <category>AI for Science（AI4S）</category>
-      <category>药物研发</category>
-      <category>Enveda</category>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI将重新开放200美元套餐，但Tibo被骂惨了]]></title>
-      <link>https://www.jiqizhixin.com/articles/97e4abb7-0cfb-4d6c-83bb-f9181ad0b64e</link>
-      <guid>97e4abb7-0cfb-4d6c-83bb-f9181ad0b64e</guid>
-      <pubDate>Tue, 29 Sep 2026 11:40:56 +0000</pubDate>
-      <description><![CDATA[<p>OpenAI将重新开放200美元套餐，但Tibo被骂惨了</p><p>标签: OpenAI, Tibo</p>]]></description>
-      <category>OpenAI</category>
-      <category>Tibo</category>
-    </item>
-    <item>
-      <title><![CDATA[从发现漏洞到判定作弊：BenchShield提出Reward Hacking检测新框架]]></title>
-      <link>https://www.jiqizhixin.com/articles/c2d097f7-a63f-4543-9de4-4f7ec7067c6b</link>
-      <guid>c2d097f7-a63f-4543-9de4-4f7ec7067c6b</guid>
-      <pubDate>Tue, 29 Sep 2026 11:40:57 +0000</pubDate>
-      <description><![CDATA[<p>从发现漏洞到判定作弊：BenchShield提出Reward Hacking检测新框架</p><p>标签: Reward Hacking, BenchShield</p>]]></description>
-      <category>Reward Hacking</category>
-      <category>BenchShield</category>
-    </item>
-    <item>
-      <title><![CDATA[全国首个搭载国产电子架构的人形机器人正式发布，逐际动力携手东土科技共建产业生态]]></title>
-      <link>https://www.jiqizhixin.com/articles/6aded985-846b-4aef-afe9-b4256dcfaf95</link>
-      <guid>6aded985-846b-4aef-afe9-b4256dcfaf95</guid>
-      <pubDate>Tue, 29 Sep 2026 11:41:25 +0000</pubDate>
-      <description><![CDATA[<p>全国首个搭载国产电子架构的人形机器人正式发布，逐际动力携手东土科技共建产业生态</p><p>标签: 东土科技, 逐际动力</p>]]></description>
-      <category>东土科技</category>
-      <category>逐际动力</category>
-    </item>
-    <item>
-      <title><![CDATA[一出手就表现惊艳！国产开源大模型又杀出一匹黑马]]></title>
-      <link>https://www.jiqizhixin.com/articles/41868db4-3dee-4219-82db-2033c18edcbd</link>
-      <guid>41868db4-3dee-4219-82db-2033c18edcbd</guid>
-      <pubDate>Tue, 29 Sep 2026 11:41:26 +0000</pubDate>
-      <description><![CDATA[<p>一出手就表现惊艳！国产开源大模型又杀出一匹黑马</p><p>标签: IQuest-Q1, 至知创新研究院</p>]]></description>
-      <category>IQuest-Q1</category>
-      <category>至知创新研究院</category>
-    </item>
-    <item>
-      <title><![CDATA[GPT-6 Astra的隐藏推理，丹麦团队用tool calling撬出来了]]></title>
-      <link>https://www.jiqizhixin.com/articles/edfd5ed7-e7a0-4170-84a7-d171684811e4</link>
-      <guid>edfd5ed7-e7a0-4170-84a7-d171684811e4</guid>
-      <pubDate>Tue, 29 Sep 2026 11:41:55 +0000</pubDate>
-      <description><![CDATA[<p>GPT-6 Astra的隐藏推理，丹麦团队用tool calling撬出来了</p><p>标签: Seafill, 奥尔堡大学</p>]]></description>
-      <category>Seafill</category>
-      <category>奥尔堡大学</category>
-    </item>
-    <item>
-      <title><![CDATA[提速10.7倍！这个端侧推理引擎一开源，机器人本体跑大模型终于不卡了]]></title>
-      <link>https://www.jiqizhixin.com/articles/6fab75b3-4b43-4b90-b0ef-04edfc250c49</link>
-      <guid>6fab75b3-4b43-4b90-b0ef-04edfc250c49</guid>
-      <pubDate>Tue, 29 Sep 2026 11:41:56 +0000</pubDate>
-      <description><![CDATA[<p>提速10.7倍！这个端侧推理引擎一开源，机器人本体跑大模型终于不卡了</p><p>标签: APXInf, 无问芯穹（Infinigence-AI）, 清华大学</p>]]></description>
-      <category>APXInf</category>
-      <category>无问芯穹（Infinigence-AI）</category>
-      <category>清华大学</category>
-    </item>
-    <item>
-      <title><![CDATA[Manus回来了！更新2.0并发布全天候智能体Cue]]></title>
-      <link>https://www.jiqizhixin.com/articles/e34c0169-080d-4d83-a188-ad89703ecaa1</link>
-      <guid>e34c0169-080d-4d83-a188-ad89703ecaa1</guid>
-      <pubDate>Tue, 29 Sep 2026 04:38:34 +0000</pubDate>
-      <description><![CDATA[<p>Manus回来了！更新2.0并发布全天候智能体Cue</p><p>标签: 肖弘, Manus 2.0, Manus</p>]]></description>
-      <category>肖弘</category>
-      <category>Manus 2.0</category>
-      <category>Manus</category>
-    </item>
-    <item>
-      <title><![CDATA[突发！World Labs加入AMD，李飞飞出任首席科学家]]></title>
-      <link>https://www.jiqizhixin.com/articles/11da8096-6ee2-496d-af07-8e0a91d6dee9</link>
-      <guid>11da8096-6ee2-496d-af07-8e0a91d6dee9</guid>
-      <pubDate>Tue, 29 Sep 2026 04:39:03 +0000</pubDate>
-      <description><![CDATA[<p>突发！World Labs加入AMD，李飞飞出任首席科学家</p><p>标签: World Labs, 李飞飞, AMD</p>]]></description>
-      <category>World Labs</category>
-      <category>李飞飞</category>
-      <category>AMD</category>
-    </item>
-    <item>
-      <title><![CDATA[Claude Sonnet 5.5上线！一半价格，性能逼近Opus 5.5]]></title>
-      <link>https://www.jiqizhixin.com/articles/243f739f-3606-4376-87fb-626567230542</link>
-      <guid>243f739f-3606-4376-87fb-626567230542</guid>
-      <pubDate>Tue, 29 Sep 2026 04:39:32 +0000</pubDate>
-      <description><![CDATA[<p>Claude Sonnet 5.5上线！一半价格，性能逼近Opus 5.5</p><p>标签: Claude Sonnet 5.5, Anthropic</p>]]></description>
-      <category>Claude Sonnet 5.5</category>
-      <category>Anthropic</category>
-    </item>
-    <item>
-      <title><![CDATA[给Agent一台可控的「云上计算机」：揭秘阿里云Agent Sandbox]]></title>
-      <link>https://www.jiqizhixin.com/articles/aaf57d78-332e-4e67-9be9-5cb0b02d4efd</link>
-      <guid>aaf57d78-332e-4e67-9be9-5cb0b02d4efd</guid>
-      <pubDate>Mon, 28 Sep 2026 18:49:50 +0000</pubDate>
-      <description><![CDATA[<p>给Agent一台可控的「云上计算机」：揭秘阿里云Agent Sandbox</p><p>标签: Agent Sandbox, 阿里云</p>]]></description>
-      <category>Agent Sandbox</category>
-      <category>阿里云</category>
     </item>
   </channel>
 </rss>
