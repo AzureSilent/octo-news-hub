@@ -4,8 +4,62 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 01 Oct 2026 07:53:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 14:53:41 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[汽车之后，安徽开始让车企跨界「造人」]]></title>
+      <link>https://www.jiqizhixin.com/articles/b1868cc6-cd6e-4546-b1c2-c59192c1fe97</link>
+      <guid>b1868cc6-cd6e-4546-b1c2-c59192c1fe97</guid>
+      <pubDate>Thu, 01 Oct 2026 14:52:42 +0000</pubDate>
+      <description><![CDATA[<p>汽车之后，安徽开始让车企跨界「造人」</p><p>标签: 中鼎股份, 墨甲机器人</p>]]></description>
+      <category>中鼎股份</category>
+      <category>墨甲机器人</category>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI们被嫌死贵，美国大厂转向开源模型，中国成最大赢家]]></title>
+      <link>https://www.jiqizhixin.com/articles/0ab0c0ba-880c-44c0-871b-16bed23e5f83</link>
+      <guid>0ab0c0ba-880c-44c0-871b-16bed23e5f83</guid>
+      <pubDate>Thu, 01 Oct 2026 14:52:41 +0000</pubDate>
+      <description><![CDATA[<p>OpenAI们被嫌死贵，美国大厂转向开源模型，中国成最大赢家</p><p>标签: DeepSeek, OpenAI</p>]]></description>
+      <category>DeepSeek</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[首发！openJiuwen WorkSwarm全双工多模态 ，像聊天一样与Agent交互，昇腾算力原生亲和]]></title>
+      <link>https://www.jiqizhixin.com/articles/8844f516-3f45-4d52-9f47-6d6254ce93de</link>
+      <guid>8844f516-3f45-4d52-9f47-6d6254ce93de</guid>
+      <pubDate>Thu, 01 Oct 2026 14:53:10 +0000</pubDate>
+      <description><![CDATA[<p>首发！openJiuwen WorkSwarm全双工多模态 ，像聊天一样与Agent交互，昇腾算力原生亲和</p><p>标签: WorkSwarm 蜂群办公智能体, openJiuwen</p>]]></description>
+      <category>WorkSwarm 蜂群办公智能体</category>
+      <category>openJiuwen</category>
+    </item>
+    <item>
+      <title><![CDATA[EMNLP 2026｜「AI把数字说歪」，官方AI审稿现场演示了一遍]]></title>
+      <link>https://www.jiqizhixin.com/articles/59c17e2f-e582-4296-997a-f40e7025713c</link>
+      <guid>59c17e2f-e582-4296-997a-f40e7025713c</guid>
+      <pubDate>Thu, 01 Oct 2026 14:53:12 +0000</pubDate>
+      <description><![CDATA[<p>EMNLP 2026｜「AI把数字说歪」，官方AI审稿现场演示了一遍</p><p>标签: Claim-Locked Reportiing, EMNLP 2026</p>]]></description>
+      <category>Claim-Locked Reportiing</category>
+      <category>EMNLP 2026</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，谷歌发布Gemini 4 Argon：单次输出上限达100万Token]]></title>
+      <link>https://www.jiqizhixin.com/articles/c063d918-8f11-4943-8a9f-4fa6dda5a60b</link>
+      <guid>c063d918-8f11-4943-8a9f-4fa6dda5a60b</guid>
+      <pubDate>Thu, 01 Oct 2026 14:53:41 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，谷歌发布Gemini 4 Argon：单次输出上限达100万Token</p><p>标签: Gemini 4 Argon, Google</p>]]></description>
+      <category>Gemini 4 Argon</category>
+      <category>Google</category>
+    </item>
+    <item>
+      <title><![CDATA[看一遍就会，三星&上交提出RoboICL新方法，GPT-6 Astra多项机器人操控评测全面领先]]></title>
+      <link>https://www.jiqizhixin.com/articles/c3da1823-ceb0-48a5-af81-1746dfe32fcc</link>
+      <guid>c3da1823-ceb0-48a5-af81-1746dfe32fcc</guid>
+      <pubDate>Thu, 01 Oct 2026 14:53:40 +0000</pubDate>
+      <description><![CDATA[<p>看一遍就会，三星&上交提出RoboICL新方法，GPT-6 Astra多项机器人操控评测全面领先</p><p>标签: Deposit Coin, RoboICL</p>]]></description>
+      <category>Deposit Coin</category>
+      <category>RoboICL</category>
+    </item>
     <item>
       <title><![CDATA[192 米电子束贯通，合肥先进光源：工程落地后，产业转化才是核心命题]]></title>
       <link>https://www.jiqizhixin.com/articles/82db4326-c7af-41a2-bac9-4c26e6f54bb9</link>
@@ -64,62 +118,6 @@
       <description><![CDATA[<p>DeepSeek开源昇腾基础组件：计算、通信与编译工具同步发布</p><p>标签: TileLang, DeepSeek</p>]]></description>
       <category>TileLang</category>
       <category>DeepSeek</category>
-    </item>
-    <item>
-      <title><![CDATA[多个榜单登顶、1.2B参数，轻量化TeleOCR解锁文档智能化解析新能力]]></title>
-      <link>https://www.jiqizhixin.com/articles/6b6c4591-a1c4-4994-9460-4bbc20004e3c</link>
-      <guid>6b6c4591-a1c4-4994-9460-4bbc20004e3c</guid>
-      <pubDate>Wed, 30 Sep 2026 07:36:46 +0000</pubDate>
-      <description><![CDATA[<p>多个榜单登顶、1.2B参数，轻量化TeleOCR解锁文档智能化解析新能力</p><p>标签: TeleOCR, 中国电信</p>]]></description>
-      <category>TeleOCR</category>
-      <category>中国电信</category>
-    </item>
-    <item>
-      <title><![CDATA[EMNLP 2026 | 大模型解码不能只看概率，人大团队引入语义冗余]]></title>
-      <link>https://www.jiqizhixin.com/articles/3afffb51-f4de-47c3-9b9f-e64e1b9ca6fb</link>
-      <guid>3afffb51-f4de-47c3-9b9f-e64e1b9ca6fb</guid>
-      <pubDate>Wed, 30 Sep 2026 07:36:55 +0000</pubDate>
-      <description><![CDATA[<p>EMNLP 2026 | 大模型解码不能只看概率，人大团队引入语义冗余</p><p>标签: Mahalanobis-Ensemble Decoding（ME-Decoding）, EMNLP 2026</p>]]></description>
-      <category>Mahalanobis-Ensemble Decoding（ME-Decoding）</category>
-      <category>EMNLP 2026</category>
-    </item>
-    <item>
-      <title><![CDATA[具身进实景，劳动最光荣！2026全球开发者先锋大会 暨国际具身智能技能大赛媒体通气会召开]]></title>
-      <link>https://www.jiqizhixin.com/articles/a7ff8681-4531-4cc3-b940-5ed6d542b4c5</link>
-      <guid>a7ff8681-4531-4cc3-b940-5ed6d542b4c5</guid>
-      <pubDate>Wed, 30 Sep 2026 07:37:20 +0000</pubDate>
-      <description><![CDATA[<p>具身进实景，劳动最光荣！2026全球开发者先锋大会 暨国际具身智能技能大赛媒体通气会召开</p><p>标签: 2026全球开发者先锋大会暨（GDPS）国际具身智能技能大赛</p>]]></description>
-      <category>2026全球开发者先锋大会暨（GDPS）国际具身智能技能大赛</category>
-    </item>
-    <item>
-      <title><![CDATA[GPT-6.1、全天候智能体，OpenAI这次DevDay全是大招]]></title>
-      <link>https://www.jiqizhixin.com/articles/aab388d4-5acf-48bb-9e08-7ccf2d4fa984</link>
-      <guid>aab388d4-5acf-48bb-9e08-7ccf2d4fa984</guid>
-      <pubDate>Wed, 30 Sep 2026 07:37:28 +0000</pubDate>
-      <description><![CDATA[<p>GPT-6.1、全天候智能体，OpenAI这次DevDay全是大招</p><p>标签: GPT-6.1, OpenAI DevDay, OpenAI</p>]]></description>
-      <category>GPT-6.1</category>
-      <category>OpenAI DevDay</category>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[GPT6-Astra搭的3D场景总和原图对不齐？Mira-Scene来解决！]]></title>
-      <link>https://www.jiqizhixin.com/articles/973b66b7-38cb-43b5-9030-33f4c95fe57b</link>
-      <guid>973b66b7-38cb-43b5-9030-33f4c95fe57b</guid>
-      <pubDate>Wed, 30 Sep 2026 07:37:56 +0000</pubDate>
-      <description><![CDATA[<p>GPT6-Astra搭的3D场景总和原图对不齐？Mira-Scene来解决！</p><p>标签: VAST, 香港大学, Mira-Scene</p>]]></description>
-      <category>VAST</category>
-      <category>香港大学</category>
-      <category>Mira-Scene</category>
-    </item>
-    <item>
-      <title><![CDATA[EAST 20周年，合肥“人造太阳”从3秒走到1066秒]]></title>
-      <link>https://www.jiqizhixin.com/articles/6bbb2826-b2b9-4164-8c6f-f6e87b5efeee</link>
-      <guid>6bbb2826-b2b9-4164-8c6f-f6e87b5efeee</guid>
-      <pubDate>Tue, 29 Sep 2026 11:40:27 +0000</pubDate>
-      <description><![CDATA[<p>EAST 20周年，合肥“人造太阳”从3秒走到1066秒</p><p>标签: BEST, 可控核聚变, EAST</p>]]></description>
-      <category>BEST</category>
-      <category>可控核聚变</category>
-      <category>EAST</category>
     </item>
   </channel>
 </rss>
