@@ -4,8 +4,64 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 02 Oct 2026 07:36:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 14:14:57 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[生物医学基础模型越来越强，但我们真的知道它学会了什么吗？]]></title>
+      <link>https://www.jiqizhixin.com/articles/c17fa389-5c26-40e3-a149-5b9d48ba7f96</link>
+      <guid>c17fa389-5c26-40e3-a149-5b9d48ba7f96</guid>
+      <pubDate>Fri, 02 Oct 2026 14:13:13 +0000</pubDate>
+      <description><![CDATA[<p>生物医学基础模型越来越强，但我们真的知道它学会了什么吗？</p><p>标签: AI for Science（AI4S）, Beacon, scFM</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>Beacon</category>
+      <category>scFM</category>
+    </item>
+    <item>
+      <title><![CDATA[MiniMax M3.1 Flash来了：Opus 5.5刷屏的绝活，它也能做]]></title>
+      <link>https://www.jiqizhixin.com/articles/9c9a5863-e41b-4304-988a-6b906d219201</link>
+      <guid>9c9a5863-e41b-4304-988a-6b906d219201</guid>
+      <pubDate>Fri, 02 Oct 2026 14:13:13 +0000</pubDate>
+      <description><![CDATA[<p>MiniMax M3.1 Flash来了：Opus 5.5刷屏的绝活，它也能做</p><p>标签: M3.1 Flash, MiniMax</p>]]></description>
+      <category>M3.1 Flash</category>
+      <category>MiniMax</category>
+    </item>
+    <item>
+      <title><![CDATA[让AI自己给大模型做后训练：AIBuildAI开源递归自进化PostTrain Agent，登顶PostTrainBench]]></title>
+      <link>https://www.jiqizhixin.com/articles/2714abd2-1c07-4034-88fe-80a32382de8f</link>
+      <guid>2714abd2-1c07-4034-88fe-80a32382de8f</guid>
+      <pubDate>Fri, 02 Oct 2026 14:13:42 +0000</pubDate>
+      <description><![CDATA[<p>让AI自己给大模型做后训练：AIBuildAI开源递归自进化PostTrain Agent，登顶PostTrainBench</p><p>标签: PostTrain Agent, AIBuildAI</p>]]></description>
+      <category>PostTrain Agent</category>
+      <category>AIBuildAI</category>
+    </item>
+    <item>
+      <title><![CDATA[比李飞飞World Labs早两年押注原生4D，影身智能这次是真走在前面了？]]></title>
+      <link>https://www.jiqizhixin.com/articles/6916a93b-12d2-4bb3-8451-0d4a61903442</link>
+      <guid>6916a93b-12d2-4bb3-8451-0d4a61903442</guid>
+      <pubDate>Fri, 02 Oct 2026 14:13:42 +0000</pubDate>
+      <description><![CDATA[<p>比李飞飞World Labs早两年押注原生4D，影身智能这次是真走在前面了？</p><p>标签: 空间智能, 4D 世界模型, 影身智能</p>]]></description>
+      <category>空间智能</category>
+      <category>4D 世界模型</category>
+      <category>影身智能</category>
+    </item>
+    <item>
+      <title><![CDATA[LegoFlow：让智能体自主跑完代码数据构建+训练测评全流程]]></title>
+      <link>https://www.jiqizhixin.com/articles/4d9cc848-4ad7-4d77-bbaf-47016bd389b7</link>
+      <guid>4d9cc848-4ad7-4d77-bbaf-47016bd389b7</guid>
+      <pubDate>Fri, 02 Oct 2026 14:14:11 +0000</pubDate>
+      <description><![CDATA[<p>LegoFlow：让智能体自主跑完代码数据构建+训练测评全流程</p><p>标签: 华为, LegoFlow</p>]]></description>
+      <category>华为</category>
+      <category>LegoFlow</category>
+    </item>
+    <item>
+      <title><![CDATA[淘宝TaoMate-H3开源：三步生成「分钟级」音视频连续创作]]></title>
+      <link>https://www.jiqizhixin.com/articles/73ecf778-e862-4fa5-8899-d526febc6bc9</link>
+      <guid>73ecf778-e862-4fa5-8899-d526febc6bc9</guid>
+      <pubDate>Fri, 02 Oct 2026 14:14:57 +0000</pubDate>
+      <description><![CDATA[<p>淘宝TaoMate-H3开源：三步生成「分钟级」音视频连续创作</p><p>标签: 阿里巴巴, TaoMate-H3</p>]]></description>
+      <category>阿里巴巴</category>
+      <category>TaoMate-H3</category>
+    </item>
     <item>
       <title><![CDATA[汽车之后，安徽开始让车企跨界「造人」]]></title>
       <link>https://www.jiqizhixin.com/articles/b1868cc6-cd6e-4546-b1c2-c59192c1fe97</link>
@@ -59,65 +115,6 @@
       <description><![CDATA[<p>看一遍就会，三星&上交提出RoboICL新方法，GPT-6 Astra多项机器人操控评测全面领先</p><p>标签: Deposit Coin, RoboICL</p>]]></description>
       <category>Deposit Coin</category>
       <category>RoboICL</category>
-    </item>
-    <item>
-      <title><![CDATA[192 米电子束贯通，合肥先进光源：工程落地后，产业转化才是核心命题]]></title>
-      <link>https://www.jiqizhixin.com/articles/82db4326-c7af-41a2-bac9-4c26e6f54bb9</link>
-      <guid>82db4326-c7af-41a2-bac9-4c26e6f54bb9</guid>
-      <pubDate>Wed, 30 Sep 2026 07:35:17 +0000</pubDate>
-      <description><![CDATA[<p>192 米电子束贯通，合肥先进光源：工程落地后，产业转化才是核心命题</p><p>标签: 先进光源（HALF）</p>]]></description>
-      <category>先进光源（HALF）</category>
-    </item>
-    <item>
-      <title><![CDATA[13 组横评综合性能第一！RunningHub 发布 RH Upscale，瞄准视频超分「不变样」难题]]></title>
-      <link>https://www.jiqizhixin.com/articles/b69d5843-7549-4595-bbe9-f630384c2737</link>
-      <guid>b69d5843-7549-4595-bbe9-f630384c2737</guid>
-      <pubDate>Wed, 30 Sep 2026 07:35:14 +0000</pubDate>
-      <description><![CDATA[<p>13 组横评综合性能第一！RunningHub 发布 RH Upscale，瞄准视频超分「不变样」难题</p><p>标签: RH Upscale, RunningHub, 海马云</p>]]></description>
-      <category>RH Upscale</category>
-      <category>RunningHub</category>
-      <category>海马云</category>
-    </item>
-    <item>
-      <title><![CDATA[给AI装上记忆，它就真的记对了吗？HaluMem拆解智能体记忆幻觉]]></title>
-      <link>https://www.jiqizhixin.com/articles/9ceb5dfd-5b99-439b-8118-41dd23f35718</link>
-      <guid>9ceb5dfd-5b99-439b-8118-41dd23f35718</guid>
-      <pubDate>Wed, 30 Sep 2026 07:35:43 +0000</pubDate>
-      <description><![CDATA[<p>给AI装上记忆，它就真的记对了吗？HaluMem拆解智能体记忆幻觉</p><p>标签: EMNLP 2026, HaluMem, 记忆张量（ MemTensor ）, 中国电信研究院</p>]]></description>
-      <category>EMNLP 2026</category>
-      <category>HaluMem</category>
-      <category>记忆张量（ MemTensor ）</category>
-      <category>中国电信研究院</category>
-    </item>
-    <item>
-      <title><![CDATA[AI利用物理感知生成金属微结构：一种新的材料逆向设计方法]]></title>
-      <link>https://www.jiqizhixin.com/articles/cacd96a4-7492-4856-a1a6-030b0fe8cadd</link>
-      <guid>cacd96a4-7492-4856-a1a6-030b0fe8cadd</guid>
-      <pubDate>Wed, 30 Sep 2026 07:35:50 +0000</pubDate>
-      <description><![CDATA[<p>AI利用物理感知生成金属微结构：一种新的材料逆向设计方法</p><p>标签: AI for Science（AI4S）, Inconel 625, 西北工业大学</p>]]></description>
-      <category>AI for Science（AI4S）</category>
-      <category>Inconel 625</category>
-      <category>西北工业大学</category>
-    </item>
-    <item>
-      <title><![CDATA[GPT-6 Astra也会「看错」流程图? Einsia AI发布PPTBench，视觉编程还有多远？]]></title>
-      <link>https://www.jiqizhixin.com/articles/3bc782f6-c63e-4639-a81c-5a58f49ee5bf</link>
-      <guid>3bc782f6-c63e-4639-a81c-5a58f49ee5bf</guid>
-      <pubDate>Wed, 30 Sep 2026 07:36:12 +0000</pubDate>
-      <description><![CDATA[<p>GPT-6 Astra也会「看错」流程图? Einsia AI发布PPTBench，视觉编程还有多远？</p><p>标签: Navers Lab, Coding Agent, PPTBench, Einsia AI</p>]]></description>
-      <category>Navers Lab</category>
-      <category>Coding Agent</category>
-      <category>PPTBench</category>
-      <category>Einsia AI</category>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek开源昇腾基础组件：计算、通信与编译工具同步发布]]></title>
-      <link>https://www.jiqizhixin.com/articles/c0627369-2684-446e-b312-746633ecff6d</link>
-      <guid>c0627369-2684-446e-b312-746633ecff6d</guid>
-      <pubDate>Wed, 30 Sep 2026 07:36:19 +0000</pubDate>
-      <description><![CDATA[<p>DeepSeek开源昇腾基础组件：计算、通信与编译工具同步发布</p><p>标签: TileLang, DeepSeek</p>]]></description>
-      <category>TileLang</category>
-      <category>DeepSeek</category>
     </item>
   </channel>
 </rss>
