@@ -4,7 +4,7 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 03 Oct 2026 12:49:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 17:40:43 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title><![CDATA[Karpathy的新玩法！40年前的航空规范，救了爱说废话的AI]]></title>
@@ -24,6 +24,25 @@
       <category>东南大学</category>
       <category>LeaP（Learnable source Prior）</category>
       <category>CoRL 2026</category>
+    </item>
+    <item>
+      <title><![CDATA[Jev被请下王座，StartLux中国开源决策模型冲上第一]]></title>
+      <link>https://www.jiqizhixin.com/articles/4bf69f1f-0f5a-42a5-99d9-47936078da66</link>
+      <guid>4bf69f1f-0f5a-42a5-99d9-47936078da66</guid>
+      <pubDate>Sat, 03 Oct 2026 17:40:42 +0000</pubDate>
+      <description><![CDATA[<p>Jev被请下王座，StartLux中国开源决策模型冲上第一</p><p>标签: 决策模型, StartLux-Decision, StartLux（原点星辉）</p>]]></description>
+      <category>决策模型</category>
+      <category>StartLux-Decision</category>
+      <category>StartLux（原点星辉）</category>
+    </item>
+    <item>
+      <title><![CDATA[万分之一——大模型后训练中的极端稀疏监督]]></title>
+      <link>https://www.jiqizhixin.com/articles/c915df39-aa9d-4de2-b940-cfad9ce8c588</link>
+      <guid>c915df39-aa9d-4de2-b940-cfad9ce8c588</guid>
+      <pubDate>Sat, 03 Oct 2026 17:40:43 +0000</pubDate>
+      <description><![CDATA[<p>万分之一——大模型后训练中的极端稀疏监督</p><p>标签: 杜克大学, 亚马逊</p>]]></description>
+      <category>杜克大学</category>
+      <category>亚马逊</category>
     </item>
     <item>
       <title><![CDATA[刚刚，Meta开源Muse Gadgets，让全球开发者自己「造AI外设」]]></title>
