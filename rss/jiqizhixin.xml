@@ -4,8 +4,45 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 03 Oct 2026 07:11:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 12:49:51 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Karpathy的新玩法！40年前的航空规范，救了爱说废话的AI]]></title>
+      <link>https://www.jiqizhixin.com/articles/389cb04b-9f48-474a-b5d3-1e8b41a7083d</link>
+      <guid>389cb04b-9f48-474a-b5d3-1e8b41a7083d</guid>
+      <pubDate>Sat, 03 Oct 2026 12:48:20 +0000</pubDate>
+      <description><![CDATA[<p>Karpathy的新玩法！40年前的航空规范，救了爱说废话的AI</p><p>标签: ASD-STE100, Andrej Karpathy</p>]]></description>
+      <category>ASD-STE100</category>
+      <category>Andrej Karpathy</category>
+    </item>
+    <item>
+      <title><![CDATA[CoRL 2026｜让机器人更会动，从学会「起步」开始]]></title>
+      <link>https://www.jiqizhixin.com/articles/d8790244-2080-438d-a29a-8f7d779d7728</link>
+      <guid>d8790244-2080-438d-a29a-8f7d779d7728</guid>
+      <pubDate>Sat, 03 Oct 2026 12:48:20 +0000</pubDate>
+      <description><![CDATA[<p>CoRL 2026｜让机器人更会动，从学会「起步」开始</p><p>标签: 东南大学, LeaP（Learnable source Prior）, CoRL 2026</p>]]></description>
+      <category>东南大学</category>
+      <category>LeaP（Learnable source Prior）</category>
+      <category>CoRL 2026</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，Meta开源Muse Gadgets，让全球开发者自己「造AI外设」]]></title>
+      <link>https://www.jiqizhixin.com/articles/7de2e319-52d6-42ce-ad07-449ae165d688</link>
+      <guid>7de2e319-52d6-42ce-ad07-449ae165d688</guid>
+      <pubDate>Sat, 03 Oct 2026 12:49:51 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，Meta开源Muse Gadgets，让全球开发者自己「造AI外设」</p><p>标签: Muse Gadgets, MeTA</p>]]></description>
+      <category>Muse Gadgets</category>
+      <category>MeTA</category>
+    </item>
+    <item>
+      <title><![CDATA[把Depth Anything砍到6M，深度估计终于能跑进Jetson]]></title>
+      <link>https://www.jiqizhixin.com/articles/2f5f3495-54c9-4de0-8ff6-564cf14eff0d</link>
+      <guid>2f5f3495-54c9-4de0-8ff6-564cf14eff0d</guid>
+      <pubDate>Sat, 03 Oct 2026 12:49:49 +0000</pubDate>
+      <description><![CDATA[<p>把Depth Anything砍到6M，深度估计终于能跑进Jetson</p><p>标签: ACM Multimedia 2026, DepthART</p>]]></description>
+      <category>ACM Multimedia 2026</category>
+      <category>DepthART</category>
+    </item>
     <item>
       <title><![CDATA[生物医学基础模型越来越强，但我们真的知道它学会了什么吗？]]></title>
       <link>https://www.jiqizhixin.com/articles/c17fa389-5c26-40e3-a149-5b9d48ba7f96</link>
@@ -61,60 +98,6 @@
       <description><![CDATA[<p>淘宝TaoMate-H3开源：三步生成「分钟级」音视频连续创作</p><p>标签: 阿里巴巴, TaoMate-H3</p>]]></description>
       <category>阿里巴巴</category>
       <category>TaoMate-H3</category>
-    </item>
-    <item>
-      <title><![CDATA[汽车之后，安徽开始让车企跨界「造人」]]></title>
-      <link>https://www.jiqizhixin.com/articles/b1868cc6-cd6e-4546-b1c2-c59192c1fe97</link>
-      <guid>b1868cc6-cd6e-4546-b1c2-c59192c1fe97</guid>
-      <pubDate>Thu, 01 Oct 2026 14:52:42 +0000</pubDate>
-      <description><![CDATA[<p>汽车之后，安徽开始让车企跨界「造人」</p><p>标签: 中鼎股份, 墨甲机器人</p>]]></description>
-      <category>中鼎股份</category>
-      <category>墨甲机器人</category>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI们被嫌死贵，美国大厂转向开源模型，中国成最大赢家]]></title>
-      <link>https://www.jiqizhixin.com/articles/0ab0c0ba-880c-44c0-871b-16bed23e5f83</link>
-      <guid>0ab0c0ba-880c-44c0-871b-16bed23e5f83</guid>
-      <pubDate>Thu, 01 Oct 2026 14:52:41 +0000</pubDate>
-      <description><![CDATA[<p>OpenAI们被嫌死贵，美国大厂转向开源模型，中国成最大赢家</p><p>标签: DeepSeek, OpenAI</p>]]></description>
-      <category>DeepSeek</category>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[首发！openJiuwen WorkSwarm全双工多模态 ，像聊天一样与Agent交互，昇腾算力原生亲和]]></title>
-      <link>https://www.jiqizhixin.com/articles/8844f516-3f45-4d52-9f47-6d6254ce93de</link>
-      <guid>8844f516-3f45-4d52-9f47-6d6254ce93de</guid>
-      <pubDate>Thu, 01 Oct 2026 14:53:10 +0000</pubDate>
-      <description><![CDATA[<p>首发！openJiuwen WorkSwarm全双工多模态 ，像聊天一样与Agent交互，昇腾算力原生亲和</p><p>标签: WorkSwarm 蜂群办公智能体, openJiuwen</p>]]></description>
-      <category>WorkSwarm 蜂群办公智能体</category>
-      <category>openJiuwen</category>
-    </item>
-    <item>
-      <title><![CDATA[EMNLP 2026｜「AI把数字说歪」，官方AI审稿现场演示了一遍]]></title>
-      <link>https://www.jiqizhixin.com/articles/59c17e2f-e582-4296-997a-f40e7025713c</link>
-      <guid>59c17e2f-e582-4296-997a-f40e7025713c</guid>
-      <pubDate>Thu, 01 Oct 2026 14:53:12 +0000</pubDate>
-      <description><![CDATA[<p>EMNLP 2026｜「AI把数字说歪」，官方AI审稿现场演示了一遍</p><p>标签: Claim-Locked Reportiing, EMNLP 2026</p>]]></description>
-      <category>Claim-Locked Reportiing</category>
-      <category>EMNLP 2026</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，谷歌发布Gemini 4 Argon：单次输出上限达100万Token]]></title>
-      <link>https://www.jiqizhixin.com/articles/c063d918-8f11-4943-8a9f-4fa6dda5a60b</link>
-      <guid>c063d918-8f11-4943-8a9f-4fa6dda5a60b</guid>
-      <pubDate>Thu, 01 Oct 2026 14:53:41 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，谷歌发布Gemini 4 Argon：单次输出上限达100万Token</p><p>标签: Gemini 4 Argon, Google</p>]]></description>
-      <category>Gemini 4 Argon</category>
-      <category>Google</category>
-    </item>
-    <item>
-      <title><![CDATA[看一遍就会，三星&上交提出RoboICL新方法，GPT-6 Astra多项机器人操控评测全面领先]]></title>
-      <link>https://www.jiqizhixin.com/articles/c3da1823-ceb0-48a5-af81-1746dfe32fcc</link>
-      <guid>c3da1823-ceb0-48a5-af81-1746dfe32fcc</guid>
-      <pubDate>Thu, 01 Oct 2026 14:53:40 +0000</pubDate>
-      <description><![CDATA[<p>看一遍就会，三星&上交提出RoboICL新方法，GPT-6 Astra多项机器人操控评测全面领先</p><p>标签: Deposit Coin, RoboICL</p>]]></description>
-      <category>Deposit Coin</category>
-      <category>RoboICL</category>
     </item>
   </channel>
 </rss>
