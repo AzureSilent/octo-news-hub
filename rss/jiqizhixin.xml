@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[机器之心]]></title>
+    <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 05 Oct 2026 07:47:27 +0000</lastBuildDate>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[AlphaGo核心作者：十年了，LLM还没学到那场棋局「神之一手」的精华]]></title>
+      <link>https://www.jiqizhixin.com/articles/18185cdd-f917-4ebc-94c2-ed8fec870a2e</link>
+      <guid>18185cdd-f917-4ebc-94c2-ed8fec870a2e</guid>
+      <pubDate>Sun, 04 Oct 2026 13:31:42 +0000</pubDate>
+      <description><![CDATA[<p>AlphaGo核心作者：十年了，LLM还没学到那场棋局「神之一手」的精华</p><p>标签: Thore Graepel, AlphaGo</p>]]></description>
+      <category>Thore Graepel</category>
+      <category>AlphaGo</category>
+    </item>
+    <item>
+      <title><![CDATA[终于有人管管屎山代码了！Tibo预告，Astra 6.1要来了？]]></title>
+      <link>https://www.jiqizhixin.com/articles/34801995-754a-48a8-b296-7d998ebad1b2</link>
+      <guid>34801995-754a-48a8-b296-7d998ebad1b2</guid>
+      <pubDate>Sun, 04 Oct 2026 13:31:40 +0000</pubDate>
+      <description><![CDATA[<p>终于有人管管屎山代码了！Tibo预告，Astra 6.1要来了？</p><p>标签: Astra 6.1, Tibo, OpenAI</p>]]></description>
+      <category>Astra 6.1</category>
+      <category>Tibo</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[Agent Harness到底怎么选？南洋理工大学安波团队最新研究给出答案]]></title>
+      <link>https://www.jiqizhixin.com/articles/a20c9c30-32f2-495b-a2c4-f8505451e64d</link>
+      <guid>a20c9c30-32f2-495b-a2c4-f8505451e64d</guid>
+      <pubDate>Sun, 04 Oct 2026 13:32:09 +0000</pubDate>
+      <description><![CDATA[<p>Agent Harness到底怎么选？南洋理工大学安波团队最新研究给出答案</p><p>标签: Harness, 南洋理工大学</p>]]></description>
+      <category>Harness</category>
+      <category>南洋理工大学</category>
+    </item>
+    <item>
+      <title><![CDATA[太卷了！DeepSeek假期更新，Harness有了新版本]]></title>
+      <link>https://www.jiqizhixin.com/articles/6398b567-c039-4600-9af1-50615ea165fb</link>
+      <guid>6398b567-c039-4600-9af1-50615ea165fb</guid>
+      <pubDate>Sun, 04 Oct 2026 13:32:11 +0000</pubDate>
+      <description><![CDATA[<p>太卷了！DeepSeek假期更新，Harness有了新版本</p><p>标签: DeepSeek Harness, DeepSeek</p>]]></description>
+      <category>DeepSeek Harness</category>
+      <category>DeepSeek</category>
+    </item>
+    <item>
+      <title><![CDATA[Jev火了，NeurIPS 2025的ConfTuner早已探索相似思路]]></title>
+      <link>https://www.jiqizhixin.com/articles/1331b6e1-9d17-41f4-a06f-d8da9451845a</link>
+      <guid>1331b6e1-9d17-41f4-a06f-d8da9451845a</guid>
+      <pubDate>Sun, 04 Oct 2026 13:32:38 +0000</pubDate>
+      <description><![CDATA[<p>Jev火了，NeurIPS 2025的ConfTuner早已探索相似思路</p><p>标签: 新加坡国立大学, NeurIPS 2025, ConfTuner</p>]]></description>
+      <category>新加坡国立大学</category>
+      <category>NeurIPS 2025</category>
+      <category>ConfTuner</category>
+    </item>
+    <item>
+      <title><![CDATA[Karpathy的新玩法！40年前的航空规范，救了爱说废话的AI]]></title>
+      <link>https://www.jiqizhixin.com/articles/389cb04b-9f48-474a-b5d3-1e8b41a7083d</link>
+      <guid>389cb04b-9f48-474a-b5d3-1e8b41a7083d</guid>
+      <pubDate>Sat, 03 Oct 2026 12:48:20 +0000</pubDate>
+      <description><![CDATA[<p>Karpathy的新玩法！40年前的航空规范，救了爱说废话的AI</p><p>标签: ASD-STE100, Andrej Karpathy</p>]]></description>
+      <category>ASD-STE100</category>
+      <category>Andrej Karpathy</category>
+    </item>
+    <item>
+      <title><![CDATA[CoRL 2026｜让机器人更会动，从学会「起步」开始]]></title>
+      <link>https://www.jiqizhixin.com/articles/d8790244-2080-438d-a29a-8f7d779d7728</link>
+      <guid>d8790244-2080-438d-a29a-8f7d779d7728</guid>
+      <pubDate>Sat, 03 Oct 2026 12:48:20 +0000</pubDate>
+      <description><![CDATA[<p>CoRL 2026｜让机器人更会动，从学会「起步」开始</p><p>标签: 东南大学, LeaP（Learnable source Prior）, CoRL 2026</p>]]></description>
+      <category>东南大学</category>
+      <category>LeaP（Learnable source Prior）</category>
+      <category>CoRL 2026</category>
+    </item>
+    <item>
+      <title><![CDATA[Jev被请下王座，StartLux中国开源决策模型冲上第一]]></title>
+      <link>https://www.jiqizhixin.com/articles/4bf69f1f-0f5a-42a5-99d9-47936078da66</link>
+      <guid>4bf69f1f-0f5a-42a5-99d9-47936078da66</guid>
+      <pubDate>Sat, 03 Oct 2026 17:40:42 +0000</pubDate>
+      <description><![CDATA[<p>Jev被请下王座，StartLux中国开源决策模型冲上第一</p><p>标签: 决策模型, StartLux-Decision, StartLux（原点星辉）</p>]]></description>
+      <category>决策模型</category>
+      <category>StartLux-Decision</category>
+      <category>StartLux（原点星辉）</category>
+    </item>
+    <item>
+      <title><![CDATA[万分之一——大模型后训练中的极端稀疏监督]]></title>
+      <link>https://www.jiqizhixin.com/articles/c915df39-aa9d-4de2-b940-cfad9ce8c588</link>
+      <guid>c915df39-aa9d-4de2-b940-cfad9ce8c588</guid>
+      <pubDate>Sat, 03 Oct 2026 17:40:43 +0000</pubDate>
+      <description><![CDATA[<p>万分之一——大模型后训练中的极端稀疏监督</p><p>标签: 杜克大学, 亚马逊</p>]]></description>
+      <category>杜克大学</category>
+      <category>亚马逊</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，Meta开源Muse Gadgets，让全球开发者自己「造AI外设」]]></title>
+      <link>https://www.jiqizhixin.com/articles/7de2e319-52d6-42ce-ad07-449ae165d688</link>
+      <guid>7de2e319-52d6-42ce-ad07-449ae165d688</guid>
+      <pubDate>Sat, 03 Oct 2026 12:49:51 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，Meta开源Muse Gadgets，让全球开发者自己「造AI外设」</p><p>标签: Muse Gadgets, MeTA</p>]]></description>
+      <category>Muse Gadgets</category>
+      <category>MeTA</category>
+    </item>
+    <item>
+      <title><![CDATA[把Depth Anything砍到6M，深度估计终于能跑进Jetson]]></title>
+      <link>https://www.jiqizhixin.com/articles/2f5f3495-54c9-4de0-8ff6-564cf14eff0d</link>
+      <guid>2f5f3495-54c9-4de0-8ff6-564cf14eff0d</guid>
+      <pubDate>Sat, 03 Oct 2026 12:49:49 +0000</pubDate>
+      <description><![CDATA[<p>把Depth Anything砍到6M，深度估计终于能跑进Jetson</p><p>标签: ACM Multimedia 2026, DepthART</p>]]></description>
+      <category>ACM Multimedia 2026</category>
+      <category>DepthART</category>
+    </item>
+    <item>
+      <title><![CDATA[生物医学基础模型越来越强，但我们真的知道它学会了什么吗？]]></title>
+      <link>https://www.jiqizhixin.com/articles/c17fa389-5c26-40e3-a149-5b9d48ba7f96</link>
+      <guid>c17fa389-5c26-40e3-a149-5b9d48ba7f96</guid>
+      <pubDate>Fri, 02 Oct 2026 14:13:13 +0000</pubDate>
+      <description><![CDATA[<p>生物医学基础模型越来越强，但我们真的知道它学会了什么吗？</p><p>标签: AI for Science（AI4S）, Beacon, scFM</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>Beacon</category>
+      <category>scFM</category>
+    </item>
+  </channel>
+</rss>
