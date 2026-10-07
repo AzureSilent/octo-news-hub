@@ -4,8 +4,95 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 07 Oct 2026 07:47:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 14:51:24 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[OpenAI突破纳维-斯托克斯方程之后，物理学中发生了什么变化]]></title>
+      <link>https://www.jiqizhixin.com/articles/94078c1a-4636-4882-aaf3-cef3b4240fad</link>
+      <guid>94078c1a-4636-4882-aaf3-cef3b4240fad</guid>
+      <pubDate>Wed, 07 Oct 2026 14:49:19 +0000</pubDate>
+      <description><![CDATA[<p>OpenAI突破纳维-斯托克斯方程之后，物理学中发生了什么变化</p><p>标签: AI for Science（AI4S）, 纳维–斯托克斯方程, AI物理</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>纳维–斯托克斯方程</category>
+      <category>AI物理</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，诺贝尔化学奖揭晓！95岁的他等了25年]]></title>
+      <link>https://www.jiqizhixin.com/articles/4fd663b9-c7ff-4cb4-bd6d-5c63595447cd</link>
+      <guid>4fd663b9-c7ff-4cb4-bd6d-5c63595447cd</guid>
+      <pubDate>Wed, 07 Oct 2026 14:49:19 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，诺贝尔化学奖揭晓！95岁的他等了25年</p><p>标签: 硖合宪三（Kenso Soai）, Henri B. Kagan, 诺贝尔奖, 诺贝尔化学奖</p>]]></description>
+      <category>硖合宪三（Kenso Soai）</category>
+      <category>Henri B. Kagan</category>
+      <category>诺贝尔奖</category>
+      <category>诺贝尔化学奖</category>
+    </item>
+    <item>
+      <title><![CDATA[USENIX Security 2026｜上海创智学院×复旦大学给智能体装上轨迹「安全规则审计员」：让Agent的行动可审计、可解释]]></title>
+      <link>https://www.jiqizhixin.com/articles/12175729-e7a3-4efa-8932-da4d8159507b</link>
+      <guid>12175729-e7a3-4efa-8932-da4d8159507b</guid>
+      <pubDate>Wed, 07 Oct 2026 14:49:47 +0000</pubDate>
+      <description><![CDATA[<p>USENIX Security 2026｜上海创智学院×复旦大学给智能体装上轨迹「安全规则审计员」：让Agent的行动可审计、可解释</p><p>标签: 上海创智学院, MATE, USENIX Security 2026</p>]]></description>
+      <category>上海创智学院</category>
+      <category>MATE</category>
+      <category>USENIX Security 2026</category>
+    </item>
+    <item>
+      <title><![CDATA[翻完OpenAI的722篇数学手稿，我们挑出了最重的30道名题]]></title>
+      <link>https://www.jiqizhixin.com/articles/842466fa-c105-4711-bf8c-aad8dffa1cad</link>
+      <guid>842466fa-c105-4711-bf8c-aad8dffa1cad</guid>
+      <pubDate>Wed, 07 Oct 2026 14:49:48 +0000</pubDate>
+      <description><![CDATA[<p>翻完OpenAI的722篇数学手稿，我们挑出了最重的30道名题</p><p>标签: AI数学, OpenAI</p>]]></description>
+      <category>AI数学</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[NeurIPS 2026 | 长推理为何总在中途走偏？SAGE用结构信号纠偏，AC实例验证通过率接近8倍]]></title>
+      <link>https://www.jiqizhixin.com/articles/b2e136e5-7d43-4cd0-9bd9-cc3489e84cdd</link>
+      <guid>b2e136e5-7d43-4cd0-9bd9-cc3489e84cdd</guid>
+      <pubDate>Wed, 07 Oct 2026 14:50:19 +0000</pubDate>
+      <description><![CDATA[<p>NeurIPS 2026 | 长推理为何总在中途走偏？SAGE用结构信号纠偏，AC实例验证通过率接近8倍</p><p>标签: Sage, NeurIPS 2026</p>]]></description>
+      <category>Sage</category>
+      <category>NeurIPS 2026</category>
+    </item>
+    <item>
+      <title><![CDATA[突发！OpenAI一次放出722篇数学成果，准黎曼猜想、4D挂谷都在列]]></title>
+      <link>https://www.jiqizhixin.com/articles/3aada546-1202-43ae-be80-0e06b047a4df</link>
+      <guid>3aada546-1202-43ae-be80-0e06b047a4df</guid>
+      <pubDate>Wed, 07 Oct 2026 14:50:20 +0000</pubDate>
+      <description><![CDATA[<p>突发！OpenAI一次放出722篇数学成果，准黎曼猜想、4D挂谷都在列</p><p>标签: 黎曼猜想, AI数学, OpenAI</p>]]></description>
+      <category>黎曼猜想</category>
+      <category>AI数学</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[量化后画面闪烁？时序稳定的视频世界模型2-bit KV Cache压缩方案诞生]]></title>
+      <link>https://www.jiqizhixin.com/articles/2804455b-311d-401b-937c-b8dadcf341f3</link>
+      <guid>2804455b-311d-401b-937c-b8dadcf341f3</guid>
+      <pubDate>Wed, 07 Oct 2026 14:50:53 +0000</pubDate>
+      <description><![CDATA[<p>量化后画面闪烁？时序稳定的视频世界模型2-bit KV Cache压缩方案诞生</p><p>标签: 哈尔滨工业大学, QuantWM</p>]]></description>
+      <category>哈尔滨工业大学</category>
+      <category>QuantWM</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，OpenAI四连更！API最高档付费砍半，Auto-review全面免费]]></title>
+      <link>https://www.jiqizhixin.com/articles/c823eec9-d655-412f-b752-30055a184a73</link>
+      <guid>c823eec9-d655-412f-b752-30055a184a73</guid>
+      <pubDate>Wed, 07 Oct 2026 14:50:51 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，OpenAI四连更！API最高档付费砍半，Auto-review全面免费</p><p>标签: Auto-review, Tibo, OpenAI</p>]]></description>
+      <category>Auto-review</category>
+      <category>Tibo</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，Nano Banana 2.1发布！这一次杀向专业设计师]]></title>
+      <link>https://www.jiqizhixin.com/articles/534cb248-ed69-42e8-9eb2-9a311bc048a6</link>
+      <guid>534cb248-ed69-42e8-9eb2-9a311bc048a6</guid>
+      <pubDate>Wed, 07 Oct 2026 14:51:24 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，Nano Banana 2.1发布！这一次杀向专业设计师</p><p>标签: Nano Banana 2.1, Google DeepMind</p>]]></description>
+      <category>Nano Banana 2.1</category>
+      <category>Google DeepMind</category>
+    </item>
     <item>
       <title><![CDATA[刚刚，诺贝尔物理学奖给到中微子天文学，IceCube之父Francis Halzen独享]]></title>
       <link>https://www.jiqizhixin.com/articles/c2908bf3-1e9c-41c9-bc55-2a84a477f555</link>
@@ -36,91 +123,6 @@
       <category>苏炜杰</category>
       <category>文本水印</category>
       <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[黎曼猜想临界线零点比例下界达67.35%：清华团队开源模型VeriLoop E2叩开可验证智能之门]]></title>
-      <link>https://www.jiqizhixin.com/articles/cf777ca4-204e-403f-92d5-99521693fe90</link>
-      <guid>cf777ca4-204e-403f-92d5-99521693fe90</guid>
-      <pubDate>Tue, 06 Oct 2026 17:29:38 +0000</pubDate>
-      <description><![CDATA[<p>黎曼猜想临界线零点比例下界达67.35%：清华团队开源模型VeriLoop E2叩开可验证智能之门</p><p>标签: VeriLoop E2, 清华大学深圳国际研究生院</p>]]></description>
-      <category>VeriLoop E2</category>
-      <category>清华大学深圳国际研究生院</category>
-    </item>
-    <item>
-      <title><![CDATA[一家影视公司为什么能做出全球第二的视频模型？答案藏在「生产系统」里]]></title>
-      <link>https://www.jiqizhixin.com/articles/c1f2fa67-298f-47c3-b141-ffe607386dac</link>
-      <guid>c1f2fa67-298f-47c3-b141-ffe607386dac</guid>
-      <pubDate>Tue, 06 Oct 2026 17:30:11 +0000</pubDate>
-      <description><![CDATA[<p>一家影视公司为什么能做出全球第二的视频模型？答案藏在「生产系统」里</p><p>标签: Utopai Studios, Utopai X</p>]]></description>
-      <category>Utopai Studios</category>
-      <category>Utopai X</category>
-    </item>
-    <item>
-      <title><![CDATA[Token账单扛不住了，Meta、微软开始猛砍Claude使用]]></title>
-      <link>https://www.jiqizhixin.com/articles/ab92993f-2609-41e8-a7c2-c9bc94c61523</link>
-      <guid>ab92993f-2609-41e8-a7c2-c9bc94c61523</guid>
-      <pubDate>Tue, 06 Oct 2026 17:30:12 +0000</pubDate>
-      <description><![CDATA[<p>Token账单扛不住了，Meta、微软开始猛砍Claude使用</p><p>标签: Claude Code, MeTA, 微软</p>]]></description>
-      <category>Claude Code</category>
-      <category>MeTA</category>
-      <category>微软</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，OpenAI宣布GPT-6提速50%，额度却被锤只有Claude的1/5]]></title>
-      <link>https://www.jiqizhixin.com/articles/81f5882c-e45a-40f4-be0a-293bb45f3dba</link>
-      <guid>81f5882c-e45a-40f4-be0a-293bb45f3dba</guid>
-      <pubDate>Tue, 06 Oct 2026 17:30:44 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，OpenAI宣布GPT-6提速50%，额度却被锤只有Claude的1/5</p><p>标签: SemiAnalysis, OpenAI, GPT-6</p>]]></description>
-      <category>SemiAnalysis</category>
-      <category>OpenAI</category>
-      <category>GPT-6</category>
-    </item>
-    <item>
-      <title><![CDATA[RSI火了，但自进化也会过拟合：Google等提出RRSI，给自进化施加正则化]]></title>
-      <link>https://www.jiqizhixin.com/articles/232901af-4889-448e-939c-520d16370a23</link>
-      <guid>232901af-4889-448e-939c-520d16370a23</guid>
-      <pubDate>Tue, 06 Oct 2026 17:30:45 +0000</pubDate>
-      <description><![CDATA[<p>RSI火了，但自进化也会过拟合：Google等提出RRSI，给自进化施加正则化</p><p>标签: RRSI, Google</p>]]></description>
-      <category>RRSI</category>
-      <category>Google</category>
-    </item>
-    <item>
-      <title><![CDATA[CMAME | 面向功能梯度超材料力学-声学协同逆向设计的兼容性感知形态学习方法]]></title>
-      <link>https://www.jiqizhixin.com/articles/c16d349d-d432-4e25-8349-f53171dfd2cd</link>
-      <guid>c16d349d-d432-4e25-8349-f53171dfd2cd</guid>
-      <pubDate>Mon, 05 Oct 2026 16:29:49 +0000</pubDate>
-      <description><![CDATA[<p>CMAME | 面向功能梯度超材料力学-声学协同逆向设计的兼容性感知形态学习方法</p><p>标签: 曼彻斯特大学, CMAME</p>]]></description>
-      <category>曼彻斯特大学</category>
-      <category>CMAME</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，2026诺奖生理学或医学奖颁给光遗传学]]></title>
-      <link>https://www.jiqizhixin.com/articles/680aa084-1217-4d63-a196-4f6dd2304264</link>
-      <guid>680aa084-1217-4d63-a196-4f6dd2304264</guid>
-      <pubDate>Mon, 05 Oct 2026 16:29:45 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，2026诺奖生理学或医学奖颁给光遗传学</p><p>标签: 光遗传学（optogenetics）, 诺贝尔生理学奖, 诺贝尔奖</p>]]></description>
-      <category>光遗传学（optogenetics）</category>
-      <category>诺贝尔生理学奖</category>
-      <category>诺贝尔奖</category>
-    </item>
-    <item>
-      <title><![CDATA[宇树风波后，具身智能还值得相信吗？顶级机器人学者Sergey Levine指明方向]]></title>
-      <link>https://www.jiqizhixin.com/articles/057e00e4-f6e3-491e-be36-f893285dafb6</link>
-      <guid>057e00e4-f6e3-491e-be36-f893285dafb6</guid>
-      <pubDate>Mon, 05 Oct 2026 16:30:14 +0000</pubDate>
-      <description><![CDATA[<p>宇树风波后，具身智能还值得相信吗？顶级机器人学者Sergey Levine指明方向</p><p>标签: 机器人, Sergey Levine, Physical Intelligence</p>]]></description>
-      <category>机器人</category>
-      <category>Sergey Levine</category>
-      <category>Physical Intelligence</category>
-    </item>
-    <item>
-      <title><![CDATA[入职才4个月，宋晓冬团队被曝与Meta分道扬镳，理由：工作风格不合]]></title>
-      <link>https://www.jiqizhixin.com/articles/1fbbb82c-be7b-4a64-9b80-2a282159036e</link>
-      <guid>1fbbb82c-be7b-4a64-9b80-2a282159036e</guid>
-      <pubDate>Mon, 05 Oct 2026 16:30:19 +0000</pubDate>
-      <description><![CDATA[<p>入职才4个月，宋晓冬团队被曝与Meta分道扬镳，理由：工作风格不合</p><p>标签: Meta AI, Dawn Song（宋晓冬）</p>]]></description>
-      <category>Meta AI</category>
-      <category>Dawn Song（宋晓冬）</category>
     </item>
   </channel>
 </rss>
