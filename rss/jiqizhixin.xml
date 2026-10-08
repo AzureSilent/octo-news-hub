@@ -4,8 +4,72 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 08 Oct 2026 08:06:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 17:03:00 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[视频DeepSeek时刻？Vidu Q4 Preview背后的效率账与世界模型底气]]></title>
+      <link>https://www.jiqizhixin.com/articles/b9f3085e-357e-48fa-bc1c-180a7cf45814</link>
+      <guid>b9f3085e-357e-48fa-bc1c-180a7cf45814</guid>
+      <pubDate>Thu, 08 Oct 2026 17:01:30 +0000</pubDate>
+      <description><![CDATA[<p>视频DeepSeek时刻？Vidu Q4 Preview背后的效率账与世界模型底气</p><p>标签: Vidu Q4 Preview, 生数科技</p>]]></description>
+      <category>Vidu Q4 Preview</category>
+      <category>生数科技</category>
+    </item>
+    <item>
+      <title><![CDATA[李飞飞团队造了个世界动作模型：换个底座，机器人成功率直接飙升]]></title>
+      <link>https://www.jiqizhixin.com/articles/607c6aa8-7759-42e3-9f4a-b9ff24ff4b2e</link>
+      <guid>607c6aa8-7759-42e3-9f4a-b9ff24ff4b2e</guid>
+      <pubDate>Thu, 08 Oct 2026 17:01:30 +0000</pubDate>
+      <description><![CDATA[<p>李飞飞团队造了个世界动作模型：换个底座，机器人成功率直接飙升</p><p>标签: OpenWAM, 世界动作模型</p>]]></description>
+      <category>OpenWAM</category>
+      <category>世界动作模型</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，OpenAI撤回了三篇AI数学论文，竟是因为符号写错了]]></title>
+      <link>https://www.jiqizhixin.com/articles/2aba91dd-bd6c-43cf-96db-01f3795a8fcb</link>
+      <guid>2aba91dd-bd6c-43cf-96db-01f3795a8fcb</guid>
+      <pubDate>Thu, 08 Oct 2026 17:01:59 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，OpenAI撤回了三篇AI数学论文，竟是因为符号写错了</p><p>标签: AI 数学, OpenAI</p>]]></description>
+      <category>AI 数学</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[价格暴降90%，多项测试超GPT-6 Luna！Anthropic最便宜模型来了]]></title>
+      <link>https://www.jiqizhixin.com/articles/1cbc8c3e-c4c9-42c1-8ca8-518292f0f3b0</link>
+      <guid>1cbc8c3e-c4c9-42c1-8ca8-518292f0f3b0</guid>
+      <pubDate>Thu, 08 Oct 2026 17:02:00 +0000</pubDate>
+      <description><![CDATA[<p>价格暴降90%，多项测试超GPT-6 Luna！Anthropic最便宜模型来了</p><p>标签: Claude Haiku 5.5, Anthropic</p>]]></description>
+      <category>Claude Haiku 5.5</category>
+      <category>Anthropic</category>
+    </item>
+    <item>
+      <title><![CDATA[诺奖给了「光控大脑」，合肥如何用「光」研究大脑？]]></title>
+      <link>https://www.jiqizhixin.com/articles/968b7ba6-19b8-4446-8fbf-c8555f69e3a4</link>
+      <guid>968b7ba6-19b8-4446-8fbf-c8555f69e3a4</guid>
+      <pubDate>Thu, 08 Oct 2026 17:02:28 +0000</pubDate>
+      <description><![CDATA[<p>诺奖给了「光控大脑」，合肥如何用「光」研究大脑？</p><p>标签: 中国科学技术大学, 光遗传学（optogenetics）</p>]]></description>
+      <category>中国科学技术大学</category>
+      <category>光遗传学（optogenetics）</category>
+    </item>
+    <item>
+      <title><![CDATA[Einsia AI发布世界模型终极大考！直面「物理规律理解」，最高仅57分]]></title>
+      <link>https://www.jiqizhixin.com/articles/e976476a-c67c-4a2c-8d73-37333caad8b4</link>
+      <guid>e976476a-c67c-4a2c-8d73-37333caad8b4</guid>
+      <pubDate>Thu, 08 Oct 2026 17:02:29 +0000</pubDate>
+      <description><![CDATA[<p>Einsia AI发布世界模型终极大考！直面「物理规律理解」，最高仅57分</p><p>标签: Navers Lab, Einsia AI</p>]]></description>
+      <category>Navers Lab</category>
+      <category>Einsia AI</category>
+    </item>
+    <item>
+      <title><![CDATA[首篇自回归视频生成Memory综述来了，港科大、城大、复旦、CMU、NYU、NTU等联合出品]]></title>
+      <link>https://www.jiqizhixin.com/articles/7077c97d-e986-4951-b01e-f4e87deb1744</link>
+      <guid>7077c97d-e986-4951-b01e-f4e87deb1744</guid>
+      <pubDate>Thu, 08 Oct 2026 17:03:00 +0000</pubDate>
+      <description><![CDATA[<p>首篇自回归视频生成Memory综述来了，港科大、城大、复旦、CMU、NYU、NTU等联合出品</p><p>标签: 自回归视频生成, 记忆（Memory）, 香港科技大学</p>]]></description>
+      <category>自回归视频生成</category>
+      <category>记忆（Memory）</category>
+      <category>香港科技大学</category>
+    </item>
     <item>
       <title><![CDATA[SIGGRAPH Asia 2026｜曼大Charlie Wang团队：连续神经场优化让增减材混合制造「更快、更稳、更准」]]></title>
       <link>https://www.jiqizhixin.com/articles/a7569414-020a-444c-acb3-4df660cc0b7d</link>
@@ -54,74 +118,6 @@
       <category>AI for Science（AI4S）</category>
       <category>纳维–斯托克斯方程</category>
       <category>AI物理</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，诺贝尔化学奖揭晓！95岁的他等了25年]]></title>
-      <link>https://www.jiqizhixin.com/articles/4fd663b9-c7ff-4cb4-bd6d-5c63595447cd</link>
-      <guid>4fd663b9-c7ff-4cb4-bd6d-5c63595447cd</guid>
-      <pubDate>Wed, 07 Oct 2026 14:49:19 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，诺贝尔化学奖揭晓！95岁的他等了25年</p><p>标签: 硖合宪三（Kenso Soai）, Henri B. Kagan, 诺贝尔奖, 诺贝尔化学奖</p>]]></description>
-      <category>硖合宪三（Kenso Soai）</category>
-      <category>Henri B. Kagan</category>
-      <category>诺贝尔奖</category>
-      <category>诺贝尔化学奖</category>
-    </item>
-    <item>
-      <title><![CDATA[USENIX Security 2026｜上海创智学院×复旦大学给智能体装上轨迹「安全规则审计员」：让Agent的行动可审计、可解释]]></title>
-      <link>https://www.jiqizhixin.com/articles/12175729-e7a3-4efa-8932-da4d8159507b</link>
-      <guid>12175729-e7a3-4efa-8932-da4d8159507b</guid>
-      <pubDate>Wed, 07 Oct 2026 14:49:47 +0000</pubDate>
-      <description><![CDATA[<p>USENIX Security 2026｜上海创智学院×复旦大学给智能体装上轨迹「安全规则审计员」：让Agent的行动可审计、可解释</p><p>标签: 上海创智学院, MATE, USENIX Security 2026</p>]]></description>
-      <category>上海创智学院</category>
-      <category>MATE</category>
-      <category>USENIX Security 2026</category>
-    </item>
-    <item>
-      <title><![CDATA[翻完OpenAI的722篇数学手稿，我们挑出了最重的30道名题]]></title>
-      <link>https://www.jiqizhixin.com/articles/842466fa-c105-4711-bf8c-aad8dffa1cad</link>
-      <guid>842466fa-c105-4711-bf8c-aad8dffa1cad</guid>
-      <pubDate>Wed, 07 Oct 2026 14:49:48 +0000</pubDate>
-      <description><![CDATA[<p>翻完OpenAI的722篇数学手稿，我们挑出了最重的30道名题</p><p>标签: AI数学, OpenAI</p>]]></description>
-      <category>AI数学</category>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[NeurIPS 2026 | 长推理为何总在中途走偏？SAGE用结构信号纠偏，AC实例验证通过率接近8倍]]></title>
-      <link>https://www.jiqizhixin.com/articles/b2e136e5-7d43-4cd0-9bd9-cc3489e84cdd</link>
-      <guid>b2e136e5-7d43-4cd0-9bd9-cc3489e84cdd</guid>
-      <pubDate>Wed, 07 Oct 2026 14:50:19 +0000</pubDate>
-      <description><![CDATA[<p>NeurIPS 2026 | 长推理为何总在中途走偏？SAGE用结构信号纠偏，AC实例验证通过率接近8倍</p><p>标签: Sage, NeurIPS 2026</p>]]></description>
-      <category>Sage</category>
-      <category>NeurIPS 2026</category>
-    </item>
-    <item>
-      <title><![CDATA[突发！OpenAI一次放出722篇数学成果，准黎曼猜想、4D挂谷都在列]]></title>
-      <link>https://www.jiqizhixin.com/articles/3aada546-1202-43ae-be80-0e06b047a4df</link>
-      <guid>3aada546-1202-43ae-be80-0e06b047a4df</guid>
-      <pubDate>Wed, 07 Oct 2026 14:50:20 +0000</pubDate>
-      <description><![CDATA[<p>突发！OpenAI一次放出722篇数学成果，准黎曼猜想、4D挂谷都在列</p><p>标签: 黎曼猜想, AI数学, OpenAI</p>]]></description>
-      <category>黎曼猜想</category>
-      <category>AI数学</category>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[量化后画面闪烁？时序稳定的视频世界模型2-bit KV Cache压缩方案诞生]]></title>
-      <link>https://www.jiqizhixin.com/articles/2804455b-311d-401b-937c-b8dadcf341f3</link>
-      <guid>2804455b-311d-401b-937c-b8dadcf341f3</guid>
-      <pubDate>Wed, 07 Oct 2026 14:50:53 +0000</pubDate>
-      <description><![CDATA[<p>量化后画面闪烁？时序稳定的视频世界模型2-bit KV Cache压缩方案诞生</p><p>标签: 哈尔滨工业大学, QuantWM</p>]]></description>
-      <category>哈尔滨工业大学</category>
-      <category>QuantWM</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，OpenAI四连更！API最高档付费砍半，Auto-review全面免费]]></title>
-      <link>https://www.jiqizhixin.com/articles/c823eec9-d655-412f-b752-30055a184a73</link>
-      <guid>c823eec9-d655-412f-b752-30055a184a73</guid>
-      <pubDate>Wed, 07 Oct 2026 14:50:51 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，OpenAI四连更！API最高档付费砍半，Auto-review全面免费</p><p>标签: Auto-review, Tibo, OpenAI</p>]]></description>
-      <category>Auto-review</category>
-      <category>Tibo</category>
-      <category>OpenAI</category>
     </item>
   </channel>
 </rss>
