@@ -4,8 +4,47 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 08 Oct 2026 01:24:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 08:06:10 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[SIGGRAPH Asia 2026｜曼大Charlie Wang团队：连续神经场优化让增减材混合制造「更快、更稳、更准」]]></title>
+      <link>https://www.jiqizhixin.com/articles/a7569414-020a-444c-acb3-4df660cc0b7d</link>
+      <guid>a7569414-020a-444c-acb3-4df660cc0b7d</guid>
+      <pubDate>Thu, 08 Oct 2026 08:05:10 +0000</pubDate>
+      <description><![CDATA[<p>SIGGRAPH Asia 2026｜曼大Charlie Wang团队：连续神经场优化让增减材混合制造「更快、更稳、更准」</p><p>标签: 曼彻斯特大学, SIGGRAPH Asia 2026</p>]]></description>
+      <category>曼彻斯特大学</category>
+      <category>SIGGRAPH Asia 2026</category>
+    </item>
+    <item>
+      <title><![CDATA[会进化的不应该只有能力：让 Agent 的安全守卫也成为一个可进化的 Skill｜NeurIPS 2026]]></title>
+      <link>https://www.jiqizhixin.com/articles/4ca27b53-6161-46f7-81c4-794a1b02d70a</link>
+      <guid>4ca27b53-6161-46f7-81c4-794a1b02d70a</guid>
+      <pubDate>Thu, 08 Oct 2026 08:05:55 +0000</pubDate>
+      <description><![CDATA[<p>会进化的不应该只有能力：让 Agent 的安全守卫也成为一个可进化的 Skill｜NeurIPS 2026</p><p>标签: Defense-as-Skill, SkillSonar, NeurIPS 2026</p>]]></description>
+      <category>Defense-as-Skill</category>
+      <category>SkillSonar</category>
+      <category>NeurIPS 2026</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，GPT-6全面开放！免费用户也能用了]]></title>
+      <link>https://www.jiqizhixin.com/articles/09a5ef1a-0ee5-4ef7-b426-aa49439eaf1d</link>
+      <guid>09a5ef1a-0ee5-4ef7-b426-aa49439eaf1d</guid>
+      <pubDate>Thu, 08 Oct 2026 08:05:40 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，GPT-6全面开放！免费用户也能用了</p><p>标签: OpenAI, Intelligent UI, GPT-6</p>]]></description>
+      <category>OpenAI</category>
+      <category>Intelligent UI</category>
+      <category>GPT-6</category>
+    </item>
+    <item>
+      <title><![CDATA[NeurIPS 2026 Spotlight｜拒绝模型「自作主张」，VisInteract用交互搜索找回意图]]></title>
+      <link>https://www.jiqizhixin.com/articles/90e39787-bc30-432f-8290-0eb06d7ac5bd</link>
+      <guid>90e39787-bc30-432f-8290-0eb06d7ac5bd</guid>
+      <pubDate>Thu, 08 Oct 2026 08:06:10 +0000</pubDate>
+      <description><![CDATA[<p>NeurIPS 2026 Spotlight｜拒绝模型「自作主张」，VisInteract用交互搜索找回意图</p><p>标签: VisInteract-Bench, VisInteract, NeurIPS 2026 Spotlight</p>]]></description>
+      <category>VisInteract-Bench</category>
+      <category>VisInteract</category>
+      <category>NeurIPS 2026 Spotlight</category>
+    </item>
     <item>
       <title><![CDATA[OpenAI突破纳维-斯托克斯方程之后，物理学中发生了什么变化]]></title>
       <link>https://www.jiqizhixin.com/articles/94078c1a-4636-4882-aaf3-cef3b4240fad</link>
@@ -82,46 +121,6 @@
       <description><![CDATA[<p>刚刚，OpenAI四连更！API最高档付费砍半，Auto-review全面免费</p><p>标签: Auto-review, Tibo, OpenAI</p>]]></description>
       <category>Auto-review</category>
       <category>Tibo</category>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，Nano Banana 2.1发布！这一次杀向专业设计师]]></title>
-      <link>https://www.jiqizhixin.com/articles/534cb248-ed69-42e8-9eb2-9a311bc048a6</link>
-      <guid>534cb248-ed69-42e8-9eb2-9a311bc048a6</guid>
-      <pubDate>Wed, 07 Oct 2026 14:51:24 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，Nano Banana 2.1发布！这一次杀向专业设计师</p><p>标签: Nano Banana 2.1, Google DeepMind</p>]]></description>
-      <category>Nano Banana 2.1</category>
-      <category>Google DeepMind</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，诺贝尔物理学奖给到中微子天文学，IceCube之父Francis Halzen独享]]></title>
-      <link>https://www.jiqizhixin.com/articles/c2908bf3-1e9c-41c9-bc55-2a84a477f555</link>
-      <guid>c2908bf3-1e9c-41c9-bc55-2a84a477f555</guid>
-      <pubDate>Tue, 06 Oct 2026 17:29:10 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，诺贝尔物理学奖给到中微子天文学，IceCube之父Francis Halzen独享</p><p>标签: IceCube 中微子天文台, Francis Halzen, 诺贝尔物理学奖</p>]]></description>
-      <category>IceCube 中微子天文台</category>
-      <category>Francis Halzen</category>
-      <category>诺贝尔物理学奖</category>
-    </item>
-    <item>
-      <title><![CDATA[4B模型下棋比肩大师、还会讲棋，陈丹琦团队怎么做到的？]]></title>
-      <link>https://www.jiqizhixin.com/articles/1d554928-14dd-4db0-af01-b31159ffb530</link>
-      <guid>1d554928-14dd-4db0-af01-b31159ffb530</guid>
-      <pubDate>Tue, 06 Oct 2026 17:29:10 +0000</pubDate>
-      <description><![CDATA[<p>4B模型下棋比肩大师、还会讲棋，陈丹琦团队怎么做到的？</p><p>标签: QUEEN, 普林斯顿大学, 第 46 届国际象棋奥林匹克团体赛</p>]]></description>
-      <category>QUEEN</category>
-      <category>普林斯顿大学</category>
-      <category>第 46 届国际象棋奥林匹克团体赛</category>
-    </item>
-    <item>
-      <title><![CDATA[给ChatGPT打水印的人，是「统计学诺奖」得主苏炜杰]]></title>
-      <link>https://www.jiqizhixin.com/articles/32e56537-1a5d-441b-8e69-27bf8aaa61a4</link>
-      <guid>32e56537-1a5d-441b-8e69-27bf8aaa61a4</guid>
-      <pubDate>Tue, 06 Oct 2026 17:29:38 +0000</pubDate>
-      <description><![CDATA[<p>给ChatGPT打水印的人，是「统计学诺奖」得主苏炜杰</p><p>标签: textGrain, 苏炜杰, 文本水印, OpenAI</p>]]></description>
-      <category>textGrain</category>
-      <category>苏炜杰</category>
-      <category>文本水印</category>
       <category>OpenAI</category>
     </item>
   </channel>
