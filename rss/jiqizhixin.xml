@@ -4,8 +4,57 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 09 Oct 2026 03:18:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 10:58:55 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[全球首次！人形机器人用灵巧手自主叠衣，西湖机器人做到了]]></title>
+      <link>https://www.jiqizhixin.com/articles/0c609947-6a1d-4fbb-9fb0-8b2d45e8364c</link>
+      <guid>0c609947-6a1d-4fbb-9fb0-8b2d45e8364c</guid>
+      <pubDate>Fri, 09 Oct 2026 10:57:57 +0000</pubDate>
+      <description><![CDATA[<p>全球首次！人形机器人用灵巧手自主叠衣，西湖机器人做到了</p><p>标签: WR1, 通用大脑, 西湖机器人</p>]]></description>
+      <category>WR1</category>
+      <category>通用大脑</category>
+      <category>西湖机器人</category>
+    </item>
+    <item>
+      <title><![CDATA[让自然语言成为世界模型的表征，英伟达Physis-Lang这样增强视频物理真实性]]></title>
+      <link>https://www.jiqizhixin.com/articles/cbd7c04b-39d2-4148-9c52-48cb4e3b8476</link>
+      <guid>cbd7c04b-39d2-4148-9c52-48cb4e3b8476</guid>
+      <pubDate>Fri, 09 Oct 2026 10:57:58 +0000</pubDate>
+      <description><![CDATA[<p>让自然语言成为世界模型的表征，英伟达Physis-Lang这样增强视频物理真实性</p><p>标签: Physis-Lang, MIT, 英伟达</p>]]></description>
+      <category>Physis-Lang</category>
+      <category>MIT</category>
+      <category>英伟达</category>
+    </item>
+    <item>
+      <title><![CDATA[数据不出药企，AI却学会了更多：蛋白质模型迎来一次重要升级]]></title>
+      <link>https://www.jiqizhixin.com/articles/5774eec0-a9e2-410b-aae7-4b8fd10c5a4f</link>
+      <guid>5774eec0-a9e2-410b-aae7-4b8fd10c5a4f</guid>
+      <pubDate>Fri, 09 Oct 2026 10:58:26 +0000</pubDate>
+      <description><![CDATA[<p>数据不出药企，AI却学会了更多：蛋白质模型迎来一次重要升级</p><p>标签: AI for Science（AI4S）, 蛋白质 AI, OpenFold3</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>蛋白质 AI</category>
+      <category>OpenFold3</category>
+    </item>
+    <item>
+      <title><![CDATA[给具身智能换个「因果」内核，Aether AI的愿景终于走进物理世界]]></title>
+      <link>https://www.jiqizhixin.com/articles/12cb668d-4432-46d3-95e8-7369bd8ecd81</link>
+      <guid>12cb668d-4432-46d3-95e8-7369bd8ecd81</guid>
+      <pubDate>Fri, 09 Oct 2026 10:58:27 +0000</pubDate>
+      <description><![CDATA[<p>给具身智能换个「因果」内核，Aether AI的愿景终于走进物理世界</p><p>标签: 因果智能, CRIS-0, Aether AI</p>]]></description>
+      <category>因果智能</category>
+      <category>CRIS-0</category>
+      <category>Aether AI</category>
+    </item>
+    <item>
+      <title><![CDATA[被OpenAI解雇后，三名安全研究员联名公开信曝光内幕]]></title>
+      <link>https://www.jiqizhixin.com/articles/b6d81e1e-4aa5-407d-9377-a9a29f06f7b4</link>
+      <guid>b6d81e1e-4aa5-407d-9377-a9a29f06f7b4</guid>
+      <pubDate>Fri, 09 Oct 2026 10:58:55 +0000</pubDate>
+      <description><![CDATA[<p>被OpenAI解雇后，三名安全研究员联名公开信曝光内幕</p><p>标签: AI 安全, OpenAI</p>]]></description>
+      <category>AI 安全</category>
+      <category>OpenAI</category>
+    </item>
     <item>
       <title><![CDATA[豆包工作新增画布功能，并接入豆包2.1 Lite模型]]></title>
       <link>https://www.jiqizhixin.com/articles/f1d9dd05-88bb-4403-8ad8-5b72388c5adc</link>
@@ -70,51 +119,6 @@
       <category>TouchScale</category>
       <category>Google DeepMind</category>
       <category>德州农工大学（Texas A&M）</category>
-    </item>
-    <item>
-      <title><![CDATA[视频DeepSeek时刻？Vidu Q4 Preview背后的效率账与世界模型底气]]></title>
-      <link>https://www.jiqizhixin.com/articles/b9f3085e-357e-48fa-bc1c-180a7cf45814</link>
-      <guid>b9f3085e-357e-48fa-bc1c-180a7cf45814</guid>
-      <pubDate>Thu, 08 Oct 2026 17:01:30 +0000</pubDate>
-      <description><![CDATA[<p>视频DeepSeek时刻？Vidu Q4 Preview背后的效率账与世界模型底气</p><p>标签: Vidu Q4 Preview, 生数科技</p>]]></description>
-      <category>Vidu Q4 Preview</category>
-      <category>生数科技</category>
-    </item>
-    <item>
-      <title><![CDATA[李飞飞团队造了个世界动作模型：换个底座，机器人成功率直接飙升]]></title>
-      <link>https://www.jiqizhixin.com/articles/607c6aa8-7759-42e3-9f4a-b9ff24ff4b2e</link>
-      <guid>607c6aa8-7759-42e3-9f4a-b9ff24ff4b2e</guid>
-      <pubDate>Thu, 08 Oct 2026 17:01:30 +0000</pubDate>
-      <description><![CDATA[<p>李飞飞团队造了个世界动作模型：换个底座，机器人成功率直接飙升</p><p>标签: OpenWAM, 世界动作模型</p>]]></description>
-      <category>OpenWAM</category>
-      <category>世界动作模型</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，OpenAI撤回了三篇AI数学论文，竟是因为符号写错了]]></title>
-      <link>https://www.jiqizhixin.com/articles/2aba91dd-bd6c-43cf-96db-01f3795a8fcb</link>
-      <guid>2aba91dd-bd6c-43cf-96db-01f3795a8fcb</guid>
-      <pubDate>Thu, 08 Oct 2026 17:01:59 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，OpenAI撤回了三篇AI数学论文，竟是因为符号写错了</p><p>标签: AI 数学, OpenAI</p>]]></description>
-      <category>AI 数学</category>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[价格暴降90%，多项测试超GPT-6 Luna！Anthropic最便宜模型来了]]></title>
-      <link>https://www.jiqizhixin.com/articles/1cbc8c3e-c4c9-42c1-8ca8-518292f0f3b0</link>
-      <guid>1cbc8c3e-c4c9-42c1-8ca8-518292f0f3b0</guid>
-      <pubDate>Thu, 08 Oct 2026 17:02:00 +0000</pubDate>
-      <description><![CDATA[<p>价格暴降90%，多项测试超GPT-6 Luna！Anthropic最便宜模型来了</p><p>标签: Claude Haiku 5.5, Anthropic</p>]]></description>
-      <category>Claude Haiku 5.5</category>
-      <category>Anthropic</category>
-    </item>
-    <item>
-      <title><![CDATA[诺奖给了「光控大脑」，合肥如何用「光」研究大脑？]]></title>
-      <link>https://www.jiqizhixin.com/articles/968b7ba6-19b8-4446-8fbf-c8555f69e3a4</link>
-      <guid>968b7ba6-19b8-4446-8fbf-c8555f69e3a4</guid>
-      <pubDate>Thu, 08 Oct 2026 17:02:28 +0000</pubDate>
-      <description><![CDATA[<p>诺奖给了「光控大脑」，合肥如何用「光」研究大脑？</p><p>标签: 中国科学技术大学, 光遗传学（optogenetics）</p>]]></description>
-      <category>中国科学技术大学</category>
-      <category>光遗传学（optogenetics）</category>
     </item>
   </channel>
 </rss>
