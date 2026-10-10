@@ -4,8 +4,45 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 10 Oct 2026 07:50:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 14:02:09 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[长鑫技术新突破：4F²架构产品预计年底亮相]]></title>
+      <link>https://www.jiqizhixin.com/articles/fd175127-1cdf-402d-b90d-544d9d80610a</link>
+      <guid>fd175127-1cdf-402d-b90d-544d9d80610a</guid>
+      <pubDate>Sat, 10 Oct 2026 14:01:39 +0000</pubDate>
+      <description><![CDATA[<p>长鑫技术新突破：4F²架构产品预计年底亮相</p><p>标签: 长鑫存储</p>]]></description>
+      <category>长鑫存储</category>
+    </item>
+    <item>
+      <title><![CDATA[首张完整紫外全天图问世，Claude Science补全缺失的三分之一天空]]></title>
+      <link>https://www.jiqizhixin.com/articles/cfe317c9-14b9-4e84-b9ea-ce4456ea7ad2</link>
+      <guid>cfe317c9-14b9-4e84-b9ea-ce4456ea7ad2</guid>
+      <pubDate>Sat, 10 Oct 2026 14:01:38 +0000</pubDate>
+      <description><![CDATA[<p>首张完整紫外全天图问世，Claude Science补全缺失的三分之一天空</p><p>标签: AI for Science（AI4S）, 紫外光天空图, Claude Science, 约翰斯・霍普金斯大学</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>紫外光天空图</category>
+      <category>Claude Science</category>
+      <category>约翰斯・霍普金斯大学</category>
+    </item>
+    <item>
+      <title><![CDATA[从记忆到自进化：Agent 走向 RSI 的关键一步]]></title>
+      <link>https://www.jiqizhixin.com/articles/659b60da-094d-466a-b9c0-0dfafb029cd8</link>
+      <guid>659b60da-094d-466a-b9c0-0dfafb029cd8</guid>
+      <pubDate>Sat, 10 Oct 2026 14:02:09 +0000</pubDate>
+      <description><![CDATA[<p>从记忆到自进化：Agent 走向 RSI 的关键一步</p><p>标签: 记忆贡献归因, MemoraX</p>]]></description>
+      <category>记忆贡献归因</category>
+      <category>MemoraX</category>
+    </item>
+    <item>
+      <title><![CDATA[田渊栋：与GPT-5合写最后一篇论文后，我意识到自己5年内会失业]]></title>
+      <link>https://www.jiqizhixin.com/articles/59feb1ea-7cd5-42f7-93c5-2c479d261434</link>
+      <guid>59feb1ea-7cd5-42f7-93c5-2c479d261434</guid>
+      <pubDate>Sat, 10 Oct 2026 14:02:08 +0000</pubDate>
+      <description><![CDATA[<p>田渊栋：与GPT-5合写最后一篇论文后，我意识到自己5年内会失业</p><p>标签: Recursive, 田渊栋</p>]]></description>
+      <category>Recursive</category>
+      <category>田渊栋</category>
+    </item>
     <item>
       <title><![CDATA[OpenAI搅乱数学界！科研项目没了，数学家遭毁灭性打击，学界还要数年消化]]></title>
       <link>https://www.jiqizhixin.com/articles/bb002324-f26a-4bf6-b87d-502a3518b531</link>
@@ -78,45 +115,6 @@
       <category>WR1</category>
       <category>通用大脑</category>
       <category>西湖机器人</category>
-    </item>
-    <item>
-      <title><![CDATA[让自然语言成为世界模型的表征，英伟达Physis-Lang这样增强视频物理真实性]]></title>
-      <link>https://www.jiqizhixin.com/articles/cbd7c04b-39d2-4148-9c52-48cb4e3b8476</link>
-      <guid>cbd7c04b-39d2-4148-9c52-48cb4e3b8476</guid>
-      <pubDate>Fri, 09 Oct 2026 10:57:58 +0000</pubDate>
-      <description><![CDATA[<p>让自然语言成为世界模型的表征，英伟达Physis-Lang这样增强视频物理真实性</p><p>标签: Physis-Lang, MIT, 英伟达</p>]]></description>
-      <category>Physis-Lang</category>
-      <category>MIT</category>
-      <category>英伟达</category>
-    </item>
-    <item>
-      <title><![CDATA[数据不出药企，AI却学会了更多：蛋白质模型迎来一次重要升级]]></title>
-      <link>https://www.jiqizhixin.com/articles/5774eec0-a9e2-410b-aae7-4b8fd10c5a4f</link>
-      <guid>5774eec0-a9e2-410b-aae7-4b8fd10c5a4f</guid>
-      <pubDate>Fri, 09 Oct 2026 10:58:26 +0000</pubDate>
-      <description><![CDATA[<p>数据不出药企，AI却学会了更多：蛋白质模型迎来一次重要升级</p><p>标签: AI for Science（AI4S）, 蛋白质 AI, OpenFold3</p>]]></description>
-      <category>AI for Science（AI4S）</category>
-      <category>蛋白质 AI</category>
-      <category>OpenFold3</category>
-    </item>
-    <item>
-      <title><![CDATA[给具身智能换个「因果」内核，Aether AI的愿景终于走进物理世界]]></title>
-      <link>https://www.jiqizhixin.com/articles/12cb668d-4432-46d3-95e8-7369bd8ecd81</link>
-      <guid>12cb668d-4432-46d3-95e8-7369bd8ecd81</guid>
-      <pubDate>Fri, 09 Oct 2026 10:58:27 +0000</pubDate>
-      <description><![CDATA[<p>给具身智能换个「因果」内核，Aether AI的愿景终于走进物理世界</p><p>标签: 因果智能, CRIS-0, Aether AI</p>]]></description>
-      <category>因果智能</category>
-      <category>CRIS-0</category>
-      <category>Aether AI</category>
-    </item>
-    <item>
-      <title><![CDATA[被OpenAI解雇后，三名安全研究员联名公开信曝光内幕]]></title>
-      <link>https://www.jiqizhixin.com/articles/b6d81e1e-4aa5-407d-9377-a9a29f06f7b4</link>
-      <guid>b6d81e1e-4aa5-407d-9377-a9a29f06f7b4</guid>
-      <pubDate>Fri, 09 Oct 2026 10:58:55 +0000</pubDate>
-      <description><![CDATA[<p>被OpenAI解雇后，三名安全研究员联名公开信曝光内幕</p><p>标签: AI 安全, OpenAI</p>]]></description>
-      <category>AI 安全</category>
-      <category>OpenAI</category>
     </item>
   </channel>
 </rss>
