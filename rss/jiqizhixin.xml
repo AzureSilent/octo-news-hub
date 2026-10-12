@@ -4,8 +4,37 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 12 Oct 2026 08:12:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 19:27:57 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[刷LeetCode的时代要过去了？大厂面试正在转向]]></title>
+      <link>https://www.jiqizhixin.com/articles/cc8ab412-3c79-48dc-b83b-ff87ee14e160</link>
+      <guid>cc8ab412-3c79-48dc-b83b-ff87ee14e160</guid>
+      <pubDate>Mon, 12 Oct 2026 19:27:30 +0000</pubDate>
+      <description><![CDATA[<p>刷LeetCode的时代要过去了？大厂面试正在转向</p><p>标签: Codility, Google</p>]]></description>
+      <category>Codility</category>
+      <category>Google</category>
+    </item>
+    <item>
+      <title><![CDATA[菲尔兹奖得主哭了：AI摧毁了我的研究领域]]></title>
+      <link>https://www.jiqizhixin.com/articles/8bae5e79-2a5b-4633-beb4-aff962684a9f</link>
+      <guid>8bae5e79-2a5b-4633-beb4-aff962684a9f</guid>
+      <pubDate>Mon, 12 Oct 2026 19:27:30 +0000</pubDate>
+      <description><![CDATA[<p>菲尔兹奖得主哭了：AI摧毁了我的研究领域</p><p>标签: AI数学, OpenAI, Hugo Duminil-Copin, 菲尔兹奖</p>]]></description>
+      <category>AI数学</category>
+      <category>OpenAI</category>
+      <category>Hugo Duminil-Copin</category>
+      <category>菲尔兹奖</category>
+    </item>
+    <item>
+      <title><![CDATA[近200篇工作系统梳理！一篇综述讲清具身智能中的可供性学习]]></title>
+      <link>https://www.jiqizhixin.com/articles/887ce670-2d00-4e2a-aaf5-6ca3c8e46253</link>
+      <guid>887ce670-2d00-4e2a-aaf5-6ca3c8e46253</guid>
+      <pubDate>Mon, 12 Oct 2026 19:27:57 +0000</pubDate>
+      <description><![CDATA[<p>近200篇工作系统梳理！一篇综述讲清具身智能中的可供性学习</p><p>标签: 可供性学习, 具身智能</p>]]></description>
+      <category>可供性学习</category>
+      <category>具身智能</category>
+    </item>
     <item>
       <title><![CDATA[AI把7000万个细胞纳入基因筛选：显微图像揭示自噬与STING调控因子]]></title>
       <link>https://www.jiqizhixin.com/articles/a499088f-d89f-4389-8e7b-15113d5ac666</link>
@@ -89,34 +118,6 @@
       <pubDate>Mon, 12 Oct 2026 08:12:10 +0000</pubDate>
       <description><![CDATA[<p>刚刚，Karpathy称全球只有5000人，真正接触过最前沿AI</p><p>标签: Andrej Karpathy</p>]]></description>
       <category>Andrej Karpathy</category>
-    </item>
-    <item>
-      <title><![CDATA[从一步生图到流式视频：清华团队探索「样本分布训练」]]></title>
-      <link>https://www.jiqizhixin.com/articles/6c8cb7e0-95cc-4051-9c0c-fd9f1fd22039</link>
-      <guid>6c8cb7e0-95cc-4051-9c0c-fd9f1fd22039</guid>
-      <pubDate>Mon, 12 Oct 2026 08:12:13 +0000</pubDate>
-      <description><![CDATA[<p>从一步生图到流式视频：清华团队探索「样本分布训练」</p><p>标签: Elastic Forcing, MGFlow, 清华大学</p>]]></description>
-      <category>Elastic Forcing</category>
-      <category>MGFlow</category>
-      <category>清华大学</category>
-    </item>
-    <item>
-      <title><![CDATA[ChatGPT共同创造者Liam Fedus：数学之后，AI该去实验室了]]></title>
-      <link>https://www.jiqizhixin.com/articles/d487423c-7f8a-45b2-80ec-6d203c99e7d7</link>
-      <guid>d487423c-7f8a-45b2-80ec-6d203c99e7d7</guid>
-      <pubDate>Sun, 11 Oct 2026 16:51:43 +0000</pubDate>
-      <description><![CDATA[<p>ChatGPT共同创造者Liam Fedus：数学之后，AI该去实验室了</p><p>标签: Liam Fedus, OpenAI</p>]]></description>
-      <category>Liam Fedus</category>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[从「刷榜」到「做科研」：研究员还有多久被 AI超越？]]></title>
-      <link>https://www.jiqizhixin.com/articles/be0c32da-15e1-4e5a-b90f-9fcc9bb7366b</link>
-      <guid>be0c32da-15e1-4e5a-b90f-9fcc9bb7366b</guid>
-      <pubDate>Sun, 11 Oct 2026 16:51:44 +0000</pubDate>
-      <description><![CDATA[<p>从「刷榜」到「做科研」：研究员还有多久被 AI超越？</p><p>标签: AI 智能体, OpenRSI Index</p>]]></description>
-      <category>AI 智能体</category>
-      <category>OpenRSI Index</category>
     </item>
   </channel>
 </rss>
