@@ -4,8 +4,36 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 13 Oct 2026 08:38:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 17:12:28 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[让蛋白质设计像文生图一样简单，大卫・贝克团队等提出文本条件化全原子生成模型]]></title>
+      <link>https://www.jiqizhixin.com/articles/65d242ab-0555-4a63-9c76-b33f21b6f968</link>
+      <guid>65d242ab-0555-4a63-9c76-b33f21b6f968</guid>
+      <pubDate>Tue, 13 Oct 2026 17:12:00 +0000</pubDate>
+      <description><![CDATA[<p>让蛋白质设计像文生图一样简单，大卫・贝克团队等提出文本条件化全原子生成模型</p><p>标签: AI for Science（AI4S）, 全原子蛋白质结构生成模型, Prompteina, 华盛顿大学</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>全原子蛋白质结构生成模型</category>
+      <category>Prompteina</category>
+      <category>华盛顿大学</category>
+    </item>
+    <item>
+      <title><![CDATA[活动报名：OpenAI 和 Thinking Machines 都押注的实时交互模型，下一步往哪走？丨iRTE 2026]]></title>
+      <link>https://www.jiqizhixin.com/articles/d685f256-a168-4e32-af8a-09c2f0e4f817</link>
+      <guid>d685f256-a168-4e32-af8a-09c2f0e4f817</guid>
+      <pubDate>Tue, 13 Oct 2026 17:12:01 +0000</pubDate>
+      <description><![CDATA[<p>活动报名：OpenAI 和 Thinking Machines 都押注的实时交互模型，下一步往哪走？丨iRTE 2026</p><p>标签: 对话式 AI 与交互模型, iRTE 2026</p>]]></description>
+      <category>对话式 AI 与交互模型</category>
+      <category>iRTE 2026</category>
+    </item>
+    <item>
+      <title><![CDATA[物理AI操作系统、全球首家工业具身6S店齐亮相！工业具身智能论坛举办]]></title>
+      <link>https://www.jiqizhixin.com/articles/be883590-20d2-4489-8be4-8d4e2d5acb29</link>
+      <guid>be883590-20d2-4489-8be4-8d4e2d5acb29</guid>
+      <pubDate>Tue, 13 Oct 2026 17:12:28 +0000</pubDate>
+      <description><![CDATA[<p>物理AI操作系统、全球首家工业具身6S店齐亮相！工业具身智能论坛举办</p><p>标签: 2026 工业具身智能产业创新高峰论坛</p>]]></description>
+      <category>2026 工业具身智能产业创新高峰论坛</category>
+    </item>
     <item>
       <title><![CDATA[字节跳动 Seed 单独设立大模型安全与对齐部门]]></title>
       <link>https://www.jiqizhixin.com/articles/0f56c86f-2d73-429a-bc65-7fa72a04f7e8</link>
@@ -91,35 +119,6 @@
       <category>视频生成</category>
       <category>Sora</category>
       <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[刷LeetCode的时代要过去了？大厂面试正在转向]]></title>
-      <link>https://www.jiqizhixin.com/articles/cc8ab412-3c79-48dc-b83b-ff87ee14e160</link>
-      <guid>cc8ab412-3c79-48dc-b83b-ff87ee14e160</guid>
-      <pubDate>Mon, 12 Oct 2026 19:27:30 +0000</pubDate>
-      <description><![CDATA[<p>刷LeetCode的时代要过去了？大厂面试正在转向</p><p>标签: Codility, Google</p>]]></description>
-      <category>Codility</category>
-      <category>Google</category>
-    </item>
-    <item>
-      <title><![CDATA[菲尔兹奖得主哭了：AI摧毁了我的研究领域]]></title>
-      <link>https://www.jiqizhixin.com/articles/8bae5e79-2a5b-4633-beb4-aff962684a9f</link>
-      <guid>8bae5e79-2a5b-4633-beb4-aff962684a9f</guid>
-      <pubDate>Mon, 12 Oct 2026 19:27:30 +0000</pubDate>
-      <description><![CDATA[<p>菲尔兹奖得主哭了：AI摧毁了我的研究领域</p><p>标签: AI数学, OpenAI, Hugo Duminil-Copin, 菲尔兹奖</p>]]></description>
-      <category>AI数学</category>
-      <category>OpenAI</category>
-      <category>Hugo Duminil-Copin</category>
-      <category>菲尔兹奖</category>
-    </item>
-    <item>
-      <title><![CDATA[近200篇工作系统梳理！一篇综述讲清具身智能中的可供性学习]]></title>
-      <link>https://www.jiqizhixin.com/articles/887ce670-2d00-4e2a-aaf5-6ca3c8e46253</link>
-      <guid>887ce670-2d00-4e2a-aaf5-6ca3c8e46253</guid>
-      <pubDate>Mon, 12 Oct 2026 19:27:57 +0000</pubDate>
-      <description><![CDATA[<p>近200篇工作系统梳理！一篇综述讲清具身智能中的可供性学习</p><p>标签: 可供性学习, 具身智能</p>]]></description>
-      <category>可供性学习</category>
-      <category>具身智能</category>
     </item>
   </channel>
 </rss>
