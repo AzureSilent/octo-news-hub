@@ -4,8 +4,18 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 13 Oct 2026 22:00:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 02:20:33 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[清华大学AI4S研究新进展：让科学智能体发现公式、探索机理]]></title>
+      <link>https://www.jiqizhixin.com/articles/58b0064e-15f7-4122-ae7e-6c817ca0a117</link>
+      <guid>58b0064e-15f7-4122-ae7e-6c817ca0a117</guid>
+      <pubDate>Wed, 14 Oct 2026 02:20:33 +0000</pubDate>
+      <description><![CDATA[<p>清华大学AI4S研究新进展：让科学智能体发现公式、探索机理</p><p>标签: SRHarness, AI for Science（AI4S）, 清华大学</p>]]></description>
+      <category>SRHarness</category>
+      <category>AI for Science（AI4S）</category>
+      <category>清华大学</category>
+    </item>
     <item>
       <title><![CDATA[让蛋白质设计像文生图一样简单，大卫・贝克团队等提出文本条件化全原子生成模型]]></title>
       <link>https://www.jiqizhixin.com/articles/65d242ab-0555-4a63-9c76-b33f21b6f968</link>
@@ -109,16 +119,6 @@
       <description><![CDATA[<p>刚刚，Meta最强旗舰多项屠榜！智能水平仅落后Opus 5.5两分</p><p>标签: Muse Wonder, Meta AI</p>]]></description>
       <category>Muse Wonder</category>
       <category>Meta AI</category>
-    </item>
-    <item>
-      <title><![CDATA[关停半年后，OpenAI要复活Sora？]]></title>
-      <link>https://www.jiqizhixin.com/articles/2b7019d8-06c2-4dc9-bad8-2eb9211daec7</link>
-      <guid>2b7019d8-06c2-4dc9-bad8-2eb9211daec7</guid>
-      <pubDate>Tue, 13 Oct 2026 08:38:35 +0000</pubDate>
-      <description><![CDATA[<p>关停半年后，OpenAI要复活Sora？</p><p>标签: 视频生成, Sora, OpenAI</p>]]></description>
-      <category>视频生成</category>
-      <category>Sora</category>
-      <category>OpenAI</category>
     </item>
   </channel>
 </rss>
