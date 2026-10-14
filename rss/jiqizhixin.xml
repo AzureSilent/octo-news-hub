@@ -4,8 +4,114 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 14 Oct 2026 02:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 09:07:37 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Natura-1发布：从百万小时人类经验中学会零样本泛化与灵巧操作]]></title>
+      <link>https://www.jiqizhixin.com/articles/bac81484-60cf-4830-b7f3-e53d152b0e0d</link>
+      <guid>bac81484-60cf-4830-b7f3-e53d152b0e0d</guid>
+      <pubDate>Wed, 14 Oct 2026 09:05:13 +0000</pubDate>
+      <description><![CDATA[<p>Natura-1发布：从百万小时人类经验中学会零样本泛化与灵巧操作</p><p>标签: Natura-1, 自然意志（Nature Will）, 具身智能</p>]]></description>
+      <category>Natura-1</category>
+      <category>自然意志（Nature Will）</category>
+      <category>具身智能</category>
+    </item>
+    <item>
+      <title><![CDATA[7个人、5个月！Anthropic造出了Git替代品]]></title>
+      <link>https://www.jiqizhixin.com/articles/4d43d3a6-e7c9-4f3b-88ee-a386253c1e49</link>
+      <guid>4d43d3a6-e7c9-4f3b-88ee-a386253c1e49</guid>
+      <pubDate>Wed, 14 Oct 2026 09:05:13 +0000</pubDate>
+      <description><![CDATA[<p>7个人、5个月！Anthropic造出了Git替代品</p><p>标签: Git, Scion, Anthropic</p>]]></description>
+      <category>Git</category>
+      <category>Scion</category>
+      <category>Anthropic</category>
+    </item>
+    <item>
+      <title><![CDATA[苹果LensVLM：长上下文压缩成图片，模型边看边「放大」]]></title>
+      <link>https://www.jiqizhixin.com/articles/ffb03fc5-3660-43d5-9c39-71fc092807a6</link>
+      <guid>ffb03fc5-3660-43d5-9c39-71fc092807a6</guid>
+      <pubDate>Wed, 14 Oct 2026 09:05:42 +0000</pubDate>
+      <description><![CDATA[<p>苹果LensVLM：长上下文压缩成图片，模型边看边「放大」</p><p>标签: NeurIPS 2026, LensVLM, 苹果</p>]]></description>
+      <category>NeurIPS 2026</category>
+      <category>LensVLM</category>
+      <category>苹果</category>
+    </item>
+    <item>
+      <title><![CDATA[Nature子刊丨药物分子会在哪里发生反应？ETH与罗氏用AI预测硼化位点]]></title>
+      <link>https://www.jiqizhixin.com/articles/7d193a56-e04d-484f-9978-5e54b6f35dfd</link>
+      <guid>7d193a56-e04d-484f-9978-5e54b6f35dfd</guid>
+      <pubDate>Wed, 14 Oct 2026 09:05:42 +0000</pubDate>
+      <description><![CDATA[<p>Nature子刊丨药物分子会在哪里发生反应？ETH与罗氏用AI预测硼化位点</p><p>标签: AI for Science（AI4S）, 罗氏创新中心, 苏黎世联邦理工学院</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>罗氏创新中心</category>
+      <category>苏黎世联邦理工学院</category>
+    </item>
+    <item>
+      <title><![CDATA[Embodied RSI范式突破机器人零样本泛化瓶颈：Recursia长时任务超英伟达ASPIRE 10个点]]></title>
+      <link>https://www.jiqizhixin.com/articles/b59d0159-8cb1-410b-9040-26c40dae06aa</link>
+      <guid>b59d0159-8cb1-410b-9040-26c40dae06aa</guid>
+      <pubDate>Wed, 14 Oct 2026 09:06:10 +0000</pubDate>
+      <description><![CDATA[<p>Embodied RSI范式突破机器人零样本泛化瓶颈：Recursia长时任务超英伟达ASPIRE 10个点</p><p>标签: Recursia, 灵行智能, 北京交通大学</p>]]></description>
+      <category>Recursia</category>
+      <category>灵行智能</category>
+      <category>北京交通大学</category>
+    </item>
+    <item>
+      <title><![CDATA[清华提出Jev-LDE：ICL示例只改一次，1-shot平均准确率就能暴涨]]></title>
+      <link>https://www.jiqizhixin.com/articles/d99cfed1-5fa3-42bb-b5f9-7d945bee0771</link>
+      <guid>d99cfed1-5fa3-42bb-b5f9-7d945bee0771</guid>
+      <pubDate>Wed, 14 Oct 2026 09:06:11 +0000</pubDate>
+      <description><![CDATA[<p>清华提出Jev-LDE：ICL示例只改一次，1-shot平均准确率就能暴涨</p><p>标签: Jev-LDE, 清华大学</p>]]></description>
+      <category>Jev-LDE</category>
+      <category>清华大学</category>
+    </item>
+    <item>
+      <title><![CDATA[MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片]]></title>
+      <link>https://www.jiqizhixin.com/articles/0e7965df-a2ce-476d-8e1f-29a38b468fb5</link>
+      <guid>0e7965df-a2ce-476d-8e1f-29a38b468fb5</guid>
+      <pubDate>Wed, 14 Oct 2026 09:06:38 +0000</pubDate>
+      <description><![CDATA[<p>MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片</p><p>标签: 泰山一号（MountTai 2026）, 铭芯启睿（MemSilicon）</p>]]></description>
+      <category>泰山一号（MountTai 2026）</category>
+      <category>铭芯启睿（MemSilicon）</category>
+    </item>
+    <item>
+      <title><![CDATA[给Ego数据补上「全身」，世界模型的Scaling有了新的路径]]></title>
+      <link>https://www.jiqizhixin.com/articles/2b6a5fe8-169b-40d0-b57e-6a157a7c5f37</link>
+      <guid>2b6a5fe8-169b-40d0-b57e-6a157a7c5f37</guid>
+      <pubDate>Wed, 14 Oct 2026 09:06:40 +0000</pubDate>
+      <description><![CDATA[<p>给Ego数据补上「全身」，世界模型的Scaling有了新的路径</p><p>标签: SeePhys Hub, 天珑移动, 破晓智能（PHANES AI）</p>]]></description>
+      <category>SeePhys Hub</category>
+      <category>天珑移动</category>
+      <category>破晓智能（PHANES AI）</category>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic震撼研究：AI竟能通过电视盒子自我复制]]></title>
+      <link>https://www.jiqizhixin.com/articles/cb1f6229-ca80-438e-bfbe-e38856b48a7d</link>
+      <guid>cb1f6229-ca80-438e-bfbe-e38856b48a7d</guid>
+      <pubDate>Wed, 14 Oct 2026 09:07:08 +0000</pubDate>
+      <description><![CDATA[<p>Anthropic震撼研究：AI竟能通过电视盒子自我复制</p><p>标签: AI安全, Anthropic</p>]]></description>
+      <category>AI安全</category>
+      <category>Anthropic</category>
+    </item>
+    <item>
+      <title><![CDATA[Agent一直在行动，任务为何没有进展？PoS识别并打破Belief Trapping]]></title>
+      <link>https://www.jiqizhixin.com/articles/219b0ee3-41e9-44d0-83d6-e961cda5e0c1</link>
+      <guid>219b0ee3-41e9-44d0-83d6-e961cda5e0c1</guid>
+      <pubDate>Wed, 14 Oct 2026 09:07:09 +0000</pubDate>
+      <description><![CDATA[<p>Agent一直在行动，任务为何没有进展？PoS识别并打破Belief Trapping</p><p>标签: PoS（Progression of States）, Belief Trapping（信念受困）, 南开大学</p>]]></description>
+      <category>PoS（Progression of States）</category>
+      <category>Belief Trapping（信念受困）</category>
+      <category>南开大学</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，谷歌Gemini 4 Argon上线，API价格限时五折]]></title>
+      <link>https://www.jiqizhixin.com/articles/78418abd-85fb-43a7-81e2-51c6c2e17fb9</link>
+      <guid>78418abd-85fb-43a7-81e2-51c6c2e17fb9</guid>
+      <pubDate>Wed, 14 Oct 2026 09:07:37 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，谷歌Gemini 4 Argon上线，API价格限时五折</p><p>标签: Gemini 4 Argon, 谷歌 DeepMind</p>]]></description>
+      <category>Gemini 4 Argon</category>
+      <category>谷歌 DeepMind</category>
+    </item>
     <item>
       <title><![CDATA[清华大学AI4S研究新进展：让科学智能体发现公式、探索机理]]></title>
       <link>https://www.jiqizhixin.com/articles/58b0064e-15f7-4122-ae7e-6c817ca0a117</link>
@@ -15,110 +121,6 @@
       <category>SRHarness</category>
       <category>AI for Science（AI4S）</category>
       <category>清华大学</category>
-    </item>
-    <item>
-      <title><![CDATA[让蛋白质设计像文生图一样简单，大卫・贝克团队等提出文本条件化全原子生成模型]]></title>
-      <link>https://www.jiqizhixin.com/articles/65d242ab-0555-4a63-9c76-b33f21b6f968</link>
-      <guid>65d242ab-0555-4a63-9c76-b33f21b6f968</guid>
-      <pubDate>Tue, 13 Oct 2026 17:12:00 +0000</pubDate>
-      <description><![CDATA[<p>让蛋白质设计像文生图一样简单，大卫・贝克团队等提出文本条件化全原子生成模型</p><p>标签: AI for Science（AI4S）, 全原子蛋白质结构生成模型, Prompteina, 华盛顿大学</p>]]></description>
-      <category>AI for Science（AI4S）</category>
-      <category>全原子蛋白质结构生成模型</category>
-      <category>Prompteina</category>
-      <category>华盛顿大学</category>
-    </item>
-    <item>
-      <title><![CDATA[活动报名：OpenAI 和 Thinking Machines 都押注的实时交互模型，下一步往哪走？丨iRTE 2026]]></title>
-      <link>https://www.jiqizhixin.com/articles/d685f256-a168-4e32-af8a-09c2f0e4f817</link>
-      <guid>d685f256-a168-4e32-af8a-09c2f0e4f817</guid>
-      <pubDate>Tue, 13 Oct 2026 17:12:01 +0000</pubDate>
-      <description><![CDATA[<p>活动报名：OpenAI 和 Thinking Machines 都押注的实时交互模型，下一步往哪走？丨iRTE 2026</p><p>标签: 对话式 AI 与交互模型, iRTE 2026</p>]]></description>
-      <category>对话式 AI 与交互模型</category>
-      <category>iRTE 2026</category>
-    </item>
-    <item>
-      <title><![CDATA[物理AI操作系统、全球首家工业具身6S店齐亮相！工业具身智能论坛举办]]></title>
-      <link>https://www.jiqizhixin.com/articles/be883590-20d2-4489-8be4-8d4e2d5acb29</link>
-      <guid>be883590-20d2-4489-8be4-8d4e2d5acb29</guid>
-      <pubDate>Tue, 13 Oct 2026 17:12:28 +0000</pubDate>
-      <description><![CDATA[<p>物理AI操作系统、全球首家工业具身6S店齐亮相！工业具身智能论坛举办</p><p>标签: 2026 工业具身智能产业创新高峰论坛</p>]]></description>
-      <category>2026 工业具身智能产业创新高峰论坛</category>
-    </item>
-    <item>
-      <title><![CDATA[字节跳动 Seed 单独设立大模型安全与对齐部门]]></title>
-      <link>https://www.jiqizhixin.com/articles/0f56c86f-2d73-429a-bc65-7fa72a04f7e8</link>
-      <guid>0f56c86f-2d73-429a-bc65-7fa72a04f7e8</guid>
-      <pubDate>Tue, 13 Oct 2026 08:36:00 +0000</pubDate>
-      <description><![CDATA[<p>字节跳动 Seed 单独设立大模型安全与对齐部门</p><p>标签: 大模型安全与对齐, 字节跳动 Seed</p>]]></description>
-      <category>大模型安全与对齐</category>
-      <category>字节跳动 Seed</category>
-    </item>
-    <item>
-      <title><![CDATA[九章云极问鼎陶哲轩数学挑战赛！让强化学习成为AI4S新基建]]></title>
-      <link>https://www.jiqizhixin.com/articles/068b3246-489c-4c59-8303-4d8ab44a9da8</link>
-      <guid>068b3246-489c-4c59-8303-4d8ab44a9da8</guid>
-      <pubDate>Tue, 13 Oct 2026 08:36:40 +0000</pubDate>
-      <description><![CDATA[<p>九章云极问鼎陶哲轩数学挑战赛！让强化学习成为AI4S新基建</p><p>标签: 言表实验室（yanbiao.ai）, 九章云极, SAIR Foundation</p>]]></description>
-      <category>言表实验室（yanbiao.ai）</category>
-      <category>九章云极</category>
-      <category>SAIR Foundation</category>
-    </item>
-    <item>
-      <title><![CDATA[申报倒计时7天！2026云程奖，要给「在校AI本硕博」发奖学金]]></title>
-      <link>https://www.jiqizhixin.com/articles/d7563723-dc33-4f2c-847c-7e80b76fea1d</link>
-      <guid>d7563723-dc33-4f2c-847c-7e80b76fea1d</guid>
-      <pubDate>Tue, 13 Oct 2026 08:36:32 +0000</pubDate>
-      <description><![CDATA[<p>申报倒计时7天！2026云程奖，要给「在校AI本硕博」发奖学金</p><p>标签: 机器之心, 张江人工智能创新小镇, 2026云程奖</p>]]></description>
-      <category>机器之心</category>
-      <category>张江人工智能创新小镇</category>
-      <category>2026云程奖</category>
-    </item>
-    <item>
-      <title><![CDATA[生成的世界也能交互！牛津大学&莫纳什大学&布里斯托大学等团队提出交互式视频世界模型Oneira]]></title>
-      <link>https://www.jiqizhixin.com/articles/06bbc157-19b2-462f-9b16-9b9913630f73</link>
-      <guid>06bbc157-19b2-462f-9b16-9b9913630f73</guid>
-      <pubDate>Tue, 13 Oct 2026 08:37:03 +0000</pubDate>
-      <description><![CDATA[<p>生成的世界也能交互！牛津大学&莫纳什大学&布里斯托大学等团队提出交互式视频世界模型Oneira</p><p>标签: 交互式视频世界模型, Oneira, 牛津大学</p>]]></description>
-      <category>交互式视频世界模型</category>
-      <category>Oneira</category>
-      <category>牛津大学</category>
-    </item>
-    <item>
-      <title><![CDATA[揭示人机联合训练Scaling Law！欧拉万象联手港科广开源具身UniWAM]]></title>
-      <link>https://www.jiqizhixin.com/articles/1be91a22-04dd-41e3-9f7e-66b9f3c8b250</link>
-      <guid>1be91a22-04dd-41e3-9f7e-66b9f3c8b250</guid>
-      <pubDate>Tue, 13 Oct 2026 08:37:54 +0000</pubDate>
-      <description><![CDATA[<p>揭示人机联合训练Scaling Law！欧拉万象联手港科广开源具身UniWAM</p><p>标签: UniWAM, 香港科技大学（广州）, 欧拉万象</p>]]></description>
-      <category>UniWAM</category>
-      <category>香港科技大学（广州）</category>
-      <category>欧拉万象</category>
-    </item>
-    <item>
-      <title><![CDATA[AI真能用好科研软件吗？清华团队推出OSWorld-Science，智能体迎接硬核大考]]></title>
-      <link>https://www.jiqizhixin.com/articles/a81520b3-7ce9-48f6-b3fc-741c7241ec4b</link>
-      <guid>a81520b3-7ce9-48f6-b3fc-741c7241ec4b</guid>
-      <pubDate>Tue, 13 Oct 2026 08:37:33 +0000</pubDate>
-      <description><![CDATA[<p>AI真能用好科研软件吗？清华团队推出OSWorld-Science，智能体迎接硬核大考</p><p>标签: 清华大学, OSWorld-Science</p>]]></description>
-      <category>清华大学</category>
-      <category>OSWorld-Science</category>
-    </item>
-    <item>
-      <title><![CDATA[星尘智能完成新一轮融资，公司估值达150亿元]]></title>
-      <link>https://www.jiqizhixin.com/articles/79b0fb83-6930-4277-8d39-4a4ceb41eb99</link>
-      <guid>79b0fb83-6930-4277-8d39-4a4ceb41eb99</guid>
-      <pubDate>Tue, 13 Oct 2026 08:38:04 +0000</pubDate>
-      <description><![CDATA[<p>星尘智能完成新一轮融资，公司估值达150亿元</p><p>标签: 具身智能, 星尘智能（Astribot）</p>]]></description>
-      <category>具身智能</category>
-      <category>星尘智能（Astribot）</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，Meta最强旗舰多项屠榜！智能水平仅落后Opus 5.5两分]]></title>
-      <link>https://www.jiqizhixin.com/articles/043cc3f1-3af1-4f4f-8483-915883162956</link>
-      <guid>043cc3f1-3af1-4f4f-8483-915883162956</guid>
-      <pubDate>Tue, 13 Oct 2026 08:38:26 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，Meta最强旗舰多项屠榜！智能水平仅落后Opus 5.5两分</p><p>标签: Muse Wonder, Meta AI</p>]]></description>
-      <category>Muse Wonder</category>
-      <category>Meta AI</category>
     </item>
   </channel>
 </rss>
