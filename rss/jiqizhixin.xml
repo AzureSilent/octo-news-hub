@@ -4,8 +4,44 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 15 Oct 2026 08:40:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 14:30:38 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[宕机数小时，DeepSeek给补钱了！]]></title>
+      <link>https://www.jiqizhixin.com/articles/2737236f-e95a-4638-8ccb-e848bc031914</link>
+      <guid>2737236f-e95a-4638-8ccb-e848bc031914</guid>
+      <pubDate>Thu, 15 Oct 2026 14:30:08 +0000</pubDate>
+      <description><![CDATA[<p>宕机数小时，DeepSeek给补钱了！</p><p>标签: DeepSeek</p>]]></description>
+      <category>DeepSeek</category>
+    </item>
+    <item>
+      <title><![CDATA[大模型下个范式：文本生成先写提纲，速度能快31倍]]></title>
+      <link>https://www.jiqizhixin.com/articles/f609d4f2-d905-463b-be91-969cbc4a0728</link>
+      <guid>f609d4f2-d905-463b-be91-969cbc4a0728</guid>
+      <pubDate>Thu, 15 Oct 2026 14:30:09 +0000</pubDate>
+      <description><![CDATA[<p>大模型下个范式：文本生成先写提纲，速度能快31倍</p><p>标签: Next-Concept Modeling, Together AI, 斯坦福大学</p>]]></description>
+      <category>Next-Concept Modeling</category>
+      <category>Together AI</category>
+      <category>斯坦福大学</category>
+    </item>
+    <item>
+      <title><![CDATA[从「预测未来」到「理解世界」：Tadpole与一种新的科学基础模型思路]]></title>
+      <link>https://www.jiqizhixin.com/articles/78613a0b-5a5a-4e43-92b2-c744dbde495c</link>
+      <guid>78613a0b-5a5a-4e43-92b2-c744dbde495c</guid>
+      <pubDate>Thu, 15 Oct 2026 14:30:36 +0000</pubDate>
+      <description><![CDATA[<p>从「预测未来」到「理解世界」：Tadpole与一种新的科学基础模型思路</p><p>标签: 三维物理, Tadpole</p>]]></description>
+      <category>三维物理</category>
+      <category>Tadpole</category>
+    </item>
+    <item>
+      <title><![CDATA[具身智能迎来范式跃迁！EinsiaAI发布EmbodiedEvo，自进化Coding Agent登顶具身珠峰Robodojo]]></title>
+      <link>https://www.jiqizhixin.com/articles/e8b7b24d-9056-46fe-884c-8f67c50d1923</link>
+      <guid>e8b7b24d-9056-46fe-884c-8f67c50d1923</guid>
+      <pubDate>Thu, 15 Oct 2026 14:30:38 +0000</pubDate>
+      <description><![CDATA[<p>具身智能迎来范式跃迁！EinsiaAI发布EmbodiedEvo，自进化Coding Agent登顶具身珠峰Robodojo</p><p>标签: EmbodiedEvo, EinsiaAI</p>]]></description>
+      <category>EmbodiedEvo</category>
+      <category>EinsiaAI</category>
+    </item>
     <item>
       <title><![CDATA[会看图、会写代码的通用 Agent，能完成机器人操作吗？CodeActionBench 发布]]></title>
       <link>https://www.jiqizhixin.com/articles/925f5fcb-115f-4ef6-b477-d7704b2e867e</link>
@@ -78,46 +114,6 @@
       <description><![CDATA[<p>Matrix Game 4.0击败英伟达同期竞品，实现全球首个消费级显卡落地</p><p>标签: Matrix-Game 4.0, 昆仑万维</p>]]></description>
       <category>Matrix-Game 4.0</category>
       <category>昆仑万维</category>
-    </item>
-    <item>
-      <title><![CDATA[当视频模型回到原点，它还认得这里吗？Honeycomb用恒定大小记忆守住长视频的一致性]]></title>
-      <link>https://www.jiqizhixin.com/articles/444bc6d1-512d-4cce-95d7-b0f4619d94b3</link>
-      <guid>444bc6d1-512d-4cce-95d7-b0f4619d94b3</guid>
-      <pubDate>Thu, 15 Oct 2026 08:40:25 +0000</pubDate>
-      <description><![CDATA[<p>当视频模型回到原点，它还认得这里吗？Honeycomb用恒定大小记忆守住长视频的一致性</p><p>标签: HexMemory, Honeycomb, 哈佛大学</p>]]></description>
-      <category>HexMemory</category>
-      <category>Honeycomb</category>
-      <category>哈佛大学</category>
-    </item>
-    <item>
-      <title><![CDATA[Natura-1发布：从百万小时人类经验中学会零样本泛化与灵巧操作]]></title>
-      <link>https://www.jiqizhixin.com/articles/bac81484-60cf-4830-b7f3-e53d152b0e0d</link>
-      <guid>bac81484-60cf-4830-b7f3-e53d152b0e0d</guid>
-      <pubDate>Wed, 14 Oct 2026 09:05:13 +0000</pubDate>
-      <description><![CDATA[<p>Natura-1发布：从百万小时人类经验中学会零样本泛化与灵巧操作</p><p>标签: Natura-1, 自然意志（Nature Will）, 具身智能</p>]]></description>
-      <category>Natura-1</category>
-      <category>自然意志（Nature Will）</category>
-      <category>具身智能</category>
-    </item>
-    <item>
-      <title><![CDATA[7个人、5个月！Anthropic造出了Git替代品]]></title>
-      <link>https://www.jiqizhixin.com/articles/4d43d3a6-e7c9-4f3b-88ee-a386253c1e49</link>
-      <guid>4d43d3a6-e7c9-4f3b-88ee-a386253c1e49</guid>
-      <pubDate>Wed, 14 Oct 2026 09:05:13 +0000</pubDate>
-      <description><![CDATA[<p>7个人、5个月！Anthropic造出了Git替代品</p><p>标签: Git, Scion, Anthropic</p>]]></description>
-      <category>Git</category>
-      <category>Scion</category>
-      <category>Anthropic</category>
-    </item>
-    <item>
-      <title><![CDATA[苹果LensVLM：长上下文压缩成图片，模型边看边「放大」]]></title>
-      <link>https://www.jiqizhixin.com/articles/ffb03fc5-3660-43d5-9c39-71fc092807a6</link>
-      <guid>ffb03fc5-3660-43d5-9c39-71fc092807a6</guid>
-      <pubDate>Wed, 14 Oct 2026 09:05:42 +0000</pubDate>
-      <description><![CDATA[<p>苹果LensVLM：长上下文压缩成图片，模型边看边「放大」</p><p>标签: NeurIPS 2026, LensVLM, 苹果</p>]]></description>
-      <category>NeurIPS 2026</category>
-      <category>LensVLM</category>
-      <category>苹果</category>
     </item>
   </channel>
 </rss>
