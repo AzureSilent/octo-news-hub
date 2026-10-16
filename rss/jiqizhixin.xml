@@ -4,8 +4,74 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 16 Oct 2026 06:31:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 12:49:11 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[昆仑万维创始人周亚辉署名Matrix-Game 4.0 技术报告]]></title>
+      <link>https://www.jiqizhixin.com/articles/3d3c1279-c0fb-4891-abe8-892e0a2a9f23</link>
+      <guid>3d3c1279-c0fb-4891-abe8-892e0a2a9f23</guid>
+      <pubDate>Fri, 16 Oct 2026 12:47:19 +0000</pubDate>
+      <description><![CDATA[<p>昆仑万维创始人周亚辉署名Matrix-Game 4.0 技术报告</p><p>标签: Matrix-Game 4.0, 昆仑万维</p>]]></description>
+      <category>Matrix-Game 4.0</category>
+      <category>昆仑万维</category>
+    </item>
+    <item>
+      <title><![CDATA[硬件、数据到模型：Sharpa如何系统性推进灵巧操作]]></title>
+      <link>https://www.jiqizhixin.com/articles/57ec3a34-dc1f-4be8-b26c-592690a9a51e</link>
+      <guid>57ec3a34-dc1f-4be8-b26c-592690a9a51e</guid>
+      <pubDate>Fri, 16 Oct 2026 12:46:36 +0000</pubDate>
+      <description><![CDATA[<p>硬件、数据到模型：Sharpa如何系统性推进灵巧操作</p><p>标签: 具身智能, Sharpa</p>]]></description>
+      <category>具身智能</category>
+      <category>Sharpa</category>
+    </item>
+    <item>
+      <title><![CDATA[世界模型能不能上桌？WorldOracle给出了一场真实大考]]></title>
+      <link>https://www.jiqizhixin.com/articles/766372bb-3c4c-4b3a-b398-31dcef9cb4ba</link>
+      <guid>766372bb-3c4c-4b3a-b398-31dcef9cb4ba</guid>
+      <pubDate>Fri, 16 Oct 2026 12:47:07 +0000</pubDate>
+      <description><![CDATA[<p>世界模型能不能上桌？WorldOracle给出了一场真实大考</p><p>标签: 智元机器人, 普林斯顿大学, WorldOracle</p>]]></description>
+      <category>智元机器人</category>
+      <category>普林斯顿大学</category>
+      <category>WorldOracle</category>
+    </item>
+    <item>
+      <title><![CDATA[NeurIPS 2026 | FlowMAS：让AI团队自己学会「排兵布阵」]]></title>
+      <link>https://www.jiqizhixin.com/articles/d79f3623-e351-4dda-98ac-cafc2293d639</link>
+      <guid>d79f3623-e351-4dda-98ac-cafc2293d639</guid>
+      <pubDate>Fri, 16 Oct 2026 12:47:35 +0000</pubDate>
+      <description><![CDATA[<p>NeurIPS 2026 | FlowMAS：让AI团队自己学会「排兵布阵」</p><p>标签: FlowMAS, NeurIPS 2026, 厦门大学</p>]]></description>
+      <category>FlowMAS</category>
+      <category>NeurIPS 2026</category>
+      <category>厦门大学</category>
+    </item>
+    <item>
+      <title><![CDATA[融资数千万，这家合肥公司把大科学装置变成了 AI 能读的三维数据]]></title>
+      <link>https://www.jiqizhixin.com/articles/aae1acba-ab9c-441c-a79c-33b7ba6790ab</link>
+      <guid>aae1acba-ab9c-441c-a79c-33b7ba6790ab</guid>
+      <pubDate>Fri, 16 Oct 2026 12:48:29 +0000</pubDate>
+      <description><![CDATA[<p>融资数千万，这家合肥公司把大科学装置变成了 AI 能读的三维数据</p><p>标签: 可视科学（SciVisual）</p>]]></description>
+      <category>可视科学（SciVisual）</category>
+    </item>
+    <item>
+      <title><![CDATA[Kling 4.0杀疯了！打戏拍出电影感，原生30秒直出大片]]></title>
+      <link>https://www.jiqizhixin.com/articles/0d81aaeb-0e6d-45c1-b078-b34681cc908d</link>
+      <guid>0d81aaeb-0e6d-45c1-b078-b34681cc908d</guid>
+      <pubDate>Fri, 16 Oct 2026 12:48:58 +0000</pubDate>
+      <description><![CDATA[<p>Kling 4.0杀疯了！打戏拍出电影感，原生30秒直出大片</p><p>标签: 快手科技, 可灵 AI, Kling 4.0</p>]]></description>
+      <category>快手科技</category>
+      <category>可灵 AI</category>
+      <category>Kling 4.0</category>
+    </item>
+    <item>
+      <title><![CDATA[别再让计算等着搬权重了！KTransformers让CPU直接参与MoE微调计算]]></title>
+      <link>https://www.jiqizhixin.com/articles/6adab55d-f766-4478-845f-32f218a4b384</link>
+      <guid>6adab55d-f766-4478-845f-32f218a4b384</guid>
+      <pubDate>Fri, 16 Oct 2026 12:49:11 +0000</pubDate>
+      <description><![CDATA[<p>别再让计算等着搬权重了！KTransformers让CPU直接参与MoE微调计算</p><p>标签: KTransformers-FineTune（KT-FT）, 趋境科技, 清华大学</p>]]></description>
+      <category>KTransformers-FineTune（KT-FT）</category>
+      <category>趋境科技</category>
+      <category>清华大学</category>
+    </item>
     <item>
       <title><![CDATA[Google DeepMind用AI智能体寻找新抗菌肽：从数百万蛋白到实验候选]]></title>
       <link>https://www.jiqizhixin.com/articles/bfcfe1ac-f573-40f7-96d2-55f619eca43f</link>
@@ -46,80 +112,6 @@
       <category>SSR（Selection-based Structured Reasoning）</category>
       <category>卡内基梅隆大学</category>
       <category>苹果</category>
-    </item>
-    <item>
-      <title><![CDATA[Meta入局AI医疗，用Muse模型加速医学研究，效率提升十倍]]></title>
-      <link>https://www.jiqizhixin.com/articles/e3f213ac-23f8-4f29-8c00-5cc13f189357</link>
-      <guid>e3f213ac-23f8-4f29-8c00-5cc13f189357</guid>
-      <pubDate>Fri, 16 Oct 2026 06:30:46 +0000</pubDate>
-      <description><![CDATA[<p>Meta入局AI医疗，用Muse模型加速医学研究，效率提升十倍</p><p>标签: AI for Science（AI4S）, Muse Wonder, Meta AI</p>]]></description>
-      <category>AI for Science（AI4S）</category>
-      <category>Muse Wonder</category>
-      <category>Meta AI</category>
-    </item>
-    <item>
-      <title><![CDATA[神经网络可解释性被AI解决了？90%神经元只有一个功能]]></title>
-      <link>https://www.jiqizhixin.com/articles/34c51908-0103-4b4e-8c43-cfd6f0e8587f</link>
-      <guid>34c51908-0103-4b4e-8c43-cfd6f0e8587f</guid>
-      <pubDate>Fri, 16 Oct 2026 06:30:50 +0000</pubDate>
-      <description><![CDATA[<p>神经网络可解释性被AI解决了？90%神经元只有一个功能</p><p>标签: OpenAI, Nick Cammarata</p>]]></description>
-      <category>OpenAI</category>
-      <category>Nick Cammarata</category>
-    </item>
-    <item>
-      <title><![CDATA[Meta杀回开源：816B新模型，两台Mac Studio就能跑]]></title>
-      <link>https://www.jiqizhixin.com/articles/04967496-45a5-4c81-b8fb-b071271398d5</link>
-      <guid>04967496-45a5-4c81-b8fb-b071271398d5</guid>
-      <pubDate>Fri, 16 Oct 2026 06:31:18 +0000</pubDate>
-      <description><![CDATA[<p>Meta杀回开源：816B新模型，两台Mac Studio就能跑</p><p>标签: Muse Spark Open, 苹果, MeTA</p>]]></description>
-      <category>Muse Spark Open</category>
-      <category>苹果</category>
-      <category>MeTA</category>
-    </item>
-    <item>
-      <title><![CDATA[宕机数小时，DeepSeek给补钱了！]]></title>
-      <link>https://www.jiqizhixin.com/articles/2737236f-e95a-4638-8ccb-e848bc031914</link>
-      <guid>2737236f-e95a-4638-8ccb-e848bc031914</guid>
-      <pubDate>Thu, 15 Oct 2026 14:30:08 +0000</pubDate>
-      <description><![CDATA[<p>宕机数小时，DeepSeek给补钱了！</p><p>标签: DeepSeek</p>]]></description>
-      <category>DeepSeek</category>
-    </item>
-    <item>
-      <title><![CDATA[大模型下个范式：文本生成先写提纲，速度能快31倍]]></title>
-      <link>https://www.jiqizhixin.com/articles/f609d4f2-d905-463b-be91-969cbc4a0728</link>
-      <guid>f609d4f2-d905-463b-be91-969cbc4a0728</guid>
-      <pubDate>Thu, 15 Oct 2026 14:30:09 +0000</pubDate>
-      <description><![CDATA[<p>大模型下个范式：文本生成先写提纲，速度能快31倍</p><p>标签: Next-Concept Modeling, Together AI, 斯坦福大学</p>]]></description>
-      <category>Next-Concept Modeling</category>
-      <category>Together AI</category>
-      <category>斯坦福大学</category>
-    </item>
-    <item>
-      <title><![CDATA[从「预测未来」到「理解世界」：Tadpole与一种新的科学基础模型思路]]></title>
-      <link>https://www.jiqizhixin.com/articles/78613a0b-5a5a-4e43-92b2-c744dbde495c</link>
-      <guid>78613a0b-5a5a-4e43-92b2-c744dbde495c</guid>
-      <pubDate>Thu, 15 Oct 2026 14:30:36 +0000</pubDate>
-      <description><![CDATA[<p>从「预测未来」到「理解世界」：Tadpole与一种新的科学基础模型思路</p><p>标签: 三维物理, Tadpole</p>]]></description>
-      <category>三维物理</category>
-      <category>Tadpole</category>
-    </item>
-    <item>
-      <title><![CDATA[具身智能迎来范式跃迁！EinsiaAI发布EmbodiedEvo，自进化Coding Agent登顶具身珠峰Robodojo]]></title>
-      <link>https://www.jiqizhixin.com/articles/e8b7b24d-9056-46fe-884c-8f67c50d1923</link>
-      <guid>e8b7b24d-9056-46fe-884c-8f67c50d1923</guid>
-      <pubDate>Thu, 15 Oct 2026 14:30:38 +0000</pubDate>
-      <description><![CDATA[<p>具身智能迎来范式跃迁！EinsiaAI发布EmbodiedEvo，自进化Coding Agent登顶具身珠峰Robodojo</p><p>标签: EmbodiedEvo, EinsiaAI</p>]]></description>
-      <category>EmbodiedEvo</category>
-      <category>EinsiaAI</category>
-    </item>
-    <item>
-      <title><![CDATA[会看图、会写代码的通用 Agent，能完成机器人操作吗？CodeActionBench 发布]]></title>
-      <link>https://www.jiqizhixin.com/articles/925f5fcb-115f-4ef6-b477-d7704b2e867e</link>
-      <guid>925f5fcb-115f-4ef6-b477-d7704b2e867e</guid>
-      <pubDate>Thu, 15 Oct 2026 08:38:25 +0000</pubDate>
-      <description><![CDATA[<p>会看图、会写代码的通用 Agent，能完成机器人操作吗？CodeActionBench 发布</p><p>标签: 南洋理工大学, CodeActionBench</p>]]></description>
-      <category>南洋理工大学</category>
-      <category>CodeActionBench</category>
     </item>
   </channel>
 </rss>
