@@ -4,8 +4,54 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 20 Oct 2026 06:48:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 13:06:29 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[MemT 1.0发布：迈向递归自我改进，让记忆成为模型内生能力]]></title>
+      <link>https://www.jiqizhixin.com/articles/e45291fb-766d-40ed-9fc3-c36bd891c39f</link>
+      <guid>e45291fb-766d-40ed-9fc3-c36bd891c39f</guid>
+      <pubDate>Tue, 20 Oct 2026 13:05:32 +0000</pubDate>
+      <description><![CDATA[<p>MemT 1.0发布：迈向递归自我改进，让记忆成为模型内生能力</p><p>标签: MemT 1.0, 记忆张量</p>]]></description>
+      <category>MemT 1.0</category>
+      <category>记忆张量</category>
+    </item>
+    <item>
+      <title><![CDATA[Jiuwen Symbiosis：物理智能体走进自动化科研实验室]]></title>
+      <link>https://www.jiqizhixin.com/articles/efd260e3-badb-4157-a063-62e62faea98d</link>
+      <guid>efd260e3-badb-4157-a063-62e62faea98d</guid>
+      <pubDate>Tue, 20 Oct 2026 13:05:33 +0000</pubDate>
+      <description><![CDATA[<p>Jiuwen Symbiosis：物理智能体走进自动化科研实验室</p><p>标签: Jiuwen Symbiosis, openJiuwen</p>]]></description>
+      <category>Jiuwen Symbiosis</category>
+      <category>openJiuwen</category>
+    </item>
+    <item>
+      <title><![CDATA[从记忆到行动，还有多远？WorldMemArena把多模态记忆放进真实交互]]></title>
+      <link>https://www.jiqizhixin.com/articles/510e7317-a894-4be7-a96a-ace2e40f9f68</link>
+      <guid>510e7317-a894-4be7-a96a-ace2e40f9f68</guid>
+      <pubDate>Tue, 20 Oct 2026 13:06:01 +0000</pubDate>
+      <description><![CDATA[<p>从记忆到行动，还有多远？WorldMemArena把多模态记忆放进真实交互</p><p>标签: NeurIPS 2026, WorldMemArena</p>]]></description>
+      <category>NeurIPS 2026</category>
+      <category>WorldMemArena</category>
+    </item>
+    <item>
+      <title><![CDATA[31款人形机器人、151亿元项目，安徽机器人产业有多热？]]></title>
+      <link>https://www.jiqizhixin.com/articles/48337c82-1596-4c51-ac86-2b401543e260</link>
+      <guid>48337c82-1596-4c51-ac86-2b401543e260</guid>
+      <pubDate>Tue, 20 Oct 2026 13:06:02 +0000</pubDate>
+      <description><![CDATA[<p>31款人形机器人、151亿元项目，安徽机器人产业有多热？</p><p>标签: 合肥（包河）机器人产业园, 人形机器人, 具身智能</p>]]></description>
+      <category>合肥（包河）机器人产业园</category>
+      <category>人形机器人</category>
+      <category>具身智能</category>
+    </item>
+    <item>
+      <title><![CDATA[突破长文本推理瓶颈 九章云极Alaya-DFlash2助GLM-5.3解码提速3.41倍]]></title>
+      <link>https://www.jiqizhixin.com/articles/e99121d8-b83e-41f3-adb1-5d81ad3e87d1</link>
+      <guid>e99121d8-b83e-41f3-adb1-5d81ad3e87d1</guid>
+      <pubDate>Tue, 20 Oct 2026 13:06:29 +0000</pubDate>
+      <description><![CDATA[<p>突破长文本推理瓶颈 九章云极Alaya-DFlash2助GLM-5.3解码提速3.41倍</p><p>标签: 九章云极, Alaya-DFlash2</p>]]></description>
+      <category>九章云极</category>
+      <category>Alaya-DFlash2</category>
+    </item>
     <item>
       <title><![CDATA[获610万美元融资：LightSprint试图用多AI智能体打通「产品-工程」闭环]]></title>
       <link>https://www.jiqizhixin.com/articles/bd74f741-f907-4ffe-9be9-bfb690c2e4b0</link>
@@ -71,54 +117,6 @@
       <description><![CDATA[<p>读完论文还想追问？来北京线下，与NeurIPS 2026作者当面聊</p><p>标签: NeurIPS 2026 论文分享会, NeurIPS 2026</p>]]></description>
       <category>NeurIPS 2026 论文分享会</category>
       <category>NeurIPS 2026</category>
-    </item>
-    <item>
-      <title><![CDATA[该如何评测大模型的探索能力？复旦、混元发布新基准ExplorationBench]]></title>
-      <link>https://www.jiqizhixin.com/articles/10e8ecc7-7a78-4a7e-8a25-4c30c7fb1bf4</link>
-      <guid>10e8ecc7-7a78-4a7e-8a25-4c30c7fb1bf4</guid>
-      <pubDate>Tue, 20 Oct 2026 06:48:21 +0000</pubDate>
-      <description><![CDATA[<p>该如何评测大模型的探索能力？复旦、混元发布新基准ExplorationBench</p><p>标签: ExplorationBench, 腾讯混元</p>]]></description>
-      <category>ExplorationBench</category>
-      <category>腾讯混元</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，全球首个机器人大脑API开放！英伟达DreamZero团队创业，葛云皓任CTO]]></title>
-      <link>https://www.jiqizhixin.com/articles/57aa0e45-866e-496e-87e3-6b0842fb7c61</link>
-      <guid>57aa0e45-866e-496e-87e3-6b0842fb7c61</guid>
-      <pubDate>Tue, 20 Oct 2026 06:48:47 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，全球首个机器人大脑API开放！英伟达DreamZero团队创业，葛云皓任CTO</p><p>标签: Dream-1, Dream Labs, DreamZero</p>]]></description>
-      <category>Dream-1</category>
-      <category>Dream Labs</category>
-      <category>DreamZero</category>
-    </item>
-    <item>
-      <title><![CDATA[Claude要会「读心」了？Anthropic神秘新模型曝光]]></title>
-      <link>https://www.jiqizhixin.com/articles/fa3a99fd-c5f5-4236-81d3-ca9914ee2708</link>
-      <guid>fa3a99fd-c5f5-4236-81d3-ca9914ee2708</guid>
-      <pubDate>Tue, 20 Oct 2026 06:48:54 +0000</pubDate>
-      <description><![CDATA[<p>Claude要会「读心」了？Anthropic神秘新模型曝光</p><p>标签: Claude, Anthropic</p>]]></description>
-      <category>Claude</category>
-      <category>Anthropic</category>
-    </item>
-    <item>
-      <title><![CDATA[GPT-6-Astra具身能力遭大考！传统基准拿满分，真机频碰壁]]></title>
-      <link>https://www.jiqizhixin.com/articles/2c15d146-7a63-4308-89bf-d4cc2e3c57ac</link>
-      <guid>2c15d146-7a63-4308-89bf-d4cc2e3c57ac</guid>
-      <pubDate>Mon, 19 Oct 2026 15:04:05 +0000</pubDate>
-      <description><![CDATA[<p>GPT-6-Astra具身能力遭大考！传统基准拿满分，真机频碰壁</p><p>标签: 具身评测, GPT-6-Astra, 商汤科技</p>]]></description>
-      <category>具身评测</category>
-      <category>GPT-6-Astra</category>
-      <category>商汤科技</category>
-    </item>
-    <item>
-      <title><![CDATA[Loop Transformer走向视觉语言模型，百度联合清华人大高瓴开源LoopVL]]></title>
-      <link>https://www.jiqizhixin.com/articles/1c23f82b-41e2-4e61-b52b-143eb32b7d2b</link>
-      <guid>1c23f82b-41e2-4e61-b52b-143eb32b7d2b</guid>
-      <pubDate>Mon, 19 Oct 2026 15:04:06 +0000</pubDate>
-      <description><![CDATA[<p>Loop Transformer走向视觉语言模型，百度联合清华人大高瓴开源LoopVL</p><p>标签: Visual Aha Moment, LoopVL, 中国人民大学</p>]]></description>
-      <category>Visual Aha Moment</category>
-      <category>LoopVL</category>
-      <category>中国人民大学</category>
     </item>
   </channel>
 </rss>
