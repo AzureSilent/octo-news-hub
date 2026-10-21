@@ -4,8 +4,47 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 21 Oct 2026 08:57:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 14:44:38 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[一句话指挥机器人组团打工，还能越干越聪明?这波物理AI有点夯]]></title>
+      <link>https://www.jiqizhixin.com/articles/a19a773f-84b9-4b26-bb86-95112dfb3939</link>
+      <guid>a19a773f-84b9-4b26-bb86-95112dfb3939</guid>
+      <pubDate>Wed, 21 Oct 2026 14:44:09 +0000</pubDate>
+      <description><![CDATA[<p>一句话指挥机器人组团打工，还能越干越聪明?这波物理AI有点夯</p><p>标签: Agnes Harness, 爱思科技 （ Agnes AI ）, 2026 物理 AI 与世界模型大会</p>]]></description>
+      <category>Agnes Harness</category>
+      <category>爱思科技 （ Agnes AI ）</category>
+      <category>2026 物理 AI 与世界模型大会</category>
+    </item>
+    <item>
+      <title><![CDATA[IJCV 2026｜北大团队提出DragMesh：一次拖拽，实现可交互的3D关节运动生成]]></title>
+      <link>https://www.jiqizhixin.com/articles/ed815e58-e0d0-49d3-949b-ea2e57d3d053</link>
+      <guid>ed815e58-e0d0-49d3-949b-ea2e57d3d053</guid>
+      <pubDate>Wed, 21 Oct 2026 14:44:06 +0000</pubDate>
+      <description><![CDATA[<p>IJCV 2026｜北大团队提出DragMesh：一次拖拽，实现可交互的3D关节运动生成</p><p>标签: DragMesh, IJCV 2026</p>]]></description>
+      <category>DragMesh</category>
+      <category>IJCV 2026</category>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic接连突破后，OpenAI收购AI制药创企，CTO是北大校友]]></title>
+      <link>https://www.jiqizhixin.com/articles/f9f29d92-2590-455d-b1b3-368b5dd325ba</link>
+      <guid>f9f29d92-2590-455d-b1b3-368b5dd325ba</guid>
+      <pubDate>Wed, 21 Oct 2026 14:44:36 +0000</pubDate>
+      <description><![CDATA[<p>Anthropic接连突破后，OpenAI收购AI制药创企，CTO是北大校友</p><p>标签: AI for Science（AI4S）, AI 生物制药, Orchestra Bio, OpenAI</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>AI 生物制药</category>
+      <category>Orchestra Bio</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[继罗福莉之后，生数科技Motubrain团队公开Physical AI训练全流程，连续直播半个月]]></title>
+      <link>https://www.jiqizhixin.com/articles/26703756-08c4-480b-ab10-7b45ab0c484c</link>
+      <guid>26703756-08c4-480b-ab10-7b45ab0c484c</guid>
+      <pubDate>Wed, 21 Oct 2026 14:44:38 +0000</pubDate>
+      <description><![CDATA[<p>继罗福莉之后，生数科技Motubrain团队公开Physical AI训练全流程，连续直播半个月</p><p>标签: Physical AI, 生数科技</p>]]></description>
+      <category>Physical AI</category>
+      <category>生数科技</category>
+    </item>
     <item>
       <title><![CDATA[飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人]]></title>
       <link>https://www.jiqizhixin.com/articles/32c94f2a-38f0-4f2e-9076-a3b24ffcdd2a</link>
@@ -81,43 +120,6 @@
       <description><![CDATA[<p>游戏开发也能自我进化？RSIGame让AI自主试玩、修复与迭代，27B模型组合超GPT-5.5一次生成</p><p>标签: RSIGame, UC San Diego</p>]]></description>
       <category>RSIGame</category>
       <category>UC San Diego</category>
-    </item>
-    <item>
-      <title><![CDATA[MemT 1.0发布：迈向递归自我改进，让记忆成为模型内生能力]]></title>
-      <link>https://www.jiqizhixin.com/articles/e45291fb-766d-40ed-9fc3-c36bd891c39f</link>
-      <guid>e45291fb-766d-40ed-9fc3-c36bd891c39f</guid>
-      <pubDate>Tue, 20 Oct 2026 13:05:32 +0000</pubDate>
-      <description><![CDATA[<p>MemT 1.0发布：迈向递归自我改进，让记忆成为模型内生能力</p><p>标签: MemT 1.0, 记忆张量</p>]]></description>
-      <category>MemT 1.0</category>
-      <category>记忆张量</category>
-    </item>
-    <item>
-      <title><![CDATA[Jiuwen Symbiosis：物理智能体走进自动化科研实验室]]></title>
-      <link>https://www.jiqizhixin.com/articles/efd260e3-badb-4157-a063-62e62faea98d</link>
-      <guid>efd260e3-badb-4157-a063-62e62faea98d</guid>
-      <pubDate>Tue, 20 Oct 2026 13:05:33 +0000</pubDate>
-      <description><![CDATA[<p>Jiuwen Symbiosis：物理智能体走进自动化科研实验室</p><p>标签: Jiuwen Symbiosis, openJiuwen</p>]]></description>
-      <category>Jiuwen Symbiosis</category>
-      <category>openJiuwen</category>
-    </item>
-    <item>
-      <title><![CDATA[从记忆到行动，还有多远？WorldMemArena把多模态记忆放进真实交互]]></title>
-      <link>https://www.jiqizhixin.com/articles/510e7317-a894-4be7-a96a-ace2e40f9f68</link>
-      <guid>510e7317-a894-4be7-a96a-ace2e40f9f68</guid>
-      <pubDate>Tue, 20 Oct 2026 13:06:01 +0000</pubDate>
-      <description><![CDATA[<p>从记忆到行动，还有多远？WorldMemArena把多模态记忆放进真实交互</p><p>标签: NeurIPS 2026, WorldMemArena</p>]]></description>
-      <category>NeurIPS 2026</category>
-      <category>WorldMemArena</category>
-    </item>
-    <item>
-      <title><![CDATA[31款人形机器人、151亿元项目，安徽机器人产业有多热？]]></title>
-      <link>https://www.jiqizhixin.com/articles/48337c82-1596-4c51-ac86-2b401543e260</link>
-      <guid>48337c82-1596-4c51-ac86-2b401543e260</guid>
-      <pubDate>Tue, 20 Oct 2026 13:06:02 +0000</pubDate>
-      <description><![CDATA[<p>31款人形机器人、151亿元项目，安徽机器人产业有多热？</p><p>标签: 合肥（包河）机器人产业园, 人形机器人, 具身智能</p>]]></description>
-      <category>合肥（包河）机器人产业园</category>
-      <category>人形机器人</category>
-      <category>具身智能</category>
     </item>
   </channel>
 </rss>
