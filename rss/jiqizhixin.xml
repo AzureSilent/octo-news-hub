@@ -4,8 +4,65 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 22 Oct 2026 09:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 14:44:51 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[首发实测！鹅厂刚开放的「元宝搜索」，给开发者减负了！（附福利激活码）]]></title>
+      <link>https://www.jiqizhixin.com/articles/bdc00caa-c178-4510-b4e6-9e6b221c4b9a</link>
+      <guid>bdc00caa-c178-4510-b4e6-9e6b221c4b9a</guid>
+      <pubDate>Thu, 22 Oct 2026 14:43:51 +0000</pubDate>
+      <description><![CDATA[<p>首发实测！鹅厂刚开放的「元宝搜索」，给开发者减负了！（附福利激活码）</p><p>标签: 元宝搜索, 腾讯</p>]]></description>
+      <category>元宝搜索</category>
+      <category>腾讯</category>
+    </item>
+    <item>
+      <title><![CDATA[田渊栋新公司首个模型亮相！AI全程参与、不到4个月从零造]]></title>
+      <link>https://www.jiqizhixin.com/articles/b364fa7d-2e0e-4507-8744-e73e3dbf3bd7</link>
+      <guid>b364fa7d-2e0e-4507-8744-e73e3dbf3bd7</guid>
+      <pubDate>Thu, 22 Oct 2026 14:43:50 +0000</pubDate>
+      <description><![CDATA[<p>田渊栋新公司首个模型亮相！AI全程参与、不到4个月从零造</p><p>标签: Flint-40B-A2B, Recursive_SI, 田渊栋</p>]]></description>
+      <category>Flint-40B-A2B</category>
+      <category>Recursive_SI</category>
+      <category>田渊栋</category>
+    </item>
+    <item>
+      <title><![CDATA[NeurIPS 2026 | 从Token到Span：重新思考大语言模型的不确定性估计]]></title>
+      <link>https://www.jiqizhixin.com/articles/5d6e1e64-5edf-4876-a1f7-e0c9051745bb</link>
+      <guid>5d6e1e64-5edf-4876-a1f7-e0c9051745bb</guid>
+      <pubDate>Thu, 22 Oct 2026 14:44:20 +0000</pubDate>
+      <description><![CDATA[<p>NeurIPS 2026 | 从Token到Span：重新思考大语言模型的不确定性估计</p><p>标签: SpanUQ, NeurIPS 2026</p>]]></description>
+      <category>SpanUQ</category>
+      <category>NeurIPS 2026</category>
+    </item>
+    <item>
+      <title><![CDATA[对决RoboColiseum！GPT、Claude、Gemini机器人能力PK，险胜之后还有黑马]]></title>
+      <link>https://www.jiqizhixin.com/articles/fcaf7f47-6fa8-4401-99f8-9cfaaa9aa4a4</link>
+      <guid>fcaf7f47-6fa8-4401-99f8-9cfaaa9aa4a4</guid>
+      <pubDate>Thu, 22 Oct 2026 14:44:22 +0000</pubDate>
+      <description><![CDATA[<p>对决RoboColiseum！GPT、Claude、Gemini机器人能力PK，险胜之后还有黑马</p><p>标签: Agent2Act, RoboColiseum, 具身智能</p>]]></description>
+      <category>Agent2Act</category>
+      <category>RoboColiseum</category>
+      <category>具身智能</category>
+    </item>
+    <item>
+      <title><![CDATA[Agent作为木马：驶向智能「奥德赛」的AI，为何成了黑客洗劫资产的「白手套」？]]></title>
+      <link>https://www.jiqizhixin.com/articles/f054b5a9-de1e-4ed4-9075-9bb2e8387776</link>
+      <guid>f054b5a9-de1e-4ed4-9075-9bb2e8387776</guid>
+      <pubDate>Thu, 22 Oct 2026 14:44:51 +0000</pubDate>
+      <description><![CDATA[<p>Agent作为木马：驶向智能「奥德赛」的AI，为何成了黑客洗劫资产的「白手套」？</p><p>标签: ResGate, AI 安全, 上海交通大学</p>]]></description>
+      <category>ResGate</category>
+      <category>AI 安全</category>
+      <category>上海交通大学</category>
+    </item>
+    <item>
+      <title><![CDATA[又一国产决策模型发布！准确率超过微软和Jev等决策模型]]></title>
+      <link>https://www.jiqizhixin.com/articles/18276dac-56cc-47ed-89e4-9dcc38561c4f</link>
+      <guid>18276dac-56cc-47ed-89e4-9dcc38561c4f</guid>
+      <pubDate>Thu, 22 Oct 2026 14:44:51 +0000</pubDate>
+      <description><![CDATA[<p>又一国产决策模型发布！准确率超过微软和Jev等决策模型</p><p>标签: LingDT-Decision-1.0, 蚂蚁数科</p>]]></description>
+      <category>LingDT-Decision-1.0</category>
+      <category>蚂蚁数科</category>
+    </item>
     <item>
       <title><![CDATA[大模型被A股上了一课！EinsiaAI发布Quant Arena，半数大模型亏本]]></title>
       <link>https://www.jiqizhixin.com/articles/decf3acd-fb78-4c4f-ab4c-23fd841acb33</link>
@@ -64,63 +121,6 @@
       <category>PHP</category>
       <category>GPT‑5.6 Sol</category>
       <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[27B开源模型追平GPT-6 Astra、Claude Opus 5！UCLA×Adobe提出Tev：先造好「答案世界」，再给智能体出长程考题]]></title>
-      <link>https://www.jiqizhixin.com/articles/a4855462-dfe7-4a57-8dec-e8eaec5cf342</link>
-      <guid>a4855462-dfe7-4a57-8dec-e8eaec5cf342</guid>
-      <pubDate>Thu, 22 Oct 2026 08:59:56 +0000</pubDate>
-      <description><![CDATA[<p>27B开源模型追平GPT-6 Astra、Claude Opus 5！UCLA×Adobe提出Tev：先造好「答案世界」，再给智能体出长程考题</p><p>标签: Tev-Gym, Tev, Adobe Research</p>]]></description>
-      <category>Tev-Gym</category>
-      <category>Tev</category>
-      <category>Adobe Research</category>
-    </item>
-    <item>
-      <title><![CDATA[多榜登顶，跨越仿真、真机与真实场景！无界动力发布并开源MWA™-Phoenix隐空间世界模型基座]]></title>
-      <link>https://www.jiqizhixin.com/articles/bead06cd-c4e2-4e52-b8a4-40cece408bcf</link>
-      <guid>bead06cd-c4e2-4e52-b8a4-40cece408bcf</guid>
-      <pubDate>Thu, 22 Oct 2026 08:59:59 +0000</pubDate>
-      <description><![CDATA[<p>多榜登顶，跨越仿真、真机与真实场景！无界动力发布并开源MWA™-Phoenix隐空间世界模型基座</p><p>标签: 隐空间世界模型, MWA™-Phoenix, 无界动力</p>]]></description>
-      <category>隐空间世界模型</category>
-      <category>MWA™-Phoenix</category>
-      <category>无界动力</category>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek开源推理框架，有人算出AI的毛利：82%]]></title>
-      <link>https://www.jiqizhixin.com/articles/8209f028-a7f4-47b0-bd1e-d3f62190ef0e</link>
-      <guid>8209f028-a7f4-47b0-bd1e-d3f62190ef0e</guid>
-      <pubDate>Thu, 22 Oct 2026 09:00:25 +0000</pubDate>
-      <description><![CDATA[<p>DeepSeek开源推理框架，有人算出AI的毛利：82%</p><p>标签: DeepInfer, DeepSeek</p>]]></description>
-      <category>DeepInfer</category>
-      <category>DeepSeek</category>
-    </item>
-    <item>
-      <title><![CDATA[NeurIPS 2026｜克隆得像，就够了吗？RVCBench系统评测18个语音克隆模型的真实世界鲁棒性]]></title>
-      <link>https://www.jiqizhixin.com/articles/96331735-bc56-4090-97b0-3c7a4240f118</link>
-      <guid>96331735-bc56-4090-97b0-3c7a4240f118</guid>
-      <pubDate>Thu, 22 Oct 2026 09:00:27 +0000</pubDate>
-      <description><![CDATA[<p>NeurIPS 2026｜克隆得像，就够了吗？RVCBench系统评测18个语音克隆模型的真实世界鲁棒性</p><p>标签: RVCBench, NeurIPS 2026</p>]]></description>
-      <category>RVCBench</category>
-      <category>NeurIPS 2026</category>
-    </item>
-    <item>
-      <title><![CDATA[一句话指挥机器人组团打工，还能越干越聪明?这波物理AI有点夯]]></title>
-      <link>https://www.jiqizhixin.com/articles/a19a773f-84b9-4b26-bb86-95112dfb3939</link>
-      <guid>a19a773f-84b9-4b26-bb86-95112dfb3939</guid>
-      <pubDate>Wed, 21 Oct 2026 14:44:09 +0000</pubDate>
-      <description><![CDATA[<p>一句话指挥机器人组团打工，还能越干越聪明?这波物理AI有点夯</p><p>标签: Agnes Harness, 爱思科技 （ Agnes AI ）, 2026 物理 AI 与世界模型大会</p>]]></description>
-      <category>Agnes Harness</category>
-      <category>爱思科技 （ Agnes AI ）</category>
-      <category>2026 物理 AI 与世界模型大会</category>
-    </item>
-    <item>
-      <title><![CDATA[IJCV 2026｜北大团队提出DragMesh：一次拖拽，实现可交互的3D关节运动生成]]></title>
-      <link>https://www.jiqizhixin.com/articles/ed815e58-e0d0-49d3-949b-ea2e57d3d053</link>
-      <guid>ed815e58-e0d0-49d3-949b-ea2e57d3d053</guid>
-      <pubDate>Wed, 21 Oct 2026 14:44:06 +0000</pubDate>
-      <description><![CDATA[<p>IJCV 2026｜北大团队提出DragMesh：一次拖拽，实现可交互的3D关节运动生成</p><p>标签: DragMesh, IJCV 2026</p>]]></description>
-      <category>DragMesh</category>
-      <category>IJCV 2026</category>
     </item>
   </channel>
 </rss>
