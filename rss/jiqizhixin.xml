@@ -4,8 +4,105 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 22 Oct 2026 02:05:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 09:00:27 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[大模型被A股上了一课！EinsiaAI发布Quant Arena，半数大模型亏本]]></title>
+      <link>https://www.jiqizhixin.com/articles/decf3acd-fb78-4c4f-ab4c-23fd841acb33</link>
+      <guid>decf3acd-fb78-4c4f-ab4c-23fd841acb33</guid>
+      <pubDate>Thu, 22 Oct 2026 08:58:31 +0000</pubDate>
+      <description><![CDATA[<p>大模型被A股上了一课！EinsiaAI发布Quant Arena，半数大模型亏本</p><p>标签: Quant Arena, EinsiaAI</p>]]></description>
+      <category>Quant Arena</category>
+      <category>EinsiaAI</category>
+    </item>
+    <item>
+      <title><![CDATA[AI设计超材料，不用在「照搬」和「散架」间二选一了]]></title>
+      <link>https://www.jiqizhixin.com/articles/9280b56d-284a-4e8e-855d-e2b3e78dead4</link>
+      <guid>9280b56d-284a-4e8e-855d-e2b3e78dead4</guid>
+      <pubDate>Thu, 22 Oct 2026 08:58:31 +0000</pubDate>
+      <description><![CDATA[<p>AI设计超材料，不用在「照搬」和「散架」间二选一了</p><p>标签: NeurIPS 2026, ReGDiff</p>]]></description>
+      <category>NeurIPS 2026</category>
+      <category>ReGDiff</category>
+    </item>
+    <item>
+      <title><![CDATA[火山引擎启动Seedance 2.5 4K 企业试用：第一批定向供应 20 家工作室]]></title>
+      <link>https://www.jiqizhixin.com/articles/f0c092d4-24e7-4fd8-b671-f9eb19a2c9ce</link>
+      <guid>f0c092d4-24e7-4fd8-b671-f9eb19a2c9ce</guid>
+      <pubDate>Thu, 22 Oct 2026 08:58:59 +0000</pubDate>
+      <description><![CDATA[<p>火山引擎启动Seedance 2.5 4K 企业试用：第一批定向供应 20 家工作室</p><p>标签: Seedance 2.5, 火山引擎</p>]]></description>
+      <category>Seedance 2.5</category>
+      <category>火山引擎</category>
+    </item>
+    <item>
+      <title><![CDATA[从合肥展会走向普通家庭，奇瑞这台90厘米人形机器人开放预订]]></title>
+      <link>https://www.jiqizhixin.com/articles/a18673dc-ad10-4d0f-a52b-d5d21e136582</link>
+      <guid>a18673dc-ad10-4d0f-a52b-d5d21e136582</guid>
+      <pubDate>Thu, 22 Oct 2026 08:59:00 +0000</pubDate>
+      <description><![CDATA[<p>从合肥展会走向普通家庭，奇瑞这台90厘米人形机器人开放预订</p><p>标签: “墨宝”（Mobo）, 墨甲机器人, 奇瑞</p>]]></description>
+      <category>“墨宝”（Mobo）</category>
+      <category>墨甲机器人</category>
+      <category>奇瑞</category>
+    </item>
+    <item>
+      <title><![CDATA[32分钟解析，OpenAI携手生物技术公司部署数千个智能体，破解脑细胞图谱]]></title>
+      <link>https://www.jiqizhixin.com/articles/aead51aa-62c5-4688-9943-3b84a5f80c42</link>
+      <guid>aead51aa-62c5-4688-9943-3b84a5f80c42</guid>
+      <pubDate>Thu, 22 Oct 2026 08:59:28 +0000</pubDate>
+      <description><![CDATA[<p>32分钟解析，OpenAI携手生物技术公司部署数千个智能体，破解脑细胞图谱</p><p>标签: AI for Science（AI4S）, GPT-Rosalind, PerturbAI, OpenAI</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>GPT-Rosalind</category>
+      <category>PerturbAI</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[突发！OpenAI发现PHP重大安全漏洞，成为影响力最大的漏洞之一]]></title>
+      <link>https://www.jiqizhixin.com/articles/1c287153-795d-4ffb-972a-ef3d74393bf2</link>
+      <guid>1c287153-795d-4ffb-972a-ef3d74393bf2</guid>
+      <pubDate>Thu, 22 Oct 2026 08:59:28 +0000</pubDate>
+      <description><![CDATA[<p>突发！OpenAI发现PHP重大安全漏洞，成为影响力最大的漏洞之一</p><p>标签: PHP2Shell, PHP, GPT‑5.6 Sol, OpenAI</p>]]></description>
+      <category>PHP2Shell</category>
+      <category>PHP</category>
+      <category>GPT‑5.6 Sol</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[27B开源模型追平GPT-6 Astra、Claude Opus 5！UCLA×Adobe提出Tev：先造好「答案世界」，再给智能体出长程考题]]></title>
+      <link>https://www.jiqizhixin.com/articles/a4855462-dfe7-4a57-8dec-e8eaec5cf342</link>
+      <guid>a4855462-dfe7-4a57-8dec-e8eaec5cf342</guid>
+      <pubDate>Thu, 22 Oct 2026 08:59:56 +0000</pubDate>
+      <description><![CDATA[<p>27B开源模型追平GPT-6 Astra、Claude Opus 5！UCLA×Adobe提出Tev：先造好「答案世界」，再给智能体出长程考题</p><p>标签: Tev-Gym, Tev, Adobe Research</p>]]></description>
+      <category>Tev-Gym</category>
+      <category>Tev</category>
+      <category>Adobe Research</category>
+    </item>
+    <item>
+      <title><![CDATA[多榜登顶，跨越仿真、真机与真实场景！无界动力发布并开源MWA™-Phoenix隐空间世界模型基座]]></title>
+      <link>https://www.jiqizhixin.com/articles/bead06cd-c4e2-4e52-b8a4-40cece408bcf</link>
+      <guid>bead06cd-c4e2-4e52-b8a4-40cece408bcf</guid>
+      <pubDate>Thu, 22 Oct 2026 08:59:59 +0000</pubDate>
+      <description><![CDATA[<p>多榜登顶，跨越仿真、真机与真实场景！无界动力发布并开源MWA™-Phoenix隐空间世界模型基座</p><p>标签: 隐空间世界模型, MWA™-Phoenix, 无界动力</p>]]></description>
+      <category>隐空间世界模型</category>
+      <category>MWA™-Phoenix</category>
+      <category>无界动力</category>
+    </item>
+    <item>
+      <title><![CDATA[DeepSeek开源推理框架，有人算出AI的毛利：82%]]></title>
+      <link>https://www.jiqizhixin.com/articles/8209f028-a7f4-47b0-bd1e-d3f62190ef0e</link>
+      <guid>8209f028-a7f4-47b0-bd1e-d3f62190ef0e</guid>
+      <pubDate>Thu, 22 Oct 2026 09:00:25 +0000</pubDate>
+      <description><![CDATA[<p>DeepSeek开源推理框架，有人算出AI的毛利：82%</p><p>标签: DeepInfer, DeepSeek</p>]]></description>
+      <category>DeepInfer</category>
+      <category>DeepSeek</category>
+    </item>
+    <item>
+      <title><![CDATA[NeurIPS 2026｜克隆得像，就够了吗？RVCBench系统评测18个语音克隆模型的真实世界鲁棒性]]></title>
+      <link>https://www.jiqizhixin.com/articles/96331735-bc56-4090-97b0-3c7a4240f118</link>
+      <guid>96331735-bc56-4090-97b0-3c7a4240f118</guid>
+      <pubDate>Thu, 22 Oct 2026 09:00:27 +0000</pubDate>
+      <description><![CDATA[<p>NeurIPS 2026｜克隆得像，就够了吗？RVCBench系统评测18个语音克隆模型的真实世界鲁棒性</p><p>标签: RVCBench, NeurIPS 2026</p>]]></description>
+      <category>RVCBench</category>
+      <category>NeurIPS 2026</category>
+    </item>
     <item>
       <title><![CDATA[一句话指挥机器人组团打工，还能越干越聪明?这波物理AI有点夯]]></title>
       <link>https://www.jiqizhixin.com/articles/a19a773f-84b9-4b26-bb86-95112dfb3939</link>
@@ -24,102 +121,6 @@
       <description><![CDATA[<p>IJCV 2026｜北大团队提出DragMesh：一次拖拽，实现可交互的3D关节运动生成</p><p>标签: DragMesh, IJCV 2026</p>]]></description>
       <category>DragMesh</category>
       <category>IJCV 2026</category>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic接连突破后，OpenAI收购AI制药创企，CTO是北大校友]]></title>
-      <link>https://www.jiqizhixin.com/articles/f9f29d92-2590-455d-b1b3-368b5dd325ba</link>
-      <guid>f9f29d92-2590-455d-b1b3-368b5dd325ba</guid>
-      <pubDate>Wed, 21 Oct 2026 14:44:36 +0000</pubDate>
-      <description><![CDATA[<p>Anthropic接连突破后，OpenAI收购AI制药创企，CTO是北大校友</p><p>标签: AI for Science（AI4S）, AI 生物制药, Orchestra Bio, OpenAI</p>]]></description>
-      <category>AI for Science（AI4S）</category>
-      <category>AI 生物制药</category>
-      <category>Orchestra Bio</category>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[继罗福莉之后，生数科技Motubrain团队公开Physical AI训练全流程，连续直播半个月]]></title>
-      <link>https://www.jiqizhixin.com/articles/26703756-08c4-480b-ab10-7b45ab0c484c</link>
-      <guid>26703756-08c4-480b-ab10-7b45ab0c484c</guid>
-      <pubDate>Wed, 21 Oct 2026 14:44:38 +0000</pubDate>
-      <description><![CDATA[<p>继罗福莉之后，生数科技Motubrain团队公开Physical AI训练全流程，连续直播半个月</p><p>标签: Physical AI, 生数科技</p>]]></description>
-      <category>Physical AI</category>
-      <category>生数科技</category>
-    </item>
-    <item>
-      <title><![CDATA[飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人]]></title>
-      <link>https://www.jiqizhixin.com/articles/32c94f2a-38f0-4f2e-9076-a3b24ffcdd2a</link>
-      <guid>32c94f2a-38f0-4f2e-9076-a3b24ffcdd2a</guid>
-      <pubDate>Wed, 21 Oct 2026 08:56:16 +0000</pubDate>
-      <description><![CDATA[<p>飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人</p><p>标签: 飞书豆包工作AI先锋未来人才大赛</p>]]></description>
-      <category>飞书豆包工作AI先锋未来人才大赛</category>
-    </item>
-    <item>
-      <title><![CDATA[从种草到世界杯，小红书的技术实力藏不住了]]></title>
-      <link>https://www.jiqizhixin.com/articles/86fef556-3205-4ff2-b236-428f82900e6b</link>
-      <guid>86fef556-3205-4ff2-b236-428f82900e6b</guid>
-      <pubDate>Wed, 21 Oct 2026 08:56:16 +0000</pubDate>
-      <description><![CDATA[<p>从种草到世界杯，小红书的技术实力藏不住了</p><p>标签: 美加墨世界杯, 小红书</p>]]></description>
-      <category>美加墨世界杯</category>
-      <category>小红书</category>
-    </item>
-    <item>
-      <title><![CDATA[刚离开Kimi，17岁的陈广宇去了Jeff Dean新公司]]></title>
-      <link>https://www.jiqizhixin.com/articles/460c4cbd-b6f9-40ac-b3cd-88f49ca8c4d0</link>
-      <guid>460c4cbd-b6f9-40ac-b3cd-88f49ca8c4d0</guid>
-      <pubDate>Wed, 21 Oct 2026 08:56:45 +0000</pubDate>
-      <description><![CDATA[<p>刚离开Kimi，17岁的陈广宇去了Jeff Dean新公司</p><p>标签: Discovery Loop, 陈广宇</p>]]></description>
-      <category>Discovery Loop</category>
-      <category>陈广宇</category>
-    </item>
-    <item>
-      <title><![CDATA[AI Agent学会自我进化！微软与UCSB新研究：自己读论文、改代码]]></title>
-      <link>https://www.jiqizhixin.com/articles/75e62f53-802c-4670-ac95-65701a91ccc1</link>
-      <guid>75e62f53-802c-4670-ac95-65701a91ccc1</guid>
-      <pubDate>Wed, 21 Oct 2026 08:56:45 +0000</pubDate>
-      <description><![CDATA[<p>AI Agent学会自我进化！微软与UCSB新研究：自己读论文、改代码</p><p>标签: ScholarEvolve, 微软, 加州大学圣塔芭芭拉分校（UCSB）</p>]]></description>
-      <category>ScholarEvolve</category>
-      <category>微软</category>
-      <category>加州大学圣塔芭芭拉分校（UCSB）</category>
-    </item>
-    <item>
-      <title><![CDATA[NeurIPS 2026 | 大模型真的会模拟人类用户吗？中科院软件所、快手推出首个真实世界全链路用户行为模拟基准]]></title>
-      <link>https://www.jiqizhixin.com/articles/a73af91b-8859-4917-bc6a-d592b44aa4eb</link>
-      <guid>a73af91b-8859-4917-bc6a-d592b44aa4eb</guid>
-      <pubDate>Wed, 21 Oct 2026 08:57:12 +0000</pubDate>
-      <description><![CDATA[<p>NeurIPS 2026 | 大模型真的会模拟人类用户吗？中科院软件所、快手推出首个真实世界全链路用户行为模拟基准</p><p>标签: NeurIPS 2026, OmniBehavior, 中国科学院软件研究所</p>]]></description>
-      <category>NeurIPS 2026</category>
-      <category>OmniBehavior</category>
-      <category>中国科学院软件研究所</category>
-    </item>
-    <item>
-      <title><![CDATA[半导体眼睛国产替代 | 国仪量子 200kV 透射电镜做到 0.1 纳米分辨率，已可量产交付]]></title>
-      <link>https://www.jiqizhixin.com/articles/d71d8fa9-bf5a-4a9c-8947-b76f6f7c7639</link>
-      <guid>d71d8fa9-bf5a-4a9c-8947-b76f6f7c7639</guid>
-      <pubDate>Wed, 21 Oct 2026 08:57:13 +0000</pubDate>
-      <description><![CDATA[<p>半导体眼睛国产替代 | 国仪量子 200kV 透射电镜做到 0.1 纳米分辨率，已可量产交付</p><p>标签: 透射电镜, 光纤耦合 CMOS 相机, TEMF200, 国仪量子</p>]]></description>
-      <category>透射电镜</category>
-      <category>光纤耦合 CMOS 相机</category>
-      <category>TEMF200</category>
-      <category>国仪量子</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，Claude 64小时设计31万种蛋白，17种通过实验验证]]></title>
-      <link>https://www.jiqizhixin.com/articles/3c9ee352-f019-45cb-9316-9db9fe09e1f5</link>
-      <guid>3c9ee352-f019-45cb-9316-9db9fe09e1f5</guid>
-      <pubDate>Wed, 21 Oct 2026 08:57:41 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，Claude 64小时设计31万种蛋白，17种通过实验验证</p><p>标签: 蛋白质设计, Claude, Anthropic</p>]]></description>
-      <category>蛋白质设计</category>
-      <category>Claude</category>
-      <category>Anthropic</category>
-    </item>
-    <item>
-      <title><![CDATA[游戏开发也能自我进化？RSIGame让AI自主试玩、修复与迭代，27B模型组合超GPT-5.5一次生成]]></title>
-      <link>https://www.jiqizhixin.com/articles/4726e520-e311-4d5b-aadc-d92c1a1f4398</link>
-      <guid>4726e520-e311-4d5b-aadc-d92c1a1f4398</guid>
-      <pubDate>Wed, 21 Oct 2026 08:57:41 +0000</pubDate>
-      <description><![CDATA[<p>游戏开发也能自我进化？RSIGame让AI自主试玩、修复与迭代，27B模型组合超GPT-5.5一次生成</p><p>标签: RSIGame, UC San Diego</p>]]></description>
-      <category>RSIGame</category>
-      <category>UC San Diego</category>
     </item>
   </channel>
 </rss>
