@@ -4,8 +4,82 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 23 Oct 2026 02:10:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 08:55:06 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[机器人能自己改自己了, 离「越学越会学」还有多远?]]></title>
+      <link>https://www.jiqizhixin.com/articles/da13bec6-5dfd-4781-8dea-cb63d1a51681</link>
+      <guid>da13bec6-5dfd-4781-8dea-cb63d1a51681</guid>
+      <pubDate>Fri, 23 Oct 2026 08:53:28 +0000</pubDate>
+      <description><![CDATA[<p>机器人能自己改自己了, 离「越学越会学」还有多远?</p><p>标签: Physical RSI, 上海交通大学</p>]]></description>
+      <category>Physical RSI</category>
+      <category>上海交通大学</category>
+    </item>
+    <item>
+      <title><![CDATA[「自变量机器人」3亿元落子合肥：具身智能如何跨过从模型到交付的门槛？]]></title>
+      <link>https://www.jiqizhixin.com/articles/31dbb8f5-bfa7-4fe7-bb91-c087580d70b9</link>
+      <guid>31dbb8f5-bfa7-4fe7-bb91-c087580d70b9</guid>
+      <pubDate>Fri, 23 Oct 2026 08:53:28 +0000</pubDate>
+      <description><![CDATA[<p>「自变量机器人」3亿元落子合肥：具身智能如何跨过从模型到交付的门槛？</p><p>标签: 自变量机器人, 具身智能</p>]]></description>
+      <category>自变量机器人</category>
+      <category>具身智能</category>
+    </item>
+    <item>
+      <title><![CDATA[千问蒋冠军：构建Personal Agent技术框架，需要模型、记忆与生态协同推进]]></title>
+      <link>https://www.jiqizhixin.com/articles/2ee0c8fd-8e48-4e13-86e2-de61486f0688</link>
+      <guid>2ee0c8fd-8e48-4e13-86e2-de61486f0688</guid>
+      <pubDate>Fri, 23 Oct 2026 08:54:09 +0000</pubDate>
+      <description><![CDATA[<p>千问蒋冠军：构建Personal Agent技术框架，需要模型、记忆与生态协同推进</p><p>标签: Personal Agent, 阿里巴巴, 2026中国计算机大会</p>]]></description>
+      <category>Personal Agent</category>
+      <category>阿里巴巴</category>
+      <category>2026中国计算机大会</category>
+    </item>
+    <item>
+      <title><![CDATA[Science封面丨微软团队利用语言模型，在临床诊断中顺序推理]]></title>
+      <link>https://www.jiqizhixin.com/articles/ec03c2f7-0a7a-4493-987e-1c4df386c4d8</link>
+      <guid>ec03c2f7-0a7a-4493-987e-1c4df386c4d8</guid>
+      <pubDate>Fri, 23 Oct 2026 08:53:56 +0000</pubDate>
+      <description><![CDATA[<p>Science封面丨微软团队利用语言模型，在临床诊断中顺序推理</p><p>标签: AI for Science（AI4S）, DxO, SDBench</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>DxO</category>
+      <category>SDBench</category>
+    </item>
+    <item>
+      <title><![CDATA[向实·智行致远——「AI中国」机器之心2026年度榜单评选正式启动]]></title>
+      <link>https://www.jiqizhixin.com/articles/98ded749-a5f1-43ea-ae16-1996e379b203</link>
+      <guid>98ded749-a5f1-43ea-ae16-1996e379b203</guid>
+      <pubDate>Fri, 23 Oct 2026 08:54:24 +0000</pubDate>
+      <description><![CDATA[<p>向实·智行致远——「AI中国」机器之心2026年度榜单评选正式启动</p><p>标签: 「AI中国」机器之心2026年度榜单</p>]]></description>
+      <category>「AI中国」机器之心2026年度榜单</category>
+    </item>
+    <item>
+      <title><![CDATA[一人，合法，反超原版，王琰：填平闭源模型的思维链护城河]]></title>
+      <link>https://www.jiqizhixin.com/articles/98012293-0437-44d1-b0c1-6b29ba8a29dc</link>
+      <guid>98012293-0437-44d1-b0c1-6b29ba8a29dc</guid>
+      <pubDate>Fri, 23 Oct 2026 08:54:38 +0000</pubDate>
+      <description><![CDATA[<p>一人，合法，反超原版，王琰：填平闭源模型的思维链护城河</p><p>标签: family-native trace（原生思维链）, 王琰</p>]]></description>
+      <category>family-native trace（原生思维链）</category>
+      <category>王琰</category>
+    </item>
+    <item>
+      <title><![CDATA[Kimi K3.1、Qwen 4一起来？从没见过匿名模型能这么玩]]></title>
+      <link>https://www.jiqizhixin.com/articles/7139b282-e881-43e4-b4e8-0f3f30db3116</link>
+      <guid>7139b282-e881-43e4-b4e8-0f3f30db3116</guid>
+      <pubDate>Fri, 23 Oct 2026 08:54:52 +0000</pubDate>
+      <description><![CDATA[<p>Kimi K3.1、Qwen 4一起来？从没见过匿名模型能这么玩</p><p>标签: Qwen 4, Kimi K3.1</p>]]></description>
+      <category>Qwen 4</category>
+      <category>Kimi K3.1</category>
+    </item>
+    <item>
+      <title><![CDATA[当语音智能体开始「边聊边干活」：DuplexAgent-RSI让全双工协作进入自进化时代]]></title>
+      <link>https://www.jiqizhixin.com/articles/1c052bc9-1c53-49f4-af57-a4e89aa76f91</link>
+      <guid>1c052bc9-1c53-49f4-af57-a4e89aa76f91</guid>
+      <pubDate>Fri, 23 Oct 2026 08:55:06 +0000</pubDate>
+      <description><![CDATA[<p>当语音智能体开始「边聊边干活」：DuplexAgent-RSI让全双工协作进入自进化时代</p><p>标签: DuplexAgent-RSI, 安菲翁科技, 香港中文大学（深圳）</p>]]></description>
+      <category>DuplexAgent-RSI</category>
+      <category>安菲翁科技</category>
+      <category>香港中文大学（深圳）</category>
+    </item>
     <item>
       <title><![CDATA[首发实测！鹅厂刚开放的「元宝搜索」，给开发者减负了！（附福利激活码）]]></title>
       <link>https://www.jiqizhixin.com/articles/bdc00caa-c178-4510-b4e6-9e6b221c4b9a</link>
@@ -43,84 +117,6 @@
       <category>Agent2Act</category>
       <category>RoboColiseum</category>
       <category>具身智能</category>
-    </item>
-    <item>
-      <title><![CDATA[Agent作为木马：驶向智能「奥德赛」的AI，为何成了黑客洗劫资产的「白手套」？]]></title>
-      <link>https://www.jiqizhixin.com/articles/f054b5a9-de1e-4ed4-9075-9bb2e8387776</link>
-      <guid>f054b5a9-de1e-4ed4-9075-9bb2e8387776</guid>
-      <pubDate>Thu, 22 Oct 2026 14:44:51 +0000</pubDate>
-      <description><![CDATA[<p>Agent作为木马：驶向智能「奥德赛」的AI，为何成了黑客洗劫资产的「白手套」？</p><p>标签: ResGate, AI 安全, 上海交通大学</p>]]></description>
-      <category>ResGate</category>
-      <category>AI 安全</category>
-      <category>上海交通大学</category>
-    </item>
-    <item>
-      <title><![CDATA[又一国产决策模型发布！准确率超过微软和Jev等决策模型]]></title>
-      <link>https://www.jiqizhixin.com/articles/18276dac-56cc-47ed-89e4-9dcc38561c4f</link>
-      <guid>18276dac-56cc-47ed-89e4-9dcc38561c4f</guid>
-      <pubDate>Thu, 22 Oct 2026 14:44:51 +0000</pubDate>
-      <description><![CDATA[<p>又一国产决策模型发布！准确率超过微软和Jev等决策模型</p><p>标签: LingDT-Decision-1.0, 蚂蚁数科</p>]]></description>
-      <category>LingDT-Decision-1.0</category>
-      <category>蚂蚁数科</category>
-    </item>
-    <item>
-      <title><![CDATA[大模型被A股上了一课！EinsiaAI发布Quant Arena，半数大模型亏本]]></title>
-      <link>https://www.jiqizhixin.com/articles/decf3acd-fb78-4c4f-ab4c-23fd841acb33</link>
-      <guid>decf3acd-fb78-4c4f-ab4c-23fd841acb33</guid>
-      <pubDate>Thu, 22 Oct 2026 08:58:31 +0000</pubDate>
-      <description><![CDATA[<p>大模型被A股上了一课！EinsiaAI发布Quant Arena，半数大模型亏本</p><p>标签: Quant Arena, EinsiaAI</p>]]></description>
-      <category>Quant Arena</category>
-      <category>EinsiaAI</category>
-    </item>
-    <item>
-      <title><![CDATA[AI设计超材料，不用在「照搬」和「散架」间二选一了]]></title>
-      <link>https://www.jiqizhixin.com/articles/9280b56d-284a-4e8e-855d-e2b3e78dead4</link>
-      <guid>9280b56d-284a-4e8e-855d-e2b3e78dead4</guid>
-      <pubDate>Thu, 22 Oct 2026 08:58:31 +0000</pubDate>
-      <description><![CDATA[<p>AI设计超材料，不用在「照搬」和「散架」间二选一了</p><p>标签: NeurIPS 2026, ReGDiff</p>]]></description>
-      <category>NeurIPS 2026</category>
-      <category>ReGDiff</category>
-    </item>
-    <item>
-      <title><![CDATA[火山引擎启动Seedance 2.5 4K 企业试用：第一批定向供应 20 家工作室]]></title>
-      <link>https://www.jiqizhixin.com/articles/f0c092d4-24e7-4fd8-b671-f9eb19a2c9ce</link>
-      <guid>f0c092d4-24e7-4fd8-b671-f9eb19a2c9ce</guid>
-      <pubDate>Thu, 22 Oct 2026 08:58:59 +0000</pubDate>
-      <description><![CDATA[<p>火山引擎启动Seedance 2.5 4K 企业试用：第一批定向供应 20 家工作室</p><p>标签: Seedance 2.5, 火山引擎</p>]]></description>
-      <category>Seedance 2.5</category>
-      <category>火山引擎</category>
-    </item>
-    <item>
-      <title><![CDATA[从合肥展会走向普通家庭，奇瑞这台90厘米人形机器人开放预订]]></title>
-      <link>https://www.jiqizhixin.com/articles/a18673dc-ad10-4d0f-a52b-d5d21e136582</link>
-      <guid>a18673dc-ad10-4d0f-a52b-d5d21e136582</guid>
-      <pubDate>Thu, 22 Oct 2026 08:59:00 +0000</pubDate>
-      <description><![CDATA[<p>从合肥展会走向普通家庭，奇瑞这台90厘米人形机器人开放预订</p><p>标签: “墨宝”（Mobo）, 墨甲机器人, 奇瑞</p>]]></description>
-      <category>“墨宝”（Mobo）</category>
-      <category>墨甲机器人</category>
-      <category>奇瑞</category>
-    </item>
-    <item>
-      <title><![CDATA[32分钟解析，OpenAI携手生物技术公司部署数千个智能体，破解脑细胞图谱]]></title>
-      <link>https://www.jiqizhixin.com/articles/aead51aa-62c5-4688-9943-3b84a5f80c42</link>
-      <guid>aead51aa-62c5-4688-9943-3b84a5f80c42</guid>
-      <pubDate>Thu, 22 Oct 2026 08:59:28 +0000</pubDate>
-      <description><![CDATA[<p>32分钟解析，OpenAI携手生物技术公司部署数千个智能体，破解脑细胞图谱</p><p>标签: AI for Science（AI4S）, GPT-Rosalind, PerturbAI, OpenAI</p>]]></description>
-      <category>AI for Science（AI4S）</category>
-      <category>GPT-Rosalind</category>
-      <category>PerturbAI</category>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[突发！OpenAI发现PHP重大安全漏洞，成为影响力最大的漏洞之一]]></title>
-      <link>https://www.jiqizhixin.com/articles/1c287153-795d-4ffb-972a-ef3d74393bf2</link>
-      <guid>1c287153-795d-4ffb-972a-ef3d74393bf2</guid>
-      <pubDate>Thu, 22 Oct 2026 08:59:28 +0000</pubDate>
-      <description><![CDATA[<p>突发！OpenAI发现PHP重大安全漏洞，成为影响力最大的漏洞之一</p><p>标签: PHP2Shell, PHP, GPT‑5.6 Sol, OpenAI</p>]]></description>
-      <category>PHP2Shell</category>
-      <category>PHP</category>
-      <category>GPT‑5.6 Sol</category>
-      <category>OpenAI</category>
     </item>
   </channel>
 </rss>
