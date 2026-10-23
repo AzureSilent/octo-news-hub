@@ -4,8 +4,54 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 23 Oct 2026 08:55:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 14:31:33 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[行业首个Pro Agent问世！「AI祖师爷」Kevin Knight空降中国谈AI跃迁]]></title>
+      <link>https://www.jiqizhixin.com/articles/93c23bea-b299-4762-9277-4b7163882bdd</link>
+      <guid>93c23bea-b299-4762-9277-4b7163882bdd</guid>
+      <pubDate>Fri, 23 Oct 2026 14:30:32 +0000</pubDate>
+      <description><![CDATA[<p>行业首个Pro Agent问世！「AI祖师爷」Kevin Knight空降中国谈AI跃迁</p><p>标签: Navos Pro, 钛动科技, TGC 2026 科技增长大会</p>]]></description>
+      <category>Navos Pro</category>
+      <category>钛动科技</category>
+      <category>TGC 2026 科技增长大会</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，你每天在用的Skills发生了一件大事]]></title>
+      <link>https://www.jiqizhixin.com/articles/1a234777-2131-4664-80b9-25ed4f63a967</link>
+      <guid>1a234777-2131-4664-80b9-25ed4f63a967</guid>
+      <pubDate>Fri, 23 Oct 2026 14:30:33 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，你每天在用的Skills发生了一件大事</p><p>标签: Agentic AI Foundation（AAIF）, Linux</p>]]></description>
+      <category>Agentic AI Foundation（AAIF）</category>
+      <category>Linux</category>
+    </item>
+    <item>
+      <title><![CDATA[FP4 W/A+FP4 KV的强化学习也能「又快又稳」：阿里千问提出TRACE，Rollout最高加速5.4倍]]></title>
+      <link>https://www.jiqizhixin.com/articles/045104c9-3b46-4b93-a24a-c11004b56605</link>
+      <guid>045104c9-3b46-4b93-a24a-c11004b56605</guid>
+      <pubDate>Fri, 23 Oct 2026 14:31:02 +0000</pubDate>
+      <description><![CDATA[<p>FP4 W/A+FP4 KV的强化学习也能「又快又稳」：阿里千问提出TRACE，Rollout最高加速5.4倍</p><p>标签: TRACE, 俄亥俄州立大学, 阿里千问</p>]]></description>
+      <category>TRACE</category>
+      <category>俄亥俄州立大学</category>
+      <category>阿里千问</category>
+    </item>
+    <item>
+      <title><![CDATA[科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力]]></title>
+      <link>https://www.jiqizhixin.com/articles/ac153dfd-86cb-491f-aa55-fd9d17f8f955</link>
+      <guid>ac153dfd-86cb-491f-aa55-fd9d17f8f955</guid>
+      <pubDate>Fri, 23 Oct 2026 14:31:02 +0000</pubDate>
+      <description><![CDATA[<p>科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力</p><p>标签: 2026科大讯飞全球1024开发者节</p>]]></description>
+      <category>2026科大讯飞全球1024开发者节</category>
+    </item>
+    <item>
+      <title><![CDATA[离谱！花一样的钱Claude额度却不一样？Anthropic被曝秘密测试订阅套餐]]></title>
+      <link>https://www.jiqizhixin.com/articles/6b9baa51-4eac-4402-93c4-e6b09c94aed8</link>
+      <guid>6b9baa51-4eac-4402-93c4-e6b09c94aed8</guid>
+      <pubDate>Fri, 23 Oct 2026 14:31:33 +0000</pubDate>
+      <description><![CDATA[<p>离谱！花一样的钱Claude额度却不一样？Anthropic被曝秘密测试订阅套餐</p><p>标签: Claude, Anthropic</p>]]></description>
+      <category>Claude</category>
+      <category>Anthropic</category>
+    </item>
     <item>
       <title><![CDATA[机器人能自己改自己了, 离「越学越会学」还有多远?]]></title>
       <link>https://www.jiqizhixin.com/articles/da13bec6-5dfd-4781-8dea-cb63d1a51681</link>
@@ -69,54 +115,6 @@
       <description><![CDATA[<p>Kimi K3.1、Qwen 4一起来？从没见过匿名模型能这么玩</p><p>标签: Qwen 4, Kimi K3.1</p>]]></description>
       <category>Qwen 4</category>
       <category>Kimi K3.1</category>
-    </item>
-    <item>
-      <title><![CDATA[当语音智能体开始「边聊边干活」：DuplexAgent-RSI让全双工协作进入自进化时代]]></title>
-      <link>https://www.jiqizhixin.com/articles/1c052bc9-1c53-49f4-af57-a4e89aa76f91</link>
-      <guid>1c052bc9-1c53-49f4-af57-a4e89aa76f91</guid>
-      <pubDate>Fri, 23 Oct 2026 08:55:06 +0000</pubDate>
-      <description><![CDATA[<p>当语音智能体开始「边聊边干活」：DuplexAgent-RSI让全双工协作进入自进化时代</p><p>标签: DuplexAgent-RSI, 安菲翁科技, 香港中文大学（深圳）</p>]]></description>
-      <category>DuplexAgent-RSI</category>
-      <category>安菲翁科技</category>
-      <category>香港中文大学（深圳）</category>
-    </item>
-    <item>
-      <title><![CDATA[首发实测！鹅厂刚开放的「元宝搜索」，给开发者减负了！（附福利激活码）]]></title>
-      <link>https://www.jiqizhixin.com/articles/bdc00caa-c178-4510-b4e6-9e6b221c4b9a</link>
-      <guid>bdc00caa-c178-4510-b4e6-9e6b221c4b9a</guid>
-      <pubDate>Thu, 22 Oct 2026 14:43:51 +0000</pubDate>
-      <description><![CDATA[<p>首发实测！鹅厂刚开放的「元宝搜索」，给开发者减负了！（附福利激活码）</p><p>标签: 元宝搜索, 腾讯</p>]]></description>
-      <category>元宝搜索</category>
-      <category>腾讯</category>
-    </item>
-    <item>
-      <title><![CDATA[田渊栋新公司首个模型亮相！AI全程参与、不到4个月从零造]]></title>
-      <link>https://www.jiqizhixin.com/articles/b364fa7d-2e0e-4507-8744-e73e3dbf3bd7</link>
-      <guid>b364fa7d-2e0e-4507-8744-e73e3dbf3bd7</guid>
-      <pubDate>Thu, 22 Oct 2026 14:43:50 +0000</pubDate>
-      <description><![CDATA[<p>田渊栋新公司首个模型亮相！AI全程参与、不到4个月从零造</p><p>标签: Flint-40B-A2B, Recursive_SI, 田渊栋</p>]]></description>
-      <category>Flint-40B-A2B</category>
-      <category>Recursive_SI</category>
-      <category>田渊栋</category>
-    </item>
-    <item>
-      <title><![CDATA[NeurIPS 2026 | 从Token到Span：重新思考大语言模型的不确定性估计]]></title>
-      <link>https://www.jiqizhixin.com/articles/5d6e1e64-5edf-4876-a1f7-e0c9051745bb</link>
-      <guid>5d6e1e64-5edf-4876-a1f7-e0c9051745bb</guid>
-      <pubDate>Thu, 22 Oct 2026 14:44:20 +0000</pubDate>
-      <description><![CDATA[<p>NeurIPS 2026 | 从Token到Span：重新思考大语言模型的不确定性估计</p><p>标签: SpanUQ, NeurIPS 2026</p>]]></description>
-      <category>SpanUQ</category>
-      <category>NeurIPS 2026</category>
-    </item>
-    <item>
-      <title><![CDATA[对决RoboColiseum！GPT、Claude、Gemini机器人能力PK，险胜之后还有黑马]]></title>
-      <link>https://www.jiqizhixin.com/articles/fcaf7f47-6fa8-4401-99f8-9cfaaa9aa4a4</link>
-      <guid>fcaf7f47-6fa8-4401-99f8-9cfaaa9aa4a4</guid>
-      <pubDate>Thu, 22 Oct 2026 14:44:22 +0000</pubDate>
-      <description><![CDATA[<p>对决RoboColiseum！GPT、Claude、Gemini机器人能力PK，险胜之后还有黑马</p><p>标签: Agent2Act, RoboColiseum, 具身智能</p>]]></description>
-      <category>Agent2Act</category>
-      <category>RoboColiseum</category>
-      <category>具身智能</category>
     </item>
   </channel>
 </rss>
