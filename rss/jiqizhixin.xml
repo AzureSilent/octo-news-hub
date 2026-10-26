@@ -4,8 +4,27 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 26 Oct 2026 14:37:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 20:47:31 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[可可矩阵COCO Matrix发布CO01模型：言传身教，让机器人边做边学]]></title>
+      <link>https://www.jiqizhixin.com/articles/c61acec2-f68b-46d8-b568-7effbbecbb75</link>
+      <guid>c61acec2-f68b-46d8-b568-7effbbecbb75</guid>
+      <pubDate>Mon, 26 Oct 2026 20:47:30 +0000</pubDate>
+      <description><![CDATA[<p>可可矩阵COCO Matrix发布CO01模型：言传身教，让机器人边做边学</p><p>标签: CO01, 可可矩阵（COCO Matrix）</p>]]></description>
+      <category>CO01</category>
+      <category>可可矩阵（COCO Matrix）</category>
+    </item>
+    <item>
+      <title><![CDATA[让JEPA真正理解世界背后的生成机制，DSReg让世界模型的每一维都有了真实含义]]></title>
+      <link>https://www.jiqizhixin.com/articles/a04ba209-487f-4b3c-ac10-744e917a2f8d</link>
+      <guid>a04ba209-487f-4b3c-ac10-744e917a2f8d</guid>
+      <pubDate>Mon, 26 Oct 2026 20:47:31 +0000</pubDate>
+      <description><![CDATA[<p>让JEPA真正理解世界背后的生成机制，DSReg让世界模型的每一维都有了真实含义</p><p>标签: DSReg（Dependency-Sparsity Regularization）, 冷泉港实验室, UIUC</p>]]></description>
+      <category>DSReg（Dependency-Sparsity Regularization）</category>
+      <category>冷泉港实验室</category>
+      <category>UIUC</category>
+    </item>
     <item>
       <title><![CDATA[AI WAVE丨智元发布安规级重载具身机器人精灵G2 Max，载重与精细作业兼得]]></title>
       <link>https://www.jiqizhixin.com/articles/7f5bfb39-7147-4009-ac97-4f43446f06fa</link>
@@ -103,25 +122,6 @@
       <description><![CDATA[<p>英伟达GPU隐藏算力被开源解锁！不改官方驱动，RTX 4090吞吐翻倍</p><p>标签: RTX 4090, 英伟达</p>]]></description>
       <category>RTX 4090</category>
       <category>英伟达</category>
-    </item>
-    <item>
-      <title><![CDATA[别急着丢掉「坏数据」：三星团队提出 ε4P，让不完美数据助力高精度机器人操作]]></title>
-      <link>https://www.jiqizhixin.com/articles/851f0699-a3f7-4445-9a67-91b4b7e75484</link>
-      <guid>851f0699-a3f7-4445-9a67-91b4b7e75484</guid>
-      <pubDate>Mon, 26 Oct 2026 07:16:20 +0000</pubDate>
-      <description><![CDATA[<p>别急着丢掉「坏数据」：三星团队提出 ε4P，让不完美数据助力高精度机器人操作</p><p>标签: ε4P（Imperfection for Precision）, 三星 Samsung RX</p>]]></description>
-      <category>ε4P（Imperfection for Precision）</category>
-      <category>三星 Samsung RX</category>
-    </item>
-    <item>
-      <title><![CDATA[阿里巴巴智能体沙箱进入AAIF体系 成国内首个被收录开源项目]]></title>
-      <link>https://www.jiqizhixin.com/articles/07c92b55-e339-46f1-8341-9f810dce07ec</link>
-      <guid>07c92b55-e339-46f1-8341-9f810dce07ec</guid>
-      <pubDate>Mon, 26 Oct 2026 07:16:22 +0000</pubDate>
-      <description><![CDATA[<p>阿里巴巴智能体沙箱进入AAIF体系 成国内首个被收录开源项目</p><p>标签: AAIF, 智能体沙箱（OpenSandbox）, 阿里巴巴</p>]]></description>
-      <category>AAIF</category>
-      <category>智能体沙箱（OpenSandbox）</category>
-      <category>阿里巴巴</category>
     </item>
   </channel>
 </rss>
