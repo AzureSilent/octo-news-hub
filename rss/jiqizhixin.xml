@@ -4,8 +4,28 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 26 Oct 2026 07:16:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:37:42 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[AI WAVE丨智元发布安规级重载具身机器人精灵G2 Max，载重与精细作业兼得]]></title>
+      <link>https://www.jiqizhixin.com/articles/7f5bfb39-7147-4009-ac97-4f43446f06fa</link>
+      <guid>7f5bfb39-7147-4009-ac97-4f43446f06fa</guid>
+      <pubDate>Mon, 26 Oct 2026 14:37:41 +0000</pubDate>
+      <description><![CDATA[<p>AI WAVE丨智元发布安规级重载具身机器人精灵G2 Max，载重与精细作业兼得</p><p>标签: G2 Max, 具身机器人, 智元机器人</p>]]></description>
+      <category>G2 Max</category>
+      <category>具身机器人</category>
+      <category>智元机器人</category>
+    </item>
+    <item>
+      <title><![CDATA[即梦推出 “短剧工作室”，打造更全能的 AI 内容创作平台]]></title>
+      <link>https://www.jiqizhixin.com/articles/d78f41b7-30be-4b71-9b80-cc4056ce9837</link>
+      <guid>d78f41b7-30be-4b71-9b80-cc4056ce9837</guid>
+      <pubDate>Mon, 26 Oct 2026 14:37:42 +0000</pubDate>
+      <description><![CDATA[<p>即梦推出 “短剧工作室”，打造更全能的 AI 内容创作平台</p><p>标签: DreamScript, 短剧工作室, 即梦AI</p>]]></description>
+      <category>DreamScript</category>
+      <category>短剧工作室</category>
+      <category>即梦AI</category>
+    </item>
     <item>
       <title><![CDATA[支付宝AI支付发起年度黑客松大赛，邀开发者把AI创意变成生意]]></title>
       <link>https://www.jiqizhixin.com/articles/889eb841-25ad-4fc2-898c-129b5167e55b</link>
@@ -102,25 +122,6 @@
       <category>AAIF</category>
       <category>智能体沙箱（OpenSandbox）</category>
       <category>阿里巴巴</category>
-    </item>
-    <item>
-      <title><![CDATA[无问芯穹与三体宇宙联合发布智子Agent 1.0，以Agentic Infra支撑科幻IP角色智能体落地]]></title>
-      <link>https://www.jiqizhixin.com/articles/e94f9191-61ae-4300-9230-6c08b7184f24</link>
-      <guid>e94f9191-61ae-4300-9230-6c08b7184f24</guid>
-      <pubDate>Mon, 26 Oct 2026 07:16:49 +0000</pubDate>
-      <description><![CDATA[<p>无问芯穹与三体宇宙联合发布智子Agent 1.0，以Agentic Infra支撑科幻IP角色智能体落地</p><p>标签: 智子Agent 1.0, 三体宇宙, 无问芯穹（Infinigence-AI）</p>]]></description>
-      <category>智子Agent 1.0</category>
-      <category>三体宇宙</category>
-      <category>无问芯穹（Infinigence-AI）</category>
-    </item>
-    <item>
-      <title><![CDATA[清华团队构建HandsOn灵巧操作基准，66项任务全方位评测机器人双手能力]]></title>
-      <link>https://www.jiqizhixin.com/articles/19aba318-34c1-44d3-ae14-2f50f1e5c6b8</link>
-      <guid>19aba318-34c1-44d3-ae14-2f50f1e5c6b8</guid>
-      <pubDate>Sun, 25 Oct 2026 20:04:18 +0000</pubDate>
-      <description><![CDATA[<p>清华团队构建HandsOn灵巧操作基准，66项任务全方位评测机器人双手能力</p><p>标签: HandsOn, 清华大学</p>]]></description>
-      <category>HandsOn</category>
-      <category>清华大学</category>
     </item>
   </channel>
 </rss>
