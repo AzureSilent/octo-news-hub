@@ -4,8 +4,37 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 27 Oct 2026 06:57:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 13:42:02 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[语音输入卷到了新高度：说一句意图，给你一份成稿]]></title>
+      <link>https://www.jiqizhixin.com/articles/9b064f6a-2a0a-48ff-8c8e-06127d622757</link>
+      <guid>9b064f6a-2a0a-48ff-8c8e-06127d622757</guid>
+      <pubDate>Tue, 27 Oct 2026 13:41:33 +0000</pubDate>
+      <description><![CDATA[<p>语音输入卷到了新高度：说一句意图，给你一份成稿</p><p>标签: 讯飞输入法 16.0, 科大讯飞</p>]]></description>
+      <category>讯飞输入法 16.0</category>
+      <category>科大讯飞</category>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI掀翻计算机科学30年基石，还解决了挂谷猜想]]></title>
+      <link>https://www.jiqizhixin.com/articles/210cbe8b-0c93-4461-9b51-79aef97e4171</link>
+      <guid>210cbe8b-0c93-4461-9b51-79aef97e4171</guid>
+      <pubDate>Tue, 27 Oct 2026 13:41:32 +0000</pubDate>
+      <description><![CDATA[<p>OpenAI掀翻计算机科学30年基石，还解决了挂谷猜想</p><p>标签: 证伪指数时间假设（ETH）, 局部光滑化猜想, OpenAI</p>]]></description>
+      <category>证伪指数时间假设（ETH）</category>
+      <category>局部光滑化猜想</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[Proactive AI如何走向超级智能体？UIUC、谷歌、斯坦福、UC Berkeley、CMU联合综述]]></title>
+      <link>https://www.jiqizhixin.com/articles/aa475d06-da62-4cef-b66f-16bc7a60fd3c</link>
+      <guid>aa475d06-da62-4cef-b66f-16bc7a60fd3c</guid>
+      <pubDate>Tue, 27 Oct 2026 13:42:02 +0000</pubDate>
+      <description><![CDATA[<p>Proactive AI如何走向超级智能体？UIUC、谷歌、斯坦福、UC Berkeley、CMU联合综述</p><p>标签: Google, UIUC, Proactive AI</p>]]></description>
+      <category>Google</category>
+      <category>UIUC</category>
+      <category>Proactive AI</category>
+    </item>
     <item>
       <title><![CDATA[消费级AR眼镜迎来“帧”实力跃升： XREAL 1 Pro+正式发布，端侧2D转3D实现60fps高刷升级]]></title>
       <link>https://www.jiqizhixin.com/articles/c9d91540-7718-4617-a0e3-c39f4b32db8d</link>
@@ -89,34 +118,6 @@
       <description><![CDATA[<p>清华、英伟达等开了个新榜，38个AI实时视频模型露短板</p><p>标签: StreamEval, 清华大学</p>]]></description>
       <category>StreamEval</category>
       <category>清华大学</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，GPT-6.1 Terra发布！电脑操作比肩Astra，成本仅其1/10]]></title>
-      <link>https://www.jiqizhixin.com/articles/a1908492-e585-43a2-bc5e-64146c61699b</link>
-      <guid>a1908492-e585-43a2-bc5e-64146c61699b</guid>
-      <pubDate>Tue, 27 Oct 2026 06:57:12 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，GPT-6.1 Terra发布！电脑操作比肩Astra，成本仅其1/10</p><p>标签: GPT-6.1 Terra, OpenAI</p>]]></description>
-      <category>GPT-6.1 Terra</category>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[10小时数据+一段人手视频=？SkeLAM的零样本跨形态迁移]]></title>
-      <link>https://www.jiqizhixin.com/articles/db45adbf-b8ce-4d6b-bd0b-6b6c449674d6</link>
-      <guid>db45adbf-b8ce-4d6b-bd0b-6b6c449674d6</guid>
-      <pubDate>Tue, 27 Oct 2026 06:57:42 +0000</pubDate>
-      <description><![CDATA[<p>10小时数据+一段人手视频=？SkeLAM的零样本跨形态迁移</p><p>标签: SkeLAM, 哈尔滨工业大学（深圳）</p>]]></description>
-      <category>SkeLAM</category>
-      <category>哈尔滨工业大学（深圳）</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，Anthropic公开招股书：史上最大IPO，半年狂揽163亿美元]]></title>
-      <link>https://www.jiqizhixin.com/articles/f1dc8fe6-2c7b-49bb-8ff0-34aef933228c</link>
-      <guid>f1dc8fe6-2c7b-49bb-8ff0-34aef933228c</guid>
-      <pubDate>Tue, 27 Oct 2026 06:57:45 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，Anthropic公开招股书：史上最大IPO，半年狂揽163亿美元</p><p>标签: IPO, Anthropic, Claude</p>]]></description>
-      <category>IPO</category>
-      <category>Anthropic</category>
-      <category>Claude</category>
     </item>
   </channel>
 </rss>
