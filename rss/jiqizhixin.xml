@@ -4,124 +4,119 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 27 Oct 2026 00:57:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 06:57:45 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title><![CDATA[可可矩阵COCO Matrix发布CO01模型：言传身教，让机器人边做边学]]></title>
-      <link>https://www.jiqizhixin.com/articles/c61acec2-f68b-46d8-b568-7effbbecbb75</link>
-      <guid>c61acec2-f68b-46d8-b568-7effbbecbb75</guid>
-      <pubDate>Mon, 26 Oct 2026 20:47:30 +0000</pubDate>
-      <description><![CDATA[<p>可可矩阵COCO Matrix发布CO01模型：言传身教，让机器人边做边学</p><p>标签: CO01, 可可矩阵（COCO Matrix）</p>]]></description>
-      <category>CO01</category>
-      <category>可可矩阵（COCO Matrix）</category>
+      <title><![CDATA[消费级AR眼镜迎来“帧”实力跃升： XREAL 1 Pro+正式发布，端侧2D转3D实现60fps高刷升级]]></title>
+      <link>https://www.jiqizhixin.com/articles/c9d91540-7718-4617-a0e3-c39f4b32db8d</link>
+      <guid>c9d91540-7718-4617-a0e3-c39f4b32db8d</guid>
+      <pubDate>Tue, 27 Oct 2026 06:55:04 +0000</pubDate>
+      <description><![CDATA[<p>消费级AR眼镜迎来“帧”实力跃升： XREAL 1 Pro+正式发布，端侧2D转3D实现60fps高刷升级</p><p>标签: XREAL 1 Pro+, XREAL</p>]]></description>
+      <category>XREAL 1 Pro+</category>
+      <category>XREAL</category>
     </item>
     <item>
-      <title><![CDATA[让JEPA真正理解世界背后的生成机制，DSReg让世界模型的每一维都有了真实含义]]></title>
-      <link>https://www.jiqizhixin.com/articles/a04ba209-487f-4b3c-ac10-744e917a2f8d</link>
-      <guid>a04ba209-487f-4b3c-ac10-744e917a2f8d</guid>
-      <pubDate>Mon, 26 Oct 2026 20:47:31 +0000</pubDate>
-      <description><![CDATA[<p>让JEPA真正理解世界背后的生成机制，DSReg让世界模型的每一维都有了真实含义</p><p>标签: DSReg（Dependency-Sparsity Regularization）, 冷泉港实验室, UIUC</p>]]></description>
-      <category>DSReg（Dependency-Sparsity Regularization）</category>
-      <category>冷泉港实验室</category>
-      <category>UIUC</category>
-    </item>
-    <item>
-      <title><![CDATA[AI WAVE丨智元发布安规级重载具身机器人精灵G2 Max，载重与精细作业兼得]]></title>
-      <link>https://www.jiqizhixin.com/articles/7f5bfb39-7147-4009-ac97-4f43446f06fa</link>
-      <guid>7f5bfb39-7147-4009-ac97-4f43446f06fa</guid>
-      <pubDate>Mon, 26 Oct 2026 14:37:41 +0000</pubDate>
-      <description><![CDATA[<p>AI WAVE丨智元发布安规级重载具身机器人精灵G2 Max，载重与精细作业兼得</p><p>标签: G2 Max, 具身机器人, 智元机器人</p>]]></description>
-      <category>G2 Max</category>
-      <category>具身机器人</category>
-      <category>智元机器人</category>
-    </item>
-    <item>
-      <title><![CDATA[即梦推出 “短剧工作室”，打造更全能的 AI 内容创作平台]]></title>
-      <link>https://www.jiqizhixin.com/articles/d78f41b7-30be-4b71-9b80-cc4056ce9837</link>
-      <guid>d78f41b7-30be-4b71-9b80-cc4056ce9837</guid>
-      <pubDate>Mon, 26 Oct 2026 14:37:42 +0000</pubDate>
-      <description><![CDATA[<p>即梦推出 “短剧工作室”，打造更全能的 AI 内容创作平台</p><p>标签: DreamScript, 短剧工作室, 即梦AI</p>]]></description>
-      <category>DreamScript</category>
-      <category>短剧工作室</category>
-      <category>即梦AI</category>
-    </item>
-    <item>
-      <title><![CDATA[支付宝AI支付发起年度黑客松大赛，邀开发者把AI创意变成生意]]></title>
-      <link>https://www.jiqizhixin.com/articles/889eb841-25ad-4fc2-898c-129b5167e55b</link>
-      <guid>889eb841-25ad-4fc2-898c-129b5167e55b</guid>
-      <pubDate>Mon, 26 Oct 2026 07:14:29 +0000</pubDate>
-      <description><![CDATA[<p>支付宝AI支付发起年度黑客松大赛，邀开发者把AI创意变成生意</p><p>标签: “PAYATHON 2026”年度黑客松, 观猹, 支付宝, AI支付</p>]]></description>
-      <category>“PAYATHON 2026”年度黑客松</category>
-      <category>观猹</category>
-      <category>支付宝</category>
-      <category>AI支付</category>
-    </item>
-    <item>
-      <title><![CDATA[「牛来」将彻底成为过去式！Hi3D重塑三维模型新高度，V1.0正式开源]]></title>
-      <link>https://www.jiqizhixin.com/articles/a993dd47-abbc-42df-9472-390e7beea2c6</link>
-      <guid>a993dd47-abbc-42df-9472-390e7beea2c6</guid>
-      <pubDate>Mon, 26 Oct 2026 07:14:28 +0000</pubDate>
-      <description><![CDATA[<p>「牛来」将彻底成为过去式！Hi3D重塑三维模型新高度，V1.0正式开源</p><p>标签: Hi3D V3.0, 三维生成模型, 数美万物</p>]]></description>
-      <category>Hi3D V3.0</category>
-      <category>三维生成模型</category>
-      <category>数美万物</category>
-    </item>
-    <item>
-      <title><![CDATA[不用反向传播，也能预训练Transformer，Jeff Dean投的这家公司出成果了]]></title>
-      <link>https://www.jiqizhixin.com/articles/9fd6697a-7356-46a2-9f6a-30d2ced73781</link>
-      <guid>9fd6697a-7356-46a2-9f6a-30d2ced73781</guid>
-      <pubDate>Mon, 26 Oct 2026 07:14:56 +0000</pubDate>
-      <description><![CDATA[<p>不用反向传播，也能预训练Transformer，Jeff Dean投的这家公司出成果了</p><p>标签: Dust, Q Labs</p>]]></description>
-      <category>Dust</category>
-      <category>Q Labs</category>
-    </item>
-    <item>
-      <title><![CDATA[先在平行世界里试一试，机器人再动手：清华提出ParallelWorld]]></title>
-      <link>https://www.jiqizhixin.com/articles/83815b84-8a67-4d60-bb79-16b3a17af7fb</link>
-      <guid>83815b84-8a67-4d60-bb79-16b3a17af7fb</guid>
-      <pubDate>Mon, 26 Oct 2026 07:14:57 +0000</pubDate>
-      <description><![CDATA[<p>先在平行世界里试一试，机器人再动手：清华提出ParallelWorld</p><p>标签: 新加坡国立大学, 清华大学, ParallelWorld</p>]]></description>
-      <category>新加坡国立大学</category>
-      <category>清华大学</category>
-      <category>ParallelWorld</category>
-    </item>
-    <item>
-      <title><![CDATA[Nature Cancer | 已获三类医疗器械认证，DeepFAN显著提升肺癌诊断表现]]></title>
-      <link>https://www.jiqizhixin.com/articles/7135dcdc-36ec-4abc-b13c-796af2e075b5</link>
-      <guid>7135dcdc-36ec-4abc-b13c-796af2e075b5</guid>
-      <pubDate>Mon, 26 Oct 2026 07:15:24 +0000</pubDate>
-      <description><![CDATA[<p>Nature Cancer | 已获三类医疗器械认证，DeepFAN显著提升肺癌诊断表现</p><p>标签: AI for Science（AI4S）, Nature Cancer, DeepFAN</p>]]></description>
+      <title><![CDATA[BioStack获950万美元融资：把医院数据转化为医学AI训练与评测体系]]></title>
+      <link>https://www.jiqizhixin.com/articles/350a971e-be2a-4b88-a9c5-bd335f542f0a</link>
+      <guid>350a971e-be2a-4b88-a9c5-bd335f542f0a</guid>
+      <pubDate>Tue, 27 Oct 2026 06:55:04 +0000</pubDate>
+      <description><![CDATA[<p>BioStack获950万美元融资：把医院数据转化为医学AI训练与评测体系</p><p>标签: AI for Science（AI4S）, BioStack, 医疗数据</p>]]></description>
       <category>AI for Science（AI4S）</category>
-      <category>Nature Cancer</category>
-      <category>DeepFAN</category>
+      <category>BioStack</category>
+      <category>医疗数据</category>
     </item>
     <item>
-      <title><![CDATA[硬件之外，脑机接口的壁垒是什么？华超神控押注NeuroAI的进化能力]]></title>
-      <link>https://www.jiqizhixin.com/articles/92982526-4265-4e56-9bab-8a25e47d2d21</link>
-      <guid>92982526-4265-4e56-9bab-8a25e47d2d21</guid>
-      <pubDate>Mon, 26 Oct 2026 07:15:26 +0000</pubDate>
-      <description><![CDATA[<p>硬件之外，脑机接口的壁垒是什么？华超神控押注NeuroAI的进化能力</p><p>标签: NeuroAI, 华超神控（BCI-Sonics）</p>]]></description>
-      <category>NeuroAI</category>
-      <category>华超神控（BCI-Sonics）</category>
+      <title><![CDATA[人类数据如何变成机器人真实能力？Ropedia重磅发布六项研究成果]]></title>
+      <link>https://www.jiqizhixin.com/articles/743f7cf3-3b54-4954-95b0-fd5751e23832</link>
+      <guid>743f7cf3-3b54-4954-95b0-fd5751e23832</guid>
+      <pubDate>Tue, 27 Oct 2026 06:55:33 +0000</pubDate>
+      <description><![CDATA[<p>人类数据如何变成机器人真实能力？Ropedia重磅发布六项研究成果</p><p>标签: Ropedia W0, Ropedia Super Week, Ropedia</p>]]></description>
+      <category>Ropedia W0</category>
+      <category>Ropedia Super Week</category>
+      <category>Ropedia</category>
     </item>
     <item>
-      <title><![CDATA[迈向Physical RSI第一步，具身智能系统RoboCoach如何高效主动纠错？]]></title>
-      <link>https://www.jiqizhixin.com/articles/dd8b2ead-6506-4307-b972-72f260bef7b2</link>
-      <guid>dd8b2ead-6506-4307-b972-72f260bef7b2</guid>
-      <pubDate>Mon, 26 Oct 2026 07:15:53 +0000</pubDate>
-      <description><![CDATA[<p>迈向Physical RSI第一步，具身智能系统RoboCoach如何高效主动纠错？</p><p>标签: RoboCoach, Mulligan, 斯坦福大学</p>]]></description>
-      <category>RoboCoach</category>
-      <category>Mulligan</category>
-      <category>斯坦福大学</category>
+      <title><![CDATA[从单点突破到系统性验证：分子之心MMDesign实现94.7%项目成功率、六大GPCR靶点全获命中]]></title>
+      <link>https://www.jiqizhixin.com/articles/fdef0c54-819d-42f1-b8ec-4e877190da9d</link>
+      <guid>fdef0c54-819d-42f1-b8ec-4e877190da9d</guid>
+      <pubDate>Tue, 27 Oct 2026 06:55:32 +0000</pubDate>
+      <description><![CDATA[<p>从单点突破到系统性验证：分子之心MMDesign实现94.7%项目成功率、六大GPCR靶点全获命中</p><p>标签: MMDesign, 分子之心（MoleculeMind）</p>]]></description>
+      <category>MMDesign</category>
+      <category>分子之心（MoleculeMind）</category>
     </item>
     <item>
-      <title><![CDATA[英伟达GPU隐藏算力被开源解锁！不改官方驱动，RTX 4090吞吐翻倍]]></title>
-      <link>https://www.jiqizhixin.com/articles/2cfadab0-d77e-4d65-890a-0d95928ff7eb</link>
-      <guid>2cfadab0-d77e-4d65-890a-0d95928ff7eb</guid>
-      <pubDate>Mon, 26 Oct 2026 07:15:54 +0000</pubDate>
-      <description><![CDATA[<p>英伟达GPU隐藏算力被开源解锁！不改官方驱动，RTX 4090吞吐翻倍</p><p>标签: RTX 4090, 英伟达</p>]]></description>
-      <category>RTX 4090</category>
-      <category>英伟达</category>
+      <title><![CDATA[27B小模型反超1.6T巨兽！智源AREX-2长程反思撬动RSI新路径]]></title>
+      <link>https://www.jiqizhixin.com/articles/8cfd1531-1867-43aa-919a-2f2a5b4074d2</link>
+      <guid>8cfd1531-1867-43aa-919a-2f2a5b4074d2</guid>
+      <pubDate>Tue, 27 Oct 2026 06:56:06 +0000</pubDate>
+      <description><![CDATA[<p>27B小模型反超1.6T巨兽！智源AREX-2长程反思撬动RSI新路径</p><p>标签: AREX-2, 北京智源人工智能研究院</p>]]></description>
+      <category>AREX-2</category>
+      <category>北京智源人工智能研究院</category>
+    </item>
+    <item>
+      <title><![CDATA[陈仙辉团队又有新发现！中科大在超导材料中发现反常电子结构]]></title>
+      <link>https://www.jiqizhixin.com/articles/bef604f8-657f-48f8-929f-7d0c8df58760</link>
+      <guid>bef604f8-657f-48f8-929f-7d0c8df58760</guid>
+      <pubDate>Tue, 27 Oct 2026 06:56:07 +0000</pubDate>
+      <description><![CDATA[<p>陈仙辉团队又有新发现！中科大在超导材料中发现反常电子结构</p><p>标签: 中国科学技术大学, 超导材料, 4Hb-TaS₂</p>]]></description>
+      <category>中国科学技术大学</category>
+      <category>超导材料</category>
+      <category>4Hb-TaS₂</category>
+    </item>
+    <item>
+      <title><![CDATA[钉钉DWS适配鸿蒙PC并开源，向更多Agent开放办公能力]]></title>
+      <link>https://www.jiqizhixin.com/articles/23e249af-d443-40d1-90f1-6a20a83029e6</link>
+      <guid>23e249af-d443-40d1-90f1-6a20a83029e6</guid>
+      <pubDate>Tue, 27 Oct 2026 06:56:40 +0000</pubDate>
+      <description><![CDATA[<p>钉钉DWS适配鸿蒙PC并开源，向更多Agent开放办公能力</p><p>标签: DingTalk Workspace CLI, 钉钉</p>]]></description>
+      <category>DingTalk Workspace CLI</category>
+      <category>钉钉</category>
+    </item>
+    <item>
+      <title><![CDATA[让训练数据扩容40倍：行元发布机器人跨本体数据引擎Chorus， 解决数据规模化难题]]></title>
+      <link>https://www.jiqizhixin.com/articles/f256376d-ccb9-41b5-bd4d-d359645683d4</link>
+      <guid>f256376d-ccb9-41b5-bd4d-d359645683d4</guid>
+      <pubDate>Tue, 27 Oct 2026 06:56:39 +0000</pubDate>
+      <description><![CDATA[<p>让训练数据扩容40倍：行元发布机器人跨本体数据引擎Chorus， 解决数据规模化难题</p><p>标签: Chorus 众行, 行元智能（Action Intelligence）</p>]]></description>
+      <category>Chorus 众行</category>
+      <category>行元智能（Action Intelligence）</category>
+    </item>
+    <item>
+      <title><![CDATA[清华、英伟达等开了个新榜，38个AI实时视频模型露短板]]></title>
+      <link>https://www.jiqizhixin.com/articles/e526df16-24d0-4a1c-af98-0974957395cc</link>
+      <guid>e526df16-24d0-4a1c-af98-0974957395cc</guid>
+      <pubDate>Tue, 27 Oct 2026 06:57:10 +0000</pubDate>
+      <description><![CDATA[<p>清华、英伟达等开了个新榜，38个AI实时视频模型露短板</p><p>标签: StreamEval, 清华大学</p>]]></description>
+      <category>StreamEval</category>
+      <category>清华大学</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，GPT-6.1 Terra发布！电脑操作比肩Astra，成本仅其1/10]]></title>
+      <link>https://www.jiqizhixin.com/articles/a1908492-e585-43a2-bc5e-64146c61699b</link>
+      <guid>a1908492-e585-43a2-bc5e-64146c61699b</guid>
+      <pubDate>Tue, 27 Oct 2026 06:57:12 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，GPT-6.1 Terra发布！电脑操作比肩Astra，成本仅其1/10</p><p>标签: GPT-6.1 Terra, OpenAI</p>]]></description>
+      <category>GPT-6.1 Terra</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[10小时数据+一段人手视频=？SkeLAM的零样本跨形态迁移]]></title>
+      <link>https://www.jiqizhixin.com/articles/db45adbf-b8ce-4d6b-bd0b-6b6c449674d6</link>
+      <guid>db45adbf-b8ce-4d6b-bd0b-6b6c449674d6</guid>
+      <pubDate>Tue, 27 Oct 2026 06:57:42 +0000</pubDate>
+      <description><![CDATA[<p>10小时数据+一段人手视频=？SkeLAM的零样本跨形态迁移</p><p>标签: SkeLAM, 哈尔滨工业大学（深圳）</p>]]></description>
+      <category>SkeLAM</category>
+      <category>哈尔滨工业大学（深圳）</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，Anthropic公开招股书：史上最大IPO，半年狂揽163亿美元]]></title>
+      <link>https://www.jiqizhixin.com/articles/f1dc8fe6-2c7b-49bb-8ff0-34aef933228c</link>
+      <guid>f1dc8fe6-2c7b-49bb-8ff0-34aef933228c</guid>
+      <pubDate>Tue, 27 Oct 2026 06:57:45 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，Anthropic公开招股书：史上最大IPO，半年狂揽163亿美元</p><p>标签: IPO, Anthropic, Claude</p>]]></description>
+      <category>IPO</category>
+      <category>Anthropic</category>
+      <category>Claude</category>
     </item>
   </channel>
 </rss>
