@@ -4,8 +4,26 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 27 Oct 2026 23:16:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 02:45:12 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[游戏引擎已死？谷歌Genie 4刚刚发布，实时操控整个世界]]></title>
+      <link>https://www.jiqizhixin.com/articles/2d10be55-4fbe-40e3-ad6e-6bbc13f19f2a</link>
+      <guid>2d10be55-4fbe-40e3-ad6e-6bbc13f19f2a</guid>
+      <pubDate>Wed, 28 Oct 2026 02:45:12 +0000</pubDate>
+      <description><![CDATA[<p>游戏引擎已死？谷歌Genie 4刚刚发布，实时操控整个世界</p><p>标签: Genie 4, 谷歌 DeepMind</p>]]></description>
+      <category>Genie 4</category>
+      <category>谷歌 DeepMind</category>
+    </item>
+    <item>
+      <title><![CDATA[视频世界模型终于不「失忆」了！Meta提出World-T³：把记忆写进参数，单卡20.6FPS实时生成]]></title>
+      <link>https://www.jiqizhixin.com/articles/fe1f0257-6509-439f-855a-b89bb008cc0d</link>
+      <guid>fe1f0257-6509-439f-855a-b89bb008cc0d</guid>
+      <pubDate>Wed, 28 Oct 2026 02:44:29 +0000</pubDate>
+      <description><![CDATA[<p>视频世界模型终于不「失忆」了！Meta提出World-T³：把记忆写进参数，单卡20.6FPS实时生成</p><p>标签: World-T³（Test-Time Training）, MeTA</p>]]></description>
+      <category>World-T³（Test-Time Training）</category>
+      <category>MeTA</category>
+    </item>
     <item>
       <title><![CDATA[超1800支参赛队伍创纪录，蚂蚁灵波具身模型挑战赛即将决赛]]></title>
       <link>https://www.jiqizhixin.com/articles/7d2b0db9-8069-4f1e-927f-422cfe831c9a</link>
@@ -100,24 +118,6 @@
       <category>中国科学技术大学</category>
       <category>超导材料</category>
       <category>4Hb-TaS₂</category>
-    </item>
-    <item>
-      <title><![CDATA[钉钉DWS适配鸿蒙PC并开源，向更多Agent开放办公能力]]></title>
-      <link>https://www.jiqizhixin.com/articles/23e249af-d443-40d1-90f1-6a20a83029e6</link>
-      <guid>23e249af-d443-40d1-90f1-6a20a83029e6</guid>
-      <pubDate>Tue, 27 Oct 2026 06:56:40 +0000</pubDate>
-      <description><![CDATA[<p>钉钉DWS适配鸿蒙PC并开源，向更多Agent开放办公能力</p><p>标签: DingTalk Workspace CLI, 钉钉</p>]]></description>
-      <category>DingTalk Workspace CLI</category>
-      <category>钉钉</category>
-    </item>
-    <item>
-      <title><![CDATA[让训练数据扩容40倍：行元发布机器人跨本体数据引擎Chorus， 解决数据规模化难题]]></title>
-      <link>https://www.jiqizhixin.com/articles/f256376d-ccb9-41b5-bd4d-d359645683d4</link>
-      <guid>f256376d-ccb9-41b5-bd4d-d359645683d4</guid>
-      <pubDate>Tue, 27 Oct 2026 06:56:39 +0000</pubDate>
-      <description><![CDATA[<p>让训练数据扩容40倍：行元发布机器人跨本体数据引擎Chorus， 解决数据规模化难题</p><p>标签: Chorus 众行, 行元智能（Action Intelligence）</p>]]></description>
-      <category>Chorus 众行</category>
-      <category>行元智能（Action Intelligence）</category>
     </item>
   </channel>
 </rss>
