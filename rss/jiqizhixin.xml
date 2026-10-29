@@ -4,8 +4,56 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 29 Oct 2026 07:46:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 14:44:06 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[刚刚，机器人学习进入「全链路Scaling」时代]]></title>
+      <link>https://www.jiqizhixin.com/articles/a7eb86ac-b203-4db5-93f1-22c4008e2a74</link>
+      <guid>a7eb86ac-b203-4db5-93f1-22c4008e2a74</guid>
+      <pubDate>Thu, 29 Oct 2026 14:43:05 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，机器人学习进入「全链路Scaling」时代</p><p>标签: GO-3 Preview, 具身模型, 智元机器人</p>]]></description>
+      <category>GO-3 Preview</category>
+      <category>具身模型</category>
+      <category>智元机器人</category>
+    </item>
+    <item>
+      <title><![CDATA[NeurIPS 2026 Spotlight｜机器人探索未知世界，为什么不能只认一条路？天大团队提出FAME]]></title>
+      <link>https://www.jiqizhixin.com/articles/d65491bd-6b3c-42db-9c77-11222bf044b1</link>
+      <guid>d65491bd-6b3c-42db-9c77-11222bf044b1</guid>
+      <pubDate>Thu, 29 Oct 2026 14:43:07 +0000</pubDate>
+      <description><![CDATA[<p>NeurIPS 2026 Spotlight｜机器人探索未知世界，为什么不能只认一条路？天大团队提出FAME</p><p>标签: FAME, 天津大学, NeurIPS 2026 Spotlight</p>]]></description>
+      <category>FAME</category>
+      <category>天津大学</category>
+      <category>NeurIPS 2026 Spotlight</category>
+    </item>
+    <item>
+      <title><![CDATA[AnySearch 推出 Pro 付费版：覆盖 20+ 专业领域，最高支持 20 QPS]]></title>
+      <link>https://www.jiqizhixin.com/articles/57e02017-23e5-4b1a-bc11-5cc47848d020</link>
+      <guid>57e02017-23e5-4b1a-bc11-5cc47848d020</guid>
+      <pubDate>Thu, 29 Oct 2026 14:43:36 +0000</pubDate>
+      <description><![CDATA[<p>AnySearch 推出 Pro 付费版：覆盖 20+ 专业领域，最高支持 20 QPS</p><p>标签: AnySearch Pro, AnySearch</p>]]></description>
+      <category>AnySearch Pro</category>
+      <category>AnySearch</category>
+    </item>
+    <item>
+      <title><![CDATA[豆包工作向企业客户开放配置三方模型]]></title>
+      <link>https://www.jiqizhixin.com/articles/49d163b6-ccda-4d97-a059-ed782b9c57e9</link>
+      <guid>49d163b6-ccda-4d97-a059-ed782b9c57e9</guid>
+      <pubDate>Thu, 29 Oct 2026 14:43:36 +0000</pubDate>
+      <description><![CDATA[<p>豆包工作向企业客户开放配置三方模型</p><p>标签: Kimi 3.1 Pro, 豆包工作</p>]]></description>
+      <category>Kimi 3.1 Pro</category>
+      <category>豆包工作</category>
+    </item>
+    <item>
+      <title><![CDATA[智能体能给化学反应「算笔账」吗？CMU、圣母大学等提出化学采购成本推理基准 ChemCost，入选 NeurIPS 2026]]></title>
+      <link>https://www.jiqizhixin.com/articles/ae8ecd16-9a47-4f13-9afc-2dcf1d08267a</link>
+      <guid>ae8ecd16-9a47-4f13-9afc-2dcf1d08267a</guid>
+      <pubDate>Thu, 29 Oct 2026 14:44:06 +0000</pubDate>
+      <description><![CDATA[<p>智能体能给化学反应「算笔账」吗？CMU、圣母大学等提出化学采购成本推理基准 ChemCost，入选 NeurIPS 2026</p><p>标签: NeurIPS 2026, ChemCost, 卡内基梅隆大学（CMU）</p>]]></description>
+      <category>NeurIPS 2026</category>
+      <category>ChemCost</category>
+      <category>卡内基梅隆大学（CMU）</category>
+    </item>
     <item>
       <title><![CDATA[蚂蚁灵光2.0接入钉钉CLI：家校群、工作群可交由AI后台“托管”]]></title>
       <link>https://www.jiqizhixin.com/articles/dd6c413a-13ee-494f-a3c5-8707f70064e8</link>
@@ -71,54 +119,6 @@
       <category>佐治亚理工</category>
       <category>MASCOT</category>
       <category>EMNLP 2026 Main</category>
-    </item>
-    <item>
-      <title><![CDATA[AI做中学 创未来｜智源SoulAgent持续拓展教育应用]]></title>
-      <link>https://www.jiqizhixin.com/articles/dbe261be-9d3d-458f-9d66-c44f3ebd6541</link>
-      <guid>dbe261be-9d3d-458f-9d66-c44f3ebd6541</guid>
-      <pubDate>Thu, 29 Oct 2026 07:45:04 +0000</pubDate>
-      <description><![CDATA[<p>AI做中学 创未来｜智源SoulAgent持续拓展教育应用</p><p>标签: SoulAgent, 中国人民大学附属中学, 智源研究院</p>]]></description>
-      <category>SoulAgent</category>
-      <category>中国人民大学附属中学</category>
-      <category>智源研究院</category>
-    </item>
-    <item>
-      <title><![CDATA[空间智能，究竟需要什么样的数据？访谈映界科技、港城副教授马辰]]></title>
-      <link>https://www.jiqizhixin.com/articles/131f4d83-5c55-4e17-91d4-2ef43e5b2793</link>
-      <guid>131f4d83-5c55-4e17-91d4-2ef43e5b2793</guid>
-      <pubDate>Thu, 29 Oct 2026 07:45:36 +0000</pubDate>
-      <description><![CDATA[<p>空间智能，究竟需要什么样的数据？访谈映界科技、港城副教授马辰</p><p>标签: 空间模型, 马辰, 映界科技</p>]]></description>
-      <category>空间模型</category>
-      <category>马辰</category>
-      <category>映界科技</category>
-    </item>
-    <item>
-      <title><![CDATA[效果上不去？蚂蚁把「调AI」这件事，也交给了AI]]></title>
-      <link>https://www.jiqizhixin.com/articles/6d1b7851-0cdb-45c8-8761-585bfbd47bcc</link>
-      <guid>6d1b7851-0cdb-45c8-8761-585bfbd47bcc</guid>
-      <pubDate>Thu, 29 Oct 2026 07:45:36 +0000</pubDate>
-      <description><![CDATA[<p>效果上不去？蚂蚁把「调AI」这件事，也交给了AI</p><p>标签: AntOmniEvo, 蚂蚁灵矽</p>]]></description>
-      <category>AntOmniEvo</category>
-      <category>蚂蚁灵矽</category>
-    </item>
-    <item>
-      <title><![CDATA[当机器人走出预设任务：RobotAgentBench全面评测机器人的开放世界能力]]></title>
-      <link>https://www.jiqizhixin.com/articles/0a361b77-4fa1-4794-bd8f-f1c0e3df838d</link>
-      <guid>0a361b77-4fa1-4794-bd8f-f1c0e3df838d</guid>
-      <pubDate>Thu, 29 Oct 2026 07:46:08 +0000</pubDate>
-      <description><![CDATA[<p>当机器人走出预设任务：RobotAgentBench全面评测机器人的开放世界能力</p><p>标签: RobotAgentBench（RAB）, UC San Diego, Aether AI</p>]]></description>
-      <category>RobotAgentBench（RAB）</category>
-      <category>UC San Diego</category>
-      <category>Aether AI</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，谷歌发布最强模型Gemini 4 Carbon！荣登榜首]]></title>
-      <link>https://www.jiqizhixin.com/articles/bc12332b-a783-4a5c-98a6-b7f215aef052</link>
-      <guid>bc12332b-a783-4a5c-98a6-b7f215aef052</guid>
-      <pubDate>Thu, 29 Oct 2026 07:46:09 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，谷歌发布最强模型Gemini 4 Carbon！荣登榜首</p><p>标签: Gemini 4 Carbon, Google</p>]]></description>
-      <category>Gemini 4 Carbon</category>
-      <category>Google</category>
     </item>
   </channel>
 </rss>
