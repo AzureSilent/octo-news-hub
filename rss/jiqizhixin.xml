@@ -4,8 +4,92 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 30 Oct 2026 01:23:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 07:51:23 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[当机器人开始向同伴学习：96台真机探索具身智能的规模化成长]]></title>
+      <link>https://www.jiqizhixin.com/articles/c203a427-e536-43ec-90c0-7481c3499840</link>
+      <guid>c203a427-e536-43ec-90c0-7481c3499840</guid>
+      <pubDate>Fri, 30 Oct 2026 07:49:30 +0000</pubDate>
+      <description><![CDATA[<p>当机器人开始向同伴学习：96台真机探索具身智能的规模化成长</p><p>标签: 群体经验学习（Collective Experience Learning，CEL）, 智元, 清华大学</p>]]></description>
+      <category>群体经验学习（Collective Experience Learning，CEL）</category>
+      <category>智元</category>
+      <category>清华大学</category>
+    </item>
+    <item>
+      <title><![CDATA[机器人终于有了「任务进度记忆」！连续干活4小时，成功率超95%]]></title>
+      <link>https://www.jiqizhixin.com/articles/0a7b66e0-bee0-4ee3-92aa-51b0660e2122</link>
+      <guid>0a7b66e0-bee0-4ee3-92aa-51b0660e2122</guid>
+      <pubDate>Fri, 30 Oct 2026 07:49:30 +0000</pubDate>
+      <description><![CDATA[<p>机器人终于有了「任务进度记忆」！连续干活4小时，成功率超95%</p><p>标签: 上海交通大学, Value as Memory（VaM）</p>]]></description>
+      <category>上海交通大学</category>
+      <category>Value as Memory（VaM）</category>
+    </item>
+    <item>
+      <title><![CDATA[不用反复测量，量子比特也能「自动纠错」：中科大跨过关键门槛]]></title>
+      <link>https://www.jiqizhixin.com/articles/3bf98659-1fc5-42fa-81eb-d74552efd8d2</link>
+      <guid>3bf98659-1fc5-42fa-81eb-d74552efd8d2</guid>
+      <pubDate>Fri, 30 Oct 2026 07:49:58 +0000</pubDate>
+      <description><![CDATA[<p>不用反复测量，量子比特也能「自动纠错」：中科大跨过关键门槛</p><p>标签: 量子纠错, 量子比特, 中国科学技术大学</p>]]></description>
+      <category>量子纠错</category>
+      <category>量子比特</category>
+      <category>中国科学技术大学</category>
+    </item>
+    <item>
+      <title><![CDATA[独家｜启元推出PrimeSim世界模型，登顶权威榜单]]></title>
+      <link>https://www.jiqizhixin.com/articles/2715e0c7-9bd6-4c62-a6ba-96e36f8ab004</link>
+      <guid>2715e0c7-9bd6-4c62-a6ba-96e36f8ab004</guid>
+      <pubDate>Fri, 30 Oct 2026 07:49:59 +0000</pubDate>
+      <description><![CDATA[<p>独家｜启元推出PrimeSim世界模型，登顶权威榜单</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，破壳机器人发布RoboAPI！具身模型也能「开箱即用」了]]></title>
+      <link>https://www.jiqizhixin.com/articles/a0373f4d-5c86-4d59-bbbc-abad3f36f291</link>
+      <guid>a0373f4d-5c86-4d59-bbbc-abad3f36f291</guid>
+      <pubDate>Fri, 30 Oct 2026 07:50:27 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，破壳机器人发布RoboAPI！具身模型也能「开箱即用」了</p><p>标签: Poke-Aurora, RoboAPI, 破壳机器人（PokeBot）</p>]]></description>
+      <category>Poke-Aurora</category>
+      <category>RoboAPI</category>
+      <category>破壳机器人（PokeBot）</category>
+    </item>
+    <item>
+      <title><![CDATA[报名｜具身数据，规模之外拼什么？11月5日张江这场技术沙龙见！]]></title>
+      <link>https://www.jiqizhixin.com/articles/4737c407-4971-4eb2-8b4c-3e9118c5a9c1</link>
+      <guid>4737c407-4971-4eb2-8b4c-3e9118c5a9c1</guid>
+      <pubDate>Fri, 30 Oct 2026 07:50:27 +0000</pubDate>
+      <description><![CDATA[<p>报名｜具身数据，规模之外拼什么？11月5日张江这场技术沙龙见！</p><p>标签: 具身数据, 具身智能</p>]]></description>
+      <category>具身数据</category>
+      <category>具身智能</category>
+    </item>
+    <item>
+      <title><![CDATA[大道至简！复旦×南洋理工提出SimpleVLN，用原生MLLM刷新导航SOTA]]></title>
+      <link>https://www.jiqizhixin.com/articles/e06c8e87-a722-4b1f-913c-f1fb7c2e2562</link>
+      <guid>e06c8e87-a722-4b1f-913c-f1fb7c2e2562</guid>
+      <pubDate>Fri, 30 Oct 2026 07:50:55 +0000</pubDate>
+      <description><![CDATA[<p>大道至简！复旦×南洋理工提出SimpleVLN，用原生MLLM刷新导航SOTA</p><p>标签: 南洋理工大学, 复旦大学, SimpleVLN</p>]]></description>
+      <category>南洋理工大学</category>
+      <category>复旦大学</category>
+      <category>SimpleVLN</category>
+    </item>
+    <item>
+      <title><![CDATA[即日起，ChatGPT Pro使用额度翻倍]]></title>
+      <link>https://www.jiqizhixin.com/articles/65384f69-16e0-444f-bcdc-a51150afbb06</link>
+      <guid>65384f69-16e0-444f-bcdc-a51150afbb06</guid>
+      <pubDate>Fri, 30 Oct 2026 07:50:56 +0000</pubDate>
+      <description><![CDATA[<p>即日起，ChatGPT Pro使用额度翻倍</p><p>标签: ChatGPT Pro, OpenAI</p>]]></description>
+      <category>ChatGPT Pro</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[新国立x可灵AI提出DiffusionART：超高效稳定可扩展的Diffusion RL算法，让视频后训练提速10倍以上]]></title>
+      <link>https://www.jiqizhixin.com/articles/117f7fa8-baa1-42fc-8871-c574ad09a26a</link>
+      <guid>117f7fa8-baa1-42fc-8871-c574ad09a26a</guid>
+      <pubDate>Fri, 30 Oct 2026 07:51:23 +0000</pubDate>
+      <description><![CDATA[<p>新国立x可灵AI提出DiffusionART：超高效稳定可扩展的Diffusion RL算法，让视频后训练提速10倍以上</p><p>标签: DiffusionART, 可灵 AI, 新加坡国立大学</p>]]></description>
+      <category>DiffusionART</category>
+      <category>可灵 AI</category>
+      <category>新加坡国立大学</category>
+    </item>
     <item>
       <title><![CDATA[刚刚，机器人学习进入「全链路Scaling」时代]]></title>
       <link>https://www.jiqizhixin.com/articles/a7eb86ac-b203-4db5-93f1-22c4008e2a74</link>
@@ -34,91 +118,6 @@
       <description><![CDATA[<p>AnySearch 推出 Pro 付费版：覆盖 20+ 专业领域，最高支持 20 QPS</p><p>标签: AnySearch Pro, AnySearch</p>]]></description>
       <category>AnySearch Pro</category>
       <category>AnySearch</category>
-    </item>
-    <item>
-      <title><![CDATA[豆包工作向企业客户开放配置三方模型]]></title>
-      <link>https://www.jiqizhixin.com/articles/49d163b6-ccda-4d97-a059-ed782b9c57e9</link>
-      <guid>49d163b6-ccda-4d97-a059-ed782b9c57e9</guid>
-      <pubDate>Thu, 29 Oct 2026 14:43:36 +0000</pubDate>
-      <description><![CDATA[<p>豆包工作向企业客户开放配置三方模型</p><p>标签: Kimi 3.1 Pro, 豆包工作</p>]]></description>
-      <category>Kimi 3.1 Pro</category>
-      <category>豆包工作</category>
-    </item>
-    <item>
-      <title><![CDATA[智能体能给化学反应「算笔账」吗？CMU、圣母大学等提出化学采购成本推理基准 ChemCost，入选 NeurIPS 2026]]></title>
-      <link>https://www.jiqizhixin.com/articles/ae8ecd16-9a47-4f13-9afc-2dcf1d08267a</link>
-      <guid>ae8ecd16-9a47-4f13-9afc-2dcf1d08267a</guid>
-      <pubDate>Thu, 29 Oct 2026 14:44:06 +0000</pubDate>
-      <description><![CDATA[<p>智能体能给化学反应「算笔账」吗？CMU、圣母大学等提出化学采购成本推理基准 ChemCost，入选 NeurIPS 2026</p><p>标签: NeurIPS 2026, ChemCost, 卡内基梅隆大学（CMU）</p>]]></description>
-      <category>NeurIPS 2026</category>
-      <category>ChemCost</category>
-      <category>卡内基梅隆大学（CMU）</category>
-    </item>
-    <item>
-      <title><![CDATA[蚂蚁灵光2.0接入钉钉CLI：家校群、工作群可交由AI后台“托管”]]></title>
-      <link>https://www.jiqizhixin.com/articles/dd6c413a-13ee-494f-a3c5-8707f70064e8</link>
-      <guid>dd6c413a-13ee-494f-a3c5-8707f70064e8</guid>
-      <pubDate>Thu, 29 Oct 2026 07:43:30 +0000</pubDate>
-      <description><![CDATA[<p>蚂蚁灵光2.0接入钉钉CLI：家校群、工作群可交由AI后台“托管”</p><p>标签: 钉钉, 灵光2.0, 蚂蚁集团</p>]]></description>
-      <category>钉钉</category>
-      <category>灵光2.0</category>
-      <category>蚂蚁集团</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，腾讯Buddy One发布，办公大一统要来了！混元Hy4也将亮相]]></title>
-      <link>https://www.jiqizhixin.com/articles/8e2caff1-9e8a-4a70-a5c0-0ce713278d0c</link>
-      <guid>8e2caff1-9e8a-4a70-a5c0-0ce713278d0c</guid>
-      <pubDate>Thu, 29 Oct 2026 07:43:30 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，腾讯Buddy One发布，办公大一统要来了！混元Hy4也将亮相</p><p>标签: Buddy One, 2026 腾讯全球数字生态大会</p>]]></description>
-      <category>Buddy One</category>
-      <category>2026 腾讯全球数字生态大会</category>
-    </item>
-    <item>
-      <title><![CDATA[往脑脊液里打 Treg，合肥产投押注渐冻症解法]]></title>
-      <link>https://www.jiqizhixin.com/articles/4b66f5da-7bc4-4d9e-aaaa-75cadab1828b</link>
-      <guid>4b66f5da-7bc4-4d9e-aaaa-75cadab1828b</guid>
-      <pubDate>Thu, 29 Oct 2026 07:43:59 +0000</pubDate>
-      <description><![CDATA[<p>往脑脊液里打 Treg，合肥产投押注渐冻症解法</p><p>标签: ALS-Treg, 赛尔欣</p>]]></description>
-      <category>ALS-Treg</category>
-      <category>赛尔欣</category>
-    </item>
-    <item>
-      <title><![CDATA[Science丨斯坦福搭建虚拟生物技术框架，从临床试验中寻找药物研发线索]]></title>
-      <link>https://www.jiqizhixin.com/articles/53d857a8-b3a7-419f-89f6-b53351c91cc1</link>
-      <guid>53d857a8-b3a7-419f-89f6-b53351c91cc1</guid>
-      <pubDate>Thu, 29 Oct 2026 07:43:58 +0000</pubDate>
-      <description><![CDATA[<p>Science丨斯坦福搭建虚拟生物技术框架，从临床试验中寻找药物研发线索</p><p>标签: AI for Science（AI4S）, Virtual Biotech</p>]]></description>
-      <category>AI for Science（AI4S）</category>
-      <category>Virtual Biotech</category>
-    </item>
-    <item>
-      <title><![CDATA[以未来几何推演物理交互，X-Era AI拓元智慧开源原生4D世界动作模型E0.5，真机大幅超越π0.5]]></title>
-      <link>https://www.jiqizhixin.com/articles/6b30f0e3-5892-462f-ab7c-9f09cfd492ef</link>
-      <guid>6b30f0e3-5892-462f-ab7c-9f09cfd492ef</guid>
-      <pubDate>Thu, 29 Oct 2026 07:44:30 +0000</pubDate>
-      <description><![CDATA[<p>以未来几何推演物理交互，X-Era AI拓元智慧开源原生4D世界动作模型E0.5，真机大幅超越π0.5</p><p>标签: E0.5, X-Era AI拓元智慧</p>]]></description>
-      <category>E0.5</category>
-      <category>X-Era AI拓元智慧</category>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI发钱了？每月最高500美元API额度等你领]]></title>
-      <link>https://www.jiqizhixin.com/articles/6d536552-3056-4283-a162-e60d641eb141</link>
-      <guid>6d536552-3056-4283-a162-e60d641eb141</guid>
-      <pubDate>Thu, 29 Oct 2026 07:44:31 +0000</pubDate>
-      <description><![CDATA[<p>OpenAI发钱了？每月最高500美元API额度等你领</p><p>标签: Business, ChatGPT Pro, OpenAI</p>]]></description>
-      <category>Business</category>
-      <category>ChatGPT Pro</category>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[EMNLP 2026 Main | AI 群聊怎样多元化？佐治亚理工和麻省理工提出 MASCOT]]></title>
-      <link>https://www.jiqizhixin.com/articles/0fa28460-b725-489d-9714-afcfb9843879</link>
-      <guid>0fa28460-b725-489d-9714-afcfb9843879</guid>
-      <pubDate>Thu, 29 Oct 2026 07:45:03 +0000</pubDate>
-      <description><![CDATA[<p>EMNLP 2026 Main | AI 群聊怎样多元化？佐治亚理工和麻省理工提出 MASCOT</p><p>标签: 佐治亚理工, MASCOT, EMNLP 2026 Main</p>]]></description>
-      <category>佐治亚理工</category>
-      <category>MASCOT</category>
-      <category>EMNLP 2026 Main</category>
     </item>
   </channel>
 </rss>
