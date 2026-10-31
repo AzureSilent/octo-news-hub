@@ -4,8 +4,36 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 31 Oct 2026 01:07:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 07:38:06 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[合肥量子版图补上关键一块 | 一家成立月余的中性原子公司，让省市区三级国资同时下注]]></title>
+      <link>https://www.jiqizhixin.com/articles/3cdddc6f-531e-4d35-9ae2-6e0e08ab5255</link>
+      <guid>3cdddc6f-531e-4d35-9ae2-6e0e08ab5255</guid>
+      <pubDate>Sat, 31 Oct 2026 07:37:34 +0000</pubDate>
+      <description><![CDATA[<p>合肥量子版图补上关键一块 | 一家成立月余的中性原子公司，让省市区三级国资同时下注</p><p>标签: 量子计算, 乾原量子</p>]]></description>
+      <category>量子计算</category>
+      <category>乾原量子</category>
+    </item>
+    <item>
+      <title><![CDATA[RSI热潮之下，自我迭代的国产Agentic Infra，卷向了英伟达GPU的物理极限]]></title>
+      <link>https://www.jiqizhixin.com/articles/7f06a7e2-9a51-42a2-8584-d7e1707a1971</link>
+      <guid>7f06a7e2-9a51-42a2-8584-d7e1707a1971</guid>
+      <pubDate>Sat, 31 Oct 2026 07:37:34 +0000</pubDate>
+      <description><![CDATA[<p>RSI热潮之下，自我迭代的国产Agentic Infra，卷向了英伟达GPU的物理极限</p><p>标签: RSI, Agentic Infra, 无问芯穹（Infinigence AI）</p>]]></description>
+      <category>RSI</category>
+      <category>Agentic Infra</category>
+      <category>无问芯穹（Infinigence AI）</category>
+    </item>
+    <item>
+      <title><![CDATA[蒸馏Agent，学决策而非抄Token！清华提出动作级在线蒸馏ActionOPD]]></title>
+      <link>https://www.jiqizhixin.com/articles/7f0870ee-4169-4227-b05a-ac1faf2f568e</link>
+      <guid>7f0870ee-4169-4227-b05a-ac1faf2f568e</guid>
+      <pubDate>Sat, 31 Oct 2026 07:38:06 +0000</pubDate>
+      <description><![CDATA[<p>蒸馏Agent，学决策而非抄Token！清华提出动作级在线蒸馏ActionOPD</p><p>标签: ActionOPD, 清华大学</p>]]></description>
+      <category>ActionOPD</category>
+      <category>清华大学</category>
+    </item>
     <item>
       <title><![CDATA[从LPDDR6首发量产到G6样片验证：长鑫高强度研发投入，驱动存储产品矩阵升级]]></title>
       <link>https://www.jiqizhixin.com/articles/a7cb50f1-5093-49e4-8c9b-25133623a6c3</link>
@@ -91,33 +119,6 @@
       <description><![CDATA[<p>机器人终于有了「任务进度记忆」！连续干活4小时，成功率超95%</p><p>标签: 上海交通大学, Value as Memory（VaM）</p>]]></description>
       <category>上海交通大学</category>
       <category>Value as Memory（VaM）</category>
-    </item>
-    <item>
-      <title><![CDATA[不用反复测量，量子比特也能「自动纠错」：中科大跨过关键门槛]]></title>
-      <link>https://www.jiqizhixin.com/articles/3bf98659-1fc5-42fa-81eb-d74552efd8d2</link>
-      <guid>3bf98659-1fc5-42fa-81eb-d74552efd8d2</guid>
-      <pubDate>Fri, 30 Oct 2026 07:49:58 +0000</pubDate>
-      <description><![CDATA[<p>不用反复测量，量子比特也能「自动纠错」：中科大跨过关键门槛</p><p>标签: 量子纠错, 量子比特, 中国科学技术大学</p>]]></description>
-      <category>量子纠错</category>
-      <category>量子比特</category>
-      <category>中国科学技术大学</category>
-    </item>
-    <item>
-      <title><![CDATA[独家｜启元推出PrimeSim世界模型，登顶权威榜单]]></title>
-      <link>https://www.jiqizhixin.com/articles/2715e0c7-9bd6-4c62-a6ba-96e36f8ab004</link>
-      <guid>2715e0c7-9bd6-4c62-a6ba-96e36f8ab004</guid>
-      <pubDate>Fri, 30 Oct 2026 07:49:59 +0000</pubDate>
-      <description><![CDATA[<p>独家｜启元推出PrimeSim世界模型，登顶权威榜单</p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，破壳机器人发布RoboAPI！具身模型也能「开箱即用」了]]></title>
-      <link>https://www.jiqizhixin.com/articles/a0373f4d-5c86-4d59-bbbc-abad3f36f291</link>
-      <guid>a0373f4d-5c86-4d59-bbbc-abad3f36f291</guid>
-      <pubDate>Fri, 30 Oct 2026 07:50:27 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，破壳机器人发布RoboAPI！具身模型也能「开箱即用」了</p><p>标签: Poke-Aurora, RoboAPI, 破壳机器人（PokeBot）</p>]]></description>
-      <category>Poke-Aurora</category>
-      <category>RoboAPI</category>
-      <category>破壳机器人（PokeBot）</category>
     </item>
   </channel>
 </rss>
