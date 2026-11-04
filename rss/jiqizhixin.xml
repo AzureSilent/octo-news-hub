@@ -4,8 +4,28 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 03 Nov 2026 22:37:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 03:31:52 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[普林斯顿AI Lab出题，「空间智能」大考：人类83.3%，大模型最高39.7%！]]></title>
+      <link>https://www.jiqizhixin.com/articles/4c7d351c-898c-479a-ac58-e92971aa54e1</link>
+      <guid>4c7d351c-898c-479a-ac58-e92971aa54e1</guid>
+      <pubDate>Wed, 04 Nov 2026 03:31:52 +0000</pubDate>
+      <description><![CDATA[<p>普林斯顿AI Lab出题，「空间智能」大考：人类83.3%，大模型最高39.7%！</p><p>标签: benchmark, 普林斯顿 AI Lab, 空间智能</p>]]></description>
+      <category>benchmark</category>
+      <category>普林斯顿 AI Lab</category>
+      <category>空间智能</category>
+    </item>
+    <item>
+      <title><![CDATA[苹果智能Beta版上线，千问 APP 为 Siri 增强能力]]></title>
+      <link>https://www.jiqizhixin.com/articles/84c64fc0-ecc7-4d63-8e31-88685bd80907</link>
+      <guid>84c64fc0-ecc7-4d63-8e31-88685bd80907</guid>
+      <pubDate>Wed, 04 Nov 2026 03:31:51 +0000</pubDate>
+      <description><![CDATA[<p>苹果智能Beta版上线，千问 APP 为 Siri 增强能力</p><p>标签: 千问, Siri, 苹果</p>]]></description>
+      <category>千问</category>
+      <category>Siri</category>
+      <category>苹果</category>
+    </item>
     <item>
       <title><![CDATA[具身智能的下一个主战场，为什么是「仓储物流」？]]></title>
       <link>https://www.jiqizhixin.com/articles/ff82ad9a-6815-4994-8a16-2a85816fd6a3</link>
@@ -100,25 +120,6 @@
       <pubDate>Tue, 03 Nov 2026 08:44:00 +0000</pubDate>
       <description><![CDATA[<p>PhysLDM | 物理仿真的Latent Diffusion范式，革命传统物理仿真</p><p>标签: 物理仿真</p>]]></description>
       <category>物理仿真</category>
-    </item>
-    <item>
-      <title><![CDATA[大模型一定要一个字一个字往外蹦吗？他们押注四年，给出了另一种答案]]></title>
-      <link>https://www.jiqizhixin.com/articles/86f7d933-61ee-42aa-828c-1a5e4750df53</link>
-      <guid>86f7d933-61ee-42aa-828c-1a5e4750df53</guid>
-      <pubDate>Mon, 02 Nov 2026 19:51:49 +0000</pubDate>
-      <description><![CDATA[<p>大模型一定要一个字一个字往外蹦吗？他们押注四年，给出了另一种答案</p><p>标签: 扩散智能 DiffuSpace, 扩散语言模型</p>]]></description>
-      <category>扩散智能 DiffuSpace</category>
-      <category>扩散语言模型</category>
-    </item>
-    <item>
-      <title><![CDATA[NeurIPS 2026｜MemSkill让智能体学习并进化记忆技能]]></title>
-      <link>https://www.jiqizhixin.com/articles/65f300f8-a177-46e2-9532-64639e386134</link>
-      <guid>65f300f8-a177-46e2-9532-64639e386134</guid>
-      <pubDate>Mon, 02 Nov 2026 19:51:49 +0000</pubDate>
-      <description><![CDATA[<p>NeurIPS 2026｜MemSkill让智能体学习并进化记忆技能</p><p>标签: 递归自我改进（RSI）, 智能体记忆, NeurIPS 2026</p>]]></description>
-      <category>递归自我改进（RSI）</category>
-      <category>智能体记忆</category>
-      <category>NeurIPS 2026</category>
     </item>
   </channel>
 </rss>
