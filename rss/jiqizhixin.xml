@@ -4,8 +4,27 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 04 Nov 2026 11:41:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 18:56:51 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[AI开始教AI开车！无人驾驶的下一场竞赛，在虚拟世界打响]]></title>
+      <link>https://www.jiqizhixin.com/articles/19a31f4d-ed1d-45f5-863a-0b376164a2f2</link>
+      <guid>19a31f4d-ed1d-45f5-863a-0b376164a2f2</guid>
+      <pubDate>Wed, 04 Nov 2026 18:56:50 +0000</pubDate>
+      <description><![CDATA[<p>AI开始教AI开车！无人驾驶的下一场竞赛，在虚拟世界打响</p><p>标签: 百度, Apollo World, 具身世界模型, 无人驾驶</p>]]></description>
+      <category>百度</category>
+      <category>Apollo World</category>
+      <category>具身世界模型</category>
+      <category>无人驾驶</category>
+    </item>
+    <item>
+      <title><![CDATA[决策模型何时需要思考？StartLux-Decision的按需推理与概率校准]]></title>
+      <link>https://www.jiqizhixin.com/articles/846e1f92-9b2f-46c8-aa0a-b0a4bf3ea0d6</link>
+      <guid>846e1f92-9b2f-46c8-aa0a-b0a4bf3ea0d6</guid>
+      <pubDate>Wed, 04 Nov 2026 18:56:50 +0000</pubDate>
+      <description><![CDATA[<p>决策模型何时需要思考？StartLux-Decision的按需推理与概率校准</p><p>标签: 决策模型</p>]]></description>
+      <category>决策模型</category>
+    </item>
     <item>
       <title><![CDATA[蚂蚁参与智能体身份注册与解析平台建设，推动智能体可信互联]]></title>
       <link>https://www.jiqizhixin.com/articles/27f8153e-3bac-4674-bd16-dee3666f9853</link>
@@ -99,26 +118,6 @@
       <category>千问</category>
       <category>Siri</category>
       <category>苹果</category>
-    </item>
-    <item>
-      <title><![CDATA[具身智能的下一个主战场，为什么是「仓储物流」？]]></title>
-      <link>https://www.jiqizhixin.com/articles/ff82ad9a-6815-4994-8a16-2a85816fd6a3</link>
-      <guid>ff82ad9a-6815-4994-8a16-2a85816fd6a3</guid>
-      <pubDate>Tue, 03 Nov 2026 16:00:00 +0000</pubDate>
-      <description><![CDATA[<p>具身智能的下一个主战场，为什么是「仓储物流」？</p><p>标签: 物流机器人, 极智嘉, 仓储机器人, 具身智能</p>]]></description>
-      <category>物流机器人</category>
-      <category>极智嘉</category>
-      <category>仓储机器人</category>
-      <category>具身智能</category>
-    </item>
-    <item>
-      <title><![CDATA[便利店打工24小时后，智元两名机器人员工「转正」失败]]></title>
-      <link>https://www.jiqizhixin.com/articles/4ab5457e-5e6c-45d7-b506-e63bb190a56c</link>
-      <guid>4ab5457e-5e6c-45d7-b506-e63bb190a56c</guid>
-      <pubDate>Tue, 03 Nov 2026 16:00:00 +0000</pubDate>
-      <description><![CDATA[<p>便利店打工24小时后，智元两名机器人员工「转正」失败</p><p>标签: 机器人技术, 智元机器人</p>]]></description>
-      <category>机器人技术</category>
-      <category>智元机器人</category>
     </item>
   </channel>
 </rss>
