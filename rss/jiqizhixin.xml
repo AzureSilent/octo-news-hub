@@ -4,8 +4,82 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 04 Nov 2026 03:31:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 11:41:36 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[蚂蚁参与智能体身份注册与解析平台建设，推动智能体可信互联]]></title>
+      <link>https://www.jiqizhixin.com/articles/27f8153e-3bac-4674-bd16-dee3666f9853</link>
+      <guid>27f8153e-3bac-4674-bd16-dee3666f9853</guid>
+      <pubDate>Wed, 04 Nov 2026 11:40:06 +0000</pubDate>
+      <description><![CDATA[<p>蚂蚁参与智能体身份注册与解析平台建设，推动智能体可信互联</p><p>标签: 蚂蚁集团, AI 智能体</p>]]></description>
+      <category>蚂蚁集团</category>
+      <category>AI 智能体</category>
+    </item>
+    <item>
+      <title><![CDATA[全球公开做预训练RSI的仅两家：一家在40亿美元公司，一家在801教室]]></title>
+      <link>https://www.jiqizhixin.com/articles/4ef7bab6-b6b7-4d8a-b606-123197c60ad3</link>
+      <guid>4ef7bab6-b6b7-4d8a-b606-123197c60ad3</guid>
+      <pubDate>Wed, 04 Nov 2026 11:40:06 +0000</pubDate>
+      <description><![CDATA[<p>全球公开做预训练RSI的仅两家：一家在40亿美元公司，一家在801教室</p><p>标签: 预训练RSI, 递归自我改进（RSI）</p>]]></description>
+      <category>预训练RSI</category>
+      <category>递归自我改进（RSI）</category>
+    </item>
+    <item>
+      <title><![CDATA[英伟达、UT-Austin发布Realtime-Bench，实时互动任务难倒GPT-6]]></title>
+      <link>https://www.jiqizhixin.com/articles/63dc28d4-62c7-4155-b327-bd25195317b4</link>
+      <guid>63dc28d4-62c7-4155-b327-bd25195317b4</guid>
+      <pubDate>Wed, 04 Nov 2026 11:40:35 +0000</pubDate>
+      <description><![CDATA[<p>英伟达、UT-Austin发布Realtime-Bench，实时互动任务难倒GPT-6</p><p>标签: 实时交互, benchmark</p>]]></description>
+      <category>实时交互</category>
+      <category>benchmark</category>
+    </item>
+    <item>
+      <title><![CDATA[腾讯混元发布 Hy4，跻身最强开源模型之列]]></title>
+      <link>https://www.jiqizhixin.com/articles/b8881a05-c6d6-46fb-ac61-4a85e23b526a</link>
+      <guid>b8881a05-c6d6-46fb-ac61-4a85e23b526a</guid>
+      <pubDate>Wed, 04 Nov 2026 11:40:35 +0000</pubDate>
+      <description><![CDATA[<p>腾讯混元发布 Hy4，跻身最强开源模型之列</p><p>标签: Hy4, 腾讯混元大模型</p>]]></description>
+      <category>Hy4</category>
+      <category>腾讯混元大模型</category>
+    </item>
+    <item>
+      <title><![CDATA[把黄仁勋的小黄鸭训练放在本地！国产端侧600T算力即将到来]]></title>
+      <link>https://www.jiqizhixin.com/articles/6e93b77d-ea14-40f2-abd0-11d946e9037d</link>
+      <guid>6e93b77d-ea14-40f2-abd0-11d946e9037d</guid>
+      <pubDate>Wed, 04 Nov 2026 11:41:07 +0000</pubDate>
+      <description><![CDATA[<p>把黄仁勋的小黄鸭训练放在本地！国产端侧600T算力即将到来</p><p>标签: 端侧AI, 天数智芯, GPU</p>]]></description>
+      <category>端侧AI</category>
+      <category>天数智芯</category>
+      <category>GPU</category>
+    </item>
+    <item>
+      <title><![CDATA[比DeepSeek Super-agent更早，Comma已经把长期记忆做进Agent「大管家」]]></title>
+      <link>https://www.jiqizhixin.com/articles/907417e5-30fe-477f-8d09-0aa4daf2e794</link>
+      <guid>907417e5-30fe-477f-8d09-0aa4daf2e794</guid>
+      <pubDate>Wed, 04 Nov 2026 11:41:05 +0000</pubDate>
+      <description><![CDATA[<p>比DeepSeek Super-agent更早，Comma已经把长期记忆做进Agent「大管家」</p><p>标签: AI 记忆系统, Agent</p>]]></description>
+      <category>AI 记忆系统</category>
+      <category>Agent</category>
+    </item>
+    <item>
+      <title><![CDATA[让Code Agent从自己的错误中进化：ReTerm探索失败驱动的RSI]]></title>
+      <link>https://www.jiqizhixin.com/articles/a2ebd0c7-2a80-4889-bc2a-23c41f5665fc</link>
+      <guid>a2ebd0c7-2a80-4889-bc2a-23c41f5665fc</guid>
+      <pubDate>Wed, 04 Nov 2026 11:41:35 +0000</pubDate>
+      <description><![CDATA[<p>让Code Agent从自己的错误中进化：ReTerm探索失败驱动的RSI</p><p>标签: 递归自我改进（RSI）, Coding Agent</p>]]></description>
+      <category>递归自我改进（RSI）</category>
+      <category>Coding Agent</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，Anthropic开源FlashProve，给大模型办了一张「防伪身份证」]]></title>
+      <link>https://www.jiqizhixin.com/articles/1d0cbc24-89a0-4315-a61f-855ef964f224</link>
+      <guid>1d0cbc24-89a0-4315-a61f-855ef964f224</guid>
+      <pubDate>Wed, 04 Nov 2026 11:41:36 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，Anthropic开源FlashProve，给大模型办了一张「防伪身份证」</p><p>标签: AI 中转站, 可证明推理, Anthropic</p>]]></description>
+      <category>AI 中转站</category>
+      <category>可证明推理</category>
+      <category>Anthropic</category>
+    </item>
     <item>
       <title><![CDATA[普林斯顿AI Lab出题，「空间智能」大考：人类83.3%，大模型最高39.7%！]]></title>
       <link>https://www.jiqizhixin.com/articles/4c7d351c-898c-479a-ac58-e92971aa54e1</link>
@@ -45,81 +119,6 @@
       <description><![CDATA[<p>便利店打工24小时后，智元两名机器人员工「转正」失败</p><p>标签: 机器人技术, 智元机器人</p>]]></description>
       <category>机器人技术</category>
       <category>智元机器人</category>
-    </item>
-    <item>
-      <title><![CDATA[NeurIPS 2026｜离散数据也能一步生成？ReSFlow在统计流形上「拉直」生成路径]]></title>
-      <link>https://www.jiqizhixin.com/articles/5ba3ed09-22bc-4f8a-9252-c5b942c16d20</link>
-      <guid>5ba3ed09-22bc-4f8a-9252-c5b942c16d20</guid>
-      <pubDate>Tue, 03 Nov 2026 16:00:00 +0000</pubDate>
-      <description><![CDATA[<p>NeurIPS 2026｜离散数据也能一步生成？ReSFlow在统计流形上「拉直」生成路径</p><p>标签: 离散数据生成, 扩散模型, NeurIPS 2026</p>]]></description>
-      <category>离散数据生成</category>
-      <category>扩散模型</category>
-      <category>NeurIPS 2026</category>
-    </item>
-    <item>
-      <title><![CDATA[从头设计到局部精修：ProteoCraft探索可控蛋白质设计]]></title>
-      <link>https://www.jiqizhixin.com/articles/cfc8ab15-8457-4886-bec6-ae59879fa981</link>
-      <guid>cfc8ab15-8457-4886-bec6-ae59879fa981</guid>
-      <pubDate>Tue, 03 Nov 2026 17:25:03 +0000</pubDate>
-      <description><![CDATA[<p>从头设计到局部精修：ProteoCraft探索可控蛋白质设计</p><p>标签: AI for Science（AI4S）, 蛋白质设计</p>]]></description>
-      <category>AI for Science（AI4S）</category>
-      <category>蛋白质设计</category>
-    </item>
-    <item>
-      <title><![CDATA[网络安全的AlphaGo时刻，或从这466场Agent对局开始]]></title>
-      <link>https://www.jiqizhixin.com/articles/8cdadbcc-4a4e-4db9-8a8d-4ff29f62916f</link>
-      <guid>8cdadbcc-4a4e-4db9-8a8d-4ff29f62916f</guid>
-      <pubDate>Tue, 03 Nov 2026 17:25:32 +0000</pubDate>
-      <description><![CDATA[<p>网络安全的AlphaGo时刻，或从这466场Agent对局开始</p><p>标签: Agent, 网络安全</p>]]></description>
-      <category>Agent</category>
-      <category>网络安全</category>
-    </item>
-    <item>
-      <title><![CDATA[与DeepSeek Super Agent理念同频：人大复旦提出CoworkOS，构建你的「超级AI同事」！]]></title>
-      <link>https://www.jiqizhixin.com/articles/97069ed0-b30d-4bc1-81ec-b51b65e7b57f</link>
-      <guid>97069ed0-b30d-4bc1-81ec-b51b65e7b57f</guid>
-      <pubDate>Tue, 03 Nov 2026 08:43:01 +0000</pubDate>
-      <description><![CDATA[<p>与DeepSeek Super Agent理念同频：人大复旦提出CoworkOS，构建你的「超级AI同事」！</p><p>标签: 复旦大学, 中国人民大学, 超级智能体</p>]]></description>
-      <category>复旦大学</category>
-      <category>中国人民大学</category>
-      <category>超级智能体</category>
-    </item>
-    <item>
-      <title><![CDATA[多轮图像编辑如何保住画质与细节？商汤、港科MMLab等联合提出MT Forcing]]></title>
-      <link>https://www.jiqizhixin.com/articles/bb821a30-d082-4e08-9886-320b9f57e771</link>
-      <guid>bb821a30-d082-4e08-9886-320b9f57e771</guid>
-      <pubDate>Tue, 03 Nov 2026 08:43:00 +0000</pubDate>
-      <description><![CDATA[<p>多轮图像编辑如何保住画质与细节？商汤、港科MMLab等联合提出MT Forcing</p><p>标签: 多模态模型, 图像编辑</p>]]></description>
-      <category>多模态模型</category>
-      <category>图像编辑</category>
-    </item>
-    <item>
-      <title><![CDATA[MIT让GPT-6 Astra直接修改Qwen权重！数学成绩飙升]]></title>
-      <link>https://www.jiqizhixin.com/articles/5dd99b48-f21b-4b26-b25f-4972596e9cf8</link>
-      <guid>5dd99b48-f21b-4b26-b25f-4972596e9cf8</guid>
-      <pubDate>Tue, 03 Nov 2026 08:43:29 +0000</pubDate>
-      <description><![CDATA[<p>MIT让GPT-6 Astra直接修改Qwen权重！数学成绩飙升</p><p>标签: 递归自我改进（RSI）, 权重空间编程, 模型训练</p>]]></description>
-      <category>递归自我改进（RSI）</category>
-      <category>权重空间编程</category>
-      <category>模型训练</category>
-    </item>
-    <item>
-      <title><![CDATA[奥特曼预告下一代GPT！1万个Agent攻下千禧难题]]></title>
-      <link>https://www.jiqizhixin.com/articles/458026ea-e714-490c-8e5a-a75fa23d0ef4</link>
-      <guid>458026ea-e714-490c-8e5a-a75fa23d0ef4</guid>
-      <pubDate>Tue, 03 Nov 2026 08:43:30 +0000</pubDate>
-      <description><![CDATA[<p>奥特曼预告下一代GPT！1万个Agent攻下千禧难题</p><p>标签: OpenAI, Agent, GPT</p>]]></description>
-      <category>OpenAI</category>
-      <category>Agent</category>
-      <category>GPT</category>
-    </item>
-    <item>
-      <title><![CDATA[PhysLDM | 物理仿真的Latent Diffusion范式，革命传统物理仿真]]></title>
-      <link>https://www.jiqizhixin.com/articles/5fd19f93-5d0b-416e-9564-1e075cb9b75e</link>
-      <guid>5fd19f93-5d0b-416e-9564-1e075cb9b75e</guid>
-      <pubDate>Tue, 03 Nov 2026 08:44:00 +0000</pubDate>
-      <description><![CDATA[<p>PhysLDM | 物理仿真的Latent Diffusion范式，革命传统物理仿真</p><p>标签: 物理仿真</p>]]></description>
-      <category>物理仿真</category>
     </item>
   </channel>
 </rss>
