@@ -4,8 +4,38 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 05 Nov 2026 08:41:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 17:43:55 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Nature | 中科大structRFM：引入碱基配对关系，结构引导的可迁移RNA基础模型]]></title>
+      <link>https://www.jiqizhixin.com/articles/946312ba-0bdc-4389-bfc5-0d8af4c2b9cc</link>
+      <guid>946312ba-0bdc-4389-bfc5-0d8af4c2b9cc</guid>
+      <pubDate>Thu, 05 Nov 2026 17:43:27 +0000</pubDate>
+      <description><![CDATA[<p>Nature | 中科大structRFM：引入碱基配对关系，结构引导的可迁移RNA基础模型</p><p>标签: RNA, 碱基配对, AI for Science（AI4S）, Nature</p>]]></description>
+      <category>RNA</category>
+      <category>碱基配对</category>
+      <category>AI for Science（AI4S）</category>
+      <category>Nature</category>
+    </item>
+    <item>
+      <title><![CDATA[首次绘制细菌穹窿体3D结构，Claude为40年谜题提供新线索]]></title>
+      <link>https://www.jiqizhixin.com/articles/af4215b3-d3ce-4890-9bc8-7aeba84e4bd4</link>
+      <guid>af4215b3-d3ce-4890-9bc8-7aeba84e4bd4</guid>
+      <pubDate>Thu, 05 Nov 2026 17:43:27 +0000</pubDate>
+      <description><![CDATA[<p>首次绘制细菌穹窿体3D结构，Claude为40年谜题提供新线索</p><p>标签: Anthropic, AI for Science（AI4S）, 蛋白质</p>]]></description>
+      <category>Anthropic</category>
+      <category>AI for Science（AI4S）</category>
+      <category>蛋白质</category>
+    </item>
+    <item>
+      <title><![CDATA[对谈千问蒋冠军：从模型、记忆到生态，Personal Agent的技术架构如何搭建？]]></title>
+      <link>https://www.jiqizhixin.com/articles/9c9c4644-41f5-48da-9fdf-12ea2451d80c</link>
+      <guid>9c9c4644-41f5-48da-9fdf-12ea2451d80c</guid>
+      <pubDate>Thu, 05 Nov 2026 17:43:55 +0000</pubDate>
+      <description><![CDATA[<p>对谈千问蒋冠军：从模型、记忆到生态，Personal Agent的技术架构如何搭建？</p><p>标签: 千问, Personal Agent</p>]]></description>
+      <category>千问</category>
+      <category>Personal Agent</category>
+    </item>
     <item>
       <title><![CDATA[刚刚，百度开源全新预训练基模，还是主打效率的Flash]]></title>
       <link>https://www.jiqizhixin.com/articles/2a18c14a-7153-4bcd-8913-dfbeb59808b6</link>
@@ -91,34 +121,6 @@
       <description><![CDATA[<p>刚刚，OpenAI收购Pierre，Codex要对Git下手？</p><p>标签: Pierre, OpenAI</p>]]></description>
       <category>Pierre</category>
       <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[AI开始教AI开车！无人驾驶的下一场竞赛，在虚拟世界打响]]></title>
-      <link>https://www.jiqizhixin.com/articles/19a31f4d-ed1d-45f5-863a-0b376164a2f2</link>
-      <guid>19a31f4d-ed1d-45f5-863a-0b376164a2f2</guid>
-      <pubDate>Wed, 04 Nov 2026 18:56:50 +0000</pubDate>
-      <description><![CDATA[<p>AI开始教AI开车！无人驾驶的下一场竞赛，在虚拟世界打响</p><p>标签: 百度, Apollo World, 具身世界模型, 无人驾驶</p>]]></description>
-      <category>百度</category>
-      <category>Apollo World</category>
-      <category>具身世界模型</category>
-      <category>无人驾驶</category>
-    </item>
-    <item>
-      <title><![CDATA[决策模型何时需要思考？StartLux-Decision的按需推理与概率校准]]></title>
-      <link>https://www.jiqizhixin.com/articles/846e1f92-9b2f-46c8-aa0a-b0a4bf3ea0d6</link>
-      <guid>846e1f92-9b2f-46c8-aa0a-b0a4bf3ea0d6</guid>
-      <pubDate>Wed, 04 Nov 2026 18:56:50 +0000</pubDate>
-      <description><![CDATA[<p>决策模型何时需要思考？StartLux-Decision的按需推理与概率校准</p><p>标签: 决策模型</p>]]></description>
-      <category>决策模型</category>
-    </item>
-    <item>
-      <title><![CDATA[蚂蚁参与智能体身份注册与解析平台建设，推动智能体可信互联]]></title>
-      <link>https://www.jiqizhixin.com/articles/27f8153e-3bac-4674-bd16-dee3666f9853</link>
-      <guid>27f8153e-3bac-4674-bd16-dee3666f9853</guid>
-      <pubDate>Wed, 04 Nov 2026 11:40:06 +0000</pubDate>
-      <description><![CDATA[<p>蚂蚁参与智能体身份注册与解析平台建设，推动智能体可信互联</p><p>标签: 蚂蚁集团, AI 智能体</p>]]></description>
-      <category>蚂蚁集团</category>
-      <category>AI 智能体</category>
     </item>
   </channel>
 </rss>
