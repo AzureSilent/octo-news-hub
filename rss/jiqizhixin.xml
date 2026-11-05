@@ -4,8 +4,94 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 05 Nov 2026 00:34:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 08:41:04 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[刚刚，百度开源全新预训练基模，还是主打效率的Flash]]></title>
+      <link>https://www.jiqizhixin.com/articles/2a18c14a-7153-4bcd-8913-dfbeb59808b6</link>
+      <guid>2a18c14a-7153-4bcd-8913-dfbeb59808b6</guid>
+      <pubDate>Thu, 05 Nov 2026 08:39:10 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，百度开源全新预训练基模，还是主打效率的Flash</p><p>标签: 开源模型, 文心大模型, 百度</p>]]></description>
+      <category>开源模型</category>
+      <category>文心大模型</category>
+      <category>百度</category>
+    </item>
+    <item>
+      <title><![CDATA[不做Token化，也不搞双系统！多模态模型有了第三条路]]></title>
+      <link>https://www.jiqizhixin.com/articles/faee5560-9498-47ab-9bc3-442649832176</link>
+      <guid>faee5560-9498-47ab-9bc3-442649832176</guid>
+      <pubDate>Thu, 05 Nov 2026 08:39:09 +0000</pubDate>
+      <description><![CDATA[<p>不做Token化，也不搞双系统！多模态模型有了第三条路</p><p>标签: 地平线机器人, 华中科技大学, 多模态模型</p>]]></description>
+      <category>地平线机器人</category>
+      <category>华中科技大学</category>
+      <category>多模态模型</category>
+    </item>
+    <item>
+      <title><![CDATA[百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA]]></title>
+      <link>https://www.jiqizhixin.com/articles/32f9b74b-a96c-4de5-a867-e5f8f0c7086f</link>
+      <guid>32f9b74b-a96c-4de5-a867-e5f8f0c7086f</guid>
+      <pubDate>Thu, 05 Nov 2026 08:39:37 +0000</pubDate>
+      <description><![CDATA[<p>百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA</p><p>标签: 开源模型, 文心大模型, 百度</p>]]></description>
+      <category>开源模型</category>
+      <category>文心大模型</category>
+      <category>百度</category>
+    </item>
+    <item>
+      <title><![CDATA[一键生成GIF！ChatGPT Images 2.6上线，大家表情包自由了]]></title>
+      <link>https://www.jiqizhixin.com/articles/b5697207-0f8a-499e-9e69-37e3c3d648bd</link>
+      <guid>b5697207-0f8a-499e-9e69-37e3c3d648bd</guid>
+      <pubDate>Thu, 05 Nov 2026 08:39:40 +0000</pubDate>
+      <description><![CDATA[<p>一键生成GIF！ChatGPT Images 2.6上线，大家表情包自由了</p><p>标签: OpenAI, ChatGPT Images</p>]]></description>
+      <category>OpenAI</category>
+      <category>ChatGPT Images</category>
+    </item>
+    <item>
+      <title><![CDATA[迈向通用游戏智能，清华、米哈游开源GameScaling系列模型]]></title>
+      <link>https://www.jiqizhixin.com/articles/b8273753-6d8a-45f2-8ddd-cc6b54f20a63</link>
+      <guid>b8273753-6d8a-45f2-8ddd-cc6b54f20a63</guid>
+      <pubDate>Thu, 05 Nov 2026 08:40:06 +0000</pubDate>
+      <description><![CDATA[<p>迈向通用游戏智能，清华、米哈游开源GameScaling系列模型</p><p>标签: 游戏AI, 游戏智能</p>]]></description>
+      <category>游戏AI</category>
+      <category>游戏智能</category>
+    </item>
+    <item>
+      <title><![CDATA[Sand.ai 完成 2 亿美元 A+ 轮融资，10 个月累计融资 3 亿美元]]></title>
+      <link>https://www.jiqizhixin.com/articles/b3362913-8481-47d4-bbd2-5ac2236c8a44</link>
+      <guid>b3362913-8481-47d4-bbd2-5ac2236c8a44</guid>
+      <pubDate>Thu, 05 Nov 2026 08:40:09 +0000</pubDate>
+      <description><![CDATA[<p>Sand.ai 完成 2 亿美元 A+ 轮融资，10 个月累计融资 3 亿美元</p><p>标签: 融资, 视频生成, Sand.ai</p>]]></description>
+      <category>融资</category>
+      <category>视频生成</category>
+      <category>Sand.ai</category>
+    </item>
+    <item>
+      <title><![CDATA[从RDT-1B到Liber-0，两年间，基模走了多远？]]></title>
+      <link>https://www.jiqizhixin.com/articles/2f4274ce-b03b-41c9-89db-18a31cf36090</link>
+      <guid>2f4274ce-b03b-41c9-89db-18a31cf36090</guid>
+      <pubDate>Thu, 05 Nov 2026 08:40:33 +0000</pubDate>
+      <description><![CDATA[<p>从RDT-1B到Liber-0，两年间，基模走了多远？</p><p>标签: LiberAI, 物理 AI（Physical AI）, 世界动作模型</p>]]></description>
+      <category>LiberAI</category>
+      <category>物理 AI（Physical AI）</category>
+      <category>世界动作模型</category>
+    </item>
+    <item>
+      <title><![CDATA[NeurIPS 2026 | 港大提出RaPO：强化微调破解MLLM灾难性遗忘，代码已开源]]></title>
+      <link>https://www.jiqizhixin.com/articles/c40e9b6e-492b-4bc2-8b1b-4eb2ef97be9c</link>
+      <guid>c40e9b6e-492b-4bc2-8b1b-4eb2ef97be9c</guid>
+      <pubDate>Thu, 05 Nov 2026 08:40:37 +0000</pubDate>
+      <description><![CDATA[<p>NeurIPS 2026 | 港大提出RaPO：强化微调破解MLLM灾难性遗忘，代码已开源</p><p>标签: 强化微调, NeurIPS 2026</p>]]></description>
+      <category>强化微调</category>
+      <category>NeurIPS 2026</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，OpenAI收购Pierre，Codex要对Git下手？]]></title>
+      <link>https://www.jiqizhixin.com/articles/bb9e8e03-a6ef-4117-9f61-f492441e4db9</link>
+      <guid>bb9e8e03-a6ef-4117-9f61-f492441e4db9</guid>
+      <pubDate>Thu, 05 Nov 2026 08:41:03 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，OpenAI收购Pierre，Codex要对Git下手？</p><p>标签: Pierre, OpenAI</p>]]></description>
+      <category>Pierre</category>
+      <category>OpenAI</category>
+    </item>
     <item>
       <title><![CDATA[AI开始教AI开车！无人驾驶的下一场竞赛，在虚拟世界打响]]></title>
       <link>https://www.jiqizhixin.com/articles/19a31f4d-ed1d-45f5-863a-0b376164a2f2</link>
@@ -33,91 +119,6 @@
       <description><![CDATA[<p>蚂蚁参与智能体身份注册与解析平台建设，推动智能体可信互联</p><p>标签: 蚂蚁集团, AI 智能体</p>]]></description>
       <category>蚂蚁集团</category>
       <category>AI 智能体</category>
-    </item>
-    <item>
-      <title><![CDATA[全球公开做预训练RSI的仅两家：一家在40亿美元公司，一家在801教室]]></title>
-      <link>https://www.jiqizhixin.com/articles/4ef7bab6-b6b7-4d8a-b606-123197c60ad3</link>
-      <guid>4ef7bab6-b6b7-4d8a-b606-123197c60ad3</guid>
-      <pubDate>Wed, 04 Nov 2026 11:40:06 +0000</pubDate>
-      <description><![CDATA[<p>全球公开做预训练RSI的仅两家：一家在40亿美元公司，一家在801教室</p><p>标签: 预训练RSI, 递归自我改进（RSI）</p>]]></description>
-      <category>预训练RSI</category>
-      <category>递归自我改进（RSI）</category>
-    </item>
-    <item>
-      <title><![CDATA[英伟达、UT-Austin发布Realtime-Bench，实时互动任务难倒GPT-6]]></title>
-      <link>https://www.jiqizhixin.com/articles/63dc28d4-62c7-4155-b327-bd25195317b4</link>
-      <guid>63dc28d4-62c7-4155-b327-bd25195317b4</guid>
-      <pubDate>Wed, 04 Nov 2026 11:40:35 +0000</pubDate>
-      <description><![CDATA[<p>英伟达、UT-Austin发布Realtime-Bench，实时互动任务难倒GPT-6</p><p>标签: 实时交互, benchmark</p>]]></description>
-      <category>实时交互</category>
-      <category>benchmark</category>
-    </item>
-    <item>
-      <title><![CDATA[腾讯混元发布 Hy4，跻身最强开源模型之列]]></title>
-      <link>https://www.jiqizhixin.com/articles/b8881a05-c6d6-46fb-ac61-4a85e23b526a</link>
-      <guid>b8881a05-c6d6-46fb-ac61-4a85e23b526a</guid>
-      <pubDate>Wed, 04 Nov 2026 11:40:35 +0000</pubDate>
-      <description><![CDATA[<p>腾讯混元发布 Hy4，跻身最强开源模型之列</p><p>标签: Hy4, 腾讯混元大模型</p>]]></description>
-      <category>Hy4</category>
-      <category>腾讯混元大模型</category>
-    </item>
-    <item>
-      <title><![CDATA[把黄仁勋的小黄鸭训练放在本地！国产端侧600T算力即将到来]]></title>
-      <link>https://www.jiqizhixin.com/articles/6e93b77d-ea14-40f2-abd0-11d946e9037d</link>
-      <guid>6e93b77d-ea14-40f2-abd0-11d946e9037d</guid>
-      <pubDate>Wed, 04 Nov 2026 11:41:07 +0000</pubDate>
-      <description><![CDATA[<p>把黄仁勋的小黄鸭训练放在本地！国产端侧600T算力即将到来</p><p>标签: 端侧AI, 天数智芯, GPU</p>]]></description>
-      <category>端侧AI</category>
-      <category>天数智芯</category>
-      <category>GPU</category>
-    </item>
-    <item>
-      <title><![CDATA[比DeepSeek Super-agent更早，Comma已经把长期记忆做进Agent「大管家」]]></title>
-      <link>https://www.jiqizhixin.com/articles/907417e5-30fe-477f-8d09-0aa4daf2e794</link>
-      <guid>907417e5-30fe-477f-8d09-0aa4daf2e794</guid>
-      <pubDate>Wed, 04 Nov 2026 11:41:05 +0000</pubDate>
-      <description><![CDATA[<p>比DeepSeek Super-agent更早，Comma已经把长期记忆做进Agent「大管家」</p><p>标签: AI 记忆系统, Agent</p>]]></description>
-      <category>AI 记忆系统</category>
-      <category>Agent</category>
-    </item>
-    <item>
-      <title><![CDATA[让Code Agent从自己的错误中进化：ReTerm探索失败驱动的RSI]]></title>
-      <link>https://www.jiqizhixin.com/articles/a2ebd0c7-2a80-4889-bc2a-23c41f5665fc</link>
-      <guid>a2ebd0c7-2a80-4889-bc2a-23c41f5665fc</guid>
-      <pubDate>Wed, 04 Nov 2026 11:41:35 +0000</pubDate>
-      <description><![CDATA[<p>让Code Agent从自己的错误中进化：ReTerm探索失败驱动的RSI</p><p>标签: 递归自我改进（RSI）, Coding Agent</p>]]></description>
-      <category>递归自我改进（RSI）</category>
-      <category>Coding Agent</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，Anthropic开源FlashProve，给大模型办了一张「防伪身份证」]]></title>
-      <link>https://www.jiqizhixin.com/articles/1d0cbc24-89a0-4315-a61f-855ef964f224</link>
-      <guid>1d0cbc24-89a0-4315-a61f-855ef964f224</guid>
-      <pubDate>Wed, 04 Nov 2026 11:41:36 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，Anthropic开源FlashProve，给大模型办了一张「防伪身份证」</p><p>标签: AI 中转站, 可证明推理, Anthropic</p>]]></description>
-      <category>AI 中转站</category>
-      <category>可证明推理</category>
-      <category>Anthropic</category>
-    </item>
-    <item>
-      <title><![CDATA[普林斯顿AI Lab出题，「空间智能」大考：人类83.3%，大模型最高39.7%！]]></title>
-      <link>https://www.jiqizhixin.com/articles/4c7d351c-898c-479a-ac58-e92971aa54e1</link>
-      <guid>4c7d351c-898c-479a-ac58-e92971aa54e1</guid>
-      <pubDate>Wed, 04 Nov 2026 03:31:52 +0000</pubDate>
-      <description><![CDATA[<p>普林斯顿AI Lab出题，「空间智能」大考：人类83.3%，大模型最高39.7%！</p><p>标签: benchmark, 普林斯顿 AI Lab, 空间智能</p>]]></description>
-      <category>benchmark</category>
-      <category>普林斯顿 AI Lab</category>
-      <category>空间智能</category>
-    </item>
-    <item>
-      <title><![CDATA[苹果智能Beta版上线，千问 APP 为 Siri 增强能力]]></title>
-      <link>https://www.jiqizhixin.com/articles/84c64fc0-ecc7-4d63-8e31-88685bd80907</link>
-      <guid>84c64fc0-ecc7-4d63-8e31-88685bd80907</guid>
-      <pubDate>Wed, 04 Nov 2026 03:31:51 +0000</pubDate>
-      <description><![CDATA[<p>苹果智能Beta版上线，千问 APP 为 Siri 增强能力</p><p>标签: 千问, Siri, 苹果</p>]]></description>
-      <category>千问</category>
-      <category>Siri</category>
-      <category>苹果</category>
     </item>
   </channel>
 </rss>
