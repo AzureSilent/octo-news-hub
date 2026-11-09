@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[机器之心]]></title>
+    <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 09 Nov 2026 08:48:05 +0000</lastBuildDate>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[两年内把GPT-6的智能装进手机！我们已经抵达端侧智能的「撞线前夜」]]></title>
+      <link>https://www.jiqizhixin.com/articles/7ae2ee52-63ec-453a-9f04-0ddfea53b488</link>
+      <guid>7ae2ee52-63ec-453a-9f04-0ddfea53b488</guid>
+      <pubDate>Mon, 09 Nov 2026 08:46:36 +0000</pubDate>
+      <description><![CDATA[<p>两年内把GPT-6的智能装进手机！我们已经抵达端侧智能的「撞线前夜」</p><p>标签: 端侧AI, 面壁智能</p>]]></description>
+      <category>端侧AI</category>
+      <category>面壁智能</category>
+    </item>
+    <item>
+      <title><![CDATA[并行推测解码SOTA！因果依赖刻进草稿网络深度，SGLang吞吐最高达4倍，已开源]]></title>
+      <link>https://www.jiqizhixin.com/articles/ace7736f-d713-415b-8d5f-af557c3db573</link>
+      <guid>ace7736f-d713-415b-8d5f-af557c3db573</guid>
+      <pubDate>Mon, 09 Nov 2026 08:46:36 +0000</pubDate>
+      <description><![CDATA[<p>并行推测解码SOTA！因果依赖刻进草稿网络深度，SGLang吞吐最高达4倍，已开源</p><p>标签: 腾讯优图实验室, 推测解码, 推理加速</p>]]></description>
+      <category>腾讯优图实验室</category>
+      <category>推测解码</category>
+      <category>推理加速</category>
+    </item>
+    <item>
+      <title><![CDATA[Potential Sciences获八位数融资，用物理定律重构AI药物发现]]></title>
+      <link>https://www.jiqizhixin.com/articles/ed1472c3-a6a0-479a-a443-6f9a03c1e224</link>
+      <guid>ed1472c3-a6a0-479a-a443-6f9a03c1e224</guid>
+      <pubDate>Mon, 09 Nov 2026 08:47:06 +0000</pubDate>
+      <description><![CDATA[<p>Potential Sciences获八位数融资，用物理定律重构AI药物发现</p><p>标签: AI for Science（AI4S）, AI 药物发现</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>AI 药物发现</category>
+    </item>
+    <item>
+      <title><![CDATA[愿景&开源 | 把今天的能力短板，变成通向超级智能的进化路径]]></title>
+      <link>https://www.jiqizhixin.com/articles/31ae4922-77a5-444b-9dc2-a45b4409b2c9</link>
+      <guid>31ae4922-77a5-444b-9dc2-a45b4409b2c9</guid>
+      <pubDate>Mon, 09 Nov 2026 08:47:05 +0000</pubDate>
+      <description><![CDATA[<p>愿景&开源 | 把今天的能力短板，变成通向超级智能的进化路径</p><p>标签: Theseus Lab 进化纪元, 超级智能</p>]]></description>
+      <category>Theseus Lab 进化纪元</category>
+      <category>超级智能</category>
+    </item>
+    <item>
+      <title><![CDATA[AI也会「以讹传讹」？AI的「曼德拉效应」探索]]></title>
+      <link>https://www.jiqizhixin.com/articles/a94c26eb-4adf-4a9c-a6fe-a92dd7132a46</link>
+      <guid>a94c26eb-4adf-4a9c-a6fe-a92dd7132a46</guid>
+      <pubDate>Mon, 09 Nov 2026 08:47:35 +0000</pubDate>
+      <description><![CDATA[<p>AI也会「以讹传讹」？AI的「曼德拉效应」探索</p><p>标签: 多智能体系统</p>]]></description>
+      <category>多智能体系统</category>
+    </item>
+    <item>
+      <title><![CDATA[突发！黄仁勋承认「婚外情」，英伟达启动调查]]></title>
+      <link>https://www.jiqizhixin.com/articles/6c42b63c-10b2-41e4-a548-2a4b3d91ee4a</link>
+      <guid>6c42b63c-10b2-41e4-a548-2a4b3d91ee4a</guid>
+      <pubDate>Mon, 09 Nov 2026 08:47:35 +0000</pubDate>
+      <description><![CDATA[<p>突发！黄仁勋承认「婚外情」，英伟达启动调查</p><p>标签: 黄仁勋, 英伟达</p>]]></description>
+      <category>黄仁勋</category>
+      <category>英伟达</category>
+    </item>
+    <item>
+      <title><![CDATA[会做梦的AI，记性反而更好？Anthropic新实验：写了413份笔记的，输给只写9份的]]></title>
+      <link>https://www.jiqizhixin.com/articles/281b1e03-43a1-4485-a670-629bc9828ffe</link>
+      <guid>281b1e03-43a1-4485-a670-629bc9828ffe</guid>
+      <pubDate>Mon, 09 Nov 2026 08:48:05 +0000</pubDate>
+      <description><![CDATA[<p>会做梦的AI，记性反而更好？Anthropic新实验：写了413份笔记的，输给只写9份的</p><p>标签: 记忆系统, Anthropic</p>]]></description>
+      <category>记忆系统</category>
+      <category>Anthropic</category>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI新模型临门一脚踩刹车！GPT-6.2曝出安全疑云]]></title>
+      <link>https://www.jiqizhixin.com/articles/fca41324-c9e0-412b-b9f2-945d2b3c1dbc</link>
+      <guid>fca41324-c9e0-412b-b9f2-945d2b3c1dbc</guid>
+      <pubDate>Sun, 08 Nov 2026 16:25:12 +0000</pubDate>
+      <description><![CDATA[<p>OpenAI新模型临门一脚踩刹车！GPT-6.2曝出安全疑云</p><p>标签: AI安全, GPT-6.2 Astra, OpenAI</p>]]></description>
+      <category>AI安全</category>
+      <category>GPT-6.2 Astra</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[NeurIPS 2026 Oral｜LCVN：一张起始画面、一段语言指令，能否预测完整的导航路线？]]></title>
+      <link>https://www.jiqizhixin.com/articles/7f9b076d-21f1-4103-b478-512eab38cc96</link>
+      <guid>7f9b076d-21f1-4103-b478-512eab38cc96</guid>
+      <pubDate>Sun, 08 Nov 2026 16:25:10 +0000</pubDate>
+      <description><![CDATA[<p>NeurIPS 2026 Oral｜LCVN：一张起始画面、一段语言指令，能否预测完整的导航路线？</p><p>标签: 具身导航, 机器人技术, NeurIPS 2026</p>]]></description>
+      <category>具身导航</category>
+      <category>机器人技术</category>
+      <category>NeurIPS 2026</category>
+    </item>
+    <item>
+      <title><![CDATA[2026云程奖｜Nature、Best Paper、5.9万Stars、亿元融资……这群AI青年，还在校园！]]></title>
+      <link>https://www.jiqizhixin.com/articles/7768811a-a8a6-4ccf-893b-4a430220ec2c</link>
+      <guid>7768811a-a8a6-4ccf-893b-4a430220ec2c</guid>
+      <pubDate>Sun, 08 Nov 2026 16:25:39 +0000</pubDate>
+      <description><![CDATA[<p>2026云程奖｜Nature、Best Paper、5.9万Stars、亿元融资……这群AI青年，还在校园！</p><p>标签: 云程奖</p>]]></description>
+      <category>云程奖</category>
+    </item>
+    <item>
+      <title><![CDATA[跨模型上下文交接还要重算KV？北大提出MapFlow，让注意力跨模型复用]]></title>
+      <link>https://www.jiqizhixin.com/articles/ce8ef1e8-6326-4603-8415-9d4e7f6ac479</link>
+      <guid>ce8ef1e8-6326-4603-8415-9d4e7f6ac479</guid>
+      <pubDate>Sun, 08 Nov 2026 16:25:42 +0000</pubDate>
+      <description><![CDATA[<p>跨模型上下文交接还要重算KV？北大提出MapFlow，让注意力跨模型复用</p><p>标签: 上下文工程, 注意力机制</p>]]></description>
+      <category>上下文工程</category>
+      <category>注意力机制</category>
+    </item>
+    <item>
+      <title><![CDATA[ICLR 2027首轮评审，槽点有点多]]></title>
+      <link>https://www.jiqizhixin.com/articles/415d54b7-9cfe-4978-8594-f5dfbe0f6de0</link>
+      <guid>415d54b7-9cfe-4978-8594-f5dfbe0f6de0</guid>
+      <pubDate>Sun, 08 Nov 2026 16:26:08 +0000</pubDate>
+      <description><![CDATA[<p>ICLR 2027首轮评审，槽点有点多</p><p>标签: 论文评审, ICLR 2027</p>]]></description>
+      <category>论文评审</category>
+      <category>ICLR 2027</category>
+    </item>
+  </channel>
+</rss>
