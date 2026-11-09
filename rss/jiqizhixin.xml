@@ -4,8 +4,47 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 09 Nov 2026 08:48:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 20:14:55 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[字节跳动发布Seedream 5.5，上线豆包、豆包工作、即梦]]></title>
+      <link>https://www.jiqizhixin.com/articles/91c06669-d952-42ff-889e-d9ea016966f9</link>
+      <guid>91c06669-d952-42ff-889e-d9ea016966f9</guid>
+      <pubDate>Mon, 09 Nov 2026 20:14:26 +0000</pubDate>
+      <description><![CDATA[<p>字节跳动发布Seedream 5.5，上线豆包、豆包工作、即梦</p><p>标签: Seedream 5.5, 字节跳动</p>]]></description>
+      <category>Seedream 5.5</category>
+      <category>字节跳动</category>
+    </item>
+    <item>
+      <title><![CDATA[AI Scientists「终极大考」，全球首个真实湿实验的Physical AI Verifier来了]]></title>
+      <link>https://www.jiqizhixin.com/articles/7fafc17b-3294-4b60-b38d-887a36f83ea1</link>
+      <guid>7fafc17b-3294-4b60-b38d-887a36f83ea1</guid>
+      <pubDate>Mon, 09 Nov 2026 20:14:25 +0000</pubDate>
+      <description><![CDATA[<p>AI Scientists「终极大考」，全球首个真实湿实验的Physical AI Verifier来了</p><p>标签: AI for Science（AI4S）, AI科研, AI科学家</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>AI科研</category>
+      <category>AI科学家</category>
+    </item>
+    <item>
+      <title><![CDATA[你的AI同事，已经开始用「云电脑」上班了]]></title>
+      <link>https://www.jiqizhixin.com/articles/e0fd250b-ee79-4dd1-bf3f-d8ef6d76c6e2</link>
+      <guid>e0fd250b-ee79-4dd1-bf3f-d8ef6d76c6e2</guid>
+      <pubDate>Mon, 09 Nov 2026 20:14:54 +0000</pubDate>
+      <description><![CDATA[<p>你的AI同事，已经开始用「云电脑」上班了</p><p>标签: 云电脑, TeleAgent, Agent</p>]]></description>
+      <category>云电脑</category>
+      <category>TeleAgent</category>
+      <category>Agent</category>
+    </item>
+    <item>
+      <title><![CDATA[让AI「摸懂」物理世界，首个触觉推理模型Touch-R1，入选NeurIPS 2026]]></title>
+      <link>https://www.jiqizhixin.com/articles/91858a57-ac3d-4949-a274-e512fa6e59c3</link>
+      <guid>91858a57-ac3d-4949-a274-e512fa6e59c3</guid>
+      <pubDate>Mon, 09 Nov 2026 20:14:55 +0000</pubDate>
+      <description><![CDATA[<p>让AI「摸懂」物理世界，首个触觉推理模型Touch-R1，入选NeurIPS 2026</p><p>标签: 物理AI, 触觉推理, NeurIPS 2026</p>]]></description>
+      <category>物理AI</category>
+      <category>触觉推理</category>
+      <category>NeurIPS 2026</category>
+    </item>
     <item>
       <title><![CDATA[两年内把GPT-6的智能装进手机！我们已经抵达端侧智能的「撞线前夜」]]></title>
       <link>https://www.jiqizhixin.com/articles/7ae2ee52-63ec-453a-9f04-0ddfea53b488</link>
@@ -78,42 +117,6 @@
       <category>AI安全</category>
       <category>GPT-6.2 Astra</category>
       <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[NeurIPS 2026 Oral｜LCVN：一张起始画面、一段语言指令，能否预测完整的导航路线？]]></title>
-      <link>https://www.jiqizhixin.com/articles/7f9b076d-21f1-4103-b478-512eab38cc96</link>
-      <guid>7f9b076d-21f1-4103-b478-512eab38cc96</guid>
-      <pubDate>Sun, 08 Nov 2026 16:25:10 +0000</pubDate>
-      <description><![CDATA[<p>NeurIPS 2026 Oral｜LCVN：一张起始画面、一段语言指令，能否预测完整的导航路线？</p><p>标签: 具身导航, 机器人技术, NeurIPS 2026</p>]]></description>
-      <category>具身导航</category>
-      <category>机器人技术</category>
-      <category>NeurIPS 2026</category>
-    </item>
-    <item>
-      <title><![CDATA[2026云程奖｜Nature、Best Paper、5.9万Stars、亿元融资……这群AI青年，还在校园！]]></title>
-      <link>https://www.jiqizhixin.com/articles/7768811a-a8a6-4ccf-893b-4a430220ec2c</link>
-      <guid>7768811a-a8a6-4ccf-893b-4a430220ec2c</guid>
-      <pubDate>Sun, 08 Nov 2026 16:25:39 +0000</pubDate>
-      <description><![CDATA[<p>2026云程奖｜Nature、Best Paper、5.9万Stars、亿元融资……这群AI青年，还在校园！</p><p>标签: 云程奖</p>]]></description>
-      <category>云程奖</category>
-    </item>
-    <item>
-      <title><![CDATA[跨模型上下文交接还要重算KV？北大提出MapFlow，让注意力跨模型复用]]></title>
-      <link>https://www.jiqizhixin.com/articles/ce8ef1e8-6326-4603-8415-9d4e7f6ac479</link>
-      <guid>ce8ef1e8-6326-4603-8415-9d4e7f6ac479</guid>
-      <pubDate>Sun, 08 Nov 2026 16:25:42 +0000</pubDate>
-      <description><![CDATA[<p>跨模型上下文交接还要重算KV？北大提出MapFlow，让注意力跨模型复用</p><p>标签: 上下文工程, 注意力机制</p>]]></description>
-      <category>上下文工程</category>
-      <category>注意力机制</category>
-    </item>
-    <item>
-      <title><![CDATA[ICLR 2027首轮评审，槽点有点多]]></title>
-      <link>https://www.jiqizhixin.com/articles/415d54b7-9cfe-4978-8594-f5dfbe0f6de0</link>
-      <guid>415d54b7-9cfe-4978-8594-f5dfbe0f6de0</guid>
-      <pubDate>Sun, 08 Nov 2026 16:26:08 +0000</pubDate>
-      <description><![CDATA[<p>ICLR 2027首轮评审，槽点有点多</p><p>标签: 论文评审, ICLR 2027</p>]]></description>
-      <category>论文评审</category>
-      <category>ICLR 2027</category>
     </item>
   </channel>
 </rss>
