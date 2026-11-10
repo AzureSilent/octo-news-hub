@@ -4,8 +4,65 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 10 Nov 2026 03:53:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 11:56:10 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Agent领导力大考！Einsia AI发布WorkflowArena，行业首个多智能体编排基准]]></title>
+      <link>https://www.jiqizhixin.com/articles/f00bfa74-397e-4738-8160-54389381996e</link>
+      <guid>f00bfa74-397e-4738-8160-54389381996e</guid>
+      <pubDate>Tue, 10 Nov 2026 11:54:39 +0000</pubDate>
+      <description><![CDATA[<p>Agent领导力大考！Einsia AI发布WorkflowArena，行业首个多智能体编排基准</p><p>标签: 长程任务, 评测基准, 多智能体</p>]]></description>
+      <category>长程任务</category>
+      <category>评测基准</category>
+      <category>多智能体</category>
+    </item>
+    <item>
+      <title><![CDATA[NeurIPS 2026｜VLM架构新突破：DGP打通全部ViT与LLM层，让大模型每一层按需「看图」]]></title>
+      <link>https://www.jiqizhixin.com/articles/56e83f32-8717-4832-8683-d0da88770403</link>
+      <guid>56e83f32-8717-4832-8683-d0da88770403</guid>
+      <pubDate>Tue, 10 Nov 2026 11:55:21 +0000</pubDate>
+      <description><![CDATA[<p>NeurIPS 2026｜VLM架构新突破：DGP打通全部ViT与LLM层，让大模型每一层按需「看图」</p><p>标签: 多模态大模型, NeurIPS 2026</p>]]></description>
+      <category>多模态大模型</category>
+      <category>NeurIPS 2026</category>
+    </item>
+    <item>
+      <title><![CDATA[给单细胞研究一个「ImageNet」：CellNet开放2.31亿张跨物种转录组图像]]></title>
+      <link>https://www.jiqizhixin.com/articles/70747639-b7be-43d5-a9a9-4fdbb1b2a6f6</link>
+      <guid>70747639-b7be-43d5-a9a9-4fdbb1b2a6f6</guid>
+      <pubDate>Tue, 10 Nov 2026 11:55:09 +0000</pubDate>
+      <description><![CDATA[<p>给单细胞研究一个「ImageNet」：CellNet开放2.31亿张跨物种转录组图像</p><p>标签: AI for Science（AI4S）, 细胞生物学</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>细胞生物学</category>
+    </item>
+    <item>
+      <title><![CDATA[Fable 5.2吃掉机器人？「手感」这块，还得靠具身原生基模来补全]]></title>
+      <link>https://www.jiqizhixin.com/articles/c2a5eb1f-16d8-4cdc-893f-7d4419ed4d80</link>
+      <guid>c2a5eb1f-16d8-4cdc-893f-7d4419ed4d80</guid>
+      <pubDate>Tue, 10 Nov 2026 11:55:38 +0000</pubDate>
+      <description><![CDATA[<p>Fable 5.2吃掉机器人？「手感」这块，还得靠具身原生基模来补全</p><p>标签: 蚂蚁灵波科技, 具身智能体, 触觉模型</p>]]></description>
+      <category>蚂蚁灵波科技</category>
+      <category>具身智能体</category>
+      <category>触觉模型</category>
+    </item>
+    <item>
+      <title><![CDATA[看视频、建世界、做实验：清华Asking the World让AI用物理回答问题]]></title>
+      <link>https://www.jiqizhixin.com/articles/b84a477c-663e-4d94-8a00-65cb595a7099</link>
+      <guid>b84a477c-663e-4d94-8a00-65cb595a7099</guid>
+      <pubDate>Tue, 10 Nov 2026 11:55:51 +0000</pubDate>
+      <description><![CDATA[<p>看视频、建世界、做实验：清华Asking the World让AI用物理回答问题</p><p>标签: 清华大学, 物理AI</p>]]></description>
+      <category>清华大学</category>
+      <category>物理AI</category>
+    </item>
+    <item>
+      <title><![CDATA[百度披露文心 5.5 Flash 研发技术，引入全新 RSI 技术，用于昆仑芯 P800 推理优化]]></title>
+      <link>https://www.jiqizhixin.com/articles/074120c8-7dd9-4895-8393-8d9a1b26bfee</link>
+      <guid>074120c8-7dd9-4895-8393-8d9a1b26bfee</guid>
+      <pubDate>Tue, 10 Nov 2026 11:56:10 +0000</pubDate>
+      <description><![CDATA[<p>百度披露文心 5.5 Flash 研发技术，引入全新 RSI 技术，用于昆仑芯 P800 推理优化</p><p>标签: 递归自我改进（RSI）, 文心大模型, 百度</p>]]></description>
+      <category>递归自我改进（RSI）</category>
+      <category>文心大模型</category>
+      <category>百度</category>
+    </item>
     <item>
       <title><![CDATA[通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型]]></title>
       <link>https://www.jiqizhixin.com/articles/92efedf7-b57b-40e2-8aff-4155cbb8658e</link>
@@ -61,61 +118,6 @@
       <category>云电脑</category>
       <category>TeleAgent</category>
       <category>Agent</category>
-    </item>
-    <item>
-      <title><![CDATA[让AI「摸懂」物理世界，首个触觉推理模型Touch-R1，入选NeurIPS 2026]]></title>
-      <link>https://www.jiqizhixin.com/articles/91858a57-ac3d-4949-a274-e512fa6e59c3</link>
-      <guid>91858a57-ac3d-4949-a274-e512fa6e59c3</guid>
-      <pubDate>Mon, 09 Nov 2026 20:14:55 +0000</pubDate>
-      <description><![CDATA[<p>让AI「摸懂」物理世界，首个触觉推理模型Touch-R1，入选NeurIPS 2026</p><p>标签: 物理AI, 触觉推理, NeurIPS 2026</p>]]></description>
-      <category>物理AI</category>
-      <category>触觉推理</category>
-      <category>NeurIPS 2026</category>
-    </item>
-    <item>
-      <title><![CDATA[两年内把GPT-6的智能装进手机！我们已经抵达端侧智能的「撞线前夜」]]></title>
-      <link>https://www.jiqizhixin.com/articles/7ae2ee52-63ec-453a-9f04-0ddfea53b488</link>
-      <guid>7ae2ee52-63ec-453a-9f04-0ddfea53b488</guid>
-      <pubDate>Mon, 09 Nov 2026 08:46:36 +0000</pubDate>
-      <description><![CDATA[<p>两年内把GPT-6的智能装进手机！我们已经抵达端侧智能的「撞线前夜」</p><p>标签: 端侧AI, 面壁智能</p>]]></description>
-      <category>端侧AI</category>
-      <category>面壁智能</category>
-    </item>
-    <item>
-      <title><![CDATA[并行推测解码SOTA！因果依赖刻进草稿网络深度，SGLang吞吐最高达4倍，已开源]]></title>
-      <link>https://www.jiqizhixin.com/articles/ace7736f-d713-415b-8d5f-af557c3db573</link>
-      <guid>ace7736f-d713-415b-8d5f-af557c3db573</guid>
-      <pubDate>Mon, 09 Nov 2026 08:46:36 +0000</pubDate>
-      <description><![CDATA[<p>并行推测解码SOTA！因果依赖刻进草稿网络深度，SGLang吞吐最高达4倍，已开源</p><p>标签: 腾讯优图实验室, 推测解码, 推理加速</p>]]></description>
-      <category>腾讯优图实验室</category>
-      <category>推测解码</category>
-      <category>推理加速</category>
-    </item>
-    <item>
-      <title><![CDATA[Potential Sciences获八位数融资，用物理定律重构AI药物发现]]></title>
-      <link>https://www.jiqizhixin.com/articles/ed1472c3-a6a0-479a-a443-6f9a03c1e224</link>
-      <guid>ed1472c3-a6a0-479a-a443-6f9a03c1e224</guid>
-      <pubDate>Mon, 09 Nov 2026 08:47:06 +0000</pubDate>
-      <description><![CDATA[<p>Potential Sciences获八位数融资，用物理定律重构AI药物发现</p><p>标签: AI for Science（AI4S）, AI 药物发现</p>]]></description>
-      <category>AI for Science（AI4S）</category>
-      <category>AI 药物发现</category>
-    </item>
-    <item>
-      <title><![CDATA[愿景&开源 | 把今天的能力短板，变成通向超级智能的进化路径]]></title>
-      <link>https://www.jiqizhixin.com/articles/31ae4922-77a5-444b-9dc2-a45b4409b2c9</link>
-      <guid>31ae4922-77a5-444b-9dc2-a45b4409b2c9</guid>
-      <pubDate>Mon, 09 Nov 2026 08:47:05 +0000</pubDate>
-      <description><![CDATA[<p>愿景&开源 | 把今天的能力短板，变成通向超级智能的进化路径</p><p>标签: Theseus Lab 进化纪元, 超级智能</p>]]></description>
-      <category>Theseus Lab 进化纪元</category>
-      <category>超级智能</category>
-    </item>
-    <item>
-      <title><![CDATA[AI也会「以讹传讹」？AI的「曼德拉效应」探索]]></title>
-      <link>https://www.jiqizhixin.com/articles/a94c26eb-4adf-4a9c-a6fe-a92dd7132a46</link>
-      <guid>a94c26eb-4adf-4a9c-a6fe-a92dd7132a46</guid>
-      <pubDate>Mon, 09 Nov 2026 08:47:35 +0000</pubDate>
-      <description><![CDATA[<p>AI也会「以讹传讹」？AI的「曼德拉效应」探索</p><p>标签: 多智能体系统</p>]]></description>
-      <category>多智能体系统</category>
     </item>
   </channel>
 </rss>
