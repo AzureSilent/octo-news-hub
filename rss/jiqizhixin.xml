@@ -4,8 +4,35 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 09 Nov 2026 20:14:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 03:53:02 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型]]></title>
+      <link>https://www.jiqizhixin.com/articles/92efedf7-b57b-40e2-8aff-4155cbb8658e</link>
+      <guid>92efedf7-b57b-40e2-8aff-4155cbb8658e</guid>
+      <pubDate>Tue, 10 Nov 2026 03:52:32 +0000</pubDate>
+      <description><![CDATA[<p>通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型</p><p>标签: 触觉模型, 蚂蚁灵波</p>]]></description>
+      <category>触觉模型</category>
+      <category>蚂蚁灵波</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，Claude Fable 5.2炸场！30小时完成费马大定理形式化]]></title>
+      <link>https://www.jiqizhixin.com/articles/d3141849-b2cc-4a36-b744-6621d2fa7908</link>
+      <guid>d3141849-b2cc-4a36-b744-6621d2fa7908</guid>
+      <pubDate>Tue, 10 Nov 2026 03:52:33 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，Claude Fable 5.2炸场！30小时完成费马大定理形式化</p><p>标签: Claude Fable 5.2, Anthropic</p>]]></description>
+      <category>Claude Fable 5.2</category>
+      <category>Anthropic</category>
+    </item>
+    <item>
+      <title><![CDATA[大语言模型能在「异世界」发现隐藏的物理规律吗？]]></title>
+      <link>https://www.jiqizhixin.com/articles/0e57a80a-8a5e-4f21-87c4-259afad2f05b</link>
+      <guid>0e57a80a-8a5e-4f21-87c4-259afad2f05b</guid>
+      <pubDate>Tue, 10 Nov 2026 03:53:01 +0000</pubDate>
+      <description><![CDATA[<p>大语言模型能在「异世界」发现隐藏的物理规律吗？</p><p>标签: 物理 AI（Physical AI）, 大语言模型</p>]]></description>
+      <category>物理 AI（Physical AI）</category>
+      <category>大语言模型</category>
+    </item>
     <item>
       <title><![CDATA[字节跳动发布Seedream 5.5，上线豆包、豆包工作、即梦]]></title>
       <link>https://www.jiqizhixin.com/articles/91c06669-d952-42ff-889e-d9ea016966f9</link>
@@ -89,34 +116,6 @@
       <pubDate>Mon, 09 Nov 2026 08:47:35 +0000</pubDate>
       <description><![CDATA[<p>AI也会「以讹传讹」？AI的「曼德拉效应」探索</p><p>标签: 多智能体系统</p>]]></description>
       <category>多智能体系统</category>
-    </item>
-    <item>
-      <title><![CDATA[突发！黄仁勋承认「婚外情」，英伟达启动调查]]></title>
-      <link>https://www.jiqizhixin.com/articles/6c42b63c-10b2-41e4-a548-2a4b3d91ee4a</link>
-      <guid>6c42b63c-10b2-41e4-a548-2a4b3d91ee4a</guid>
-      <pubDate>Mon, 09 Nov 2026 08:47:35 +0000</pubDate>
-      <description><![CDATA[<p>突发！黄仁勋承认「婚外情」，英伟达启动调查</p><p>标签: 黄仁勋, 英伟达</p>]]></description>
-      <category>黄仁勋</category>
-      <category>英伟达</category>
-    </item>
-    <item>
-      <title><![CDATA[会做梦的AI，记性反而更好？Anthropic新实验：写了413份笔记的，输给只写9份的]]></title>
-      <link>https://www.jiqizhixin.com/articles/281b1e03-43a1-4485-a670-629bc9828ffe</link>
-      <guid>281b1e03-43a1-4485-a670-629bc9828ffe</guid>
-      <pubDate>Mon, 09 Nov 2026 08:48:05 +0000</pubDate>
-      <description><![CDATA[<p>会做梦的AI，记性反而更好？Anthropic新实验：写了413份笔记的，输给只写9份的</p><p>标签: 记忆系统, Anthropic</p>]]></description>
-      <category>记忆系统</category>
-      <category>Anthropic</category>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI新模型临门一脚踩刹车！GPT-6.2曝出安全疑云]]></title>
-      <link>https://www.jiqizhixin.com/articles/fca41324-c9e0-412b-b9f2-945d2b3c1dbc</link>
-      <guid>fca41324-c9e0-412b-b9f2-945d2b3c1dbc</guid>
-      <pubDate>Sun, 08 Nov 2026 16:25:12 +0000</pubDate>
-      <description><![CDATA[<p>OpenAI新模型临门一脚踩刹车！GPT-6.2曝出安全疑云</p><p>标签: AI安全, GPT-6.2 Astra, OpenAI</p>]]></description>
-      <category>AI安全</category>
-      <category>GPT-6.2 Astra</category>
-      <category>OpenAI</category>
     </item>
   </channel>
 </rss>
