@@ -4,8 +4,47 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 10 Nov 2026 11:56:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 18:58:29 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Fable 5.2 徒手玩魔方？有了大模型，硅谷大厂还缺什么数据]]></title>
+      <link>https://www.jiqizhixin.com/articles/bcc77106-94f5-4acf-ace4-bc0646eb6405</link>
+      <guid>bcc77106-94f5-4acf-ace4-bc0646eb6405</guid>
+      <pubDate>Tue, 10 Nov 2026 18:58:00 +0000</pubDate>
+      <description><![CDATA[<p>Fable 5.2 徒手玩魔方？有了大模型，硅谷大厂还缺什么数据</p><p>标签: 具身智能, 触觉数据, 数据采集</p>]]></description>
+      <category>具身智能</category>
+      <category>触觉数据</category>
+      <category>数据采集</category>
+    </item>
+    <item>
+      <title><![CDATA[机器人版「苦涩的教训」来了？ Claude 5.2操作性能大涨，前Optimus研究员加盟]]></title>
+      <link>https://www.jiqizhixin.com/articles/88be4537-6112-4f6a-9917-1242e3cd4ab9</link>
+      <guid>88be4537-6112-4f6a-9917-1242e3cd4ab9</guid>
+      <pubDate>Tue, 10 Nov 2026 18:58:00 +0000</pubDate>
+      <description><![CDATA[<p>机器人版「苦涩的教训」来了？ Claude 5.2操作性能大涨，前Optimus研究员加盟</p><p>标签: Anthropic, 通用大模型, 机器人技术</p>]]></description>
+      <category>Anthropic</category>
+      <category>通用大模型</category>
+      <category>机器人技术</category>
+    </item>
+    <item>
+      <title><![CDATA[不靠外部裁判，统一多模态模型学会自己「看图改图」：修复成功率提升到3倍，GenEval 0.72→0.84]]></title>
+      <link>https://www.jiqizhixin.com/articles/fca315b3-69dd-4e89-a13f-fa7e2e611a8a</link>
+      <guid>fca315b3-69dd-4e89-a13f-fa7e2e611a8a</guid>
+      <pubDate>Tue, 10 Nov 2026 18:58:29 +0000</pubDate>
+      <description><![CDATA[<p>不靠外部裁判，统一多模态模型学会自己「看图改图」：修复成功率提升到3倍，GenEval 0.72→0.84</p><p>标签: 强化学习, 多模态大模型</p>]]></description>
+      <category>强化学习</category>
+      <category>多模态大模型</category>
+    </item>
+    <item>
+      <title><![CDATA[双足人形机器人首夺CES最高创新奖，银河星仔ET1登顶]]></title>
+      <link>https://www.jiqizhixin.com/articles/e593846d-ce5d-48fb-bba0-33dbc067c743</link>
+      <guid>e593846d-ce5d-48fb-bba0-33dbc067c743</guid>
+      <pubDate>Tue, 10 Nov 2026 18:58:28 +0000</pubDate>
+      <description><![CDATA[<p>双足人形机器人首夺CES最高创新奖，银河星仔ET1登顶</p><p>标签: CES 2007, 银河通用机器人, 双足人形机器人</p>]]></description>
+      <category>CES 2007</category>
+      <category>银河通用机器人</category>
+      <category>双足人形机器人</category>
+    </item>
     <item>
       <title><![CDATA[Agent领导力大考！Einsia AI发布WorkflowArena，行业首个多智能体编排基准]]></title>
       <link>https://www.jiqizhixin.com/articles/f00bfa74-397e-4738-8160-54389381996e</link>
@@ -80,44 +119,6 @@
       <description><![CDATA[<p>刚刚，Claude Fable 5.2炸场！30小时完成费马大定理形式化</p><p>标签: Claude Fable 5.2, Anthropic</p>]]></description>
       <category>Claude Fable 5.2</category>
       <category>Anthropic</category>
-    </item>
-    <item>
-      <title><![CDATA[大语言模型能在「异世界」发现隐藏的物理规律吗？]]></title>
-      <link>https://www.jiqizhixin.com/articles/0e57a80a-8a5e-4f21-87c4-259afad2f05b</link>
-      <guid>0e57a80a-8a5e-4f21-87c4-259afad2f05b</guid>
-      <pubDate>Tue, 10 Nov 2026 03:53:01 +0000</pubDate>
-      <description><![CDATA[<p>大语言模型能在「异世界」发现隐藏的物理规律吗？</p><p>标签: 物理 AI（Physical AI）, 大语言模型</p>]]></description>
-      <category>物理 AI（Physical AI）</category>
-      <category>大语言模型</category>
-    </item>
-    <item>
-      <title><![CDATA[字节跳动发布Seedream 5.5，上线豆包、豆包工作、即梦]]></title>
-      <link>https://www.jiqizhixin.com/articles/91c06669-d952-42ff-889e-d9ea016966f9</link>
-      <guid>91c06669-d952-42ff-889e-d9ea016966f9</guid>
-      <pubDate>Mon, 09 Nov 2026 20:14:26 +0000</pubDate>
-      <description><![CDATA[<p>字节跳动发布Seedream 5.5，上线豆包、豆包工作、即梦</p><p>标签: Seedream 5.5, 字节跳动</p>]]></description>
-      <category>Seedream 5.5</category>
-      <category>字节跳动</category>
-    </item>
-    <item>
-      <title><![CDATA[AI Scientists「终极大考」，全球首个真实湿实验的Physical AI Verifier来了]]></title>
-      <link>https://www.jiqizhixin.com/articles/7fafc17b-3294-4b60-b38d-887a36f83ea1</link>
-      <guid>7fafc17b-3294-4b60-b38d-887a36f83ea1</guid>
-      <pubDate>Mon, 09 Nov 2026 20:14:25 +0000</pubDate>
-      <description><![CDATA[<p>AI Scientists「终极大考」，全球首个真实湿实验的Physical AI Verifier来了</p><p>标签: AI for Science（AI4S）, AI科研, AI科学家</p>]]></description>
-      <category>AI for Science（AI4S）</category>
-      <category>AI科研</category>
-      <category>AI科学家</category>
-    </item>
-    <item>
-      <title><![CDATA[你的AI同事，已经开始用「云电脑」上班了]]></title>
-      <link>https://www.jiqizhixin.com/articles/e0fd250b-ee79-4dd1-bf3f-d8ef6d76c6e2</link>
-      <guid>e0fd250b-ee79-4dd1-bf3f-d8ef6d76c6e2</guid>
-      <pubDate>Mon, 09 Nov 2026 20:14:54 +0000</pubDate>
-      <description><![CDATA[<p>你的AI同事，已经开始用「云电脑」上班了</p><p>标签: 云电脑, TeleAgent, Agent</p>]]></description>
-      <category>云电脑</category>
-      <category>TeleAgent</category>
-      <category>Agent</category>
     </item>
   </channel>
 </rss>
