@@ -4,8 +4,81 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 11 Nov 2026 00:17:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 08:32:19 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[硬刚全球顶尖模型，北大数院团队登顶RoboColiseum]]></title>
+      <link>https://www.jiqizhixin.com/articles/c420f0b1-b0f5-4216-adf7-458992b69846</link>
+      <guid>c420f0b1-b0f5-4216-adf7-458992b69846</guid>
+      <pubDate>Wed, 11 Nov 2026 08:30:56 +0000</pubDate>
+      <description><![CDATA[<p>硬刚全球顶尖模型，北大数院团队登顶RoboColiseum</p><p>标签: RoboColiseum, MXI-SimWorld v0 Preview, 北京大学数学科学学院</p>]]></description>
+      <category>RoboColiseum</category>
+      <category>MXI-SimWorld v0 Preview</category>
+      <category>北京大学数学科学学院</category>
+    </item>
+    <item>
+      <title><![CDATA[唯一超过Fable 5.2：不走VLA，也不走WAM，他们用旧Claude拿了第一]]></title>
+      <link>https://www.jiqizhixin.com/articles/f0a171d4-3cea-4f59-8751-82a9f0ca7e2d</link>
+      <guid>f0a171d4-3cea-4f59-8751-82a9f0ca7e2d</guid>
+      <pubDate>Wed, 11 Nov 2026 08:30:55 +0000</pubDate>
+      <description><![CDATA[<p>唯一超过Fable 5.2：不走VLA，也不走WAM，他们用旧Claude拿了第一</p><p>标签: 乾章智能（Qoo Tech）, Q0-Preview</p>]]></description>
+      <category>乾章智能（Qoo Tech）</category>
+      <category>Q0-Preview</category>
+    </item>
+    <item>
+      <title><![CDATA[推理成本直降78%！aiXcoder开源aiXcompact-4B模型，接手Agent上下文压缩任务]]></title>
+      <link>https://www.jiqizhixin.com/articles/c7e336fc-73f7-44f5-a792-424d8f4ba345</link>
+      <guid>c7e336fc-73f7-44f5-a792-424d8f4ba345</guid>
+      <pubDate>Wed, 11 Nov 2026 08:31:22 +0000</pubDate>
+      <description><![CDATA[<p>推理成本直降78%！aiXcoder开源aiXcompact-4B模型，接手Agent上下文压缩任务</p><p>标签: aiXcompact-4B, aiXcoder</p>]]></description>
+      <category>aiXcompact-4B</category>
+      <category>aiXcoder</category>
+    </item>
+    <item>
+      <title><![CDATA[具身出海，菜鸟先飞]]></title>
+      <link>https://www.jiqizhixin.com/articles/c72717e0-1509-42c9-9c6e-2f921c9d9c13</link>
+      <guid>c72717e0-1509-42c9-9c6e-2f921c9d9c13</guid>
+      <pubDate>Wed, 11 Nov 2026 08:31:24 +0000</pubDate>
+      <description><![CDATA[<p>具身出海，菜鸟先飞</p><p>标签: 具身智能, 物流机器人, 菜鸟</p>]]></description>
+      <category>具身智能</category>
+      <category>物流机器人</category>
+      <category>菜鸟</category>
+    </item>
+    <item>
+      <title><![CDATA[HyperAgent：openJiuwen对未来Agent架构的思考和实践]]></title>
+      <link>https://www.jiqizhixin.com/articles/97eaeb6b-2165-435a-81e0-ac1874e201dd</link>
+      <guid>97eaeb6b-2165-435a-81e0-ac1874e201dd</guid>
+      <pubDate>Wed, 11 Nov 2026 08:31:49 +0000</pubDate>
+      <description><![CDATA[<p>HyperAgent：openJiuwen对未来Agent架构的思考和实践</p><p>标签: openJiuwen, HyperAgent</p>]]></description>
+      <category>openJiuwen</category>
+      <category>HyperAgent</category>
+    </item>
+    <item>
+      <title><![CDATA[GEAR：打造 Scikit-learn 式的模块化 RSI 框架，让 Agent 从真实任务中持续进化]]></title>
+      <link>https://www.jiqizhixin.com/articles/59f5279d-4c24-428d-9b7a-a8add24fc47a</link>
+      <guid>59f5279d-4c24-428d-9b7a-a8add24fc47a</guid>
+      <pubDate>Wed, 11 Nov 2026 08:31:52 +0000</pubDate>
+      <description><![CDATA[<p>GEAR：打造 Scikit-learn 式的模块化 RSI 框架，让 Agent 从真实任务中持续进化</p><p>标签: toolkits for RSI, GEAR</p>]]></description>
+      <category>toolkits for RSI</category>
+      <category>GEAR</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，Gemini 4 Carbon全球全量开放，4周、650万行数学证明验证「Signal安全」]]></title>
+      <link>https://www.jiqizhixin.com/articles/462bc3d5-16d8-471e-964e-94e7f3a3c71d</link>
+      <guid>462bc3d5-16d8-471e-964e-94e7f3a3c71d</guid>
+      <pubDate>Wed, 11 Nov 2026 08:32:17 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，Gemini 4 Carbon全球全量开放，4周、650万行数学证明验证「Signal安全」</p><p>标签: Gemini 4 Carbon, Google DeepMind</p>]]></description>
+      <category>Gemini 4 Carbon</category>
+      <category>Google DeepMind</category>
+    </item>
+    <item>
+      <title><![CDATA[越过上下文压缩，上智院开源REMORY，一个1.9B的记忆模块就能让小模型独立工作3天，产出不输GPT-6.1-Terra]]></title>
+      <link>https://www.jiqizhixin.com/articles/ecf7aefe-8512-44df-8a78-3c16d05fdf34</link>
+      <guid>ecf7aefe-8512-44df-8a78-3c16d05fdf34</guid>
+      <pubDate>Wed, 11 Nov 2026 08:32:19 +0000</pubDate>
+      <description><![CDATA[<p>越过上下文压缩，上智院开源REMORY，一个1.9B的记忆模块就能让小模型独立工作3天，产出不输GPT-6.1-Terra</p><p>标签: REMORY</p>]]></description>
+      <category>REMORY</category>
+    </item>
     <item>
       <title><![CDATA[Fable 5.2 徒手玩魔方？有了大模型，硅谷大厂还缺什么数据]]></title>
       <link>https://www.jiqizhixin.com/articles/bcc77106-94f5-4acf-ace4-bc0646eb6405</link>
@@ -44,81 +117,6 @@
       <category>CES 2007</category>
       <category>银河通用机器人</category>
       <category>双足人形机器人</category>
-    </item>
-    <item>
-      <title><![CDATA[Agent领导力大考！Einsia AI发布WorkflowArena，行业首个多智能体编排基准]]></title>
-      <link>https://www.jiqizhixin.com/articles/f00bfa74-397e-4738-8160-54389381996e</link>
-      <guid>f00bfa74-397e-4738-8160-54389381996e</guid>
-      <pubDate>Tue, 10 Nov 2026 11:54:39 +0000</pubDate>
-      <description><![CDATA[<p>Agent领导力大考！Einsia AI发布WorkflowArena，行业首个多智能体编排基准</p><p>标签: 长程任务, 评测基准, 多智能体</p>]]></description>
-      <category>长程任务</category>
-      <category>评测基准</category>
-      <category>多智能体</category>
-    </item>
-    <item>
-      <title><![CDATA[NeurIPS 2026｜VLM架构新突破：DGP打通全部ViT与LLM层，让大模型每一层按需「看图」]]></title>
-      <link>https://www.jiqizhixin.com/articles/56e83f32-8717-4832-8683-d0da88770403</link>
-      <guid>56e83f32-8717-4832-8683-d0da88770403</guid>
-      <pubDate>Tue, 10 Nov 2026 11:55:21 +0000</pubDate>
-      <description><![CDATA[<p>NeurIPS 2026｜VLM架构新突破：DGP打通全部ViT与LLM层，让大模型每一层按需「看图」</p><p>标签: 多模态大模型, NeurIPS 2026</p>]]></description>
-      <category>多模态大模型</category>
-      <category>NeurIPS 2026</category>
-    </item>
-    <item>
-      <title><![CDATA[给单细胞研究一个「ImageNet」：CellNet开放2.31亿张跨物种转录组图像]]></title>
-      <link>https://www.jiqizhixin.com/articles/70747639-b7be-43d5-a9a9-4fdbb1b2a6f6</link>
-      <guid>70747639-b7be-43d5-a9a9-4fdbb1b2a6f6</guid>
-      <pubDate>Tue, 10 Nov 2026 11:55:09 +0000</pubDate>
-      <description><![CDATA[<p>给单细胞研究一个「ImageNet」：CellNet开放2.31亿张跨物种转录组图像</p><p>标签: AI for Science（AI4S）, 细胞生物学</p>]]></description>
-      <category>AI for Science（AI4S）</category>
-      <category>细胞生物学</category>
-    </item>
-    <item>
-      <title><![CDATA[Fable 5.2吃掉机器人？「手感」这块，还得靠具身原生基模来补全]]></title>
-      <link>https://www.jiqizhixin.com/articles/c2a5eb1f-16d8-4cdc-893f-7d4419ed4d80</link>
-      <guid>c2a5eb1f-16d8-4cdc-893f-7d4419ed4d80</guid>
-      <pubDate>Tue, 10 Nov 2026 11:55:38 +0000</pubDate>
-      <description><![CDATA[<p>Fable 5.2吃掉机器人？「手感」这块，还得靠具身原生基模来补全</p><p>标签: 蚂蚁灵波科技, 具身智能体, 触觉模型</p>]]></description>
-      <category>蚂蚁灵波科技</category>
-      <category>具身智能体</category>
-      <category>触觉模型</category>
-    </item>
-    <item>
-      <title><![CDATA[看视频、建世界、做实验：清华Asking the World让AI用物理回答问题]]></title>
-      <link>https://www.jiqizhixin.com/articles/b84a477c-663e-4d94-8a00-65cb595a7099</link>
-      <guid>b84a477c-663e-4d94-8a00-65cb595a7099</guid>
-      <pubDate>Tue, 10 Nov 2026 11:55:51 +0000</pubDate>
-      <description><![CDATA[<p>看视频、建世界、做实验：清华Asking the World让AI用物理回答问题</p><p>标签: 清华大学, 物理AI</p>]]></description>
-      <category>清华大学</category>
-      <category>物理AI</category>
-    </item>
-    <item>
-      <title><![CDATA[百度披露文心 5.5 Flash 研发技术，引入全新 RSI 技术，用于昆仑芯 P800 推理优化]]></title>
-      <link>https://www.jiqizhixin.com/articles/074120c8-7dd9-4895-8393-8d9a1b26bfee</link>
-      <guid>074120c8-7dd9-4895-8393-8d9a1b26bfee</guid>
-      <pubDate>Tue, 10 Nov 2026 11:56:10 +0000</pubDate>
-      <description><![CDATA[<p>百度披露文心 5.5 Flash 研发技术，引入全新 RSI 技术，用于昆仑芯 P800 推理优化</p><p>标签: 递归自我改进（RSI）, 文心大模型, 百度</p>]]></description>
-      <category>递归自我改进（RSI）</category>
-      <category>文心大模型</category>
-      <category>百度</category>
-    </item>
-    <item>
-      <title><![CDATA[通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型]]></title>
-      <link>https://www.jiqizhixin.com/articles/92efedf7-b57b-40e2-8aff-4155cbb8658e</link>
-      <guid>92efedf7-b57b-40e2-8aff-4155cbb8658e</guid>
-      <pubDate>Tue, 10 Nov 2026 03:52:32 +0000</pubDate>
-      <description><![CDATA[<p>通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型</p><p>标签: 触觉模型, 蚂蚁灵波</p>]]></description>
-      <category>触觉模型</category>
-      <category>蚂蚁灵波</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，Claude Fable 5.2炸场！30小时完成费马大定理形式化]]></title>
-      <link>https://www.jiqizhixin.com/articles/d3141849-b2cc-4a36-b744-6621d2fa7908</link>
-      <guid>d3141849-b2cc-4a36-b744-6621d2fa7908</guid>
-      <pubDate>Tue, 10 Nov 2026 03:52:33 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，Claude Fable 5.2炸场！30小时完成费马大定理形式化</p><p>标签: Claude Fable 5.2, Anthropic</p>]]></description>
-      <category>Claude Fable 5.2</category>
-      <category>Anthropic</category>
     </item>
   </channel>
 </rss>
