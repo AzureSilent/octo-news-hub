@@ -4,8 +4,35 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 11 Nov 2026 08:32:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 17:31:10 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[具身智能进入Agentic Robotics时代？清华、伯克利开源统一RUA框架]]></title>
+      <link>https://www.jiqizhixin.com/articles/5d65981d-4a05-4c6c-bc3d-0de60f80365f</link>
+      <guid>5d65981d-4a05-4c6c-bc3d-0de60f80365f</guid>
+      <pubDate>Wed, 11 Nov 2026 17:30:41 +0000</pubDate>
+      <description><![CDATA[<p>具身智能进入Agentic Robotics时代？清华、伯克利开源统一RUA框架</p><p>标签: uni-robot-agent, 清华大学</p>]]></description>
+      <category>uni-robot-agent</category>
+      <category>清华大学</category>
+    </item>
+    <item>
+      <title><![CDATA[Fable 5.2生视频也火了！一句话生成3D短片，建模、运镜、渲染全包]]></title>
+      <link>https://www.jiqizhixin.com/articles/7ec4ec50-c377-46b3-9246-a579580dacac</link>
+      <guid>7ec4ec50-c377-46b3-9246-a579580dacac</guid>
+      <pubDate>Wed, 11 Nov 2026 17:30:43 +0000</pubDate>
+      <description><![CDATA[<p>Fable 5.2生视频也火了！一句话生成3D短片，建模、运镜、渲染全包</p><p>标签: Fable 5.2, Anthropic</p>]]></description>
+      <category>Fable 5.2</category>
+      <category>Anthropic</category>
+    </item>
+    <item>
+      <title><![CDATA[不再围绕任务进化！The Trinity提出能力驱动的多模态RSI新范式]]></title>
+      <link>https://www.jiqizhixin.com/articles/253ef900-ef7a-422a-b9a4-af10dd37251c</link>
+      <guid>253ef900-ef7a-422a-b9a4-af10dd37251c</guid>
+      <pubDate>Wed, 11 Nov 2026 17:31:10 +0000</pubDate>
+      <description><![CDATA[<p>不再围绕任务进化！The Trinity提出能力驱动的多模态RSI新范式</p><p>标签: The Trinity, 无尽递归智能科技</p>]]></description>
+      <category>The Trinity</category>
+      <category>无尽递归智能科技</category>
+    </item>
     <item>
       <title><![CDATA[硬刚全球顶尖模型，北大数院团队登顶RoboColiseum]]></title>
       <link>https://www.jiqizhixin.com/articles/c420f0b1-b0f5-4216-adf7-458992b69846</link>
@@ -88,35 +115,6 @@
       <category>具身智能</category>
       <category>触觉数据</category>
       <category>数据采集</category>
-    </item>
-    <item>
-      <title><![CDATA[机器人版「苦涩的教训」来了？ Claude 5.2操作性能大涨，前Optimus研究员加盟]]></title>
-      <link>https://www.jiqizhixin.com/articles/88be4537-6112-4f6a-9917-1242e3cd4ab9</link>
-      <guid>88be4537-6112-4f6a-9917-1242e3cd4ab9</guid>
-      <pubDate>Tue, 10 Nov 2026 18:58:00 +0000</pubDate>
-      <description><![CDATA[<p>机器人版「苦涩的教训」来了？ Claude 5.2操作性能大涨，前Optimus研究员加盟</p><p>标签: Anthropic, 通用大模型, 机器人技术</p>]]></description>
-      <category>Anthropic</category>
-      <category>通用大模型</category>
-      <category>机器人技术</category>
-    </item>
-    <item>
-      <title><![CDATA[不靠外部裁判，统一多模态模型学会自己「看图改图」：修复成功率提升到3倍，GenEval 0.72→0.84]]></title>
-      <link>https://www.jiqizhixin.com/articles/fca315b3-69dd-4e89-a13f-fa7e2e611a8a</link>
-      <guid>fca315b3-69dd-4e89-a13f-fa7e2e611a8a</guid>
-      <pubDate>Tue, 10 Nov 2026 18:58:29 +0000</pubDate>
-      <description><![CDATA[<p>不靠外部裁判，统一多模态模型学会自己「看图改图」：修复成功率提升到3倍，GenEval 0.72→0.84</p><p>标签: 强化学习, 多模态大模型</p>]]></description>
-      <category>强化学习</category>
-      <category>多模态大模型</category>
-    </item>
-    <item>
-      <title><![CDATA[双足人形机器人首夺CES最高创新奖，银河星仔ET1登顶]]></title>
-      <link>https://www.jiqizhixin.com/articles/e593846d-ce5d-48fb-bba0-33dbc067c743</link>
-      <guid>e593846d-ce5d-48fb-bba0-33dbc067c743</guid>
-      <pubDate>Tue, 10 Nov 2026 18:58:28 +0000</pubDate>
-      <description><![CDATA[<p>双足人形机器人首夺CES最高创新奖，银河星仔ET1登顶</p><p>标签: CES 2007, 银河通用机器人, 双足人形机器人</p>]]></description>
-      <category>CES 2007</category>
-      <category>银河通用机器人</category>
-      <category>双足人形机器人</category>
     </item>
   </channel>
 </rss>
