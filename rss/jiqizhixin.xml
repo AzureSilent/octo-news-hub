@@ -4,8 +4,64 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 11 Nov 2026 23:45:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 04:32:44 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[SLA登顶RoboDojo真机榜！港科广联合欧拉万象，让机器人更懂三维空间]]></title>
+      <link>https://www.jiqizhixin.com/articles/9e4aa669-f144-4ced-8246-d9c858dc0c30</link>
+      <guid>9e4aa669-f144-4ced-8246-d9c858dc0c30</guid>
+      <pubDate>Thu, 12 Nov 2026 04:31:46 +0000</pubDate>
+      <description><![CDATA[<p>SLA登顶RoboDojo真机榜！港科广联合欧拉万象，让机器人更懂三维空间</p><p>标签: Spatial-Language-Action Model, 欧拉万象（OLA Dimensions）, 香港科技大学（广州）</p>]]></description>
+      <category>Spatial-Language-Action Model</category>
+      <category>欧拉万象（OLA Dimensions）</category>
+      <category>香港科技大学（广州）</category>
+    </item>
+    <item>
+      <title><![CDATA[破局机器人长任务难题！港中深联合A* STAR等团队提出LOGIV，以Gragh Engineering迈向可靠具身智能]]></title>
+      <link>https://www.jiqizhixin.com/articles/d2c92786-bef8-4a27-9167-4bcaef1e29a7</link>
+      <guid>d2c92786-bef8-4a27-9167-4bcaef1e29a7</guid>
+      <pubDate>Thu, 12 Nov 2026 04:31:46 +0000</pubDate>
+      <description><![CDATA[<p>破局机器人长任务难题！港中深联合A* STAR等团队提出LOGIV，以Gragh Engineering迈向可靠具身智能</p><p>标签: LOGIV, A*STAR, 香港中文大学（深圳）</p>]]></description>
+      <category>LOGIV</category>
+      <category>A*STAR</category>
+      <category>香港中文大学（深圳）</category>
+    </item>
+    <item>
+      <title><![CDATA[聚焦物质科学，设AI特别奖，第三届Wiley Star Scientist Award开放申请]]></title>
+      <link>https://www.jiqizhixin.com/articles/78b37be2-30b0-40fc-a8ae-fad91f330ca8</link>
+      <guid>78b37be2-30b0-40fc-a8ae-fad91f330ca8</guid>
+      <pubDate>Thu, 12 Nov 2026 04:32:15 +0000</pubDate>
+      <description><![CDATA[<p>聚焦物质科学，设AI特别奖，第三届Wiley Star Scientist Award开放申请</p><p>标签: AI for Science（AI4S）, Wiley Star Scientist Award</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>Wiley Star Scientist Award</category>
+    </item>
+    <item>
+      <title><![CDATA[豆包工作接入更多模型 并推出限时额度优惠]]></title>
+      <link>https://www.jiqizhixin.com/articles/28ef5a8c-e28f-4974-91e0-6fabaa861db9</link>
+      <guid>28ef5a8c-e28f-4974-91e0-6fabaa861db9</guid>
+      <pubDate>Thu, 12 Nov 2026 04:32:15 +0000</pubDate>
+      <description><![CDATA[<p>豆包工作接入更多模型 并推出限时额度优惠</p><p>标签: Kimi 3.1 Pro, 豆包工作</p>]]></description>
+      <category>Kimi 3.1 Pro</category>
+      <category>豆包工作</category>
+    </item>
+    <item>
+      <title><![CDATA[即梦动效工作室来了！爆火的Vibe知识视频，一句话就能做]]></title>
+      <link>https://www.jiqizhixin.com/articles/95bff11c-354c-4c76-890c-fa8fb139e294</link>
+      <guid>95bff11c-354c-4c76-890c-fa8fb139e294</guid>
+      <pubDate>Thu, 12 Nov 2026 04:32:44 +0000</pubDate>
+      <description><![CDATA[<p>即梦动效工作室来了！爆火的Vibe知识视频，一句话就能做</p><p>标签: 动效工作室（Motion Studio）, 即梦AI</p>]]></description>
+      <category>动效工作室（Motion Studio）</category>
+      <category>即梦AI</category>
+    </item>
+    <item>
+      <title><![CDATA[下一代语言模型架构走向何方？LSTM之父领衔，KAUST、港大、华为等共同发布领域全面综述]]></title>
+      <link>https://www.jiqizhixin.com/articles/557faccf-86c0-4a5f-9ded-a40ee9d9d495</link>
+      <guid>557faccf-86c0-4a5f-9ded-a40ee9d9d495</guid>
+      <pubDate>Thu, 12 Nov 2026 04:32:44 +0000</pubDate>
+      <description><![CDATA[<p>下一代语言模型架构走向何方？LSTM之父领衔，KAUST、港大、华为等共同发布领域全面综述</p><p>标签: 香港大学, Jürgen Schmidhuber</p>]]></description>
+      <category>香港大学</category>
+      <category>Jürgen Schmidhuber</category>
+    </item>
     <item>
       <title><![CDATA[具身智能进入Agentic Robotics时代？清华、伯克利开源统一RUA框架]]></title>
       <link>https://www.jiqizhixin.com/articles/5d65981d-4a05-4c6c-bc3d-0de60f80365f</link>
@@ -60,61 +116,6 @@
       <description><![CDATA[<p>推理成本直降78%！aiXcoder开源aiXcompact-4B模型，接手Agent上下文压缩任务</p><p>标签: aiXcompact-4B, aiXcoder</p>]]></description>
       <category>aiXcompact-4B</category>
       <category>aiXcoder</category>
-    </item>
-    <item>
-      <title><![CDATA[具身出海，菜鸟先飞]]></title>
-      <link>https://www.jiqizhixin.com/articles/c72717e0-1509-42c9-9c6e-2f921c9d9c13</link>
-      <guid>c72717e0-1509-42c9-9c6e-2f921c9d9c13</guid>
-      <pubDate>Wed, 11 Nov 2026 08:31:24 +0000</pubDate>
-      <description><![CDATA[<p>具身出海，菜鸟先飞</p><p>标签: 具身智能, 物流机器人, 菜鸟</p>]]></description>
-      <category>具身智能</category>
-      <category>物流机器人</category>
-      <category>菜鸟</category>
-    </item>
-    <item>
-      <title><![CDATA[HyperAgent：openJiuwen对未来Agent架构的思考和实践]]></title>
-      <link>https://www.jiqizhixin.com/articles/97eaeb6b-2165-435a-81e0-ac1874e201dd</link>
-      <guid>97eaeb6b-2165-435a-81e0-ac1874e201dd</guid>
-      <pubDate>Wed, 11 Nov 2026 08:31:49 +0000</pubDate>
-      <description><![CDATA[<p>HyperAgent：openJiuwen对未来Agent架构的思考和实践</p><p>标签: openJiuwen, HyperAgent</p>]]></description>
-      <category>openJiuwen</category>
-      <category>HyperAgent</category>
-    </item>
-    <item>
-      <title><![CDATA[GEAR：打造 Scikit-learn 式的模块化 RSI 框架，让 Agent 从真实任务中持续进化]]></title>
-      <link>https://www.jiqizhixin.com/articles/59f5279d-4c24-428d-9b7a-a8add24fc47a</link>
-      <guid>59f5279d-4c24-428d-9b7a-a8add24fc47a</guid>
-      <pubDate>Wed, 11 Nov 2026 08:31:52 +0000</pubDate>
-      <description><![CDATA[<p>GEAR：打造 Scikit-learn 式的模块化 RSI 框架，让 Agent 从真实任务中持续进化</p><p>标签: toolkits for RSI, GEAR</p>]]></description>
-      <category>toolkits for RSI</category>
-      <category>GEAR</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，Gemini 4 Carbon全球全量开放，4周、650万行数学证明验证「Signal安全」]]></title>
-      <link>https://www.jiqizhixin.com/articles/462bc3d5-16d8-471e-964e-94e7f3a3c71d</link>
-      <guid>462bc3d5-16d8-471e-964e-94e7f3a3c71d</guid>
-      <pubDate>Wed, 11 Nov 2026 08:32:17 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，Gemini 4 Carbon全球全量开放，4周、650万行数学证明验证「Signal安全」</p><p>标签: Gemini 4 Carbon, Google DeepMind</p>]]></description>
-      <category>Gemini 4 Carbon</category>
-      <category>Google DeepMind</category>
-    </item>
-    <item>
-      <title><![CDATA[越过上下文压缩，上智院开源REMORY，一个1.9B的记忆模块就能让小模型独立工作3天，产出不输GPT-6.1-Terra]]></title>
-      <link>https://www.jiqizhixin.com/articles/ecf7aefe-8512-44df-8a78-3c16d05fdf34</link>
-      <guid>ecf7aefe-8512-44df-8a78-3c16d05fdf34</guid>
-      <pubDate>Wed, 11 Nov 2026 08:32:19 +0000</pubDate>
-      <description><![CDATA[<p>越过上下文压缩，上智院开源REMORY，一个1.9B的记忆模块就能让小模型独立工作3天，产出不输GPT-6.1-Terra</p><p>标签: REMORY</p>]]></description>
-      <category>REMORY</category>
-    </item>
-    <item>
-      <title><![CDATA[Fable 5.2 徒手玩魔方？有了大模型，硅谷大厂还缺什么数据]]></title>
-      <link>https://www.jiqizhixin.com/articles/bcc77106-94f5-4acf-ace4-bc0646eb6405</link>
-      <guid>bcc77106-94f5-4acf-ace4-bc0646eb6405</guid>
-      <pubDate>Tue, 10 Nov 2026 18:58:00 +0000</pubDate>
-      <description><![CDATA[<p>Fable 5.2 徒手玩魔方？有了大模型，硅谷大厂还缺什么数据</p><p>标签: 具身智能, 触觉数据, 数据采集</p>]]></description>
-      <category>具身智能</category>
-      <category>触觉数据</category>
-      <category>数据采集</category>
     </item>
   </channel>
 </rss>
