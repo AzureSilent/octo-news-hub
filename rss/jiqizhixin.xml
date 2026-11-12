@@ -4,8 +4,63 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 12 Nov 2026 04:32:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 14:05:35 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[10秒生成4K图：MiniMax再次拿出开源SOTA]]></title>
+      <link>https://www.jiqizhixin.com/articles/45e117c4-0c47-45ff-843b-03e03e1ad094</link>
+      <guid>45e117c4-0c47-45ff-843b-03e03e1ad094</guid>
+      <pubDate>Thu, 12 Nov 2026 14:04:33 +0000</pubDate>
+      <description><![CDATA[<p>10秒生成4K图：MiniMax再次拿出开源SOTA</p><p>标签: MiniMax H3 Image, MiniMax</p>]]></description>
+      <category>MiniMax H3 Image</category>
+      <category>MiniMax</category>
+    </item>
+    <item>
+      <title><![CDATA[Grok Bot 1.0正式发布！马斯克教AI和你的团队一起工作]]></title>
+      <link>https://www.jiqizhixin.com/articles/00b2c4a4-5a2e-47ce-966a-768984caa1a8</link>
+      <guid>00b2c4a4-5a2e-47ce-966a-768984caa1a8</guid>
+      <pubDate>Thu, 12 Nov 2026 14:04:34 +0000</pubDate>
+      <description><![CDATA[<p>Grok Bot 1.0正式发布！马斯克教AI和你的团队一起工作</p><p>标签: Grok Bot 1.0, SpaceX Super Intelligence</p>]]></description>
+      <category>Grok Bot 1.0</category>
+      <category>SpaceX Super Intelligence</category>
+    </item>
+    <item>
+      <title><![CDATA[64张B300、不到5天，FireFlash比肩Fable 5与GPT-6Sol，单任务成本低30倍！]]></title>
+      <link>https://www.jiqizhixin.com/articles/d28f348a-0ce3-41cc-86b3-21e233264dd2</link>
+      <guid>d28f348a-0ce3-41cc-86b3-21e233264dd2</guid>
+      <pubDate>Thu, 12 Nov 2026 14:05:06 +0000</pubDate>
+      <description><![CDATA[<p>64张B300、不到5天，FireFlash比肩Fable 5与GPT-6Sol，单任务成本低30倍！</p><p>标签: 长程智能体, FireFlash</p>]]></description>
+      <category>长程智能体</category>
+      <category>FireFlash</category>
+    </item>
+    <item>
+      <title><![CDATA[从通用大模型到学习过程智能，AI如何真正进入课堂？]]></title>
+      <link>https://www.jiqizhixin.com/articles/ef6f4893-f3c0-4707-aed0-8568eb7a2abb</link>
+      <guid>ef6f4893-f3c0-4707-aed0-8568eb7a2abb</guid>
+      <pubDate>Thu, 12 Nov 2026 14:05:04 +0000</pubDate>
+      <description><![CDATA[<p>从通用大模型到学习过程智能，AI如何真正进入课堂？</p><p>标签: 第九届中国教育技术创新发展与应用成果大会, 银河智学</p>]]></description>
+      <category>第九届中国教育技术创新发展与应用成果大会</category>
+      <category>银河智学</category>
+    </item>
+    <item>
+      <title><![CDATA[长鑫科技：存储迈入分层时代，全栈布局成胜负手]]></title>
+      <link>https://www.jiqizhixin.com/articles/3afaf7cc-0e5b-41a7-98e3-3f68e417a5d5</link>
+      <guid>3afaf7cc-0e5b-41a7-98e3-3f68e417a5d5</guid>
+      <pubDate>Thu, 12 Nov 2026 14:05:33 +0000</pubDate>
+      <description><![CDATA[<p>长鑫科技：存储迈入分层时代，全栈布局成胜负手</p><p>标签: 长鑫科技, 2026 IC China</p>]]></description>
+      <category>长鑫科技</category>
+      <category>2026 IC China</category>
+    </item>
+    <item>
+      <title><![CDATA[DeepMind发布AlphaGenome 2：从细胞层面关联变异与疾病]]></title>
+      <link>https://www.jiqizhixin.com/articles/f46418ce-07bd-4e72-9c47-dfc8dd178a5b</link>
+      <guid>f46418ce-07bd-4e72-9c47-dfc8dd178a5b</guid>
+      <pubDate>Thu, 12 Nov 2026 14:05:35 +0000</pubDate>
+      <description><![CDATA[<p>DeepMind发布AlphaGenome 2：从细胞层面关联变异与疾病</p><p>标签: AI for Science（AI4S）, AlphaGenome 2, Google DeepMind</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>AlphaGenome 2</category>
+      <category>Google DeepMind</category>
+    </item>
     <item>
       <title><![CDATA[SLA登顶RoboDojo真机榜！港科广联合欧拉万象，让机器人更懂三维空间]]></title>
       <link>https://www.jiqizhixin.com/articles/9e4aa669-f144-4ced-8246-d9c858dc0c30</link>
@@ -61,61 +116,6 @@
       <description><![CDATA[<p>下一代语言模型架构走向何方？LSTM之父领衔，KAUST、港大、华为等共同发布领域全面综述</p><p>标签: 香港大学, Jürgen Schmidhuber</p>]]></description>
       <category>香港大学</category>
       <category>Jürgen Schmidhuber</category>
-    </item>
-    <item>
-      <title><![CDATA[具身智能进入Agentic Robotics时代？清华、伯克利开源统一RUA框架]]></title>
-      <link>https://www.jiqizhixin.com/articles/5d65981d-4a05-4c6c-bc3d-0de60f80365f</link>
-      <guid>5d65981d-4a05-4c6c-bc3d-0de60f80365f</guid>
-      <pubDate>Wed, 11 Nov 2026 17:30:41 +0000</pubDate>
-      <description><![CDATA[<p>具身智能进入Agentic Robotics时代？清华、伯克利开源统一RUA框架</p><p>标签: uni-robot-agent, 清华大学</p>]]></description>
-      <category>uni-robot-agent</category>
-      <category>清华大学</category>
-    </item>
-    <item>
-      <title><![CDATA[Fable 5.2生视频也火了！一句话生成3D短片，建模、运镜、渲染全包]]></title>
-      <link>https://www.jiqizhixin.com/articles/7ec4ec50-c377-46b3-9246-a579580dacac</link>
-      <guid>7ec4ec50-c377-46b3-9246-a579580dacac</guid>
-      <pubDate>Wed, 11 Nov 2026 17:30:43 +0000</pubDate>
-      <description><![CDATA[<p>Fable 5.2生视频也火了！一句话生成3D短片，建模、运镜、渲染全包</p><p>标签: Fable 5.2, Anthropic</p>]]></description>
-      <category>Fable 5.2</category>
-      <category>Anthropic</category>
-    </item>
-    <item>
-      <title><![CDATA[不再围绕任务进化！The Trinity提出能力驱动的多模态RSI新范式]]></title>
-      <link>https://www.jiqizhixin.com/articles/253ef900-ef7a-422a-b9a4-af10dd37251c</link>
-      <guid>253ef900-ef7a-422a-b9a4-af10dd37251c</guid>
-      <pubDate>Wed, 11 Nov 2026 17:31:10 +0000</pubDate>
-      <description><![CDATA[<p>不再围绕任务进化！The Trinity提出能力驱动的多模态RSI新范式</p><p>标签: The Trinity, 无尽递归智能科技</p>]]></description>
-      <category>The Trinity</category>
-      <category>无尽递归智能科技</category>
-    </item>
-    <item>
-      <title><![CDATA[硬刚全球顶尖模型，北大数院团队登顶RoboColiseum]]></title>
-      <link>https://www.jiqizhixin.com/articles/c420f0b1-b0f5-4216-adf7-458992b69846</link>
-      <guid>c420f0b1-b0f5-4216-adf7-458992b69846</guid>
-      <pubDate>Wed, 11 Nov 2026 08:30:56 +0000</pubDate>
-      <description><![CDATA[<p>硬刚全球顶尖模型，北大数院团队登顶RoboColiseum</p><p>标签: RoboColiseum, MXI-SimWorld v0 Preview, 北京大学数学科学学院</p>]]></description>
-      <category>RoboColiseum</category>
-      <category>MXI-SimWorld v0 Preview</category>
-      <category>北京大学数学科学学院</category>
-    </item>
-    <item>
-      <title><![CDATA[唯一超过Fable 5.2：不走VLA，也不走WAM，他们用旧Claude拿了第一]]></title>
-      <link>https://www.jiqizhixin.com/articles/f0a171d4-3cea-4f59-8751-82a9f0ca7e2d</link>
-      <guid>f0a171d4-3cea-4f59-8751-82a9f0ca7e2d</guid>
-      <pubDate>Wed, 11 Nov 2026 08:30:55 +0000</pubDate>
-      <description><![CDATA[<p>唯一超过Fable 5.2：不走VLA，也不走WAM，他们用旧Claude拿了第一</p><p>标签: 乾章智能（Qoo Tech）, Q0-Preview</p>]]></description>
-      <category>乾章智能（Qoo Tech）</category>
-      <category>Q0-Preview</category>
-    </item>
-    <item>
-      <title><![CDATA[推理成本直降78%！aiXcoder开源aiXcompact-4B模型，接手Agent上下文压缩任务]]></title>
-      <link>https://www.jiqizhixin.com/articles/c7e336fc-73f7-44f5-a792-424d8f4ba345</link>
-      <guid>c7e336fc-73f7-44f5-a792-424d8f4ba345</guid>
-      <pubDate>Wed, 11 Nov 2026 08:31:22 +0000</pubDate>
-      <description><![CDATA[<p>推理成本直降78%！aiXcoder开源aiXcompact-4B模型，接手Agent上下文压缩任务</p><p>标签: aiXcompact-4B, aiXcoder</p>]]></description>
-      <category>aiXcompact-4B</category>
-      <category>aiXcoder</category>
     </item>
   </channel>
 </rss>
