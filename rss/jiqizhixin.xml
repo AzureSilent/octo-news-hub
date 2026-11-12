@@ -4,8 +4,27 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 12 Nov 2026 14:05:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 21:57:16 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[突发！黄仁勋正式辞职]]></title>
+      <link>https://www.jiqizhixin.com/articles/4b4fe6eb-84d1-4d64-a644-ca6f015c3227</link>
+      <guid>4b4fe6eb-84d1-4d64-a644-ca6f015c3227</guid>
+      <pubDate>Thu, 12 Nov 2026 21:57:16 +0000</pubDate>
+      <description><![CDATA[<p>突发！黄仁勋正式辞职</p><p>标签: Colette Kress, 黄仁勋, 英伟达</p>]]></description>
+      <category>Colette Kress</category>
+      <category>黄仁勋</category>
+      <category>英伟达</category>
+    </item>
+    <item>
+      <title><![CDATA[EMNLP 2026｜如何记住发生过的事？EM²Mem让记忆连接人与经历]]></title>
+      <link>https://www.jiqizhixin.com/articles/bfb09bc3-c421-43c3-8350-6fc9bc30fa70</link>
+      <guid>bfb09bc3-c421-43c3-8350-6fc9bc30fa70</guid>
+      <pubDate>Thu, 12 Nov 2026 21:57:16 +0000</pubDate>
+      <description><![CDATA[<p>EMNLP 2026｜如何记住发生过的事？EM²Mem让记忆连接人与经历</p><p>标签: EM²Mem, EMNLP 2026</p>]]></description>
+      <category>EM²Mem</category>
+      <category>EMNLP 2026</category>
+    </item>
     <item>
       <title><![CDATA[10秒生成4K图：MiniMax再次拿出开源SOTA]]></title>
       <link>https://www.jiqizhixin.com/articles/45e117c4-0c47-45ff-843b-03e03e1ad094</link>
@@ -98,24 +117,6 @@
       <description><![CDATA[<p>豆包工作接入更多模型 并推出限时额度优惠</p><p>标签: Kimi 3.1 Pro, 豆包工作</p>]]></description>
       <category>Kimi 3.1 Pro</category>
       <category>豆包工作</category>
-    </item>
-    <item>
-      <title><![CDATA[即梦动效工作室来了！爆火的Vibe知识视频，一句话就能做]]></title>
-      <link>https://www.jiqizhixin.com/articles/95bff11c-354c-4c76-890c-fa8fb139e294</link>
-      <guid>95bff11c-354c-4c76-890c-fa8fb139e294</guid>
-      <pubDate>Thu, 12 Nov 2026 04:32:44 +0000</pubDate>
-      <description><![CDATA[<p>即梦动效工作室来了！爆火的Vibe知识视频，一句话就能做</p><p>标签: 动效工作室（Motion Studio）, 即梦AI</p>]]></description>
-      <category>动效工作室（Motion Studio）</category>
-      <category>即梦AI</category>
-    </item>
-    <item>
-      <title><![CDATA[下一代语言模型架构走向何方？LSTM之父领衔，KAUST、港大、华为等共同发布领域全面综述]]></title>
-      <link>https://www.jiqizhixin.com/articles/557faccf-86c0-4a5f-9ded-a40ee9d9d495</link>
-      <guid>557faccf-86c0-4a5f-9ded-a40ee9d9d495</guid>
-      <pubDate>Thu, 12 Nov 2026 04:32:44 +0000</pubDate>
-      <description><![CDATA[<p>下一代语言模型架构走向何方？LSTM之父领衔，KAUST、港大、华为等共同发布领域全面综述</p><p>标签: 香港大学, Jürgen Schmidhuber</p>]]></description>
-      <category>香港大学</category>
-      <category>Jürgen Schmidhuber</category>
     </item>
   </channel>
 </rss>
