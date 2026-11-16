@@ -4,8 +4,27 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 16 Nov 2026 12:11:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 23:04:31 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[让AI成为自主进化的科学家！书生-S2.1 Flash登顶机器学习工程基准]]></title>
+      <link>https://www.jiqizhixin.com/articles/a785ba6d-821f-405e-96e3-3c6734496813</link>
+      <guid>a785ba6d-821f-405e-96e3-3c6734496813</guid>
+      <pubDate>Mon, 16 Nov 2026 23:04:30 +0000</pubDate>
+      <description><![CDATA[<p>让AI成为自主进化的科学家！书生-S2.1 Flash登顶机器学习工程基准</p><p>标签: 复旦大学, 上海人工智能实验室, 书生-S2.1 Flash</p>]]></description>
+      <category>复旦大学</category>
+      <category>上海人工智能实验室</category>
+      <category>书生-S2.1 Flash</category>
+    </item>
+    <item>
+      <title><![CDATA[混合架构模型跑Agent，预填充吞吐再提升3倍！FlashStates重新设计混合状态缓存]]></title>
+      <link>https://www.jiqizhixin.com/articles/d2bc9115-399c-441d-9109-318e73c4d13a</link>
+      <guid>d2bc9115-399c-441d-9109-318e73c4d13a</guid>
+      <pubDate>Mon, 16 Nov 2026 23:04:31 +0000</pubDate>
+      <description><![CDATA[<p>混合架构模型跑Agent，预填充吞吐再提升3倍！FlashStates重新设计混合状态缓存</p><p>标签: Together AI, FlashStates</p>]]></description>
+      <category>Together AI</category>
+      <category>FlashStates</category>
+    </item>
     <item>
       <title><![CDATA[物理AI破解装车自动化盲区，安徽「擎天智能」完成数千万元Pre-A轮融资]]></title>
       <link>https://www.jiqizhixin.com/articles/b9e8af11-cda8-4198-9f0e-40bd1457609b</link>
@@ -99,24 +118,6 @@
       <description><![CDATA[<p>阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景</p><p>标签: Qwen4-Max, 阿里巴巴</p>]]></description>
       <category>Qwen4-Max</category>
       <category>阿里巴巴</category>
-    </item>
-    <item>
-      <title><![CDATA[突发！黄仁勋与盟友商讨重返英伟达CEO之位]]></title>
-      <link>https://www.jiqizhixin.com/articles/28fb568a-716b-41f7-96aa-7a72b5a3d02a</link>
-      <guid>28fb568a-716b-41f7-96aa-7a72b5a3d02a</guid>
-      <pubDate>Mon, 16 Nov 2026 03:24:26 +0000</pubDate>
-      <description><![CDATA[<p>突发！黄仁勋与盟友商讨重返英伟达CEO之位</p><p>标签: 英伟达, 黄仁勋</p>]]></description>
-      <category>英伟达</category>
-      <category>黄仁勋</category>
-    </item>
-    <item>
-      <title><![CDATA[NeurIPS 2026｜扩散模型和自回归模型谁的隐私泄露更多？ 奥尔堡大学揭示扩散语言模型的记忆行为]]></title>
-      <link>https://www.jiqizhixin.com/articles/2e158b46-e8ed-46a9-a6c3-dc435522a7d6</link>
-      <guid>2e158b46-e8ed-46a9-a6c3-dc435522a7d6</guid>
-      <pubDate>Mon, 16 Nov 2026 03:24:25 +0000</pubDate>
-      <description><![CDATA[<p>NeurIPS 2026｜扩散模型和自回归模型谁的隐私泄露更多？ 奥尔堡大学揭示扩散语言模型的记忆行为</p><p>标签: NeurIPS 2026, 丹麦奥尔堡大学</p>]]></description>
-      <category>NeurIPS 2026</category>
-      <category>丹麦奥尔堡大学</category>
     </item>
   </channel>
 </rss>
