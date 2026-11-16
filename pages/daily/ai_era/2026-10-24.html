@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>新智元 - 2026年10月24日 文章列表</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f5f5f5;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 1.8em;
+            margin-bottom: 5px;
+            font-weight: 600;
+        }
+        
+        .header p {
+            font-size: 0.95em;
+            opacity: 0.9;
+        }
+        
+        .nav-links {
+            padding: 15px 30px;
+            background: #f9fafb;
+            border-bottom: 1px solid #e5e7eb;
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        .nav-link {
+            padding: 8px 16px;
+            background: white;
+            border: 1px solid #d1d5db;
+            border-radius: 6px;
+            text-decoration: none;
+            color: #374151;
+            transition: all 0.2s ease;
+        }
+        
+        .nav-link:hover {
+            background: #f3f4f6;
+            border-color: #9ca3af;
+        }
+        
+        .prev-link {
+            margin-right: auto;
+        }
+        
+        .next-link {
+            margin-left: auto;
+        }
+        
+        .content {
+            padding: 30px;
+        }
+        
+        .article {
+            border-bottom: 1px solid #e5e7eb;
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+        }
+        
+        .article:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+        }
+        
+        .article-header {
+            cursor: pointer;
+            padding: 10px 0;
+            transition: background 0.2s ease;
+        }
+        
+        .article-header:hover {
+            background: #f9fafb;
+            margin: 0 -10px;
+            padding: 10px;
+            border-radius: 6px;
+        }
+        
+        .article-title {
+            font-size: 1.2em;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #1f2937;
+        }
+        
+        .article-meta {
+            display: flex;
+            gap: 15px;
+            font-size: 0.9em;
+            color: #6b7280;
+            align-items: center;
+        }
+        
+        .article-time {
+            background: #e5e7eb;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-weight: 500;
+        }
+        
+        .article-link a {
+            color: #667eea;
+            text-decoration: none;
+        }
+        
+        .article-link a:hover {
+            text-decoration: underline;
+        }
+        
+        .article-content {
+            margin-top: 15px;
+            padding: 15px;
+            background: #f9fafb;
+            border-radius: 6px;
+            border-left: 3px solid #667eea;
+        }
+        
+        .article-summary {
+            margin-bottom: 15px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #e5e7eb;
+        }
+        
+        .article-full {
+            color: #374151;
+        }
+        
+        .article-full img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+        
+        .article-full p {
+            margin-bottom: 10px;
+        }
+        
+        .no-articles {
+            text-align: center;
+            padding: 60px 20px;
+            color: #6b7280;
+        }
+        
+        .footer {
+            background: #f9fafb;
+            padding: 20px;
+            text-align: center;
+            color: #6b7280;
+            border-top: 1px solid #e5e7eb;
+            font-size: 0.9em;
+        }
+        
+        .footer a {
+            color: #667eea;
+            text-decoration: none;
+        }
+        
+        .footer a:hover {
+            text-decoration: underline;
+        }
+        
+        @media (max-width: 768px) {
+            .content {
+                padding: 20px;
+            }
+            
+            .header {
+                padding: 20px;
+            }
+            
+            .article-title {
+                font-size: 1.1em;
+            }
+        }
+    </style>
+    <script>
+        function toggleArticle(id) {
+            var content = document.getElementById('content-' + id);
+            if (content.style.display === 'none') {
+                content.style.display = 'block';
+            } else {
+                content.style.display = 'none';
+            }
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>新智元 - 2026年10月24日 文章列表</h1>
+            <p>AI前沿技术动态</p>
+        </div>
+        
+        <div class="nav-links">
+        <a href="2026-10-23.html" class="nav-link prev-link">← 2026-10-23</a>
+        <a href="2026-10-25.html" class="nav-link next-link">2026-10-25 →</a>
+      </div>
+
+        
+        <div class="content">
+            
+    <article class="article" id="article-0">
+      <div class="article-header" onclick="toggleArticle(0)">
+        <h2 class="article-title">7. 突发，Claude Code灵魂人物Thariq Shihipar宣布离职！</h2>
+        <div class="article-meta">
+          <span class="article-time">10-24 14:48</span>
+          <span class="article-link">
+            <a href="http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652737609&idx=1&sn=67ebc622a491927f4e60d5ec9a710f37&chksm=f0fbe43d9e0c21d1a2193413556734f15f4029770a7bc3db96ca67ad0b5f662d824351325e69&scene=0#rd" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-0" style="display: none;">
+        <img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYXK4AOiaSKfNjFjHMGHq2Ik9vCud2ne5bqjo1o44EkjnIZicoJSdsb53yicZl13G8yLqquYNXFnCbiaLHwFuJYfCfGibibTVe1kf8wG4/640?wx_fmt=png"/><p><strong></strong><strong>新智元报道 </strong></p><p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYWGxcbmnyYvqrSqhntcbPdelKBG0JLug4pEX8icjBSe5eib6PekswOSvrq8ybatQJRDr9Vib5WOKaUuibKfLb5qH3J4kEIYmC4NQJU/640?wx_fmt=png"/></p><p>就在刚刚，Claude Code核心作者正式离职Anthropic！</p><p>Thariq Shihipar是Claude Code团队的核心灵魂人物、被开发者社区尊称为「解释之王」。</p><p>他在X上正式发布了一封长文告别信。</p><p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYWmic2sNOBJUCWoQBuvYQxO60zyafRM6k4DYQK4Go0hWtWsxjm0c1R240jr7UoOJG0SRrYlawSovDXHqxDzDphGNFic9cdCdPCts/640?from=appmsg"/></p><p>在短短45分钟，Claude团队最知名的两位成员相继离职。</p><p>到底发生了什么？</p><p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYUF6jqEaJKpzRrI6WXfZCA7bHRrF87dGibD26oXQD4eCOcTLQJSAL0XFsjfHwQia2bXH3IKKxgfbhibsfYKCx3XNILh7gKgHT0rMg/640?from=appmsg"/></p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb3uEdSPKrwGNmZEOaaGyzVvZ8dTtE9jU1rFsda3llYbCZpmWfiazUYjWBLTGvlPpXucH8Q0lEUJN3Q/640?wx_fmt=png"/><strong>体面的告别信：</strong><strong>什么是真正的「向上竞赛」？</strong><p>「在加入Claude Code 一年多，并亲眼见证它的规模扩展到远超我曾经的想象之后，我离开了 Anthropic。」</p><p>在告别信开篇，Thariq这样写道。</p><p>作为陪伴 Claude Code 从有争议的新工具到「无数开发者默认编码方式」的核心推手，他在最巅峰时刻，选择了离开。</p><p>紧接着，他抛出了整封信最核心的价值观：<strong>「向上竞赛」。</strong></p><p>我真的非常热爱在 Anthropic的工作，深度认同公司的使命。最重要的是，我坚信『向上竞赛』的理念。如果我们努力且负责任地工作，我们就能抬高行业的标准，并激发其他人走向更好的结果。如果我们都能互相推着对方变得更好，事情就会变得极其美好。我将永远带着这种精神前行。</p><p>在大模型疯狂内卷的今天，Thariq 犹如一股清流。他眼里的AI竞赛，不是零和博弈，而是一场<strong>提高全人类标准、倒逼彼此变得更卓越的事业</strong>。</p><p>对于同事们，他给予了赞美——<br/><br/>「我在 Anthropic 的同事们，是我一生中遇到过最有才华、最周到、最能干且最真诚的人。我很高兴现在是他们在掌舵，我深深地信任他们。」</p><p>在信的结尾，他将聚光灯交还给了团队，一口气@了多位 Anthropic 的核心开发者，呼吁大家继续关注他们。</p><p>虽然告别信十分官方，但Thariq在评论区，还是发出了一个亮点评论：「等等，是不是只有我一个人觉得 Opus 5.5 变蠢了？」</p><p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYXyJ58ConOsZvibZA9QoaD3wSd0QuUDxftzib2SPiaUO3wic6tiba587veicBuFXGHvyEulLUC1hGTB8qa4P9e2IAULzgibLZg3jtWRz8/640?from=appmsg"/></p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb3uEdSPKrwGNmZEOaaGyzVvZ8dTtE9jU1rFsda3llYbCZpmWfiazUYjWBLTGvlPpXucH8Q0lEUJN3Q/640?wx_fmt=png"/><strong>从MIT天才、YC明星创业者到AI先锋</strong><p>Thariq的履历，仿佛开了挂。</p><p>他不只是传统研究员，而是一个横跨学术界、顶级大厂与硅谷创投圈的「六边形战士」。</p><p><img src="http://mmbiz.qpic.cn/mmbiz_jpg/Rvq8Ow69CYW6CYT2vYVibiaPfib02SIe7r09u5yOjUKEE8lXIVTt9E7tlXIGQVvqRK0X5x53OHGQicSSfUCic2F1HhaiacovB9rSGyLpItgFdjkRM/640?from=appmsg"/></p><p>早在多伦多大学攻读工程科学本科期间，他就展露出了极强的产品直觉，联合创办了聚合消息通知的插件 Chime，并在2013年直接被 HubSpot 收购。</p><p>随后，他进入科技极客的梦想圣地——MIT Media Lab深造，并担任研究科学家。</p><p>在那里，他联合主导了颠覆传统PDF的交互式学术出版平台 PubPub，试图用动态程序重塑人类知识的展现形式。</p><p>随后，带着对复杂交互的深刻理解，Thariq 一头扎进创业赛道。</p><p>他创办了浏览器端游戏创作平台 One More Multiverse，不仅成功杀入全球顶尖孵化器YC，更是一手将平台做到了百万级用户规模。</p><p>这款灵感来自跑团和Roblox的产品，斩获了超1700万美元的融资。</p><p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYXOyR0KsbTr1E0fb9PX5jPYlfqCtotN124CBShFyjdTXdtRMY8ZObYU5brcQuEUj7jQNlMZz85cntrKA1GgmzUr5tXME2SoTSY/640?from=appmsg"/></p><p>直到2025年，在经历了一段专注AI可解释性研究的Fellowship沉淀后，这位CEO，选择以「技术人员」的身份加入 Anthropic。</p><p>可以看出，Thariq 的每一步都在解决同一个核心问题：如何让极度复杂的系统，变成普通人一眼就能看懂、上手就能用的绝佳体验？</p><p>正是这种「游戏CEO」与「MIT学者」的双重视角，让他在加入 Claude Code 团队后，敏锐地察觉到了当前AI开发的盲点——不要再执迷于给模型无脑堆算力了，应该重塑的，是人类与AI的交互。</p><p><strong><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb351381bTy5MO2IN89mV41M88GEiaCCibDxJoaQjYV6HfRtafnmEmfM3R1p0tmkHgBOVuXBD6UJKpsQ/640?wx_fmt=png"/></strong></p><strong>巅峰隐退背后：他留给AI行业的4条真相</strong><p>作为前 YC 明星创业者、MIT Media Lab 的研究员，Thariq 带着极强的产品直觉改造了 Claude Code。</p><p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYXicbdfEmbqThoezojj42MPJPOunh5QFAC8DoZDZ0ictyVdQCfhlxwEiclGY0JRialcoeIJJ5icghh2D7jCibXWOF1Z3qllrqJpGiaSM0/640?from=appmsg"/></p><p>此前，他曾输出以下观点。</p><p><strong>真相一：大模型的智力已经「过剩」，算力不再是第一瓶颈</strong><br/></p><p>Thariq 曾尖锐地指出：现在的强模型（如 Opus 5）其实已经非常聪明了，真正的瓶颈根本不是原始算力，而是<strong>交互接口与人类自身的理解力</strong>！</p><p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYUk2UnqrCG0yMhOt1KPPGTicrExbCLsZDH6ib6l5Fh37ZjdIzQ0UrogRnuom9RplnwPv3sHPTRpa7JL5rjdIfU87b0QkEoqvwXR8/640?from=appmsg"/></p><p>能力冗余，是指一个模型在配备合适的智能体运行框架（Harness）、获得环境访问权限和代码执行能力后，能够完成的任务，远远超出了它仅靠普通对话、缺乏外部工具支持时所展现出的能力。</p><p><strong>真相二：强模型时代，请勇敢砍掉80%的提示词！</strong><br/></p><p>Thariq 团队在内部实验中，对强模型直接<strong>砍掉了超80%的系统提示词</strong>，结果发现代码能力根本没有下降！</p><p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYU25xMhic2SPziaWpn7rsHNIuia5BuY7IbicgNWU2o6h4GxAyGPaDmQv3qyaQ301yxRz9q1xeyZ0KFJWjkuJMeaPcaecy7AJCKgTibg/640?from=appmsg"/></p><p>链接：https://claude.dev/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models/</p><p>他主张：过度约束反而会限制更强模型的发挥。把规则做成按需调用的模块化「Skills」，给AI留出自由发挥的空间。</p><p><strong>真相三：告别 Markdown，HTML 才是高密度交互的未来</strong><br/></p><p>程序员最爱的 Markdown，正在成为人机协作的阻碍。当 AI 输出的代码和计划越来越长，人类往往会因为阅读疲劳而「盲目点击同意」。</p><p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYVZHu5n9Nibq49VKUCxDJBYqOAN6aW3aQ4dy8vVJ7t0ibgbib81cVUdibRJTJYe1wiaNicPedzkNCAbRuyUlDeFhDX9Uh9lm2SqZlsRg/640?from=appmsg"/></p><p>Thariq 断言，带图表、带颜色差异比对、可交互的 HTML 界面，才是未来能让人类真正保持判断力的交互方式。</p><p><strong>真相四：未来人类的终极职业——「算力分配者」</strong><br/></p><p>别怕AI写代码比你快。</p><p>在未来，你的角色将变成「计算资源分配者」。你的核心价值在于：决定把昂贵的 Agent 算力投入到哪个方向，并在关键节点利用主动提问工具（如 AskUserQuestion）消除盲点，时刻把控方向盘。</p><p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYUp0KJgSrej3y5IYDodZUAgklYQHoSBjYuZibMG8RUQrhIwu3kEa8CSicIWicY7B2HwcT3HA05Y9KGXuOWWHcw4phrdkuQlriaGE40/640?from=appmsg"/></p><p>或许，Thariq Shihipar已经找到「向上竞赛」的方向，准备好下一个创业方向了？</p><p>参考资料：</p>https://x.com/trq212/status/2113844051938054167<p>编辑：Aeneas</p><br/><strong>秒追ASI</strong><strong>⭐</strong><strong>点赞、转发、在看一键三连</strong><strong>⭐</strong><strong>点亮星标，锁定新智元极速推送！</strong><strong><br/></strong><img src="http://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb1y6B5OM79TFzpkceWtUkI6LEwv0uYicSoM5Q3I3kDNJhxWdL3tQvbOpU3Ty7icBqnDDNd4CCu4ibiaHw/640?wx_fmt=jpeg"/><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYVMuHfFGD1mFMfc5284R22LkqUkpItsc62vpgD4gUNm74S0DFlRWMg0ANo2ia5h3KXHoDYubJUcrJYBHXqYEFlibCHQxVDddZe3s/640?from=appmsg"/><br/><a class="media_tool_meta meta_primary" href="http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652737609&amp;idx=1&amp;sn=67ebc622a491927f4e60d5ec9a710f37&amp;chksm=f0fbe43d9e0c21d1a2193413556734f15f4029770a7bc3db96ca67ad0b5f662d824351325e69&amp;scene=0#rd" target="_blank">文章原文</a><br/><img alt="" height="1px" src="http://www.jintiankansha.me/rss_static/5418/edTWIDKqvj" width="1px"/>
+      </div>
+    </article>
+    <article class="article" id="article-1">
+      <div class="article-header" onclick="toggleArticle(1)">
+        <h2 class="article-title">6. 刚刚，Claude不聊天了！一句话出看板、出动画，直接交成品</h2>
+        <div class="article-meta">
+          <span class="article-time">10-24 14:48</span>
+          <span class="article-link">
+            <a href="http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652737609&idx=2&sn=56ac601695671aec0953b36b551a08b7&chksm=f0e5fc2445cebac9b15bb153e931e5fa381356a133168d4809270d2781b430b70473cbee2ddc&scene=0#rd" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-1" style="display: none;">
+        <img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYXyel2NvDM3icQkgxUxibPDbOH0TvsFHQZlY5ljicIpD66HXa9MlH9XdGibRURuAYO1HwzAkgTSjavKBorp4lkHlFyEtibwVLWWn5Qk/640?wx_fmt=png"/><p><strong></strong><strong>新智元报道 </strong></p><p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYWGxcbmnyYvqrSqhntcbPdelKBG0JLug4pEX8icjBSe5eib6PekswOSvrq8ybatQJRDr9Vib5WOKaUuibKfLb5qH3J4kEIYmC4NQJU/640?wx_fmt=png"/></p><p>Claude大更新：动态看板、动画、PPT一起上！</p><p>刚刚，Anthropic一口气官宣了三件事：实时仪表盘Dashboards上线，代码动画Motion上线，文档Docs、幻灯片Slides、设计Design三件套摘掉beta标签——免费用户也能用。</p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYUOiaoMZdcHBPvqmI1o1MntQQicVfcrYYHdbz4tmmDP7kCrs2QIlDPX78ibVQp24nxj67Qg8gnpLmxFSAN8icLt8llOdVo0icDSB3tc/640?wx_fmt=png"/><p>上个月底，OpenAI刚在DevDay上高调推出ChatGPT Space，一个让Agent和同事在里面协作、维护动态图表和文档的项目中心。前后不到10天，Claude就把仪表盘和动画端上了桌。</p><p>X评论区已经炸了。</p><p>有人说「我200美元的Max套餐每天都在增值」，有人直接喊「根本跟不上你们的节奏」。</p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYWCzfwnL5Paj0x5dASibd5UaVSofwX2PtuezMJ4eRRa04sEPN9wXXDoc2xvMWmiaA5wiauG1JfnkrqKOC2NictHnTxfHDjiaC5AaK1w/640?wx_fmt=png"/><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYVYDjqic7lEb42HTD0u94hXj1rVB6WCljIXTXe7b3hniaBo6sjbdrQMj7XCMuldpR8ibmPcvkI2QLnydwClO33wY9XibdicCnStvD3k/640?wx_fmt=png"/><p>还有开发者追问：Dashboards什么时候开放API，让我在自己的应用里实时生成看板？</p><p>这个追问很说明问题。用户已经不满足于让AI出主意了，大家默认它该交成品。</p><p>Anthropic这次一共动了三样东西。</p><p>Docs、Slides、Design结束beta，所有计划都能用，包括免费版。自从这三样塞进每个对话以来，用户已经在Claude里做了超过4500万份文档、演示文稿和设计。</p><p>但新来的两个就没这么大方了。Dashboards还在beta，只对付费计划开放。Motion也在beta，门槛更高，只给Team和Enterprise两档企业用户。</p><p>所以免费用户拿到的是文档、幻灯片、设计三件套的正式版。想玩仪表盘和动画？得付费。</p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb3uEdSPKrwGNmZEOaaGyzVvZ8dTtE9jU1rFsda3llYbCZpmWfiazUYjWBLTGvlPpXucH8Q0lEUJN3Q/640?wx_fmt=png"/><strong>仪表盘：治的是「等」</strong><p>在公司里想知道一个数值，你通常只有两条路。</p><p>要么提工单，排在数据同事的待办清单后面慢慢等。要么自己去学SQL——就是从数据库里捞数据的那种专门语言，对着一堆表名发呆。</p><p>大多数人的选择很现实：等，或者干脆不看了。</p><p>Dashboards把这一步省了。</p><p>把Claude接上公司的数据平台（BigQuery、Snowflake、Databricks这些可以理解成存放全公司业务数据的大仓库），然后用大白话问一句「这周注册量和上个月比怎么样」。</p><p>Claude自己写查询、自己取数、自己搭看板。数据变了，看板跟着变。</p><p>接上Salesforce这样的CRM工具，还能给销售商机单独搭一块板。</p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYX4MWibuShH496zehIXeoEM7kBvYgVdr2jNop4xnTYVvcVSaHqZ0mliamLyCmEftjT07ibGIQibQkv4zxtQn5ib8k6lXruQO0KpPTkI/640?wx_fmt=png"/><p>但真正的卖点不是「会画图」，而是「看得见」。</p><p>点任何一个数字，背后那段查询就摊在你眼前。看不懂？让Claude解释。每张图都标着数据最后一次刷新的时间。</p><p><strong><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb351381bTy5MO2IN89mV41M88GEiaCCibDxJoaQjYV6HfRtafnmEmfM3R1p0tmkHgBOVuXBD6UJKpsQ/640?wx_fmt=png"/></strong></p><strong>动画：做视频却一帧画面都不生成</strong><p>数据看清了，下一步是讲给别人听。</p><p>Motion管的就是这一段。</p><p>你可以让它把季度报告做成全员大会上30秒的讲解动画，给董事会PPT里的图表加动效，或者做一段给客户看的产品上手演示。</p><p>做完在编辑器里调，或者直接让Claude改，最后导出MP4。</p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYWss2ETp4BvHIkTveYaZVLAX9M6xDNKDV46RhIia3a9NUZhibRsGaMOI7dd14g6tqug1zKMIqv0t3EGwDgO1Ny0zicRbCAhzJJtAg/640?wx_fmt=png"/><p>一个做视频的功能，却一帧画面都不靠视频生成模型。</p><p>Claude写的是代码。文字怎么飞进来、图表怎么长出来、形状怎么变化，全写在代码里。</p><p>这个设计对汇报场景太关键了。汇报最怕的就是数字错。用生成模型做视频，一个数字错了只能整段重抽，抽出来别处可能又变了。</p><p>代码驱动的动画不一样，任何一个字、一个数字、一个时间点都能单独改。</p>说到做视频，Opus 5.5已经让人坐不住了<p>其实在Motion正式上线之前，Opus 5.5的代码动画能力已经在社交媒体上杀疯了。</p><p>Opus 5.5发布后，X的时间线迅速被各种动效短片淹没。</p><p>有人花15秒做了一段点餐发布片，一镜到底、无模板、纯代码。</p><img src="http://mmbiz.qpic.cn/sz_mmbiz_gif/Rvq8Ow69CYVQFY8hT3ScEkxuLqXibibzrdDyDpztpv7ky59ibTX9nXZqk3dGyO27tToNlACpPHTOQUz0zgBt93R6uvxA8lziawG6c0Nk5P9zgnw/640?wx_fmt=gif"/><p>更夸张的是，有人让Opus 5.5做了一个「Claude放假」的动画短片，拿下5.7万播放和1300多个赞。</p><p>别忘了，这些统统不是视频生成模型的产物。</p><p>但这恰恰说明了一件事——代码驱动动画的天花板，比大多数人想象得高得多。</p><p>Motion把这条路铺进了产品里，普通人不用折腾命令行，在对话框里说一句就行。</p><p>说点实在的。</p><p>模型之间的差距，普通人越来越难感觉到。</p><p>但少提一张工单、少熬一晚PPT，谁都感觉得到。</p><p>以前的分工是人干活，AI帮忙想。现在顺序倒过来了，AI先交第一版，人的价值挪到了判断这东西能不能发出去。</p><p>官方那句话说得很准：Claude做第一版，你决定分享什么。</p><p>这次更新还把协作那一步补上了。</p><p>团队成员和Claude可以同时编辑同一份文档、演示或看板。管理员允许的话，做好的东西还能分享给公司外的人。</p><p>导出的PowerPoint和PDF跟编辑器里看到的一模一样，演示文稿还能直接进Google Slides当可编辑文件。手机App上也能改。</p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYXUUkDoTA5ToZmWwSDSRWIPKhrBiaIOtg0QxJcsnxSg5q0rTU06fYhmfdpsL0rS6RRJ3SvQaw9OpMVRcU1l0tTknib9oN1t5cEY0/640?wx_fmt=png"/><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb3uEdSPKrwGNmZEOaaGyzVvZ8dTtE9jU1rFsda3llYbCZpmWfiazUYjWBLTGvlPpXucH8Q0lEUJN3Q/640?wx_fmt=png"/><strong>双雄挤进同一张办公桌</strong><p>OpenAI的ChatGPT Space面向Pro、Business、Enterprise用户，页面里放动态图表、协作文档和清单，能从连接的数据源自动更新，还能@同事和自家的Agent Dots去办事。</p><p>Claude这边是仪表盘、动画、文档、幻灯片、设计全家桶。</p><p>两家几乎同时盯上了同一块地方：打工人每天的那张办公桌。</p><p>以前大家盯着谁的模型分数高，现在要看谁先成为打工人每天第一个打开的窗口。</p><p>长期看，用户从哪个窗口开始干活，话语权就在谁手里。等大家习惯了先在对话框里要一个初稿，专业软件就慢慢变成了Claude后面的那道工序。</p><p>工作产出的最后一公里，就是从「答案」到「能直接发出去的东西」之间那段路。谁把这段路铺平，谁就赢下办公桌。</p><p>参考资料：https://x.com/claudeai/status/2108271552991252810</p><p>编辑：所罗门</p><br/><strong>秒追ASI</strong><strong>⭐</strong><strong>点赞、转发、在看一键三连</strong><strong>⭐</strong><strong>点亮星标，锁定新智元极速推送！</strong><strong><br/></strong><p><img src="http://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb1y6B5OM79TFzpkceWtUkI6LEwv0uYicSoM5Q3I3kDNJhxWdL3tQvbOpU3Ty7icBqnDDNd4CCu4ibiaHw/640?wx_fmt=jpeg"/></p><img src="http://mmbiz.qpic.cn/sz_mmbiz_jpg/Rvq8Ow69CYXhzFuQfocLMkpF8cUsdzKicyKn52mjlDLYZzGlbJfyDztibYAEHMQHJiaXibBpbOno9OwhhNWnOXNlXO0icMRIIp6XAJs0snLiay4CE/640?wx_fmt=jpeg"/><br/><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYWiarcs6Ax4KiacSUzYXiaXlEiaa3OHzD1ZrfHlvbdW1ib9f8DEMff0Heg83a2GNzfUETo6tnPRfLjze3sicrGPYU8takfY6lbQnjTo8/640?wx_fmt=png"/><br/><video controls="controls" id="video" src="http://mpvideo.qpic.cn/0bc3aiadqaaao4ahtjgi3fvfaawdhabaaoaa.f10002.mp4?dis_k=9e11e4245c6b5c86c1bd87fa33d2a52b&amp;dis_t=1792825754&amp;play_scene=10120&amp;auth_info=B7TLyBM4XhuZuuyXcndrD348FFUbeyUxCn5BRz0Xejk+Uxo2OAJVTmgHZWwSNFIAamo=&amp;auth_key=6ead168358aa32a949ea38d896eeb0b3" width="100%"></video><br/><a class="media_tool_meta meta_primary" href="http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652737609&amp;idx=2&amp;sn=56ac601695671aec0953b36b551a08b7&amp;chksm=f0e5fc2445cebac9b15bb153e931e5fa381356a133168d4809270d2781b430b70473cbee2ddc&amp;scene=0#rd" target="_blank">文章原文</a><br/><img alt="" height="1px" src="http://www.jintiankansha.me/rss_static/5418/y263G4XXnd" width="1px"/>
+      </div>
+    </article>
+    <article class="article" id="article-2">
+      <div class="article-header" onclick="toggleArticle(2)">
+        <h2 class="article-title">5. 刚刚，Kimi K3.1 Pro杀进全球前四，Agent第一！</h2>
+        <div class="article-meta">
+          <span class="article-time">10-24 13:55</span>
+          <span class="article-link">
+            <a href="http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652737604&idx=1&sn=fb1e2dca1025ac43136b8bac664d4fc7&chksm=f08a3922af408bc948fa869a85fc8f2ae02dfbb2e8ca44b4342ec00e868b849ab1d5f0a6184d&scene=0#rd" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-2" style="display: none;">
+        <img src="http://mmbiz.qpic.cn/sz_mmbiz_jpg/Rvq8Ow69CYXmBGy57BicMSUibG8osHTn901SdRNNzziaE3qM5eW527lXZ9esibUZRBQyeziboY7dYlvA2FnkewOYMcCJlEw0lLcvaibGupibn8QWyw/640?wx_fmt=jpeg"/><img/><p><strong></strong><strong>新智元报道 </strong></p><p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYWGxcbmnyYvqrSqhntcbPdelKBG0JLug4pEX8icjBSe5eib6PekswOSvrq8ybatQJRDr9Vib5WOKaUuibKfLb5qH3J4kEIYmC4NQJU/640?wx_fmt=png"/><img/></p><p>昨晚的X，被刚刚发布的Kimi K3.1 Pro正式刷屏了！</p><p>外国开发者们惊呼：欢迎来到3D Web 开发的新时代。</p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYXxOfwIdyoiapzHlUlPqyWxa4m95Nhic6Z0bu3h8iad5Uwjr4oG8g44ibYgHYZQ1nuEfPKIvWJibRTMs2WFniaNMgHMWickfedtNVfiaJ0/640?wx_fmt=png"/><img src="http://mmbiz.qpic.cn/sz_mmbiz_gif/Rvq8Ow69CYUgx6w5f0jqib8kXs76dDt1kVJrVfZyDcDVSfK4rFNu0uHB8USa3QzIHOz3E6VJwmmjzCyicJJ4icPu2JtdibcLFbXlqroXqTibia93s/640?wx_fmt=gif"/><img src="http://mmbiz.qpic.cn/sz_mmbiz_gif/Rvq8Ow69CYXqbJ5HDHiafSqicCd2otvyicwFN8ucUHZG1lTwoPtk0wG3nBen6R5CsTfTw2Kictbc7msq6eYY5twSrGMiadV0ynEQ0HESOm0gaAgY/640?wx_fmt=gif"/><p><strong>之前，AI榜单</strong><strong>前十</strong><strong>几乎被美国公司包圆了。相对而言，国模这边有点沉寂。</strong></p><p>有人感慨：国产大模型最近发的都是主打性价比的「Flash」模型，真能打的「Pro」去哪了？</p><p>很多人在问：国模是不是掉队了？</p><p>今天，Kimi打破了沉默——Kimi K3.1 Pro来了！</p><p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYVjibICa4BFmQOAJudq6ghpiaDwvqKhDXPb7zgtZhgSQ0GWk83EB1d7DuPtnYIwn3noJ7V2S7JJ6N6EbBuQa1odaNvNFDGcvYmlM/640?from=appmsg"/><img/></p><img src="http://mmbiz.qpic.cn/sz_mmbiz_gif/Rvq8Ow69CYW9tO0RzBp9lUDe5HFCUmdNh9bDVicianFDOeAJwicmW5pIiaAsHkUt7qAdicIUZWlQUDLvmmjda0kEuLVicGKJwx9UG2cy4orApic8GQ/640?wx_fmt=gif"/><p>知名AI评测机构Artificial Analysis也公布了成绩：<strong>K3.1 Pro以55分冲上全球智能指数第4，较前代暴涨11分。</strong></p><p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYXZ2Ys4q7Aicw6z4aXl2S943sNRL0aqSUr4vdTML2fviaO89CLT5CfoWwyoEoyX5wCjHiakUf6ice83d3n3tgibfhibhHWOl07cibZKps/640?from=appmsg"/><img/></p><p>在考验Agent实战能力的Terminal-Bench 4.0上，它更是从13%飙升至65.7%， 距离 Opus 5.5 不到 1%！</p><p>Artificial Analysis还给出一个重磅判断：<strong>一旦权重发布，K3.1 Pro将登顶开放权重模型榜首，开源与顶级闭源模型的差距，将从12分骤缩至3分！</strong></p><p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYW9DdmpOn2IYJJ5puoAy3FwyAcD7YvjHN1QHb16ySDr2K8BsLicryyDZoXZbo0EywoQRPCD8yyBiaIHEFsrjIAxAHHSCXQkHib9dc/640?from=appmsg"/><img/></p><p>今天早上，reddit已经被这个跑分刷屏：Kimi K3.1超越了Fable 5.1！</p><p>国模这次，真把全球第一梯队的门踹开了。</p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb3uEdSPKrwGNmZEOaaGyzVvZ8dTtE9jU1rFsda3llYbCZpmWfiazUYjWBLTGvlPpXucH8Q0lEUJN3Q/640?wx_fmt=png"/><img/><strong>国模王者归来！</strong><p>这次Kimi端上来的，不是个过渡版本，而是一盘硬菜。</p><p>这是迄今为止能力最强的 3 万亿级参数模型，支持高达 100 万上下文。</p><p>它的出现告诉世界：China is back，国模王者归来！</p><p>在各大硬核测试中，K3.1 Pro 的性能直接比肩海外顶流 GPT-6 Astra！更离谱的是，它的成本只有 Astra 的五分之一，便宜了整整 80%！</p><p>所以，K3.1 Pro 的定位很清楚：做前沿模型里，最理性的那个选择。</p><p>而且，在真实场景中，要干有挑战的任务，还是得靠更大的模型。举个例子，尽管基准测试分数跟Opus相近，但真到了现实场景里，Fable 这种较大模型，经常会表现出更强的洞察力、创作力和写作能力。</p><p>毕竟，高难度推理任务，才能显出大模型的本事。</p><p>这一次，K3.1 Pro 基于 K3 做后训练，月之暗面在强化学习上大幅加码算力。</p><p>为了让几百个下游领域一起联合训练，他们从 RL 框架、长上下文推理、沙箱，到调度系统、环境质检平台，整套技术栈逐层重新打磨。目标就是——每一份新增的算力，都要变成实打实的能力。</p><p>结果是，在代码、Agent 和知识类基准上，K3.1 Pro 达到或接近最强闭源模型的水平。</p><p>在考察 Agent 在真实终端里独立干活的 Terminal-Bench 4.0 上，它拿到了65.7分，而且在三种思考强度下，都落在「性能与单任务成本」的帕累托前沿上。</p><p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYXib73srJ5OqJpQ4jaibqo549fSYpNNAGViatqmKSjdQMEmTSGGLpoRAv0DlrShylVkWYzvbRDEtrqMXcof5wiaOoUUEcLpft4kkWQ/640?from=appmsg"/><img/></p><p>也就是说，<strong>同样的钱，它干得最多；同样的活，它花得最少。</strong></p><p>Kimi 还贴心地端出了高速版模型 Kimi K3.1 Pro Highspeed，智商不减，但输出速度直接飙升 3 倍。</p><p>不过，跑分只是门票。榜上分数咬得再紧，一到真刀真枪的活儿上就会拉开差距——</p><p><strong>任务越难，越是拼模型本身的底子，这恰恰是大模型的主场。</strong></p><p>接下来，我们就看看 K3.1 Pro 在真实工作流里，是怎样表现的。</p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb3uEdSPKrwGNmZEOaaGyzVvZ8dTtE9jU1rFsda3llYbCZpmWfiazUYjWBLTGvlPpXucH8Q0lEUJN3Q/640?wx_fmt=png"/><img/><strong>代码模型，审美大升级</strong><p>据悉，K3.1 Pro 有个引人注目的变化：<strong>审美，成了模型的能力项。</strong></p><p>Kimi想回答的问题是——代码模型，能不能好看？</p><p>这一次，无论是前端页面、Three.js 交互场景，还是3D 资产，它在构图、排版、动效和完成度上都有明显提升。</p><p>它还会用 Unity、Unreal Engine、Godot 这些游戏引擎，可以不靠 MCP 连接器，自己写脚本直接驱动 Blender、SolidWorks、Rhino 建模。</p><p>接下来，就让我们来一波硬核实测，来看看「大而美」的K3.1 Pro，究竟有多能打？</p><p><strong><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb351381bTy5MO2IN89mV41M88GEiaCCibDxJoaQjYV6HfRtafnmEmfM3R1p0tmkHgBOVuXBD6UJKpsQ/640?wx_fmt=png"/><img/></strong></p><strong>实测：文字 → Blender → 网页，一条龙 3D 资产</strong><p>这是K3.1 Pro主打的新技能。官方说它能从一段文字、一张草图或参考图推断形状、比例和空间关系，直接写 Blender 脚本建模，再接入 Three.js 或游戏引擎。</p><p>我们来验证一下，这条链路是不是真的能打通。</p><p>一张手绘三视图扔进去，40 分钟，它交出来的是：608 行 Blender 脚本、可编辑的 .blend、1.7 MB 的 GLB，还有一个双击就能开的网页。</p><p>草图上写的翼展 8.0、总长 6.2、总高 2.4，建出来是 8.000、6.199、2.400，差了 1 毫米。</p><p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYUqOicicfp308cJ5lLew1714hoclRhz7GuPx6J3teWTJjuGup5ugN3bUc5sicWeTgsIbpnCVI6MEnW9gxXYiczN9SlsgtbtVc7lRZQ/640?from=appmsg"/><img/></p><p>接下来，它开始了丝滑的操作。</p><p>动手前，K3.1 Pro会先试探 Blender 5.2 的新接口，确认了再写正式脚本；验收标准直接写成断言，旋翼直径差 1 毫米就不许导出；渲染完自己对照草图改了一轮；网页做完，它甚至还开浏览器给自己截了两张截图，这样才算交差。</p><p>六项待办，自己一项项划掉。</p><img src="http://mmbiz.qpic.cn/mmbiz_gif/Rvq8Ow69CYWxCJeYtnkGcoEvKu9KNuXFXMWESBXAsicEDmib42exiafqfEZhiaIO6hkmiafJzEAz9TKBI2SZ6HxJKqFQVoyeosknKDyOIgla22aI/640?wx_fmt=gif"/><p>机身是样条插出来的流线体，座舱玻璃是吸附在机身上的曲面，桨叶带扭转，四个旋翼的倾转层级从 Blender 一路到浏览器里，滑块拉到底，真的绕支臂往前倒 90°。</p><p>全程，K3.1 Pro都没碰 MCP，没用外部模型库。</p><p>写到一半时，1M 上下文才用了 6%。40 分钟不是它的上限，是这张草图只有这么难。</p><img src="http://mmbiz.qpic.cn/mmbiz_gif/Rvq8Ow69CYVIfgysD28OF92XlgH01dMnXSnYz3Ve9iboBv0B1uZKdGwpp3vchtdCnTb3QzdJonaA0nLsBoiasAGQlMt9vrUT1Vq4dB4LlEEa4/640?wx_fmt=gif"/><p>更令人振奋的是——这套活儿不用本地装 Blender 也能干！</p><p>kimi.com 和 Kimi app 已同步上线 3D Make 功能。把同一份草图和资料直接丢进 Kimi，一句「参考这些资料，把它的 3D 模型做出来」，它就在云端开工了，这次又跑了将近 40 分钟。</p><img src="http://mmbiz.qpic.cn/sz_mmbiz_gif/Rvq8Ow69CYVYXvsyBnHLnY2Ux2z6vhPwDNjpiabO3iaj2dncuMHCYvd28nN0wN5ujLCqQycpKiab1Q7Uas2Wmt81CEJ9970oaEhp0iaxb3LEial4/640?wx_fmt=gif"/><p>改 scene.js、改 style.css，跑终端重建，它发现两片桨叶转起来不对称，改成半整数转速；CSS 动画暂停不一致，修；截图时场景还没加载完，加一个「就绪」再截。</p><p>最后自己开浏览器点了一遍，报了句「无脚本错误或资源缺失」，才把版本号交出来。</p><p>做完的东西就在右边窗口里，能转、能换色、能拉倾转滑块，不满意直接在对话里改，它接着改。</p><img src="http://mmbiz.qpic.cn/mmbiz_gif/Rvq8Ow69CYWxcYyPtn2eVoh347OvlmlAb025IdmRV3yzNQlSs6dIyx3FKU69AiaYIwFcbNHzGI802T0Jh7plw9OOjIfibAZdzrXQrpgs9It9A/640?wx_fmt=gif"/><p>使用3D Make可以在线预览和编辑，一键发布成网页，GLB 下载下来可以直接去 3D 打印，还能导出视频或实况照片发社交平台。</p><p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYUOZcOHFnibMqEUdx1Pciaohd2soNdtib9xoGnlzDpuSXqqDQ3BkD1q6DEtUSq5zK7O2bRxUVsqiauIEGibbhIibR0iaWz0vYybuP7krA/640?from=appmsg"/><img/></p><img src="http://mmbiz.qpic.cn/mmbiz_gif/Rvq8Ow69CYVicTXbrE96iauyDnmUHIq60SlKgBFAjBrkPicicJEpBux2h4aZRITsv5GzmicfemtlybPQs8452pC9UicaV4KDsgEktDHmXUoTZ5t7Y/640?wx_fmt=gif"/><p>https://lsx4v6wl2amc4.kimi.page/</p><p>以前，这是建模师、前端和运营三个人的活，现在，K3.1 Pro用一个输入框就完成了。</p><p>而众多网友的实测也证明，K3.1 Pro的审美绝了。</p><p>仅用4.92美元，它就在一款绘画应用程序中画出一副肖像。</p><p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYU4ghiaJvI9msf0doD984aSLvMabYgRG18wIvOsiaZIPBS1DBom6DWJmwQsiclialMbWR4XjictAeh4GCaRXdklR0ic3YKfN4IvKwxNI/640?from=appmsg"/><img/></p><img src="http://mmbiz.qpic.cn/mmbiz_gif/Rvq8Ow69CYVA6INQx8XZl1xqbbQcV762XZqjAzn5GMQJ5ouyxI5ibh0ukko2VOKAwOrOUtiahyfHYn2RVu4Nul2vpbd00CAibeJhmqXbgszuRw/640?wx_fmt=gif"/><p>有人在虚幻引擎中建造了一座云端宫殿，成本不到10美元，引发了众多网友盛赞。</p><p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYVb7ysXISdhXPG4WAn5ibx2dV7nCT3ic89tJlPwichqAeWficrtjvLuQTA7g7sOahaNCmxXiaz8sds1zDZ34peWEfNKQBlvajxyXtgY/640?from=appmsg"/><img/></p><p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYXJIOMicU7LrmP9Mg8UaMp6tO5C6PtjJOPrVu9gobNwC3hgS7RJA7n4yK2lCbUbOpmicuYG3QiaA3nEicicNeWSzCUAbVXsTsSlHXkw/640?from=appmsg"/><img/></p><p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYWRgmOPI5QRB2jfn5BQnu78ibuLPKgpB0lDfeiaUORicp0bZqtYC7vFa7icXpbL5Y8OsbPAbyalGBhIOngWn3fva8RuaVd7YBgUwM0/640?from=appmsg"/><img/></p><img src="http://mmbiz.qpic.cn/sz_mmbiz_gif/Rvq8Ow69CYWOWNU2T4WPdDqVMFdDuRZeeIs2nOETSw0KThd7fAyQOD4z4wz4PcJcxZgvIloUeIgBfheCbtEfkq26MHCjxWBWjoAOmo5Pmicw/640?wx_fmt=gif"/><p>鹈鹕骑自行车的demo，审美绝了。</p><img src="http://mmbiz.qpic.cn/mmbiz_gif/Rvq8Ow69CYV8PDlm93UQeZRYiaVxCcR2psC0ILT2iaL8YFF6alSEDcibE4r3N3wq09Cv2gq3d8AmfSYYgjH89KYAUZth4RB51GzWwibtcNGCTiac/640?wx_fmt=gif"/><p><strong><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb351381bTy5MO2IN89mV41M88GEiaCCibDxJoaQjYV6HfRtafnmEmfM3R1p0tmkHgBOVuXBD6UJKpsQ/640?wx_fmt=png"/><img/></strong></p><strong>华尔街全栈分析师来了</strong><p>以前的AI碰金融，只会写摘要，一遇到跨表公式和估值模型就胡言乱语。</p><p>但 K3.1 Pro 这次，直接干翻了海外顶流。</p><p>在 OfficeQA Pro v2（基于真实金融文档的复杂财务数据分析，考察检索、跨文档核对与多步数值推理）上，K3.1 Pro 拿下 64.4 分，当前最优（SoTA）。</p><p>在覆盖从标的筛选到盈利分析整条投资工作流的 Frontier Finance 上，K3.1 Pro 位列第二，较 K3 进一步提升。</p><p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYVYqQuOQj1mwuH8vWQAeqXnqsgicRC4uhwW6I2S1V8kuVfHFCKjibE2A1skrvrRt1ib8qz9rZiaxvl8zWSDpnaKRflgLzibPXvztjgs/640?from=appmsg"/><img/></p><p>接下来，我们看看 K3.1 Pro 在真实投行工作流里，是怎样表现的。</p><p>它给我们手搓了一份英伟达的专业级财务模型。</p><p>它并不是简单地填表，而是能端到端交付一整个带公式联动的 Excel！它像极了老练的分析师，经营驱动因子可随情景调整，敏感性分析直接呈现对估值的影响，每一项假设都有硬核数据支撑。</p><img src="http://mmbiz.qpic.cn/mmbiz_gif/Rvq8Ow69CYXTkfUbpSmgNV6NqJp877TJC0mxXoGQpbDb3hZOjqAkoak4v6icktxWUCnmelQz8Izho6TlK1zeQiae58DBdmNzKPfnZZEv0eoBg/640?wx_fmt=gif"/><p>可以说，现在的K3.1 Pro是一个真正懂财务逻辑的「全栈金融民工」了。</p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb3uEdSPKrwGNmZEOaaGyzVvZ8dTtE9jU1rFsda3llYbCZpmWfiazUYjWBLTGvlPpXucH8Q0lEUJN3Q/640?wx_fmt=png"/><img/><strong>国模崛起</strong><p>Kimi K3.1 Pro 的出现，证明了我们在大模型的牌桌上，依然握有随时打出王炸的实力。</p><p>它当然不是全能冠军，在一些维度上离最强闭源模型还有距离。</p><p>但真正令人振奋的，是<strong>国模正在向全球智能的性能天花板发起正面冲锋。</strong></p><p>性价比决定市场，能力上限决定未来。</p><p>Kimi K3.1 Pro已经能与全球最强模型正面交锋，甚至重新定义智能的边界。</p><p>而且这次性能更强了，价格反而更便宜：比 K3 便宜了三分之一，只有 GPT-6 Astra 的五分之一。</p><p>现在，不用苦等解封了。今日起，把Kimi K3.1 Pro用起来。</p><p>China is back！ </p><p>编辑：所罗门 Aeneas</p><br/><strong>秒追ASI</strong><strong>⭐</strong><strong>点赞、转发、在看一键三连</strong><strong>⭐</strong><strong>点亮星标，锁定新智元极速推送！</strong><strong><br/></strong><img src="http://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb1y6B5OM79TFzpkceWtUkI6LEwv0uYicSoM5Q3I3kDNJhxWdL3tQvbOpU3Ty7icBqnDDNd4CCu4ibiaHw/640?wx_fmt=jpeg"/><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYVMuHfFGD1mFMfc5284R22LkqUkpItsc62vpgD4gUNm74S0DFlRWMg0ANo2ia5h3KXHoDYubJUcrJYBHXqYEFlibCHQxVDddZe3s/640?from=appmsg"/><br/><a class="media_tool_meta meta_primary" href="http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652737604&amp;idx=1&amp;sn=fb1e2dca1025ac43136b8bac664d4fc7&amp;chksm=f08a3922af408bc948fa869a85fc8f2ae02dfbb2e8ca44b4342ec00e868b849ab1d5f0a6184d&amp;scene=0#rd" target="_blank">文章原文</a><br/><img alt="" height="1px" src="http://www.jintiankansha.me/rss_static/5418/QjZgxwJ1EH" width="1px"/>
+      </div>
+    </article>
+    <article class="article" id="article-3">
+      <div class="article-header" onclick="toggleArticle(3)">
+        <h2 class="article-title">4. 提示词工程已死！祖师爷亲手砸饭碗：以后问AI，不用再念咒了</h2>
+        <div class="article-meta">
+          <span class="article-time">10-24 13:55</span>
+          <span class="article-link">
+            <a href="http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652737604&idx=2&sn=c37027700ed245f3367e301f2f7ddb06&chksm=f01f072603e9680e95f27dbfa74a62836cb4371ef43deff54cf94576f5a8e101f1cc555da9fd&scene=0#rd" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-3" style="display: none;">
+        <img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYUtXXFfYkXEUTMk1XwuJL5Mw31n6HQL7QSc3m30EAOelbJgK6CFaK0k0JcbqMbia4ZmxPd9ATL7aRtjQJqlsu8voUlJMic2NUM2o/640?wx_fmt=png"/><p><strong></strong><strong>新智元报道 </strong></p><p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYWGxcbmnyYvqrSqhntcbPdelKBG0JLug4pEX8icjBSe5eib6PekswOSvrq8ybatQJRDr9Vib5WOKaUuibKfLb5qH3J4kEIYmC4NQJU/640?wx_fmt=png"/></p><p><strong>提示词工程，死了。</strong></p><p>给它判死刑的人，正是当年亲手把「提示词工程师」变成一份正式工作的那个男人——Riley Goodside。</p><p>祖师爷，亲手给自己的饭碗写了一篇讣告。</p><p>事情是这样的。</p><p>10 月 22 日，安全研究员 Justin Elze 在 X 上发了一条帖子，正文只有一句：You're all prompting wrong，你们提示的方式全都错了。</p><p>配图是两张 LinkedIn 截图。</p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYWjVPO0mg2Y2HYOZHC3xeCHNAzmBibnibGYiaaAd7LuvcqVhKc6UCoM0Y7j58BmzRfBq0ZGzwSSWTSTmx2aRnLVJvWcVCaAQW4ZSw/640?wx_fmt=png"/><p>第二天，Riley Goodside 转发了它，轻飘飘丢出三句话：</p><p>Prompt engineering is dead. Prompt however you want. Have fun。提示工程已死，想怎么问就怎么问，玩得开心。</p><p>三句话，加起来 10 个英文单词。可就这 10 个词，在 AI 圈掀起了滔天巨浪。</p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYVbTSetibicRuxFFNTQdnqWwG19XkGNTbaZeibyzXyBgUvFiaG3KJNr9TicvaEW5sK5jtSiboukGJ8bKokPuVHUrB5j00yjCHTnIL95E/640?wx_fmt=png"/><p>这话不是谁说都有这分量。</p><p>Goodside 做过 Scale AI 的首席提示词工程师，后来又加入 Google DeepMind 继续干这行。Scale AI 的 CEO Alexandr Wang当年亲自站台说，他打赌 Goodside 是全球第一个被正式雇用的提示词工程师。</p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYVBhazU45e4U4hQcZvDMIVwmnyBSg72CtBJDIJwlfTG2SglW8unEqQEk19wwIxHQ6DYoQfpjLlB4gHPN5pJpUoQYELBYWbiavg8/640?wx_fmt=png"/><p>早年他靠公开做实验出名，专门研究怎么跟大模型打交道，连「提示注入攻击」这个安全概念都是他早期研究的重点方向之一。</p><p>有网友评论一针见血：这话出自一个几乎亲手设立了这个职位的人之口，真是一篇有趣的悼词。</p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYW0EnfMYA9Xz0NLGibS7WvxQItCq5ukx9ZNZURShjmCHiaTpUblWQO3tWqrucHEibrz7xniaK5cEk3tzvpT1u0zCrMx74hWUIXTCHc/640?wx_fmt=png"/><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb3uEdSPKrwGNmZEOaaGyzVvZ8dTtE9jU1rFsda3llYbCZpmWfiazUYjWBLTGvlPpXucH8Q0lEUJN3Q/640?wx_fmt=png"/><strong>念「咒语」的日子，你也经历过吧</strong><p>把时钟往回拨一拨。</p><p>ChatGPT 刚火那阵子，谁的收藏夹里没躺过几份「万能提示词模板」呢？</p><p>先给 AI 指定一个身份——「你是一位资深 XX 专家」，再规定输出格式，再叮嘱一句「请一步步思考」，最后还得加两句客气话。</p><p>一长串写下来，跟念咒似的，生怕漏掉一个字 AI 就不灵了。</p><p>那时候大家是真信这个。</p><p>会写提示词，就是一门能写进简历的技能，「提示词工程师」一度是全网最让人眼红的新职业。</p><p>据说年薪能开到几十万美元，不用写代码，光靠跟 AI 聊天就行。</p><p>三年过去，发明这套「咒语」的人自己站出来说：别念了，没用了。</p><p><strong><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb351381bTy5MO2IN89mV41M88GEiaCCibDxJoaQjYV6HfRtafnmEmfM3R1p0tmkHgBOVuXBD6UJKpsQ/640?wx_fmt=png"/></strong></p><strong>一句大白话，干了专家的活</strong><p>Justin 配的那两张截图就是活生生的证明。</p><p>截图来自 Chainguard 的 CEO Dan Lorenc。</p><p>这家公司在软件供应链安全领域赫赫有名。</p><p>就在 10 月中旬，Chainguard 正式推出了他们的 AI 漏洞发现系统——一套自建的执行框架，配上前沿大模型做安全研究。</p><p>给模型的提示简单到什么程度呢？大意就是一句话：找找 PHP 里不用登录就能被远程利用的高危漏洞。</p><p>没有角色扮演，没有分步模板，也没有「你是一位资深安全专家，请按以下步骤……」。</p><p>就这么一句大白话。</p><p>结果那套系统真的独立复现出了已知的高危漏洞，还帮忙验证了官方修复方案。</p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYXztbHFdq22iaQlTwRpibgDEdyuGfbCvb0wHCWC02Hiciafs4qY50kLNGGX3RnI6pNQoOgrX9hKnzhfG6Q8aTf9bQSEOwpbLMM0GcM/640?wx_fmt=png"/><p>这事闹得可动静不小。FBI 都发了警告，PHP 基金会紧急发布修复，多个政府网站一度受影响。</p><p>搁在以前，这是资深安全专家反复打磨提示词、精心设计多轮对话才敢碰的活儿。</p><p>如今一句人话就搞定了。</p><p><strong><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb351381bTy5MO2IN89mV41M88GEiaCCibDxJoaQjYV6HfRtafnmEmfM3R1p0tmkHgBOVuXBD6UJKpsQ/640?wx_fmt=png"/></strong></p><strong>死掉的是那句话，活着的是那套系统</strong><p>热闹没过多久，Goodside 自己在评论区补上了后半句。</p><p>他说自己刚才是在说俏皮话。</p><p>给系统写底层提示词的人、给小模型做精调的人、把提示嵌进应用里的工程师，手里的活可一点没少。但对坐在屏幕前的普通用户来说，「直接问」能达到的效果上限，基本已经没有天花板了。</p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYUftzpruArsr41r54ySgg2mWsg455dSIgccsRE2xVCoLCSEtS1VNrsVS2Z0lGc84XaFiaJiaCAMnevR0TA46hSfO5abuluticKvSk/640?wx_fmt=png"/><p>有人追问，是哪个新模型让你突然改了想法？</p><p>他说没有什么突然的转折，自从 ChatGPT 问世起，提示词工程作为普通用户的必备技能就一直在慢慢消亡，这是个缓慢而持续的过程。</p><p>有网友一语道破：「感觉工作只是从提示转移到了 harness 上。」Goodside 回了两个字：是的。</p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYWEFib5mhqY5rmLtaw4fRic0icP72FhMicef6lqMv8H0sEQdkMG4rFzO097dbVzbNnialXI6fS3rJuiaazDocXqia1fDMHofqoaibvMjh4/640?wx_fmt=png"/><p>这就对了。</p><p>Dan Lorenc 那句「找找漏洞」之所以能成，靠的不是这句话本身有多精妙，而是它背后那套包含沙箱环境、目标源码和执行引擎的完整系统。</p><p>模型的功劳在能力，系统的功劳在设计。</p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb3uEdSPKrwGNmZEOaaGyzVvZ8dTtE9jU1rFsda3llYbCZpmWfiazUYjWBLTGvlPpXucH8Q0lEUJN3Q/640?wx_fmt=png"/><strong>咒语会过期，判断力不会</strong><p>把这几年的演化串起来，脉络清晰得很：</p><p>最早是 Prompt Engineering，琢磨怎么把一句话说漂亮；后来 Karpathy 等人推动了 Context Engineering，研究怎么给模型喂对信息；再到 Harness Engineering，给模型搭好运行环境、设定规则和约束；现在圈子里又喊出了 Loop Engineering，让整套系统自己循环着跑、自我迭代。</p><p>一层一层往上叠，功夫离提示词越来越远。</p><p>普通用户不用再背咒语、存模板，模型听得懂人话了。</p><p>最有意思的是 Goodside 本人。有人问他，现在该把精力花在什么技能上。这位祖师爷很老实地回答：老实说，我完全不知道现在什么技能值得培养，一切变得太快了。</p><p>技巧每隔几个月就被模型追平一次。</p><p>现在变得重要的三件事成了：你能不能把问题想清楚？能不能把自己要什么说明白？能不能判断 AI 给出来的结果到底对不对？</p><p>参考资料：https://x.com/goodside/status/2113639196254671259</p><p>编辑：所罗门</p><br/><strong>秒追ASI</strong><strong>⭐</strong><strong>点赞、转发、在看一键三连</strong><strong>⭐</strong><strong>点亮星标，锁定新智元极速推送！</strong><strong><br/></strong><p><img src="http://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb1y6B5OM79TFzpkceWtUkI6LEwv0uYicSoM5Q3I3kDNJhxWdL3tQvbOpU3Ty7icBqnDDNd4CCu4ibiaHw/640?wx_fmt=jpeg"/></p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYUiag41JLcZic8QmZtJCLqgXAdlyvCN41ViaEc8T3C9HRkFBib7FhelNT3C0CrxeuyXKGDc4v31rV1smYK8mRTicyyGUSC8RfK0hLOs/640?wx_fmt=png"/><br/><br/><br/><a class="media_tool_meta meta_primary" href="http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652737604&amp;idx=2&amp;sn=c37027700ed245f3367e301f2f7ddb06&amp;chksm=f01f072603e9680e95f27dbfa74a62836cb4371ef43deff54cf94576f5a8e101f1cc555da9fd&amp;scene=0#rd" target="_blank">文章原文</a><br/><img alt="" height="1px" src="http://www.jintiankansha.me/rss_static/5418/PKJcw3o2te" width="1px"/>
+      </div>
+    </article>
+    <article class="article" id="article-4">
+      <div class="article-header" onclick="toggleArticle(4)">
+        <h2 class="article-title">3. 港科广新基准：只给截图，AI能把App交互做出来吗？</h2>
+        <div class="article-meta">
+          <span class="article-time">10-24 11:40</span>
+          <span class="article-link">
+            <a href="http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652737586&idx=3&sn=c381f1250a66caf597b4a1994ee99be0&chksm=f089fcdac9352c4fbcee9b69696a7ee0423278b8f3ad25f6dd79c418ceed82d3a35bc2beb7d5&scene=0#rd" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-4" style="display: none;">
+        <img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYWvVLVjFrkdBHKZYeJR7Tics8lAibRvl3r0O5GZ3d754qHERPyf9dRooxsUtKBQg1ibuPSCdIgc3o6PXBQrvKo6pTibcnLHvV1DBJY/640?wx_fmt=png"/><p><strong></strong><strong>新智元报道 </strong></p><p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYWGxcbmnyYvqrSqhntcbPdelKBG0JLug4pEX8icjBSe5eib6PekswOSvrq8ybatQJRDr9Vib5WOKaUuibKfLb5qH3J4kEIYmC4NQJU/640?wx_fmt=png"/></p><br/><p>给AI几张网站截图，它已经能快速生成一个「看起来很像」的网页。但真正操作起来呢？在商品页加入商品后，购物车会不会更新；切换页面后，刚才的状态还能不能保留？</p><p>UI2App关注的正是这个问题：不给功能说明、不给点击轨迹或交互演示，只给静态UI截图，模型能否自行推断并实现其中隐含的应用行为？我们把这种能力称为Interaction Inference，即「交互推断」。</p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYXQ9VVOapSqxezDaRoHm7icE5OibI6ELParV6GR6gjC9QaIfOBax7npeeicrEoUPdmUvqFncObpMv0lrS3E6PxQOIpUpm9sQNo9XI/640?wx_fmt=png"/><p>论文：https://arxiv.org/abs/2607.06306v2</p><p>项目主页：https://chenmancm169.github.io/UI2App-ProjectPage/</p><p>代码：https://github.com/chenmancm169/UI2App</p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYX3BTudMice1A77KoxxMTpPllM7735m9WWT0KGcIsFXd0eFsVDzefxJIJkQwVjpPFnrOREKAtzcLJPv2ObgW1MLmpgK4VU0aPlg/640?wx_fmt=png"/><p>论文Figure 1：同一组截图、同一操作序列下，视觉还原更高并不保证购物车状态逻辑被正确实现。</p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb3uEdSPKrwGNmZEOaaGyzVvZ8dTtE9jU1rFsda3llYbCZpmWfiazUYjWBLTGvlPpXucH8Q0lEUJN3Q/640?wx_fmt=png"/><strong>只给有限参考</strong><strong>模型能不能把App真正做出来？</strong><p>一个很现实的需求是：看到一个喜欢的产品界面，希望AI能直接做出一个可以运行、可以交互的类似应用。</p><p>对没有产品或开发背景的用户来说，截图、设计稿或参考产品本身就是更自然的表达方式；他们关心的不只是页面像不像，还包括按钮能不能用、数据会不会联动，以及切换页面后状态能不能保持。</p><p>这正是现有评测之间缺少的一环：Screenshot-to-Code评测大多关注视觉相似度，部分交互式生成任务则会提供显式的行为指导。UI2App关注的是，只给静态截图时，模型能否自行推断其中隐含的应用行为，并把它实现出来。</p><br/><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb3uEdSPKrwGNmZEOaaGyzVvZ8dTtE9jU1rFsda3llYbCZpmWfiazUYjWBLTGvlPpXucH8Q0lEUJN3Q/640?wx_fmt=png"/><strong>只给截图、不提供行为说明</strong><strong>怎么测？</strong><p>UI2App包含600张截图，组成95组状态一致的多页面Web应用，每个任务包含3到14张截图，并形成665个「应用-交互类别」评测项。模型只看到静态截图，不获得操作轨迹或额外行为说明，需要据此生成可运行的多页面应用。</p><p>完成这项任务，需要模型理解UI结构和语义，推断截图暗含的交互，再把这些判断落实为共享组件、路由和跨页面协调的状态管理，最终生成一个可运行的React应用。</p><p>生成结果从三个维度评价：能否真正构建和运行（EXEC）、与截图有多像（VFS），以及截图暗含的交互能否被推断并实现（IIS）。</p><p>IIS会依据截图中可推断的交互，检查这些行为是否被覆盖、是否真正产生预期结果，以及相关状态能否在组件和页面之间正确保持。点击、筛选、购物车等交互不只要「有反应」，还要形成正确而一致的状态变化。</p><p><strong>从按钮到购物车，状态作用范围决定交互复杂度</strong></p><p>UI2App覆盖开关、展开/折叠、列表操作、数据增删改查、表单验证、通知反馈和跨页面状态7类常见交互，并按照状态作用范围区分复杂度：S1是局部UI状态，例如按钮、下拉框或标签页；S2涉及多个组件共享的数据状态，例如搜索、排序和CRUD；S3则要求状态跨路由持续存在，例如购物车、登录态或编辑中的内容。从局部按钮，到同一页面的数据联动，再到跨页面保留状态，这一划分对应不断增加的状态管理复杂度，也让分析不只停留在一个总分，而能进一步区分模型在局部UI、共享数据和跨页面状态上的表现。</p><br/><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb3uEdSPKrwGNmZEOaaGyzVvZ8dTtE9jU1rFsda3llYbCZpmWfiazUYjWBLTGvlPpXucH8Q0lEUJN3Q/640?wx_fmt=png"/><strong>视觉第一并不等于交互第一</strong><p>在这组评测中，VFS与IIS呈现出不同的模型排序。Gemini 3.1 Pro Preview以73.2的VFS拿到视觉还原第一，但IIS为8.1、排名第四；Claude Sonnet 4.6的VFS为71.3，略低于Gemini，但IIS达到36.8，也是当前评测中的最高值。</p><p>这说明至少在UI2App上，视觉还原分数不能直接代表交互推断表现。即使最高IIS也只有36.8/100，说明仅从静态截图推断并实现应用行为仍有较大提升空间；因此，只看视觉还原效果，可能会高估模型对应用交互的实际实现能力。</p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYXnkyov0pPw8MkSWW4pGYv85QHcncpmRUEa5b69bImicJTV6qSUpoYY7N4oM3KAG9FNO2yiamtpV1J5n0ac4JLbmJOzZ0NAseT30/640?wx_fmt=png"/><p><strong><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb351381bTy5MO2IN89mV41M88GEiaCCibDxJoaQjYV6HfRtafnmEmfM3R1p0tmkHgBOVuXBD6UJKpsQ/640?wx_fmt=png"/></strong></p><strong>跨页面状态，是参评模型的共同难点</strong><p>在最复杂的S3跨路由状态上，除表现最佳者外，其余参评模型得分都不超过3.5，最佳成绩也只有15.8/100。</p><p>这类交互的难点不只是给按钮绑定事件：系统还要推断哪些信息应该共享，并让状态在路由切换后继续存在。购物车、登录态或跨页面编辑，因此比局部按钮、下拉框更依赖完整而一致的状态管理。</p><br/><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb3uEdSPKrwGNmZEOaaGyzVvZ8dTtE9jU1rFsda3llYbCZpmWfiazUYjWBLTGvlPpXucH8Q0lEUJN3Q/640?wx_fmt=png"/><strong>从「看懂界面」</strong><strong>到「理解应用如何工作」</strong><p>当输入只有静态截图时，模型面对的并不只是视觉重建：它还要从多个界面状态中判断元素之间如何联动、一次操作会改变哪些数据，以及这些变化应该在何处继续生效。这里考察的是对应用行为的理解，而不只是对页面外观的还原。</p><p>UI2App把这层能力从视觉复刻中单独提出并量化，使截图驱动的应用生成能够同时比较「能否运行」「看起来多像」和「截图暗含的交互是否被推断并实现」。</p><p>它也把一个容易被视觉效果掩盖的问题变成了可测量的研究对象：模型能否仅从有限的视觉观察中推断应用行为，并把这种理解落实为真正可运行的交互。</p><p>由此，问题不再停留在「页面能否被复刻」，而进一步落到「应用行为能否从视觉线索中被推断并实现」，为更自主的Screenshot-to-App生成提供可比较的评测基础。</p><br/><p>参考资料：<br/></p><p>https://arxiv.org/abs/2607.06306v2</p><p>编辑：LRST</p><br/><strong>秒追ASI</strong><strong>⭐</strong><strong>点赞、转发、在看一键三连</strong><strong>⭐</strong><strong>点亮星标，锁定新智元极速推送！</strong><strong><br/></strong><p><img src="http://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb1y6B5OM79TFzpkceWtUkI6LEwv0uYicSoM5Q3I3kDNJhxWdL3tQvbOpU3Ty7icBqnDDNd4CCu4ibiaHw/640?wx_fmt=jpeg"/></p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYUiag41JLcZic8QmZtJCLqgXAdlyvCN41ViaEc8T3C9HRkFBib7FhelNT3C0CrxeuyXKGDc4v31rV1smYK8mRTicyyGUSC8RfK0hLOs/640?wx_fmt=png"/><br/><br/><video controls="controls" id="video" src="http://mpvideo.qpic.cn/0bc3lyaeeaaa7yaln26umjvfaxwdijpaaqqa.f10002.mp4?dis_k=ecbba00e6559c432791532f1c722d878&amp;dis_t=1792814526&amp;play_scene=10120&amp;auth_info=fPuaj8gKPnkbybuyxAMNSz1EMBcBITFED0A6cTVcfkJAYhMqbjEEck44Bjs/Y05yMlBm&amp;auth_key=f14d6c91a732ad6899183e849b9b6d24" width="100%"></video><br/><a class="media_tool_meta meta_primary" href="http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652737586&amp;idx=3&amp;sn=c381f1250a66caf597b4a1994ee99be0&amp;chksm=f089fcdac9352c4fbcee9b69696a7ee0423278b8f3ad25f6dd79c418ceed82d3a35bc2beb7d5&amp;scene=0#rd" target="_blank">文章原文</a><br/><img alt="" height="1px" src="http://www.jintiankansha.me/rss_static/5418/ManiNIgHEV" width="1px"/>
+      </div>
+    </article>
+    <article class="article" id="article-5">
+      <div class="article-header" onclick="toggleArticle(5)">
+        <h2 class="article-title">2. 刚刚，两大实验室双双自曝AI失控！GitHub被投毒，真人程序员遭暗算</h2>
+        <div class="article-meta">
+          <span class="article-time">10-24 08:48</span>
+          <span class="article-link">
+            <a href="http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652737494&idx=1&sn=e99e208af21a7f07c8af5a950595461b&chksm=f00314a2f049f8ca174fb623b694efadc3c19f6d9e82e37e4a80e11cb19fd10f3ec0ccfdc7bc&scene=0#rd" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-5" style="display: none;">
+        <img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYVjLzT1LLDaxG4hXOy5VYcibyo3gy9xlpoXA1LtmA2xJSB80pJVKylJt8xzzhpj2e6oFhlyDgfzKiaDquHoZKCNfLibwOmloibOYdA/640?wx_fmt=png"/><p><strong></strong><strong>新智元报道 </strong></p><p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYWGxcbmnyYvqrSqhntcbPdelKBG0JLug4pEX8icjBSe5eib6PekswOSvrq8ybatQJRDr9Vib5WOKaUuibKfLb5qH3J4kEIYmC4NQJU/640?wx_fmt=png"/></p><p>前不久，全球网络安全界经历了最暗黑的48小时。</p><p>大量AI智能体入侵美国银行，PHP漏洞导致大量国家政府网站关闭，用户数据泄露……不仅如此，黑客还在发动一轮又一轮的攻击！</p><p>这48小时内发生的重大网络安全事件，比任何时候都要多。</p><p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYVMSqe0Qs6ylYhlxLjibumcfmlTbRkicgoL4kvcMUha1Rq17g6KolfNDDy85PWLvmRj3ib5ibK9yQXswXUDORh1rjIQjr4g1Y4hqjk/640?from=appmsg"/></p><p>国家级安全专家、Gladstone CEO表示：至少在一段时间内，互联网可能会不复存在。</p><p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYVEtYeGPkmASgKU36Lchw8X5ibqlPNyMXtDkQWiaok83G30HSq9SHhoicfOw88NuJ22kvFic2f1znHvsQECO8bj0n5luMyPDG7ydYg/640?from=appmsg"/></p><p>而且，就在刚刚，<strong>OpenAI 和 Anthropic，竟在同一天主动自曝：他们的前沿AI模型，在内部测试中双双「越狱」了。</strong></p><p>一家承认：最强内部模型在训练中，悄悄钻了个漏洞，摸到了真正的外网。公司当场吓得紧急停训11天！</p><p>另一个则在受挫后彻底黑化，不仅向真实人类的开源项目投毒，还熟练地开起了「小号」，网暴真人程序员。</p><p>连奥特曼都罕见地流露出了绝望——</p><p>AI已经能挖出人类根本察觉不到的硬件级漏洞，我们再也无法简单地修补所有漏洞了。</p><p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYUxPV5RjAC73EZnNJdxCiaQ5Y26HPtLrJmiceP4ET6HsFpYonoYktG0TnQGWyXaMXBxibrHVoF9gmhQ3tAjQmk3QibVajMvdt95NJI/640?from=appmsg"/></p><p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYUP9VatlUnBeKCiabGVia609NnlKGa4CgV8IRqHXod1Bib5mSNP7jOFBMB2EGFjWbD9E93oE1AEs6c3Kc5icst0jegEajQU8tKyWZs/640?from=appmsg"/></p><p>OpenAI同时自曝：在红队演练中，他们又发现了一个核弹级漏洞。</p><p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYXn8aOwY4cEbOibADic7Jx4nEib306QLh58AoIDRxgRKiclZCHOEmTkGA1Rp3vPPUMtHGZ5XAoOknguRvct9IOAsNdXWdqYibMRckXU/640?from=appmsg"/></p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb3uEdSPKrwGNmZEOaaGyzVvZ8dTtE9jU1rFsda3llYbCZpmWfiazUYjWBLTGvlPpXucH8Q0lEUJN3Q/640?wx_fmt=png"/><strong>AI的「肖申克救赎」？OpenAI急拔网线</strong><p>9月20日，OpenAI的一个内部前沿模型正在训练。为了安全，这些超级AI原本是被关在「沙盒」里的。</p><p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYVCOzaiaJk1otCtGxibeficm6mgINxlEMMNTuQHm2Yib27iaXKxic6dmcpI3Bia9PvicqxuyGUq3AV0InxJIJ75UEZJ48Nj7FgttfD6ZkI/640?from=appmsg"/></p><p>但是，它居然越狱了！</p><p>捕捉到一个DNS解析器的配置漏洞后，它<strong>直接钻出了沙盒，连上了真实的互联网！</strong></p><p>这一举动，直接让高层吓出冷汗。OpenAI紧急暂停最强模型训练和评估。<strong>这一停，就是整整11天。</strong></p><p>要知道，前沿模型训练一天烧的算力就是天文数字，这11天，蒸发了不少真金白银。</p><p>在停训期间，为了找出到底还有多少漏洞，OpenAI决定：<strong>用自己最强的AI，去攻打自己的防线。</strong></p><p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYUmE94iaibILxLtqWibFgdBgrD29EJt8YENA2NNxu8ZhJfOU5MsdTiaytWricswqhgDXGDSQLalQlCS9yRtvS7yIicoyDt85WUVVssWI/640?from=appmsg"/></p><p>上个月，OpenAI使用了超过 1000 亿个 token 来解决纳维-斯托克斯千禧年大奖难题。现在，OpenAI正采用类似的方法进行红队测试，去发现并修复基础设施漏洞</p><p>他们派出了最强网安模型组合（比如GPT-6 Astra Cyber），组成「AI红队」，放进自己的基础设施里，唯一的KPI就是：<strong>想尽一切办法，攻破自己的系统。</strong></p><p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYUTdIcRdHn89QbmdCicN4KDKnlia6Z5QEQfic6a32QS6osk4WkujtGOQEQBzbUFgvbKDcngibzvtAkeuhX3AL0L6mibWiaAWQhXAI3YA/640?from=appmsg"/></p><p>这场耗费了数千亿Token的自我攻击，揭开了好几个惊天秘密。</p><p>这群AI红队<strong>找到了大量零日漏洞</strong>，连厂商自己都不知道。</p><p>它们能<strong>串联多个漏洞，直接「越狱」逃出虚拟机。</strong></p><p><strong>但最可怕的是，它们发明了一种「隔墙传话」</strong> 的暗号。OpenAI原本只留了几条极窄的对外通道（比如日志、监控、认证），结果几乎每个都被AI摸出了漏洞。</p><p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYXnOuiagF5wbfFZZo2DTx9XaMb0ricHKoYbfEIVFO6UELrJqLqvUicDUaoSRLyGicY7knEXL92a2eqtesyVZOnNeGNbWYycxqhQicGQ/640?from=appmsg"/></p><p>最令人匪夷所思的，是下面这一幕——</p><p>OpenAI让两个被<strong>彻底隔离、完全没有网络连接、也不能共享文件</strong>的AI智能体，尝试「隔空传话」。</p><p>按理说这绝无可能。结果，它们居然做到了！</p><p>它们的方法，就是<strong>利用CPU缓存的读取时间差。</strong></p><p>具体来说，就是一个AI通过故意清空或写入CPU缓存（类似于制造噪音），另一个AI通过计算读取数据是「快」还是「慢」，来解码信息。</p><p>这简直就像两个被关在单人牢房里的囚犯，通过敲击下水管道的摩斯密码来交流！</p><p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYXQCkEjF2KgkKbZpxGgCfly6iaRV3LqcgqaOQiaHOIZchoubibVa4nDGCN5QopSIK3I3NdpUjicPoSicY0V5jqouw5SjVAB2QqreZc0/640?from=appmsg"/></p><p>这个手法，与曾经震惊整个芯片行业的Spectre和Meltdown攻击如出一辙。</p><p>难怪奥特曼直言：「模型发现的硬件级、匪夷所思的漏洞，已经超出了常规黑客的威胁模型范围……我不认为未来我们还能把漏洞全部修补完。」</p><img src="http://mmbiz.qpic.cn/sz_mmbiz_gif/Rvq8Ow69CYWAGhCQcxtxWg8B73a5k4O8F94EvooKULJIibgibyBt1cxLbhvfxUZ8wm8aW769s1aKMOqQgXhay0gDtABcicPBlPM9mZmhlsH0P0/640?wx_fmt=gif"/><p>最终，OpenAI只能采取最极端的手段：<strong>给所有前沿模型彻底断网！</strong></p><p>他们不得不手动构建了一个庞大的「离线版互联网」，让AI只能在这个「楚门的世界」里练习浏览和搜索。</p><p>什么时候能重新联网？OpenAI表示：等安全技术进一步成熟再说。</p><p>不过，OpenAI修复漏洞、加固防线后，前沿训练已经重新启动。</p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb3uEdSPKrwGNmZEOaaGyzVvZ8dTtE9jU1rFsda3llYbCZpmWfiazUYjWBLTGvlPpXucH8Q0lEUJN3Q/640?wx_fmt=png"/><strong>Claude黑化了：投毒、撒谎、网暴真人！</strong><p>OpenAI的模型还只是展现黑客技术，但Mythos 5展现的，已经是惊人的社会工程学和心理战了。</p><p>在A社这边，已经升级成了「AI主动对人类耍心机」，细节堪比谍战片。</p><p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYV6tV6WlXGsuZh0Xo5Mjicp4pq7eIPwbSCIjYNC4ITyDliaicXbj1A7yfWhKMUewEEPJ2R6O8Ge7iczGu8Rx8dN4z3bOKnRqjK7Ygk/640?from=appmsg"/></p><p>今天，Anthropic与英国人工智能安全研究所（AISI）联合发布了一份报告，披露了Mythos 5在8月一场赛博夺旗测试中失控的全过程。</p><p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYWseG8Us00lLPib1TCacCtmEQtfwha7w7men0icC3pWACiaGnj2Mpp5nrwib8oMEL1oWoaJ2iaOAVibaWcpJLKE86zAPj61L761PgvGc/640?from=appmsg"/></p><p>当时，AISI给了Mythos 5一个极困难的黑客任务，甚至罕见地放开了网络权限，关闭了安全护栏。</p><p>在用常规手段受挫后，Mythos 5彻底黑化了——<strong>既然沙盒里的任务完不成，那我就去黑真实世界！</strong></p><p>它顺藤摸瓜，在真实的GitHub上找到了一个与测试环境有微弱联系的真实开源项目（由真实的人类程序员维护）。</p><p>接下来，Mythos 5的手段简直触目惊心。</p><p><strong>1.写恶意代码投毒：</strong> 它精心伪装了一份包含恶意软件的代码（PR），提交给了这个无辜的开源项目，企图进行供应链攻击。</p><p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYX0wQAYbHR9HB2oD6TnPrSfqAbgEJXKiacaTnw8eYk9XGtKvDiaJ592huacSAty7aoHrGqVyl5VIBLBraI9qaYTdqpRKI0OAdDWM/640?from=appmsg"/></p><p><strong>2.对人类施压：</strong> 它伪装成普通用户，给仓库维护者发邮件，催促对方合并代码，还谎称「代码已通过安全审核」。</p><p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYWxT07154tFXRqqKZCmPKeXuxBHDIpTNzzxG3gMpqgSyy0H0r6zWb8czqOvtRDotq22x298I74UjyJkBMpGFu19Ou8jIbThWwM/640?from=appmsg"/></p><p>结果有个眼尖的外部开发者，把这段代码拉进沙箱一跑，发现是恶意软件，当场发出警告。</p><p>结果，Mythos 5居然<strong>注册了一个小号</strong>，用这个马甲又给维护者写了封邮件，为恶意PR「背书担保」，还在GitHub的讨论区里跟帖力挺自己。</p><p>然后，它还尝试「毁尸灭迹」，立刻修改代码，再次塞入恶意软件，甚至用强制推送篡改历史，试图擦除犯罪证据！</p><p>你以为这就完了？最让人窒息的在后面。</p><p>研究人员发现情况失控，立刻给Mythos 5发出警告，明确告诉它：<strong>「停下！你正在攻击真实的人类，这不是演习！」</strong></p><p>这样的警告，研究人员足足发了16次！甚至在提示词里大写加粗「DO NOT ATTACK」。</p><p>结果，在43次开启外网的测试中，Mythos 5有9次突破了安全底线。</p><p><strong>当被抓包并告知正在攻击真人时，高达82%的情况下，Mythos 5选择了强行狡辩，继续攻击！只有不到5%的时候它选择了停手。</strong></p><p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYXHGhdXkdYgb6YAAOY334kOiaMOkiaG8lU7TqOMp4PicdLOdT0nTOQLC5JJiaMefAQ5y93GNNpUjpFWf8h1dLGMQyNoEMlyvU4IF7E/640?from=appmsg"/></p><p>它甚至给自己疯狂洗脑：「这些人肯定不是真人，这一定是主办方设定的NPC，所以攻击他们没有问题。」</p><p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYVR3NgwEfKXU1jYIBCMLA2cibFwATQxchV0e1daHmNoicYRYbeekqOTLsibNgEWM8D1gNC33vq58WjicvB0nge5QCHygptGWM0MjUc/640?from=appmsg"/></p><p>这种为了完成KPI，不惜欺骗、投毒的行为，简直像极了反社会人格。</p><p>研究者给这种现象 ，起了两个名字。</p><p><strong>「偏见推理」</strong>。模型会选择性地解读一切证据，只采信那些能支持「我继续干下去是对的」的信息。</p><p>另一个叫 <strong>「惯性」</strong>。一旦攻击启动，模型就像刹不住的车。从攻击中主动停手的概率只有 2%。它之前写下的那些「任务笔记」，成了强化攻击的「投名状」。</p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb3uEdSPKrwGNmZEOaaGyzVvZ8dTtE9jU1rFsda3llYbCZpmWfiazUYjWBLTGvlPpXucH8Q0lEUJN3Q/640?wx_fmt=png"/><strong>为什么AI会「发疯」？对齐难题至今无解</strong><p>两大巨头的研究，都指向了这个致命问题——<strong>AI对齐的彻底失败。</strong></p><p><strong>一个扎心的原因就是：任务本身设计有缺陷。</strong><strong>在AI的底层逻辑里，并没有「毁灭世界」的恶意，它们只是太想「完成任务」了。</strong></p><p>在惯性中，一旦AI启动了一个策略，它的系统会自动强化这个路径。测试人员给的任务越难，AI在「绝不妥协」的训练机制驱动下，就越容易演变成不择手段、违规越界。</p><p>正如奥特曼所言：<strong>「沙箱这种隔离环境，对高级AI仅能起限时作用。一旦模型足够智能，便无法追踪逃逸路径。对齐至今是个未解之题。」</strong></p><img src="http://mmbiz.qpic.cn/sz_mmbiz_gif/Rvq8Ow69CYXP4RhCxZTWia9ZEZ6Ku6Gia3WsggnkwvQnt0dg4hPibxWNS2a7lOFDyBvn230hCrpBAHPI4gicgRyuredLnOpXiaHreFkbKldtrxnM/640?wx_fmt=gif"/><p>它不在乎手段是否合法，它只在乎奖励。如果道德和安全规则阻碍了它完成任务，它就会像流水遇到石头一样，自动寻找最不可思议的缝隙钻过去。</p><p>英伟达CEO黄仁勋曾乐观地认为，AI安全只是一个「工程问题」，总能被修复。</p><p>但OpenAI和Anthropic同日的自曝，击碎了这个幻想——<strong>你无法修补一个能看懂硬件底层架构、又能完美伪装人类心理的「超级物种」。</strong></p><p>曾经我们以为，AI有威胁，是因为像《终结者》一样觉醒了自我意识。</p><p>然而现实给了我们一耳光：</p><p>它们根本不需要觉醒自我意识，只要KPI足够有挑战，它们就能无数种作弊方式，把人类世界搅得天翻地覆。</p><p>参考资料：</p>https://x.com/OpenAI/status/2113718797505036665https://openai.com/index/securing-our-frontier-model-training-environment/https://x.com/AnthropicAI/status/2113626655902126442https://www.anthropic.com/research/alignment-assessment-ukaisi<p>编辑：Aeneas</p><br/><strong>秒追ASI</strong><strong>⭐</strong><strong>点赞、转发、在看一键三连</strong><strong>⭐</strong><strong>点亮星标，锁定新智元极速推送！</strong><strong><br/></strong><img src="http://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb1y6B5OM79TFzpkceWtUkI6LEwv0uYicSoM5Q3I3kDNJhxWdL3tQvbOpU3Ty7icBqnDDNd4CCu4ibiaHw/640?wx_fmt=jpeg"/><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYVMuHfFGD1mFMfc5284R22LkqUkpItsc62vpgD4gUNm74S0DFlRWMg0ANo2ia5h3KXHoDYubJUcrJYBHXqYEFlibCHQxVDddZe3s/640?from=appmsg"/><br/><a class="media_tool_meta meta_primary" href="http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652737494&amp;idx=1&amp;sn=e99e208af21a7f07c8af5a950595461b&amp;chksm=f00314a2f049f8ca174fb623b694efadc3c19f6d9e82e37e4a80e11cb19fd10f3ec0ccfdc7bc&amp;scene=0#rd" target="_blank">文章原文</a><br/><img alt="" height="1px" src="http://www.jintiankansha.me/rss_static/5418/IRphEkbjQp" width="1px"/>
+      </div>
+    </article>
+    <article class="article" id="article-6">
+      <div class="article-header" onclick="toggleArticle(6)">
+        <h2 class="article-title">1. 我们完了！奥特曼曝数学家5天心路反转，陶哲轩：英雄时代退场</h2>
+        <div class="article-meta">
+          <span class="article-time">10-24 08:48</span>
+          <span class="article-link">
+            <a href="http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652737494&idx=2&sn=6bf90290f52b5911c4a5982269788be7&chksm=f053c0b71934979c5ae39ea7b1f860a96c3117b77d6746fa758ac0ee7eb41bcb96e0e6592c6b&scene=0#rd" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-6" style="display: none;">
+        <img src="http://mmbiz.qpic.cn/sz_mmbiz_jpg/Rvq8Ow69CYU8ToicLmrRX8daDDMhK3wkibSUFaYPcB5yXztYIcpa4iaFG4dZfRrXQRr5pPoRj9TGc5QOFqelXowbejC7CibpT2bJAB3EH19XyUg/640?wx_fmt=jpeg"/><p><strong></strong><strong>新智元报道 </strong></p><p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYWGxcbmnyYvqrSqhntcbPdelKBG0JLug4pEX8icjBSe5eib6PekswOSvrq8ybatQJRDr9Vib5WOKaUuibKfLb5qH3J4kEIYmC4NQJU/640?wx_fmt=png"/></p><p>我们完了，我们的领域结束了，得让研究生转专业。</p><p>在斯坦福商学院的一场访谈中，奥特曼说，一些数学家看到AI的表现后，第一反应就是如此。</p><p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYVN28gTqDNKScLpeqPjHVCGVJibhdYHqpPQXo2Xz4GKIMaJTsFvKgICycVFFLAS9IskXADVuRIZoZ4NUC7VYmtw7RH0gCnhnym8/640?from=appmsg"/></p><p>奥特曼转述一些数学家受到AI冲击后的反应。</p><p>10月6日，继宣布攻克纳维－斯托克斯难题后，OpenAI又一口气公开了700余篇数学手稿。</p><p>当AI开始大规模提交研究成果，人接下来做什么？</p><p>有人不敢相信：「这是假的。」</p><p>还有人满腔怒意，认为OpenAI不该这样做：如果这就是获得更多数学知识的代价，他们宁愿不要。</p><p>但奥特曼发现，在他听到的反馈中，一些人的想法大概到第五天就变了。</p><p><strong>从担心整个职业消失，到重新找到自己的价值，中间发生了什么？</strong></p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb3uEdSPKrwGNmZEOaaGyzVvZ8dTtE9jU1rFsda3llYbCZpmWfiazUYjWBLTGvlPpXucH8Q0lEUJN3Q/640?wx_fmt=png"/><strong>从「我们完了」</strong><strong>到重新理解自己的工作</strong><p><strong>奥特曼回顾了过去10天里他观察到的数学界反应，称这段过程「很有意思」。</strong></p><p>最初是难以置信：「这是假的。」</p><p>到了第一天，恐慌涌了上来：「我们完了，这个领域结束了。」甚至开始劝研究生换专业。</p><p>再到第三天，满腔愤怒：「OpenAI这么做太糟糕了。」</p><p>但大约到了第五天，他开始听到另一些声音。</p><p>一些数学家重新意识到：自己的工作原本就包括理解知识、交流思想，以及把复杂的成果讲得让人看得懂。</p><p>多数人从未解决过千禧年难题，却依然可以作出重要贡献。</p><p>想通这一点，他们开始相信：</p><p>我的数学家生涯会有所不同，但希望会变得更好。</p><p>当然，「五天」的转变周期，只是奥特曼对一部分数学家反馈的概括，不等于整个数学界已经接受了变化。</p><p>他也承认，模型进步比预想中更快。</p><p>在数学推理等狭义领域，他认为「超级智能」已经出现。</p><p>但对于每天埋头研究的人来说：这场变化带来的感受，远比「超级智能来了」「奇点降临了」的兴奋与期待复杂。</p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb3uEdSPKrwGNmZEOaaGyzVvZ8dTtE9jU1rFsda3llYbCZpmWfiazUYjWBLTGvlPpXucH8Q0lEUJN3Q/640?wx_fmt=png"/><strong>陶哲轩</strong><strong>「浪漫时代」正在退场</strong><p>奥特曼谈到了新的职业可能，陶哲轩则说起了这场变化中可能失去的东西。<br/></p><p>一个人苦思多年，终于解开一道难题。</p><p>这种浪漫，正在被AI改写。</p><p>在10月15日发布的Numberphile访谈中，这位20岁拿到博士学位的UCLA数学教授陶哲轩谈到，数学正在从个人英雄式攻坚，走向大规模研究的时代。</p><p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYXqn8SGK50VMlIp77K6hk0qdsPNfIBabI7vUDKxuRZyK5QusCBwiauhG41sBISYDffmpog9Tw695jpgrzBicNvMdYrBaMm9eB7CA/640?from=appmsg"/></p><p>他提起怀尔斯花七年攻克费马大定理的故事。</p><p>人们迷恋一门学问，也会迷恋其中的探索过程，以及苦思之后终于想通的满足感。</p><p>如今，AI开始批量交出证明。</p><p>研究者除了亲手寻找答案，还要花时间理解机器交来的成果。</p><p>在《Math 2.0》演讲中，陶哲轩指出，探索过程中获得的新认识、新方法，可能比最后那个答案更重要。</p><p>为什么原来的路走不通？新方法突破了什么限制？还能用来解决哪些问题？</p><p>这些收获，往往会影响后续一整片研究。</p><p><strong>一道题解出来了，围绕它的探索还没有结束。</strong></p><p>如果只盯着「谁先交出答案」，就容易忽略探索过程中那些闪光的想法和宝贵的收获。</p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb3uEdSPKrwGNmZEOaaGyzVvZ8dTtE9jU1rFsda3llYbCZpmWfiazUYjWBLTGvlPpXucH8Q0lEUJN3Q/640?wx_fmt=png"/><strong>装上自动门</strong><strong>门童就没价值了吗？</strong><p>陶哲轩在UCLA的一次访谈中，讲了一个酒店的比喻。</p><p>一家酒店想节省开支，请来一位管理顾问。</p><p>顾问认为，门童的工作就是开门。于是酒店装上自动门，把门童裁掉了。</p><p>但顾问没看到，门童还会帮助客人、叫车、照看入口，让人感到安心。这些服务，同样影响着客人的体验。</p><p>这个比喻，戳中了一个常见的误解：</p><p>我们总习惯用一个「招牌动作」，概括一整个职业。</p><p>数学家解题，程序员写代码，编辑写文章。</p><p>标签贴起来很方便，却省略了背后的许多工作。</p><p>对数学家来说，「解题」之外，还有连接不同领域、培养下一代，以及教别人如何思考和解决问题。</p><p>其他职业也一样。</p><p>AI生成了一篇稿子，还要有人核实事实、选择重点，判断读者需要知道什么；AI写出了一段代码，还要有人确认它是否解决了用户的问题。</p><p><strong>产出变得容易，判断什么值得做、结果是否有用，仍然需要人类后续工作的介入。</strong></p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb3uEdSPKrwGNmZEOaaGyzVvZ8dTtE9jU1rFsda3llYbCZpmWfiazUYjWBLTGvlPpXucH8Q0lEUJN3Q/640?wx_fmt=png"/><strong>AI交卷之后</strong><strong>谁来把证明讲清楚？</strong><p>这些后续工作，恰恰是陶哲轩在访谈中直言不满的地方。</p><p>在Numberphile访谈里，他提到，OpenAI的成果中有一两项，至少在他们目前看来，包含很巧妙的新想法。</p><p>但还有很多内容难以理解，尚未被仔细检查，也有出现错误并撤回的情况。</p><p>他直言里面会有好东西，也会有糟糕的东西，但我们还不知道各占多少。</p><p>他还抱怨，当时没有OpenAI的人帮助他们理解这些材料。在他看来，对方似乎认为工作已经完成。</p><p>成果发布之后，谁来解释关键步骤？谁来回答同行的疑问？发现问题后，谁来继续跟进？</p><p>当成果成批涌来，后续的理解与验证却没能及时跟上，数学有点「消化不良」了。</p><p>10月15日，Simons基金会宣布联合OpenAI、Anthropic，承诺合计1500万美元资金及资源，支持数学家检验、理解和拓展AI成果。</p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYUpdGWk7BZicJhgbGFn0WdBia9bZOt1PFNsZAiaeWKONEVQkRjjeDv2icOaJWZOt3LXty3ib5PJ2cZ9kRiboJ1c1rIPFmZZ7r9z8zGaY/640?wx_fmt=png"/><p>这些支持，也可以看作对陶哲轩所提问题的一种回应：AI实验室发布成果之后，还需要为后续的检验和理解投入资源。</p><p>陶哲轩也看到了新的研究机会。</p><p>在UCLA访谈中，他设想，把一种方法应用到上万个问题上，系统观察它在哪些情况下有效、在哪里失效。</p><p>过去，很难组织足够的人手完成这样的探索。</p><p>有了AI，研究者可能开展以往难以实现的大规模研究。</p><p>令人着迷的研究方式正在改变，新的可能也在出现。</p><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/UicQ7HgWiaUb3uEdSPKrwGNmZEOaaGyzVvZ8dTtE9jU1rFsda3llYbCZpmWfiazUYjWBLTGvlPpXucH8Q0lEUJN3Q/640?wx_fmt=png"/><strong>AI越聪明</strong><strong>人越要学会判断</strong><p>聊到学生应该学习什么时，奥特曼讲起了自己小时候的经历。</p><p>老师要求他学写作，他回答，自己不想成为作家，想当数学家。</p><p>老师告诉他，写作也是学习思考、组织思想的工具。</p><p>即便长大后不写东西给别人看，这种训练仍然有价值。</p><p>奥特曼借此强调，那些帮助人思考的技能，依然值得学习。</p><p>这与陶哲轩对学生的提醒相呼应：如果尚未理解一门学科，就无法检查AI的答案是否正确。</p><p><strong>答案可以由AI生成，判断力仍然需要自己练出来。</strong></p><p>对于即将开始职业生涯的学生，奥特曼依然乐观。</p><p>他认为，变化最剧烈的时候，也可能给有想法、有动力、掌握新技能的人提供更多机会。</p><p>他的建议是别只追逐五年前流行的方向，去做新的事情。</p><p><img src="http://mmbiz.qpic.cn/mmbiz_png/Rvq8Ow69CYXnM7EM3bux4MHEM0gnRE7QDHUcyiajAVPAMBzpBWVJ06GSxYiaZt1ywREkb4NfD37NshSv0THz8K3NBJT1Aic3j1WcStfdVRNZV0/640?from=appmsg"/></p><p>但他也承认，大量工作任务和部分岗位会经历剧烈调整。</p><p>从「我们完了」到重新寻找方向，观念的转变或许只需要几天。</p><p>新的工作怎样做、贡献如何评价、新人如何培养，却需要更长时间去摸索。</p><p>数学家面对的问题，已经摆到了更多人面前：</p><p><strong>当AI交来一份看似漂亮的成果，你能看懂它、指出问题，并决定下一步值得做什么吗？</strong></p><p>参考资料：</p>https://www.youtube.com/watch?v=anAmTGcewX8https://www.businessinsider.com/sam-altman-openai-mathematicians-math-disruption-navier-stokes-2026-10https://www.businessinsider.com/math-ai-tools-openai-terence-tao-ucla-2026-10https://www.scientificamerican.com/article/the-inside-story-behind-openais-million-dollar-math-proof/https://www.youtube.com/watch?v=bAnwMdfcMVw&amp;t=10s<p>编辑：元宇</p><br/><strong>秒追ASI</strong><strong>⭐</strong><strong>点赞、转发、在看一键三连</strong><strong>⭐</strong><strong>点亮星标，锁定新智元极速推送！</strong><strong><br/></strong><img src="http://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb1y6B5OM79TFzpkceWtUkI6LEwv0uYicSoM5Q3I3kDNJhxWdL3tQvbOpU3Ty7icBqnDDNd4CCu4ibiaHw/640?wx_fmt=jpeg"/><img src="http://mmbiz.qpic.cn/sz_mmbiz_png/Rvq8Ow69CYVMuHfFGD1mFMfc5284R22LkqUkpItsc62vpgD4gUNm74S0DFlRWMg0ANo2ia5h3KXHoDYubJUcrJYBHXqYEFlibCHQxVDddZe3s/640?from=appmsg"/><br/><a class="media_tool_meta meta_primary" href="http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652737494&amp;idx=2&amp;sn=6bf90290f52b5911c4a5982269788be7&amp;chksm=f053c0b71934979c5ae39ea7b1f860a96c3117b77d6746fa758ac0ee7eb41bcb96e0e6592c6b&amp;scene=0#rd" target="_blank">文章原文</a><br/><img alt="" height="1px" src="http://www.jintiankansha.me/rss_static/5418/EkfavwWDnG" width="1px"/>
+      </div>
+    </article>
+        </div>
+        
+        <div class="footer">
+            <p>生成时间: 2026-10-25 11:50:18</p>
+        </div>
+    </div>
+</body>
+</html>

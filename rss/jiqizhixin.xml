@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[机器之心]]></title>
+    <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 16 Nov 2026 03:24:55 +0000</lastBuildDate>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[突发！黄仁勋与盟友商讨重返英伟达CEO之位]]></title>
+      <link>https://www.jiqizhixin.com/articles/28fb568a-716b-41f7-96aa-7a72b5a3d02a</link>
+      <guid>28fb568a-716b-41f7-96aa-7a72b5a3d02a</guid>
+      <pubDate>Mon, 16 Nov 2026 03:24:26 +0000</pubDate>
+      <description><![CDATA[<p>突发！黄仁勋与盟友商讨重返英伟达CEO之位</p><p>标签: 英伟达, 黄仁勋</p>]]></description>
+      <category>英伟达</category>
+      <category>黄仁勋</category>
+    </item>
+    <item>
+      <title><![CDATA[NeurIPS 2026｜扩散模型和自回归模型谁的隐私泄露更多？ 奥尔堡大学揭示扩散语言模型的记忆行为]]></title>
+      <link>https://www.jiqizhixin.com/articles/2e158b46-e8ed-46a9-a6c3-dc435522a7d6</link>
+      <guid>2e158b46-e8ed-46a9-a6c3-dc435522a7d6</guid>
+      <pubDate>Mon, 16 Nov 2026 03:24:25 +0000</pubDate>
+      <description><![CDATA[<p>NeurIPS 2026｜扩散模型和自回归模型谁的隐私泄露更多？ 奥尔堡大学揭示扩散语言模型的记忆行为</p><p>标签: NeurIPS 2026, 丹麦奥尔堡大学</p>]]></description>
+      <category>NeurIPS 2026</category>
+      <category>丹麦奥尔堡大学</category>
+    </item>
+    <item>
+      <title><![CDATA[逼近GPT-6 Astra！韩松团队让Qwen3.8-27B在5090上操作机械臂，现已开源]]></title>
+      <link>https://www.jiqizhixin.com/articles/35a67aa9-673c-49d8-8b1b-44fb978875f7</link>
+      <guid>35a67aa9-673c-49d8-8b1b-44fb978875f7</guid>
+      <pubDate>Sun, 15 Nov 2026 16:40:49 +0000</pubDate>
+      <description><![CDATA[<p>逼近GPT-6 Astra！韩松团队让Qwen3.8-27B在5090上操作机械臂，现已开源</p><p>标签: PEAR （Post-training Engine for Agentic Robotics）, MIT</p>]]></description>
+      <category>PEAR （Post-training Engine for Agentic Robotics）</category>
+      <category>MIT</category>
+    </item>
+    <item>
+      <title><![CDATA[EMNLP 2026 杰出论文 | 大模型训练，数据配比难？日本NICT团队提出最优分布向量合并]]></title>
+      <link>https://www.jiqizhixin.com/articles/2b0d03fa-593b-4637-bc78-b34add2fc3c4</link>
+      <guid>2b0d03fa-593b-4637-bc78-b34add2fc3c4</guid>
+      <pubDate>Sun, 15 Nov 2026 16:40:49 +0000</pubDate>
+      <description><![CDATA[<p>EMNLP 2026 杰出论文 | 大模型训练，数据配比难？日本NICT团队提出最优分布向量合并</p><p>标签: OptiMer, 日本信息通信研究机构（NICT）, EMNLP 2026</p>]]></description>
+      <category>OptiMer</category>
+      <category>日本信息通信研究机构（NICT）</category>
+      <category>EMNLP 2026</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，李沐加入Aimotion！出任联创兼CTO]]></title>
+      <link>https://www.jiqizhixin.com/articles/75126875-829b-47b1-9033-9798f8156c05</link>
+      <guid>75126875-829b-47b1-9033-9798f8156c05</guid>
+      <pubDate>Sun, 15 Nov 2026 16:41:16 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，李沐加入Aimotion！出任联创兼CTO</p><p>标签: 深度学习, Aimotion, 李沐</p>]]></description>
+      <category>深度学习</category>
+      <category>Aimotion</category>
+      <category>李沐</category>
+    </item>
+    <item>
+      <title><![CDATA[马斯克SpaceX创造历史：「筷子夹火箭2.0」，星舰飞船首次被发射塔捕获]]></title>
+      <link>https://www.jiqizhixin.com/articles/19f87e3e-d02e-4093-8b10-b663664c91e6</link>
+      <guid>19f87e3e-d02e-4093-8b10-b663664c91e6</guid>
+      <pubDate>Sun, 15 Nov 2026 16:41:15 +0000</pubDate>
+      <description><![CDATA[<p>马斯克SpaceX创造历史：「筷子夹火箭2.0」，星舰飞船首次被发射塔捕获</p><p>标签: 埃隆・马斯克, 星舰, SpaceX</p>]]></description>
+      <category>埃隆・马斯克</category>
+      <category>星舰</category>
+      <category>SpaceX</category>
+    </item>
+    <item>
+      <title><![CDATA[Agent如何越用越强？中科院自动化所、美团等推出RSI综述]]></title>
+      <link>https://www.jiqizhixin.com/articles/3bed5261-8cad-4299-8c79-6fbed1235f03</link>
+      <guid>3bed5261-8cad-4299-8c79-6fbed1235f03</guid>
+      <pubDate>Sun, 15 Nov 2026 16:41:42 +0000</pubDate>
+      <description><![CDATA[<p>Agent如何越用越强？中科院自动化所、美团等推出RSI综述</p><p>标签: 美团, 中国科学院自动化研究所</p>]]></description>
+      <category>美团</category>
+      <category>中国科学院自动化研究所</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，黄仁勋回归请愿书签名者突破12万]]></title>
+      <link>https://www.jiqizhixin.com/articles/d1e79088-d343-42e0-b664-821922b8afc5</link>
+      <guid>d1e79088-d343-42e0-b664-821922b8afc5</guid>
+      <pubDate>Sun, 15 Nov 2026 16:41:42 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，黄仁勋回归请愿书签名者突破12万</p><p>标签: 英伟达, 黄仁勋</p>]]></description>
+      <category>英伟达</category>
+      <category>黄仁勋</category>
+    </item>
+    <item>
+      <title><![CDATA[RSI取代后训练科学家？斯坦福团队探索什么才算真正的进步]]></title>
+      <link>https://www.jiqizhixin.com/articles/c972a4c4-9843-4465-9c87-391847f1f64f</link>
+      <guid>c972a4c4-9843-4465-9c87-391847f1f64f</guid>
+      <pubDate>Sun, 15 Nov 2026 16:42:09 +0000</pubDate>
+      <description><![CDATA[<p>RSI取代后训练科学家？斯坦福团队探索什么才算真正的进步</p><p>标签: RSI Arena, Bake AI</p>]]></description>
+      <category>RSI Arena</category>
+      <category>Bake AI</category>
+    </item>
+    <item>
+      <title><![CDATA[openEuler 汇聚开源力量，深化系统级创新，构筑 Agentic Infra 坚实底座]]></title>
+      <link>https://www.jiqizhixin.com/articles/befca215-3915-4281-a79c-30768827f7b5</link>
+      <guid>befca215-3915-4281-a79c-30768827f7b5</guid>
+      <pubDate>Sat, 14 Nov 2026 16:00:00 +0000</pubDate>
+      <description><![CDATA[<p>openEuler 汇聚开源力量，深化系统级创新，构筑 Agentic Infra 坚实底座</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[晶泰科技发布「科学家」计划！青年团队最高可获10万元科研资源支持]]></title>
+      <link>https://www.jiqizhixin.com/articles/0dd41991-a5a3-492d-a1d1-25e0b44296b2</link>
+      <guid>0dd41991-a5a3-492d-a1d1-25e0b44296b2</guid>
+      <pubDate>Sat, 14 Nov 2026 16:12:13 +0000</pubDate>
+      <description><![CDATA[<p>晶泰科技发布「科学家」计划！青年团队最高可获10万元科研资源支持</p><p>标签: 晶泰科技（XtalPi）, AI4S</p>]]></description>
+      <category>晶泰科技（XtalPi）</category>
+      <category>AI4S</category>
+    </item>
+    <item>
+      <title><![CDATA[2026谷歌奖学金公布，清华、复旦、大连理工等校友入选]]></title>
+      <link>https://www.jiqizhixin.com/articles/b077e1df-78e2-49a9-9b02-e8dd8118cd80</link>
+      <guid>b077e1df-78e2-49a9-9b02-e8dd8118cd80</guid>
+      <pubDate>Sat, 14 Nov 2026 16:12:13 +0000</pubDate>
+      <description><![CDATA[<p>2026谷歌奖学金公布，清华、复旦、大连理工等校友入选</p><p>标签: 2026谷歌奖学金, 谷歌</p>]]></description>
+      <category>2026谷歌奖学金</category>
+      <category>谷歌</category>
+    </item>
+  </channel>
+</rss>
