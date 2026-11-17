@@ -4,8 +4,56 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 17 Nov 2026 05:26:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 15:00:47 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[最强GPT-6 Astra只对26.7%，Einsia AI发布的Visual Cipher Bench难住顶级AI]]></title>
+      <link>https://www.jiqizhixin.com/articles/83db8e8f-6d38-44b6-ab4f-d08fb4a830db</link>
+      <guid>83db8e8f-6d38-44b6-ab4f-d08fb4a830db</guid>
+      <pubDate>Tue, 17 Nov 2026 14:59:51 +0000</pubDate>
+      <description><![CDATA[<p>最强GPT-6 Astra只对26.7%，Einsia AI发布的Visual Cipher Bench难住顶级AI</p><p>标签: Visual Cipher Bench, Navers Lab, Einsia AI</p>]]></description>
+      <category>Visual Cipher Bench</category>
+      <category>Navers Lab</category>
+      <category>Einsia AI</category>
+    </item>
+    <item>
+      <title><![CDATA[还在苦恼「长上下文」？Agent直接上手缩KV缓存]]></title>
+      <link>https://www.jiqizhixin.com/articles/b7992648-ce40-42fb-beb6-33569e6b0083</link>
+      <guid>b7992648-ce40-42fb-beb6-33569e6b0083</guid>
+      <pubDate>Tue, 17 Nov 2026 14:59:51 +0000</pubDate>
+      <description><![CDATA[<p>还在苦恼「长上下文」？Agent直接上手缩KV缓存</p><p>标签: 缓存工程（Cache Engineering）, 清华大学, 香港中文大学</p>]]></description>
+      <category>缓存工程（Cache Engineering）</category>
+      <category>清华大学</category>
+      <category>香港中文大学</category>
+    </item>
+    <item>
+      <title><![CDATA[闲鱼亮相联合国气候变化大会：AI加速闲置流转，低碳融入日常]]></title>
+      <link>https://www.jiqizhixin.com/articles/62b1e5fb-e9a0-4425-8879-7af56ddca7e9</link>
+      <guid>62b1e5fb-e9a0-4425-8879-7af56ddca7e9</guid>
+      <pubDate>Tue, 17 Nov 2026 15:00:20 +0000</pubDate>
+      <description><![CDATA[<p>闲鱼亮相联合国气候变化大会：AI加速闲置流转，低碳融入日常</p><p>标签: 联合国气候变化大会（COP31）, 闲鱼</p>]]></description>
+      <category>联合国气候变化大会（COP31）</category>
+      <category>闲鱼</category>
+    </item>
+    <item>
+      <title><![CDATA[两个世界彻底「连上了」！全新世界模型Duo v1开启实时交互]]></title>
+      <link>https://www.jiqizhixin.com/articles/5cb6d610-9d54-4bea-82a9-7843fd65b90c</link>
+      <guid>5cb6d610-9d54-4bea-82a9-7843fd65b90c</guid>
+      <pubDate>Tue, 17 Nov 2026 15:00:19 +0000</pubDate>
+      <description><![CDATA[<p>两个世界彻底「连上了」！全新世界模型Duo v1开启实时交互</p><p>标签: Reciprocal World Model（RWM，双向世界模型）, 西湖心辰, 蚂蚁</p>]]></description>
+      <category>Reciprocal World Model（RWM，双向世界模型）</category>
+      <category>西湖心辰</category>
+      <category>蚂蚁</category>
+    </item>
+    <item>
+      <title><![CDATA[744B模型追平Claude Opus 5，人大复旦提出ToolSpace探索环境合成新范式]]></title>
+      <link>https://www.jiqizhixin.com/articles/d5ddcb4b-0521-4c79-b6e6-ffcbb4b6b405</link>
+      <guid>d5ddcb4b-0521-4c79-b6e6-ffcbb4b6b405</guid>
+      <pubDate>Tue, 17 Nov 2026 15:00:47 +0000</pubDate>
+      <description><![CDATA[<p>744B模型追平Claude Opus 5，人大复旦提出ToolSpace探索环境合成新范式</p><p>标签: ToolSpace, 中国人民大学</p>]]></description>
+      <category>ToolSpace</category>
+      <category>中国人民大学</category>
+    </item>
     <item>
       <title><![CDATA[OpenAI进入医疗工作流，拓展Healthcare应用边界]]></title>
       <link>https://www.jiqizhixin.com/articles/49bb4b61-742f-4e2d-abe3-c2cebc8d4a55</link>
@@ -73,54 +121,6 @@
       <description><![CDATA[<p>英伟达董事会被曝尚未考虑黄仁勋回归</p><p>标签: 英伟达, 黄仁勋</p>]]></description>
       <category>英伟达</category>
       <category>黄仁勋</category>
-    </item>
-    <item>
-      <title><![CDATA[让AI成为自主进化的科学家！书生-S2.1 Flash登顶机器学习工程基准]]></title>
-      <link>https://www.jiqizhixin.com/articles/a785ba6d-821f-405e-96e3-3c6734496813</link>
-      <guid>a785ba6d-821f-405e-96e3-3c6734496813</guid>
-      <pubDate>Mon, 16 Nov 2026 23:04:30 +0000</pubDate>
-      <description><![CDATA[<p>让AI成为自主进化的科学家！书生-S2.1 Flash登顶机器学习工程基准</p><p>标签: 复旦大学, 上海人工智能实验室, 书生-S2.1 Flash</p>]]></description>
-      <category>复旦大学</category>
-      <category>上海人工智能实验室</category>
-      <category>书生-S2.1 Flash</category>
-    </item>
-    <item>
-      <title><![CDATA[混合架构模型跑Agent，预填充吞吐再提升3倍！FlashStates重新设计混合状态缓存]]></title>
-      <link>https://www.jiqizhixin.com/articles/d2bc9115-399c-441d-9109-318e73c4d13a</link>
-      <guid>d2bc9115-399c-441d-9109-318e73c4d13a</guid>
-      <pubDate>Mon, 16 Nov 2026 23:04:31 +0000</pubDate>
-      <description><![CDATA[<p>混合架构模型跑Agent，预填充吞吐再提升3倍！FlashStates重新设计混合状态缓存</p><p>标签: Together AI, FlashStates</p>]]></description>
-      <category>Together AI</category>
-      <category>FlashStates</category>
-    </item>
-    <item>
-      <title><![CDATA[物理AI破解装车自动化盲区，安徽「擎天智能」完成数千万元Pre-A轮融资]]></title>
-      <link>https://www.jiqizhixin.com/articles/b9e8af11-cda8-4198-9f0e-40bd1457609b</link>
-      <guid>b9e8af11-cda8-4198-9f0e-40bd1457609b</guid>
-      <pubDate>Mon, 16 Nov 2026 12:09:47 +0000</pubDate>
-      <description><![CDATA[<p>物理AI破解装车自动化盲区，安徽「擎天智能」完成数千万元Pre-A轮融资</p><p>标签: 具身智能装卸机器人系统, 擎天智能</p>]]></description>
-      <category>具身智能装卸机器人系统</category>
-      <category>擎天智能</category>
-    </item>
-    <item>
-      <title><![CDATA[豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育等21个专业场景]]></title>
-      <link>https://www.jiqizhixin.com/articles/6a7a5528-d9f9-4fdc-b587-985dcc8c1d5f</link>
-      <guid>6a7a5528-d9f9-4fdc-b587-985dcc8c1d5f</guid>
-      <pubDate>Mon, 16 Nov 2026 12:09:48 +0000</pubDate>
-      <description><![CDATA[<p>豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育等21个专业场景</p><p>标签: 豆包工作</p>]]></description>
-      <category>豆包工作</category>
-    </item>
-    <item>
-      <title><![CDATA[华为云「行业AI梦工厂」发布并开源昇腾原生具身世界模型CloudRobo-WM1.2]]></title>
-      <link>https://www.jiqizhixin.com/articles/e4892626-58f8-4a37-9de0-6cbee1711d6e</link>
-      <guid>e4892626-58f8-4a37-9de0-6cbee1711d6e</guid>
-      <pubDate>Mon, 16 Nov 2026 12:10:15 +0000</pubDate>
-      <description><![CDATA[<p>华为云「行业AI梦工厂」发布并开源昇腾原生具身世界模型CloudRobo-WM1.2</p><p>标签: 开源, 世界模型, 具身智能, 华为云, 华为</p>]]></description>
-      <category>开源</category>
-      <category>世界模型</category>
-      <category>具身智能</category>
-      <category>华为云</category>
-      <category>华为</category>
     </item>
   </channel>
 </rss>
