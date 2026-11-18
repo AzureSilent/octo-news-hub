@@ -4,8 +4,66 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 18 Nov 2026 04:52:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:41:43 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[狂揽50亿美元，Isomorphic Labs要把AI制药推向临床验证]]></title>
+      <link>https://www.jiqizhixin.com/articles/59c50bbf-599b-4f84-9c45-9773ec819dfd</link>
+      <guid>59c50bbf-599b-4f84-9c45-9773ec819dfd</guid>
+      <pubDate>Wed, 18 Nov 2026 14:40:39 +0000</pubDate>
+      <description><![CDATA[<p>狂揽50亿美元，Isomorphic Labs要把AI制药推向临床验证</p><p>标签: Isomorphic Labs, 药物研发, Alphabet</p>]]></description>
+      <category>Isomorphic Labs</category>
+      <category>药物研发</category>
+      <category>Alphabet</category>
+    </item>
+    <item>
+      <title><![CDATA[全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线]]></title>
+      <link>https://www.jiqizhixin.com/articles/23814572-42a9-4090-9a69-2fd09f2c54f4</link>
+      <guid>23814572-42a9-4090-9a69-2fd09f2c54f4</guid>
+      <pubDate>Wed, 18 Nov 2026 14:40:37 +0000</pubDate>
+      <description><![CDATA[<p>全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线</p><p>标签: AI评测, AI医疗</p>]]></description>
+      <category>AI评测</category>
+      <category>AI医疗</category>
+    </item>
+    <item>
+      <title><![CDATA[辰光、SpaceView：合肥中科星云的天基算力，离国家算力网还有多远]]></title>
+      <link>https://www.jiqizhixin.com/articles/5cebef0e-e597-444f-9dfa-69f869cfc7ae</link>
+      <guid>5cebef0e-e597-444f-9dfa-69f869cfc7ae</guid>
+      <pubDate>Wed, 18 Nov 2026 14:41:08 +0000</pubDate>
+      <description><![CDATA[<p>辰光、SpaceView：合肥中科星云的天基算力，离国家算力网还有多远</p><p>标签: 天基算力, 中科星云</p>]]></description>
+      <category>天基算力</category>
+      <category>中科星云</category>
+    </item>
+    <item>
+      <title><![CDATA[Agent多人共用为何会失控？来自Ankole的Business Agent架构设计分享]]></title>
+      <link>https://www.jiqizhixin.com/articles/a76c80c8-3bca-4264-97b2-fbfa7a4e3ea6</link>
+      <guid>a76c80c8-3bca-4264-97b2-fbfa7a4e3ea6</guid>
+      <pubDate>Wed, 18 Nov 2026 14:41:10 +0000</pubDate>
+      <description><![CDATA[<p>Agent多人共用为何会失控？来自Ankole的Business Agent架构设计分享</p><p>标签: Harness, 人机协同, Agent</p>]]></description>
+      <category>Harness</category>
+      <category>人机协同</category>
+      <category>Agent</category>
+    </item>
+    <item>
+      <title><![CDATA[openJiuwen首发AgentOS「Harnessless」开发范式：不用自建Harness，让Agent原生应用触手可及]]></title>
+      <link>https://www.jiqizhixin.com/articles/45db08b1-c606-46aa-a718-41eadbe41717</link>
+      <guid>45db08b1-c606-46aa-a718-41eadbe41717</guid>
+      <pubDate>Wed, 18 Nov 2026 14:41:39 +0000</pubDate>
+      <description><![CDATA[<p>openJiuwen首发AgentOS「Harnessless」开发范式：不用自建Harness，让Agent原生应用触手可及</p><p>标签: Harness, openJiuwen, AgentOS</p>]]></description>
+      <category>Harness</category>
+      <category>openJiuwen</category>
+      <category>AgentOS</category>
+    </item>
+    <item>
+      <title><![CDATA[思维链之父Jason Wei离开Meta，加盟200亿美元AI独角兽]]></title>
+      <link>https://www.jiqizhixin.com/articles/d808a7cd-ecea-48f6-ab33-fb5b05a27f13</link>
+      <guid>d808a7cd-ecea-48f6-ab33-fb5b05a27f13</guid>
+      <pubDate>Wed, 18 Nov 2026 14:41:43 +0000</pubDate>
+      <description><![CDATA[<p>思维链之父Jason Wei离开Meta，加盟200亿美元AI独角兽</p><p>标签: 大模型评测, Jason Wei, MeTA</p>]]></description>
+      <category>大模型评测</category>
+      <category>Jason Wei</category>
+      <category>MeTA</category>
+    </item>
     <item>
       <title><![CDATA[给世界模型装上「生成式显卡」！Code World Model 2.0实现30分钟一镜到底]]></title>
       <link>https://www.jiqizhixin.com/articles/62388c8a-0616-4a6d-a012-fc20e4d4d649</link>
@@ -65,64 +123,6 @@
       <category>知识蒸馏</category>
       <category>模型训练</category>
       <category>大语言模型</category>
-    </item>
-    <item>
-      <title><![CDATA[最强GPT-6 Astra只对26.7%，Einsia AI发布的Visual Cipher Bench难住顶级AI]]></title>
-      <link>https://www.jiqizhixin.com/articles/83db8e8f-6d38-44b6-ab4f-d08fb4a830db</link>
-      <guid>83db8e8f-6d38-44b6-ab4f-d08fb4a830db</guid>
-      <pubDate>Tue, 17 Nov 2026 14:59:51 +0000</pubDate>
-      <description><![CDATA[<p>最强GPT-6 Astra只对26.7%，Einsia AI发布的Visual Cipher Bench难住顶级AI</p><p>标签: Visual Cipher Bench, Navers Lab, Einsia AI</p>]]></description>
-      <category>Visual Cipher Bench</category>
-      <category>Navers Lab</category>
-      <category>Einsia AI</category>
-    </item>
-    <item>
-      <title><![CDATA[还在苦恼「长上下文」？Agent直接上手缩KV缓存]]></title>
-      <link>https://www.jiqizhixin.com/articles/b7992648-ce40-42fb-beb6-33569e6b0083</link>
-      <guid>b7992648-ce40-42fb-beb6-33569e6b0083</guid>
-      <pubDate>Tue, 17 Nov 2026 14:59:51 +0000</pubDate>
-      <description><![CDATA[<p>还在苦恼「长上下文」？Agent直接上手缩KV缓存</p><p>标签: 缓存工程（Cache Engineering）, 清华大学, 香港中文大学</p>]]></description>
-      <category>缓存工程（Cache Engineering）</category>
-      <category>清华大学</category>
-      <category>香港中文大学</category>
-    </item>
-    <item>
-      <title><![CDATA[闲鱼亮相联合国气候变化大会：AI加速闲置流转，低碳融入日常]]></title>
-      <link>https://www.jiqizhixin.com/articles/62b1e5fb-e9a0-4425-8879-7af56ddca7e9</link>
-      <guid>62b1e5fb-e9a0-4425-8879-7af56ddca7e9</guid>
-      <pubDate>Tue, 17 Nov 2026 15:00:20 +0000</pubDate>
-      <description><![CDATA[<p>闲鱼亮相联合国气候变化大会：AI加速闲置流转，低碳融入日常</p><p>标签: 联合国气候变化大会（COP31）, 闲鱼</p>]]></description>
-      <category>联合国气候变化大会（COP31）</category>
-      <category>闲鱼</category>
-    </item>
-    <item>
-      <title><![CDATA[两个世界彻底「连上了」！全新世界模型Duo v1开启实时交互]]></title>
-      <link>https://www.jiqizhixin.com/articles/5cb6d610-9d54-4bea-82a9-7843fd65b90c</link>
-      <guid>5cb6d610-9d54-4bea-82a9-7843fd65b90c</guid>
-      <pubDate>Tue, 17 Nov 2026 15:00:19 +0000</pubDate>
-      <description><![CDATA[<p>两个世界彻底「连上了」！全新世界模型Duo v1开启实时交互</p><p>标签: Reciprocal World Model（RWM，双向世界模型）, 西湖心辰, 蚂蚁</p>]]></description>
-      <category>Reciprocal World Model（RWM，双向世界模型）</category>
-      <category>西湖心辰</category>
-      <category>蚂蚁</category>
-    </item>
-    <item>
-      <title><![CDATA[744B模型追平Claude Opus 5，人大复旦提出ToolSpace探索环境合成新范式]]></title>
-      <link>https://www.jiqizhixin.com/articles/d5ddcb4b-0521-4c79-b6e6-ffcbb4b6b405</link>
-      <guid>d5ddcb4b-0521-4c79-b6e6-ffcbb4b6b405</guid>
-      <pubDate>Tue, 17 Nov 2026 15:00:47 +0000</pubDate>
-      <description><![CDATA[<p>744B模型追平Claude Opus 5，人大复旦提出ToolSpace探索环境合成新范式</p><p>标签: ToolSpace, 中国人民大学</p>]]></description>
-      <category>ToolSpace</category>
-      <category>中国人民大学</category>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI进入医疗工作流，拓展Healthcare应用边界]]></title>
-      <link>https://www.jiqizhixin.com/articles/49bb4b61-742f-4e2d-abe3-c2cebc8d4a55</link>
-      <guid>49bb4b61-742f-4e2d-abe3-c2cebc8d4a55</guid>
-      <pubDate>Tue, 17 Nov 2026 05:24:35 +0000</pubDate>
-      <description><![CDATA[<p>OpenAI进入医疗工作流，拓展Healthcare应用边界</p><p>标签: AI for Science（AI4S）, Healthcare, OpenAI</p>]]></description>
-      <category>AI for Science（AI4S）</category>
-      <category>Healthcare</category>
-      <category>OpenAI</category>
     </item>
   </channel>
 </rss>
