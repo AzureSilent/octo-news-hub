@@ -4,8 +4,68 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 17 Nov 2026 23:12:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 04:52:40 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[给世界模型装上「生成式显卡」！Code World Model 2.0实现30分钟一镜到底]]></title>
+      <link>https://www.jiqizhixin.com/articles/62388c8a-0616-4a6d-a012-fc20e4d4d649</link>
+      <guid>62388c8a-0616-4a6d-a012-fc20e4d4d649</guid>
+      <pubDate>Wed, 18 Nov 2026 04:51:41 +0000</pubDate>
+      <description><![CDATA[<p>给世界模型装上「生成式显卡」！Code World Model 2.0实现30分钟一镜到底</p><p>标签: 蚂蚁集团, 世界模型</p>]]></description>
+      <category>蚂蚁集团</category>
+      <category>世界模型</category>
+    </item>
+    <item>
+      <title><![CDATA[你的模型越训越「不敢想」：港大NeurIPS 2026揭露GRPO隐藏的双重枷锁]]></title>
+      <link>https://www.jiqizhixin.com/articles/2a45c529-2826-495e-996c-cf1bb51cea3d</link>
+      <guid>2a45c529-2826-495e-996c-cf1bb51cea3d</guid>
+      <pubDate>Wed, 18 Nov 2026 04:51:40 +0000</pubDate>
+      <description><![CDATA[<p>你的模型越训越「不敢想」：港大NeurIPS 2026揭露GRPO隐藏的双重枷锁</p><p>标签: 强化学习, 后训练, NeurIPS 2026</p>]]></description>
+      <category>强化学习</category>
+      <category>后训练</category>
+      <category>NeurIPS 2026</category>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic刚买下「一人药企」，MSRA医学博士创业，让一个人带着Agent做临床]]></title>
+      <link>https://www.jiqizhixin.com/articles/f96de04a-496c-46ac-96fd-1064634a1dbe</link>
+      <guid>f96de04a-496c-46ac-96fd-1064634a1dbe</guid>
+      <pubDate>Wed, 18 Nov 2026 04:52:08 +0000</pubDate>
+      <description><![CDATA[<p>Anthropic刚买下「一人药企」，MSRA医学博士创业，让一个人带着Agent做临床</p><p>标签: AI for Science（AI4S）, AI 制药, Agent</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>AI 制药</category>
+      <category>Agent</category>
+    </item>
+    <item>
+      <title><![CDATA[解锁具身智能的GPT时刻？浙大宇树开源500万条机器人预训练数据]]></title>
+      <link>https://www.jiqizhixin.com/articles/9718bf19-601e-4769-9dbb-882b1ddebc96</link>
+      <guid>9718bf19-601e-4769-9dbb-882b1ddebc96</guid>
+      <pubDate>Wed, 18 Nov 2026 04:52:09 +0000</pubDate>
+      <description><![CDATA[<p>解锁具身智能的GPT时刻？浙大宇树开源500万条机器人预训练数据</p><p>标签: 浙江大学, 宇树科技, 预训练数据, 具身智能</p>]]></description>
+      <category>浙江大学</category>
+      <category>宇树科技</category>
+      <category>预训练数据</category>
+      <category>具身智能</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，OpenAI发布GPT-6.2 Astra和Sol]]></title>
+      <link>https://www.jiqizhixin.com/articles/2bbf9228-7c39-4588-97f6-e33f35a59416</link>
+      <guid>2bbf9228-7c39-4588-97f6-e33f35a59416</guid>
+      <pubDate>Wed, 18 Nov 2026 04:52:37 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，OpenAI发布GPT-6.2 Astra和Sol</p><p>标签: GPT-6.2, GPT, OpenAI</p>]]></description>
+      <category>GPT-6.2</category>
+      <category>GPT</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[让大模型学会向老师提问：UIUC等提出Ask to Distill，让知识蒸馏从「回答问题」走向「优化问题」]]></title>
+      <link>https://www.jiqizhixin.com/articles/2b784ed0-a1a0-424a-87ce-a6f830da2bd3</link>
+      <guid>2b784ed0-a1a0-424a-87ce-a6f830da2bd3</guid>
+      <pubDate>Wed, 18 Nov 2026 04:52:40 +0000</pubDate>
+      <description><![CDATA[<p>让大模型学会向老师提问：UIUC等提出Ask to Distill，让知识蒸馏从「回答问题」走向「优化问题」</p><p>标签: 知识蒸馏, 模型训练, 大语言模型</p>]]></description>
+      <category>知识蒸馏</category>
+      <category>模型训练</category>
+      <category>大语言模型</category>
+    </item>
     <item>
       <title><![CDATA[最强GPT-6 Astra只对26.7%，Einsia AI发布的Visual Cipher Bench难住顶级AI]]></title>
       <link>https://www.jiqizhixin.com/articles/83db8e8f-6d38-44b6-ab4f-d08fb4a830db</link>
@@ -63,64 +123,6 @@
       <category>AI for Science（AI4S）</category>
       <category>Healthcare</category>
       <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[AI蛋白质设计开始比谁的分子能用：这家AI制药公司拿到数亿元融资]]></title>
-      <link>https://www.jiqizhixin.com/articles/525b53a8-fbd2-4278-ad68-ec0d92baa25a</link>
-      <guid>525b53a8-fbd2-4278-ad68-ec0d92baa25a</guid>
-      <pubDate>Tue, 17 Nov 2026 05:24:35 +0000</pubDate>
-      <description><![CDATA[<p>AI蛋白质设计开始比谁的分子能用：这家AI制药公司拿到数亿元融资</p><p>标签: ToursynClaw, 蛋白质设计, AI for Science（AI4S）, 途深智合</p>]]></description>
-      <category>ToursynClaw</category>
-      <category>蛋白质设计</category>
-      <category>AI for Science（AI4S）</category>
-      <category>途深智合</category>
-    </item>
-    <item>
-      <title><![CDATA[千万token下，比DeepSeek式稀疏注意力再快22倍]]></title>
-      <link>https://www.jiqizhixin.com/articles/72c59a97-713d-4eec-b53d-29da7d004928</link>
-      <guid>72c59a97-713d-4eec-b53d-29da7d004928</guid>
-      <pubDate>Tue, 17 Nov 2026 05:25:04 +0000</pubDate>
-      <description><![CDATA[<p>千万token下，比DeepSeek式稀疏注意力再快22倍</p><p>标签: Latent Sparse Attention, ETH Zurich, Prefrontal AI</p>]]></description>
-      <category>Latent Sparse Attention</category>
-      <category>ETH Zurich</category>
-      <category>Prefrontal AI</category>
-    </item>
-    <item>
-      <title><![CDATA[训练一个强大的智能体，究竟有多简单？字节跳动等推出Axion 1.0]]></title>
-      <link>https://www.jiqizhixin.com/articles/7132ccac-124e-4e7a-804c-5c329e893c5b</link>
-      <guid>7132ccac-124e-4e7a-804c-5c329e893c5b</guid>
-      <pubDate>Tue, 17 Nov 2026 05:25:04 +0000</pubDate>
-      <description><![CDATA[<p>训练一个强大的智能体，究竟有多简单？字节跳动等推出Axion 1.0</p><p>标签: 字节跳动, Axion 1.0</p>]]></description>
-      <category>字节跳动</category>
-      <category>Axion 1.0</category>
-    </item>
-    <item>
-      <title><![CDATA[先导极星专访 | 卫星平权时代，让卫星载荷像选显卡一样简单]]></title>
-      <link>https://www.jiqizhixin.com/articles/f21b5574-fab9-497d-bd70-db9f8e55bd53</link>
-      <guid>f21b5574-fab9-497d-bd70-db9f8e55bd53</guid>
-      <pubDate>Tue, 17 Nov 2026 05:25:34 +0000</pubDate>
-      <description><![CDATA[<p>先导极星专访 | 卫星平权时代，让卫星载荷像选显卡一样简单</p><p>标签: 先导科技, 先导极星</p>]]></description>
-      <category>先导科技</category>
-      <category>先导极星</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，陈丹琦官宣兼职加入Noeri！新公司押注AI自进化]]></title>
-      <link>https://www.jiqizhixin.com/articles/9d8a461e-da3d-4032-b7a4-b9729f0967a5</link>
-      <guid>9d8a461e-da3d-4032-b7a4-b9729f0967a5</guid>
-      <pubDate>Tue, 17 Nov 2026 05:25:33 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，陈丹琦官宣兼职加入Noeri！新公司押注AI自进化</p><p>标签: Noeri, 陈丹琦, 普林斯顿大学</p>]]></description>
-      <category>Noeri</category>
-      <category>陈丹琦</category>
-      <category>普林斯顿大学</category>
-    </item>
-    <item>
-      <title><![CDATA[英伟达董事会被曝尚未考虑黄仁勋回归]]></title>
-      <link>https://www.jiqizhixin.com/articles/c93b7a14-95b6-4018-8f80-79dc1fae6bee</link>
-      <guid>c93b7a14-95b6-4018-8f80-79dc1fae6bee</guid>
-      <pubDate>Tue, 17 Nov 2026 05:26:03 +0000</pubDate>
-      <description><![CDATA[<p>英伟达董事会被曝尚未考虑黄仁勋回归</p><p>标签: 英伟达, 黄仁勋</p>]]></description>
-      <category>英伟达</category>
-      <category>黄仁勋</category>
     </item>
   </channel>
 </rss>
