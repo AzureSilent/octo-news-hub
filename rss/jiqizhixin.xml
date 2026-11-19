@@ -4,8 +4,54 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 18 Nov 2026 22:44:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 04:43:33 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[海外算力通道收窄！众智 FlagOS × 清昴智能，助力国芯高性能上线商用 Token 工厂]]></title>
+      <link>https://www.jiqizhixin.com/articles/f335a9e7-c813-4cc7-a460-e4ec69cd3db6</link>
+      <guid>f335a9e7-c813-4cc7-a460-e4ec69cd3db6</guid>
+      <pubDate>Thu, 19 Nov 2026 04:42:35 +0000</pubDate>
+      <description><![CDATA[<p>海外算力通道收窄！众智 FlagOS × 清昴智能，助力国芯高性能上线商用 Token 工厂</p><p>标签: 清昴智能, 北京智源人工智能研究院</p>]]></description>
+      <category>清昴智能</category>
+      <category>北京智源人工智能研究院</category>
+    </item>
+    <item>
+      <title><![CDATA[开发者真机上手！具身智能，还得这群人补位]]></title>
+      <link>https://www.jiqizhixin.com/articles/955c8cb5-c26f-4ed0-90bf-eefa3f83c2f6</link>
+      <guid>955c8cb5-c26f-4ed0-90bf-eefa3f83c2f6</guid>
+      <pubDate>Thu, 19 Nov 2026 04:42:34 +0000</pubDate>
+      <description><![CDATA[<p>开发者真机上手！具身智能，还得这群人补位</p><p>标签: COBOT MAGIC, 蚂蚁灵波具身大模型挑战赛, LingBot-VLA 2.0</p>]]></description>
+      <category>COBOT MAGIC</category>
+      <category>蚂蚁灵波具身大模型挑战赛</category>
+      <category>LingBot-VLA 2.0</category>
+    </item>
+    <item>
+      <title><![CDATA[OPD训练也能无损加速？STOPD最高加速2.2倍！]]></title>
+      <link>https://www.jiqizhixin.com/articles/64efb665-f266-42a5-8722-aefce93b4414</link>
+      <guid>64efb665-f266-42a5-8722-aefce93b4414</guid>
+      <pubDate>Thu, 19 Nov 2026 04:43:02 +0000</pubDate>
+      <description><![CDATA[<p>OPD训练也能无损加速？STOPD最高加速2.2倍！</p><p>标签: STOPD</p>]]></description>
+      <category>STOPD</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，谷歌Gemini 4再发新款，对标超越GPT-6.2 Sol！世界模型Genie 4也已开放]]></title>
+      <link>https://www.jiqizhixin.com/articles/cdef77fd-36c2-44e8-9e04-e72017af51a0</link>
+      <guid>cdef77fd-36c2-44e8-9e04-e72017af51a0</guid>
+      <pubDate>Thu, 19 Nov 2026 04:43:03 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，谷歌Gemini 4再发新款，对标超越GPT-6.2 Sol！世界模型Genie 4也已开放</p><p>标签: Gemini 4 Neon, 谷歌</p>]]></description>
+      <category>Gemini 4 Neon</category>
+      <category>谷歌</category>
+    </item>
+    <item>
+      <title><![CDATA[港中深联合微软研究院提出多模态统一建模新架构ConvexLLM，让声音接上大模型已经学会的知识与推理]]></title>
+      <link>https://www.jiqizhixin.com/articles/6576a793-f2c6-4b01-8c2d-b804be8023fd</link>
+      <guid>6576a793-f2c6-4b01-8c2d-b804be8023fd</guid>
+      <pubDate>Thu, 19 Nov 2026 04:43:33 +0000</pubDate>
+      <description><![CDATA[<p>港中深联合微软研究院提出多模态统一建模新架构ConvexLLM，让声音接上大模型已经学会的知识与推理</p><p>标签: ConvexLLM, 微软研究院（Microsoft Research）, 香港中文大学（深圳）</p>]]></description>
+      <category>ConvexLLM</category>
+      <category>微软研究院（Microsoft Research）</category>
+      <category>香港中文大学（深圳）</category>
+    </item>
     <item>
       <title><![CDATA[狂揽50亿美元，Isomorphic Labs要把AI制药推向临床验证]]></title>
       <link>https://www.jiqizhixin.com/articles/59c50bbf-599b-4f84-9c45-9773ec819dfd</link>
@@ -72,57 +118,6 @@
       <description><![CDATA[<p>给世界模型装上「生成式显卡」！Code World Model 2.0实现30分钟一镜到底</p><p>标签: 蚂蚁集团, 世界模型</p>]]></description>
       <category>蚂蚁集团</category>
       <category>世界模型</category>
-    </item>
-    <item>
-      <title><![CDATA[你的模型越训越「不敢想」：港大NeurIPS 2026揭露GRPO隐藏的双重枷锁]]></title>
-      <link>https://www.jiqizhixin.com/articles/2a45c529-2826-495e-996c-cf1bb51cea3d</link>
-      <guid>2a45c529-2826-495e-996c-cf1bb51cea3d</guid>
-      <pubDate>Wed, 18 Nov 2026 04:51:40 +0000</pubDate>
-      <description><![CDATA[<p>你的模型越训越「不敢想」：港大NeurIPS 2026揭露GRPO隐藏的双重枷锁</p><p>标签: 强化学习, 后训练, NeurIPS 2026</p>]]></description>
-      <category>强化学习</category>
-      <category>后训练</category>
-      <category>NeurIPS 2026</category>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic刚买下「一人药企」，MSRA医学博士创业，让一个人带着Agent做临床]]></title>
-      <link>https://www.jiqizhixin.com/articles/f96de04a-496c-46ac-96fd-1064634a1dbe</link>
-      <guid>f96de04a-496c-46ac-96fd-1064634a1dbe</guid>
-      <pubDate>Wed, 18 Nov 2026 04:52:08 +0000</pubDate>
-      <description><![CDATA[<p>Anthropic刚买下「一人药企」，MSRA医学博士创业，让一个人带着Agent做临床</p><p>标签: AI for Science（AI4S）, AI 制药, Agent</p>]]></description>
-      <category>AI for Science（AI4S）</category>
-      <category>AI 制药</category>
-      <category>Agent</category>
-    </item>
-    <item>
-      <title><![CDATA[解锁具身智能的GPT时刻？浙大宇树开源500万条机器人预训练数据]]></title>
-      <link>https://www.jiqizhixin.com/articles/9718bf19-601e-4769-9dbb-882b1ddebc96</link>
-      <guid>9718bf19-601e-4769-9dbb-882b1ddebc96</guid>
-      <pubDate>Wed, 18 Nov 2026 04:52:09 +0000</pubDate>
-      <description><![CDATA[<p>解锁具身智能的GPT时刻？浙大宇树开源500万条机器人预训练数据</p><p>标签: 浙江大学, 宇树科技, 预训练数据, 具身智能</p>]]></description>
-      <category>浙江大学</category>
-      <category>宇树科技</category>
-      <category>预训练数据</category>
-      <category>具身智能</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，OpenAI发布GPT-6.2 Astra和Sol]]></title>
-      <link>https://www.jiqizhixin.com/articles/2bbf9228-7c39-4588-97f6-e33f35a59416</link>
-      <guid>2bbf9228-7c39-4588-97f6-e33f35a59416</guid>
-      <pubDate>Wed, 18 Nov 2026 04:52:37 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，OpenAI发布GPT-6.2 Astra和Sol</p><p>标签: GPT-6.2, GPT, OpenAI</p>]]></description>
-      <category>GPT-6.2</category>
-      <category>GPT</category>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[让大模型学会向老师提问：UIUC等提出Ask to Distill，让知识蒸馏从「回答问题」走向「优化问题」]]></title>
-      <link>https://www.jiqizhixin.com/articles/2b784ed0-a1a0-424a-87ce-a6f830da2bd3</link>
-      <guid>2b784ed0-a1a0-424a-87ce-a6f830da2bd3</guid>
-      <pubDate>Wed, 18 Nov 2026 04:52:40 +0000</pubDate>
-      <description><![CDATA[<p>让大模型学会向老师提问：UIUC等提出Ask to Distill，让知识蒸馏从「回答问题」走向「优化问题」</p><p>标签: 知识蒸馏, 模型训练, 大语言模型</p>]]></description>
-      <category>知识蒸馏</category>
-      <category>模型训练</category>
-      <category>大语言模型</category>
     </item>
   </channel>
 </rss>
