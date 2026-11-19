@@ -4,8 +4,75 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 19 Nov 2026 04:43:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 14:48:31 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Claude交出两篇黑洞物理学论文，突破数十年未解难题]]></title>
+      <link>https://www.jiqizhixin.com/articles/c70e6446-15ff-4a12-9bf4-eed085d89f20</link>
+      <guid>c70e6446-15ff-4a12-9bf4-eed085d89f20</guid>
+      <pubDate>Thu, 19 Nov 2026 14:46:56 +0000</pubDate>
+      <description><![CDATA[<p>Claude交出两篇黑洞物理学论文，突破数十年未解难题</p><p>标签: AI for Science（AI4S）, 模自举（modular bootstrap）, 霍金 - 佩奇相变, Anthropic</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>模自举（modular bootstrap）</category>
+      <category>霍金 - 佩奇相变</category>
+      <category>Anthropic</category>
+    </item>
+    <item>
+      <title><![CDATA[推理成本砍到1/20：混元Hy4 flash调用数据登顶，性价比拉满了（已开源）]]></title>
+      <link>https://www.jiqizhixin.com/articles/21307ea8-f788-4c4e-a14c-f992bdd07d72</link>
+      <guid>21307ea8-f788-4c4e-a14c-f992bdd07d72</guid>
+      <pubDate>Thu, 19 Nov 2026 14:46:58 +0000</pubDate>
+      <description><![CDATA[<p>推理成本砍到1/20：混元Hy4 flash调用数据登顶，性价比拉满了（已开源）</p><p>标签: Hy4 flash, 腾讯</p>]]></description>
+      <category>Hy4 flash</category>
+      <category>腾讯</category>
+    </item>
+    <item>
+      <title><![CDATA[年度压轴之作｜2027 AI 进化峰会官宣，为下一轮智能跃迁写下序章]]></title>
+      <link>https://www.jiqizhixin.com/articles/173e40a3-8b75-40cc-a93a-aec552ce21b7</link>
+      <guid>173e40a3-8b75-40cc-a93a-aec552ce21b7</guid>
+      <pubDate>Thu, 19 Nov 2026 14:47:26 +0000</pubDate>
+      <description><![CDATA[<p>年度压轴之作｜2027 AI 进化峰会官宣，为下一轮智能跃迁写下序章</p><p>标签: 机器之心, 张江 AI 创新小镇, 2027 AI 进化峰会</p>]]></description>
+      <category>机器之心</category>
+      <category>张江 AI 创新小镇</category>
+      <category>2027 AI 进化峰会</category>
+    </item>
+    <item>
+      <title><![CDATA[让量子计算机「组队」：合肥发布中国首款可互联中性原子原型机]]></title>
+      <link>https://www.jiqizhixin.com/articles/b0ae1129-4c10-4ab7-9045-e1d68dd1ffd4</link>
+      <guid>b0ae1129-4c10-4ab7-9045-e1d68dd1ffd4</guid>
+      <pubDate>Thu, 19 Nov 2026 14:47:26 +0000</pubDate>
+      <description><![CDATA[<p>让量子计算机「组队」：合肥发布中国首款可互联中性原子原型机</p><p>标签: 乾原量子, 量子计算机</p>]]></description>
+      <category>乾原量子</category>
+      <category>量子计算机</category>
+    </item>
+    <item>
+      <title><![CDATA[语言模型推理折叠蛋白质？把3D结构塞进思维链，超越AlphaFold3、IsoDDE与Claude Opus]]></title>
+      <link>https://www.jiqizhixin.com/articles/b26e615d-25f4-4c63-8170-169786ab79e5</link>
+      <guid>b26e615d-25f4-4c63-8170-169786ab79e5</guid>
+      <pubDate>Thu, 19 Nov 2026 14:47:56 +0000</pubDate>
+      <description><![CDATA[<p>语言模型推理折叠蛋白质？把3D结构塞进思维链，超越AlphaFold3、IsoDDE与Claude Opus</p><p>标签: Tetra-1 Preview, AI for Science, SimpleX 本源智简</p>]]></description>
+      <category>Tetra-1 Preview</category>
+      <category>AI for Science</category>
+      <category>SimpleX 本源智简</category>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic IPO定价83美元/股，投资者疯抢]]></title>
+      <link>https://www.jiqizhixin.com/articles/01b3e943-14a7-4b94-a0f2-eb9c7d2926c3</link>
+      <guid>01b3e943-14a7-4b94-a0f2-eb9c7d2926c3</guid>
+      <pubDate>Thu, 19 Nov 2026 14:47:56 +0000</pubDate>
+      <description><![CDATA[<p>Anthropic IPO定价83美元/股，投资者疯抢</p><p>标签: Anthropic IPO, Anthropic</p>]]></description>
+      <category>Anthropic IPO</category>
+      <category>Anthropic</category>
+    </item>
+    <item>
+      <title><![CDATA[写入记忆，何必读完整个网络？英伟达SEED每GPU吞吐最高提升42%]]></title>
+      <link>https://www.jiqizhixin.com/articles/9dfa42a8-1a14-4113-a9b3-ae4fc856bd42</link>
+      <guid>9dfa42a8-1a14-4113-a9b3-ae4fc856bd42</guid>
+      <pubDate>Thu, 19 Nov 2026 14:48:31 +0000</pubDate>
+      <description><![CDATA[<p>写入记忆，何必读完整个网络？英伟达SEED每GPU吞吐最高提升42%</p><p>标签: Seed, 英伟达（NVIDIA）</p>]]></description>
+      <category>Seed</category>
+      <category>英伟达（NVIDIA）</category>
+    </item>
     <item>
       <title><![CDATA[海外算力通道收窄！众智 FlagOS × 清昴智能，助力国芯高性能上线商用 Token 工厂]]></title>
       <link>https://www.jiqizhixin.com/articles/f335a9e7-c813-4cc7-a460-e4ec69cd3db6</link>
@@ -51,73 +118,6 @@
       <category>ConvexLLM</category>
       <category>微软研究院（Microsoft Research）</category>
       <category>香港中文大学（深圳）</category>
-    </item>
-    <item>
-      <title><![CDATA[狂揽50亿美元，Isomorphic Labs要把AI制药推向临床验证]]></title>
-      <link>https://www.jiqizhixin.com/articles/59c50bbf-599b-4f84-9c45-9773ec819dfd</link>
-      <guid>59c50bbf-599b-4f84-9c45-9773ec819dfd</guid>
-      <pubDate>Wed, 18 Nov 2026 14:40:39 +0000</pubDate>
-      <description><![CDATA[<p>狂揽50亿美元，Isomorphic Labs要把AI制药推向临床验证</p><p>标签: Isomorphic Labs, 药物研发, Alphabet</p>]]></description>
-      <category>Isomorphic Labs</category>
-      <category>药物研发</category>
-      <category>Alphabet</category>
-    </item>
-    <item>
-      <title><![CDATA[全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线]]></title>
-      <link>https://www.jiqizhixin.com/articles/23814572-42a9-4090-9a69-2fd09f2c54f4</link>
-      <guid>23814572-42a9-4090-9a69-2fd09f2c54f4</guid>
-      <pubDate>Wed, 18 Nov 2026 14:40:37 +0000</pubDate>
-      <description><![CDATA[<p>全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线</p><p>标签: AI评测, AI医疗</p>]]></description>
-      <category>AI评测</category>
-      <category>AI医疗</category>
-    </item>
-    <item>
-      <title><![CDATA[辰光、SpaceView：合肥中科星云的天基算力，离国家算力网还有多远]]></title>
-      <link>https://www.jiqizhixin.com/articles/5cebef0e-e597-444f-9dfa-69f869cfc7ae</link>
-      <guid>5cebef0e-e597-444f-9dfa-69f869cfc7ae</guid>
-      <pubDate>Wed, 18 Nov 2026 14:41:08 +0000</pubDate>
-      <description><![CDATA[<p>辰光、SpaceView：合肥中科星云的天基算力，离国家算力网还有多远</p><p>标签: 天基算力, 中科星云</p>]]></description>
-      <category>天基算力</category>
-      <category>中科星云</category>
-    </item>
-    <item>
-      <title><![CDATA[Agent多人共用为何会失控？来自Ankole的Business Agent架构设计分享]]></title>
-      <link>https://www.jiqizhixin.com/articles/a76c80c8-3bca-4264-97b2-fbfa7a4e3ea6</link>
-      <guid>a76c80c8-3bca-4264-97b2-fbfa7a4e3ea6</guid>
-      <pubDate>Wed, 18 Nov 2026 14:41:10 +0000</pubDate>
-      <description><![CDATA[<p>Agent多人共用为何会失控？来自Ankole的Business Agent架构设计分享</p><p>标签: Harness, 人机协同, Agent</p>]]></description>
-      <category>Harness</category>
-      <category>人机协同</category>
-      <category>Agent</category>
-    </item>
-    <item>
-      <title><![CDATA[openJiuwen首发AgentOS「Harnessless」开发范式：不用自建Harness，让Agent原生应用触手可及]]></title>
-      <link>https://www.jiqizhixin.com/articles/45db08b1-c606-46aa-a718-41eadbe41717</link>
-      <guid>45db08b1-c606-46aa-a718-41eadbe41717</guid>
-      <pubDate>Wed, 18 Nov 2026 14:41:39 +0000</pubDate>
-      <description><![CDATA[<p>openJiuwen首发AgentOS「Harnessless」开发范式：不用自建Harness，让Agent原生应用触手可及</p><p>标签: Harness, openJiuwen, AgentOS</p>]]></description>
-      <category>Harness</category>
-      <category>openJiuwen</category>
-      <category>AgentOS</category>
-    </item>
-    <item>
-      <title><![CDATA[思维链之父Jason Wei离开Meta，加盟200亿美元AI独角兽]]></title>
-      <link>https://www.jiqizhixin.com/articles/d808a7cd-ecea-48f6-ab33-fb5b05a27f13</link>
-      <guid>d808a7cd-ecea-48f6-ab33-fb5b05a27f13</guid>
-      <pubDate>Wed, 18 Nov 2026 14:41:43 +0000</pubDate>
-      <description><![CDATA[<p>思维链之父Jason Wei离开Meta，加盟200亿美元AI独角兽</p><p>标签: 大模型评测, Jason Wei, MeTA</p>]]></description>
-      <category>大模型评测</category>
-      <category>Jason Wei</category>
-      <category>MeTA</category>
-    </item>
-    <item>
-      <title><![CDATA[给世界模型装上「生成式显卡」！Code World Model 2.0实现30分钟一镜到底]]></title>
-      <link>https://www.jiqizhixin.com/articles/62388c8a-0616-4a6d-a012-fc20e4d4d649</link>
-      <guid>62388c8a-0616-4a6d-a012-fc20e4d4d649</guid>
-      <pubDate>Wed, 18 Nov 2026 04:51:41 +0000</pubDate>
-      <description><![CDATA[<p>给世界模型装上「生成式显卡」！Code World Model 2.0实现30分钟一镜到底</p><p>标签: 蚂蚁集团, 世界模型</p>]]></description>
-      <category>蚂蚁集团</category>
-      <category>世界模型</category>
     </item>
   </channel>
 </rss>
