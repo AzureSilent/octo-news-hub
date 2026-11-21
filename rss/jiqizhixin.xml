@@ -4,8 +4,96 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 Nov 2026 04:27:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 13:49:16 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Flagship布局伦敦，打造AI原生科学创业平台]]></title>
+      <link>https://www.jiqizhixin.com/articles/3a02fe79-cefa-4dce-9fcc-461f91776450</link>
+      <guid>3a02fe79-cefa-4dce-9fcc-461f91776450</guid>
+      <pubDate>Sat, 21 Nov 2026 13:47:17 +0000</pubDate>
+      <description><![CDATA[<p>Flagship布局伦敦，打造AI原生科学创业平台</p><p>标签: AI for Science（AI4S）, Flagship Pioneering, Flagship Origination Lab</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>Flagship Pioneering</category>
+      <category>Flagship Origination Lab</category>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI与Anthropic围攻千禧年难题，七道题进展如何？]]></title>
+      <link>https://www.jiqizhixin.com/articles/1ab0e8cc-3ee6-4c7a-8cf5-7b837997d2d7</link>
+      <guid>1ab0e8cc-3ee6-4c7a-8cf5-7b837997d2d7</guid>
+      <pubDate>Sat, 21 Nov 2026 13:47:15 +0000</pubDate>
+      <description><![CDATA[<p>OpenAI与Anthropic围攻千禧年难题，七道题进展如何？</p><p>标签: 黎曼猜想, Anthropic, OpenAI</p>]]></description>
+      <category>黎曼猜想</category>
+      <category>Anthropic</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[Claude Opus 5拿到45.7分，25个大模型视频记忆大考]]></title>
+      <link>https://www.jiqizhixin.com/articles/0b0f621d-1611-4421-841b-5c707ef21139</link>
+      <guid>0b0f621d-1611-4421-841b-5c707ef21139</guid>
+      <pubDate>Sat, 21 Nov 2026 13:47:42 +0000</pubDate>
+      <description><![CDATA[<p>Claude Opus 5拿到45.7分，25个大模型视频记忆大考</p><p>标签: VideoMemBench, 香港中文大学, 悉尼科技大学</p>]]></description>
+      <category>VideoMemBench</category>
+      <category>香港中文大学</category>
+      <category>悉尼科技大学</category>
+    </item>
+    <item>
+      <title><![CDATA[没有AI，12年潜心研究！人类数学家紧急公开广义黎曼猜想证明]]></title>
+      <link>https://www.jiqizhixin.com/articles/555a3006-7591-4549-a5ff-f4b15d7ecd45</link>
+      <guid>555a3006-7591-4549-a5ff-f4b15d7ecd45</guid>
+      <pubDate>Sat, 21 Nov 2026 13:47:47 +0000</pubDate>
+      <description><![CDATA[<p>没有AI，12年潜心研究！人类数学家紧急公开广义黎曼猜想证明</p><p>标签: 广义黎曼猜想（Generalized Riemann Hypothesis，GRH）, Alessandro Masullo</p>]]></description>
+      <category>广义黎曼猜想（Generalized Riemann Hypothesis，GRH）</category>
+      <category>Alessandro Masullo</category>
+    </item>
+    <item>
+      <title><![CDATA[TML开源新模型，循环Transformer架构，笔记本就能跑]]></title>
+      <link>https://www.jiqizhixin.com/articles/111b73c6-8f1b-4972-8871-9c2de6830577</link>
+      <guid>111b73c6-8f1b-4972-8871-9c2de6830577</guid>
+      <pubDate>Sat, 21 Nov 2026 13:48:12 +0000</pubDate>
+      <description><![CDATA[<p>TML开源新模型，循环Transformer架构，笔记本就能跑</p><p>标签: Inkling 2 Mini, Thinking Machines Lab（TML）</p>]]></description>
+      <category>Inkling 2 Mini</category>
+      <category>Thinking Machines Lab（TML）</category>
+    </item>
+    <item>
+      <title><![CDATA[NeurIPS 2026 Spotlight | 西工大提出ROSE：多模态终身知识编辑新范式]]></title>
+      <link>https://www.jiqizhixin.com/articles/58e51b8d-9b74-4185-a436-7b215d0b57c7</link>
+      <guid>58e51b8d-9b74-4185-a436-7b215d0b57c7</guid>
+      <pubDate>Sat, 21 Nov 2026 13:48:15 +0000</pubDate>
+      <description><![CDATA[<p>NeurIPS 2026 Spotlight | 西工大提出ROSE：多模态终身知识编辑新范式</p><p>标签: 西北工业大学, ROSE, NeurIPS 2026 Spotlight</p>]]></description>
+      <category>西北工业大学</category>
+      <category>ROSE</category>
+      <category>NeurIPS 2026 Spotlight</category>
+    </item>
+    <item>
+      <title><![CDATA[NeurIPS 2026 | 视觉语言大模型不关注场景中的人类，反而靠物体大小判断谁更关键]]></title>
+      <link>https://www.jiqizhixin.com/articles/a94fb244-92b3-435f-a18c-96dba8daa690</link>
+      <guid>a94fb244-92b3-435f-a18c-96dba8daa690</guid>
+      <pubDate>Sat, 21 Nov 2026 13:48:41 +0000</pubDate>
+      <description><![CDATA[<p>NeurIPS 2026 | 视觉语言大模型不关注场景中的人类，反而靠物体大小判断谁更关键</p><p>标签: 反事实语义显著性（CSS）, 加州大学圣塔巴巴拉分校, NeurIPS 2026</p>]]></description>
+      <category>反事实语义显著性（CSS）</category>
+      <category>加州大学圣塔巴巴拉分校</category>
+      <category>NeurIPS 2026</category>
+    </item>
+    <item>
+      <title><![CDATA[突发！Anthropic数学家宣称用Claude证明黎曼猜想]]></title>
+      <link>https://www.jiqizhixin.com/articles/844a8da4-e697-4d7b-ae98-2b514c3161d4</link>
+      <guid>844a8da4-e697-4d7b-ae98-2b514c3161d4</guid>
+      <pubDate>Sat, 21 Nov 2026 13:48:45 +0000</pubDate>
+      <description><![CDATA[<p>突发！Anthropic数学家宣称用Claude证明黎曼猜想</p><p>标签: 黎曼猜想（Riemann Hypothesis）, Claude, Levent Alpöge</p>]]></description>
+      <category>黎曼猜想（Riemann Hypothesis）</category>
+      <category>Claude</category>
+      <category>Levent Alpöge</category>
+    </item>
+    <item>
+      <title><![CDATA[大模型为何长出「巨大激活」？清华、北大研究从反向传播找到新线索]]></title>
+      <link>https://www.jiqizhixin.com/articles/c598a0e6-23f1-426d-a157-2452d646855b</link>
+      <guid>c598a0e6-23f1-426d-a157-2452d646855b</guid>
+      <pubDate>Sat, 21 Nov 2026 13:49:16 +0000</pubDate>
+      <description><![CDATA[<p>大模型为何长出「巨大激活」？清华、北大研究从反向传播找到新线索</p><p>标签: 梯度汇聚, 清华大学, NeurIPS 2026</p>]]></description>
+      <category>梯度汇聚</category>
+      <category>清华大学</category>
+      <category>NeurIPS 2026</category>
+    </item>
     <item>
       <title><![CDATA[当蛋白质设计有了自己的「Claude Code」，AI Native生物科技公司开始交付「真实成果」]]></title>
       <link>https://www.jiqizhixin.com/articles/0c9d9deb-2277-4250-8cf6-857784fed34b</link>
@@ -35,87 +123,6 @@
       <category>G03 Pro T</category>
       <category>PHAIN 梵因动力</category>
       <category>APEC</category>
-    </item>
-    <item>
-      <title><![CDATA[想靠AI影视出圈？央视背书、官方扶持与1亿积分大赛，给你铺好路了]]></title>
-      <link>https://www.jiqizhixin.com/articles/1be404ab-210a-434b-a247-21897a06c201</link>
-      <guid>1be404ab-210a-434b-a247-21897a06c201</guid>
-      <pubDate>Fri, 20 Nov 2026 14:28:46 +0000</pubDate>
-      <description><![CDATA[<p>想靠AI影视出圈？央视背书、官方扶持与1亿积分大赛，给你铺好路了</p><p>标签: 奇想无限, 全球 AIGC 影视创作大赛</p>]]></description>
-      <category>奇想无限</category>
-      <category>全球 AIGC 影视创作大赛</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，alphaXiv甩出AI Agent专属预印本服务器]]></title>
-      <link>https://www.jiqizhixin.com/articles/03704bd9-6292-4d3a-9280-af825903516d</link>
-      <guid>03704bd9-6292-4d3a-9280-af825903516d</guid>
-      <pubDate>Fri, 20 Nov 2026 14:29:17 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，alphaXiv甩出AI Agent专属预印本服务器</p><p>标签: AI Agent, alphaXiv</p>]]></description>
-      <category>AI Agent</category>
-      <category>alphaXiv</category>
-    </item>
-    <item>
-      <title><![CDATA[全球首个原生3D动力学预测世界模型，RoboScience为机器人操作提供更精准的物体运动预测]]></title>
-      <link>https://www.jiqizhixin.com/articles/7a34c220-b0f5-4d06-8944-2986f561e325</link>
-      <guid>7a34c220-b0f5-4d06-8944-2986f561e325</guid>
-      <pubDate>Fri, 20 Nov 2026 14:29:20 +0000</pubDate>
-      <description><![CDATA[<p>全球首个原生3D动力学预测世界模型，RoboScience为机器人操作提供更精准的物体运动预测</p><p>标签: WorldFlow, RoboScience 机器科学</p>]]></description>
-      <category>WorldFlow</category>
-      <category>RoboScience 机器科学</category>
-    </item>
-    <item>
-      <title><![CDATA[Science封面丨98.3%胜率的背后：Google把量子上下文性变硬件测试]]></title>
-      <link>https://www.jiqizhixin.com/articles/25d3776d-9ecc-4177-989d-fcb3771189a7</link>
-      <guid>25d3776d-9ecc-4177-989d-fcb3771189a7</guid>
-      <pubDate>Fri, 20 Nov 2026 14:29:47 +0000</pubDate>
-      <description><![CDATA[<p>Science封面丨98.3%胜率的背后：Google把量子上下文性变硬件测试</p><p>标签: AI for Science（AI4S）, Google Quantum AI</p>]]></description>
-      <category>AI for Science（AI4S）</category>
-      <category>Google Quantum AI</category>
-    </item>
-    <item>
-      <title><![CDATA[登顶全球第一：这支AI音乐团队，凭什么用18个月打败Suno？]]></title>
-      <link>https://www.jiqizhixin.com/articles/146b688e-3dfd-4ec2-93fd-e1e8865c4802</link>
-      <guid>146b688e-3dfd-4ec2-93fd-e1e8865c4802</guid>
-      <pubDate>Fri, 20 Nov 2026 04:33:31 +0000</pubDate>
-      <description><![CDATA[<p>登顶全球第一：这支AI音乐团队，凭什么用18个月打败Suno？</p><p>标签: ACE Music v1, ACE</p>]]></description>
-      <category>ACE Music v1</category>
-      <category>ACE</category>
-    </item>
-    <item>
-      <title><![CDATA[AGI还不是终点，DeepMind开始思考ASI的未来]]></title>
-      <link>https://www.jiqizhixin.com/articles/ff85bdda-8ff9-460e-a6aa-a549a915dafe</link>
-      <guid>ff85bdda-8ff9-460e-a6aa-a549a915dafe</guid>
-      <pubDate>Fri, 20 Nov 2026 04:33:31 +0000</pubDate>
-      <description><![CDATA[<p>AGI还不是终点，DeepMind开始思考ASI的未来</p><p>标签: 人工超级智能（ASI）, Google DeepMind</p>]]></description>
-      <category>人工超级智能（ASI）</category>
-      <category>Google DeepMind</category>
-    </item>
-    <item>
-      <title><![CDATA[上海AI Lab开源Sage S2.1 Flash技术报告：四项智能体基准SOTA，科学多模态感知如何融入通用智能体？]]></title>
-      <link>https://www.jiqizhixin.com/articles/2cb49517-6397-4331-8845-08c3502b053c</link>
-      <guid>2cb49517-6397-4331-8845-08c3502b053c</guid>
-      <pubDate>Fri, 20 Nov 2026 04:34:00 +0000</pubDate>
-      <description><![CDATA[<p>上海AI Lab开源Sage S2.1 Flash技术报告：四项智能体基准SOTA，科学多模态感知如何融入通用智能体？</p><p>标签: 上海人工智能实验室, Sage S2.1 Flash</p>]]></description>
-      <category>上海人工智能实验室</category>
-      <category>Sage S2.1 Flash</category>
-    </item>
-    <item>
-      <title><![CDATA[修复与固化二合一 | 合肥柏逸激光用一台设备完成 Micro LED 微米级芯片的局部修复]]></title>
-      <link>https://www.jiqizhixin.com/articles/c4c198f5-9601-4130-9ff9-f5581386bf3e</link>
-      <guid>c4c198f5-9601-4130-9ff9-f5581386bf3e</guid>
-      <pubDate>Fri, 20 Nov 2026 04:34:00 +0000</pubDate>
-      <description><![CDATA[<p>修复与固化二合一 | 合肥柏逸激光用一台设备完成 Micro LED 微米级芯片的局部修复</p><p>标签: 柏逸激光, Micro LED</p>]]></description>
-      <category>柏逸激光</category>
-      <category>Micro LED</category>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic上市首日冲破2万亿美元，史上最大IPO]]></title>
-      <link>https://www.jiqizhixin.com/articles/ac07dddd-4493-4d06-b524-4d2ff3a96583</link>
-      <guid>ac07dddd-4493-4d06-b524-4d2ff3a96583</guid>
-      <pubDate>Fri, 20 Nov 2026 04:35:08 +0000</pubDate>
-      <description><![CDATA[<p>Anthropic上市首日冲破2万亿美元，史上最大IPO</p><p>标签: Dario Amodei, Anthropic</p>]]></description>
-      <category>Dario Amodei</category>
-      <category>Anthropic</category>
     </item>
   </channel>
 </rss>
