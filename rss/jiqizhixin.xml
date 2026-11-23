@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[机器之心]]></title>
+    <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 23 Nov 2026 04:17:48 +0000</lastBuildDate>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[合肥这款健康AI大模型适配华为昇腾，相关成果已服务超百万人]]></title>
+      <link>https://www.jiqizhixin.com/articles/b957084b-22f3-479e-9b43-504761ddabfd</link>
+      <guid>b957084b-22f3-479e-9b43-504761ddabfd</guid>
+      <pubDate>Mon, 23 Nov 2026 04:16:53 +0000</pubDate>
+      <description><![CDATA[<p>合肥这款健康AI大模型适配华为昇腾，相关成果已服务超百万人</p><p>标签: IIMedGPT, 合肥物质院智能所, 2026人工智能创新生态大会</p>]]></description>
+      <category>IIMedGPT</category>
+      <category>合肥物质院智能所</category>
+      <category>2026人工智能创新生态大会</category>
+    </item>
+    <item>
+      <title><![CDATA[全球首次！DeepSeek与FlashAttention的多个生产级AI算子获得形式化验证]]></title>
+      <link>https://www.jiqizhixin.com/articles/e833f992-756b-4136-9af6-a16cdfcfd16f</link>
+      <guid>e833f992-756b-4136-9af6-a16cdfcfd16f</guid>
+      <pubDate>Mon, 23 Nov 2026 04:16:54 +0000</pubDate>
+      <description><![CDATA[<p>全球首次！DeepSeek与FlashAttention的多个生产级AI算子获得形式化验证</p><p>标签: TensorLean, 形式化验证（Formal Verification）</p>]]></description>
+      <category>TensorLean</category>
+      <category>形式化验证（Formal Verification）</category>
+    </item>
+    <item>
+      <title><![CDATA[离散code能成为通用视觉表示吗？美团LongCat开源dNaViT]]></title>
+      <link>https://www.jiqizhixin.com/articles/f8382cf2-77fa-417e-8415-4d7c0c4c0d06</link>
+      <guid>f8382cf2-77fa-417e-8415-4d7c0c4c0d06</guid>
+      <pubDate>Mon, 23 Nov 2026 04:17:21 +0000</pubDate>
+      <description><![CDATA[<p>离散code能成为通用视觉表示吗？美团LongCat开源dNaViT</p><p>标签: dNaViT, 美团</p>]]></description>
+      <category>dNaViT</category>
+      <category>美团</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，OpenAI首次公开预训练核心指标]]></title>
+      <link>https://www.jiqizhixin.com/articles/90a38123-9a42-4f11-8db8-ed5fb9473b38</link>
+      <guid>90a38123-9a42-4f11-8db8-ed5fb9473b38</guid>
+      <pubDate>Mon, 23 Nov 2026 04:17:21 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，OpenAI首次公开预训练核心指标</p><p>标签: Jakub Pachocki, Perplexity, OpenAI</p>]]></description>
+      <category>Jakub Pachocki</category>
+      <category>Perplexity</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[NeurIPS 2026｜不重构预训练VLA结构，ActionUNet用轻量多尺度微调提升机器人鲁棒性]]></title>
+      <link>https://www.jiqizhixin.com/articles/021ab8e8-c981-4a0e-93fd-d9a237d95cd4</link>
+      <guid>021ab8e8-c981-4a0e-93fd-d9a237d95cd4</guid>
+      <pubDate>Mon, 23 Nov 2026 04:17:48 +0000</pubDate>
+      <description><![CDATA[<p>NeurIPS 2026｜不重构预训练VLA结构，ActionUNet用轻量多尺度微调提升机器人鲁棒性</p><p>标签: ActionUNet, 中国科学院大学, NeurIPS 2026</p>]]></description>
+      <category>ActionUNet</category>
+      <category>中国科学院大学</category>
+      <category>NeurIPS 2026</category>
+    </item>
+    <item>
+      <title><![CDATA[让机器人从实验执行走向科学决策：BioMARS 2.0打造新一代机器人生物学家]]></title>
+      <link>https://www.jiqizhixin.com/articles/ee81ca60-fbcc-4c37-a4d6-fde0628dbc65</link>
+      <guid>ee81ca60-fbcc-4c37-a4d6-fde0628dbc65</guid>
+      <pubDate>Sun, 22 Nov 2026 17:28:01 +0000</pubDate>
+      <description><![CDATA[<p>让机器人从实验执行走向科学决策：BioMARS 2.0打造新一代机器人生物学家</p><p>标签: AI for Science（AI4S）, BioMARS 2.0, 中国科学技术大学</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>BioMARS 2.0</category>
+      <category>中国科学技术大学</category>
+    </item>
+    <item>
+      <title><![CDATA[VLA/WAM已死，基模当立？Mind2Act World通用基准用「知行合一」角度为具身模型诊断进化方向]]></title>
+      <link>https://www.jiqizhixin.com/articles/45b2745f-431f-4dc3-93f7-3972c86bc56f</link>
+      <guid>45b2745f-431f-4dc3-93f7-3972c86bc56f</guid>
+      <pubDate>Sun, 22 Nov 2026 17:28:01 +0000</pubDate>
+      <description><![CDATA[<p>VLA/WAM已死，基模当立？Mind2Act World通用基准用「知行合一」角度为具身模型诊断进化方向</p><p>标签: 清华大学, Mind2Act World</p>]]></description>
+      <category>清华大学</category>
+      <category>Mind2Act World</category>
+    </item>
+    <item>
+      <title><![CDATA[NeurIPS 2026 | F2G-Pose：一次前向预测物体位姿、尺寸与完整形状]]></title>
+      <link>https://www.jiqizhixin.com/articles/dd763b96-07a4-4698-879a-df0e139af5bf</link>
+      <guid>dd763b96-07a4-4698-879a-df0e139af5bf</guid>
+      <pubDate>Sun, 22 Nov 2026 17:28:29 +0000</pubDate>
+      <description><![CDATA[<p>NeurIPS 2026 | F2G-Pose：一次前向预测物体位姿、尺寸与完整形状</p><p>标签: 复旦大学, F2G-Pose, NeurIPS 2026</p>]]></description>
+      <category>复旦大学</category>
+      <category>F2G-Pose</category>
+      <category>NeurIPS 2026</category>
+    </item>
+    <item>
+      <title><![CDATA[编程智能体指挥机器人，该怎么考？1156个任务、三种考法，把失败定位到每一步]]></title>
+      <link>https://www.jiqizhixin.com/articles/f578577e-4cb1-4e84-b01d-bbb411803a74</link>
+      <guid>f578577e-4cb1-4e84-b01d-bbb411803a74</guid>
+      <pubDate>Sun, 22 Nov 2026 17:28:29 +0000</pubDate>
+      <description><![CDATA[<p>编程智能体指挥机器人，该怎么考？1156个任务、三种考法，把失败定位到每一步</p><p>标签: Embodied First Exam（EFE，具身第一考）, 卡内基梅隆大学, 西北大学</p>]]></description>
+      <category>Embodied First Exam（EFE，具身第一考）</category>
+      <category>卡内基梅隆大学</category>
+      <category>西北大学</category>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，Claude参与证明黎曼猜想，通过独立验证！]]></title>
+      <link>https://www.jiqizhixin.com/articles/5fa77e1c-69ad-4ac4-82e4-a09359ff1efd</link>
+      <guid>5fa77e1c-69ad-4ac4-82e4-a09359ff1efd</guid>
+      <pubDate>Sun, 22 Nov 2026 17:28:57 +0000</pubDate>
+      <description><![CDATA[<p>刚刚，Claude参与证明黎曼猜想，通过独立验证！</p><p>标签: 黎曼猜想, Levent Alpöge, Claude, Anthropic</p>]]></description>
+      <category>黎曼猜想</category>
+      <category>Levent Alpöge</category>
+      <category>Claude</category>
+      <category>Anthropic</category>
+    </item>
+    <item>
+      <title><![CDATA[NeurIPS 2026 | 大模型抗遗忘新范式：「先微调，后矫正」实现无遗忘等价条件]]></title>
+      <link>https://www.jiqizhixin.com/articles/5675122c-9649-4511-bf8b-04a882803683</link>
+      <guid>5675122c-9649-4511-bf8b-04a882803683</guid>
+      <pubDate>Sun, 22 Nov 2026 17:28:58 +0000</pubDate>
+      <description><![CDATA[<p>NeurIPS 2026 | 大模型抗遗忘新范式：「先微调，后矫正」实现无遗忘等价条件</p><p>标签: Janus, 清华大学, NeurIPS 2026</p>]]></description>
+      <category>Janus</category>
+      <category>清华大学</category>
+      <category>NeurIPS 2026</category>
+    </item>
+    <item>
+      <title><![CDATA[Flagship布局伦敦，打造AI原生科学创业平台]]></title>
+      <link>https://www.jiqizhixin.com/articles/3a02fe79-cefa-4dce-9fcc-461f91776450</link>
+      <guid>3a02fe79-cefa-4dce-9fcc-461f91776450</guid>
+      <pubDate>Sat, 21 Nov 2026 13:47:17 +0000</pubDate>
+      <description><![CDATA[<p>Flagship布局伦敦，打造AI原生科学创业平台</p><p>标签: AI for Science（AI4S）, Flagship Pioneering, Flagship Origination Lab</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>Flagship Pioneering</category>
+      <category>Flagship Origination Lab</category>
+    </item>
+  </channel>
+</rss>

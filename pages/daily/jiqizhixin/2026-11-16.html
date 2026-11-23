@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>机器之心 - 2026年11月16日 文章列表</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f5f5f5;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 1.8em;
+            margin-bottom: 5px;
+            font-weight: 600;
+        }
+        
+        .header p {
+            font-size: 0.95em;
+            opacity: 0.9;
+        }
+        
+        .nav-links {
+            padding: 15px 30px;
+            background: #f9fafb;
+            border-bottom: 1px solid #e5e7eb;
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        .nav-link {
+            padding: 8px 16px;
+            background: white;
+            border: 1px solid #d1d5db;
+            border-radius: 6px;
+            text-decoration: none;
+            color: #374151;
+            transition: all 0.2s ease;
+        }
+        
+        .nav-link:hover {
+            background: #f3f4f6;
+            border-color: #9ca3af;
+        }
+        
+        .prev-link {
+            margin-right: auto;
+        }
+        
+        .next-link {
+            margin-left: auto;
+        }
+        
+        .content {
+            padding: 30px;
+        }
+        
+        .article {
+            border-bottom: 1px solid #e5e7eb;
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+        }
+        
+        .article:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+        }
+        
+        .article-header {
+            cursor: pointer;
+            padding: 10px 0;
+            transition: background 0.2s ease;
+        }
+        
+        .article-header:hover {
+            background: #f9fafb;
+            margin: 0 -10px;
+            padding: 10px;
+            border-radius: 6px;
+        }
+        
+        .article-title {
+            font-size: 1.2em;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #1f2937;
+        }
+        
+        .article-meta {
+            display: flex;
+            gap: 15px;
+            font-size: 0.9em;
+            color: #6b7280;
+            align-items: center;
+        }
+        
+        .article-time {
+            background: #e5e7eb;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-weight: 500;
+        }
+        
+        .article-link a {
+            color: #667eea;
+            text-decoration: none;
+        }
+        
+        .article-link a:hover {
+            text-decoration: underline;
+        }
+        
+        .article-content {
+            margin-top: 15px;
+            padding: 15px;
+            background: #f9fafb;
+            border-radius: 6px;
+            border-left: 3px solid #667eea;
+        }
+        
+        .article-summary {
+            margin-bottom: 15px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #e5e7eb;
+        }
+        
+        .article-full {
+            color: #374151;
+        }
+        
+        .article-full img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+        
+        .article-full p {
+            margin-bottom: 10px;
+        }
+        
+        .no-articles {
+            text-align: center;
+            padding: 60px 20px;
+            color: #6b7280;
+        }
+        
+        .footer {
+            background: #f9fafb;
+            padding: 20px;
+            text-align: center;
+            color: #6b7280;
+            border-top: 1px solid #e5e7eb;
+            font-size: 0.9em;
+        }
+        
+        .footer a {
+            color: #667eea;
+            text-decoration: none;
+        }
+        
+        .footer a:hover {
+            text-decoration: underline;
+        }
+        
+        @media (max-width: 768px) {
+            .content {
+                padding: 20px;
+            }
+            
+            .header {
+                padding: 20px;
+            }
+            
+            .article-title {
+                font-size: 1.1em;
+            }
+        }
+    </style>
+    <script>
+        function toggleArticle(id) {
+            var content = document.getElementById('content-' + id);
+            if (content.style.display === 'none') {
+                content.style.display = 'block';
+            } else {
+                content.style.display = 'none';
+            }
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>机器之心 - 2026年11月16日 文章列表</h1>
+            <p>专业的人工智能媒体和服务平台</p>
+        </div>
+        
+        <div class="nav-links">
+        <a href="2026-11-15.html" class="nav-link prev-link">← 2026-11-15</a>
+        <a href="2026-11-17.html" class="nav-link next-link">2026-11-17 →</a>
+      </div>
+
+        
+        <div class="content">
+            
+    <article class="article" id="article-0">
+      <div class="article-header" onclick="toggleArticle(0)">
+        <h2 class="article-title">19. 阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景</h2>
+        <div class="article-meta">
+          <span class="article-time">11-16 20:11</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/4ff71c63-f405-4a22-9571-966de507aedb" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-0" style="display: none;">
+        <p>阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景</p><p>标签: Qwen4-Max, 阿里巴巴</p>
+      </div>
+    </article>
+    <article class="article" id="article-1">
+      <div class="article-header" onclick="toggleArticle(1)">
+        <h2 class="article-title">18. NeurIPS 2026｜不再依赖外挂：清华把「自我进化技能」训进Agent大脑</h2>
+        <div class="article-meta">
+          <span class="article-time">11-16 20:11</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/4a5f67bd-dbcf-4b7b-979c-834fc9b2a02e" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-1" style="display: none;">
+        <p>NeurIPS 2026｜不再依赖外挂：清华把「自我进化技能」训进Agent大脑</p><p>标签: 清华大学, SkillMaster, NeurIPS 2026</p>
+      </div>
+    </article>
+    <article class="article" id="article-2">
+      <div class="article-header" onclick="toggleArticle(2)">
+        <h2 class="article-title">17. 恶劣骗局！AI垃圾论文乱加大佬作者，Hinton、李飞飞、LeCun、吴恩达等中招</h2>
+        <div class="article-meta">
+          <span class="article-time">11-16 20:11</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/4d067e96-a163-45d3-872b-261677f6cbdb" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-2" style="display: none;">
+        <p>恶劣骗局！AI垃圾论文乱加大佬作者，Hinton、李飞飞、LeCun、吴恩达等中招</p><p>标签: AI论文</p>
+      </div>
+    </article>
+    <article class="article" id="article-3">
+      <div class="article-header" onclick="toggleArticle(3)">
+        <h2 class="article-title">16. 自研Agent两场实测均分超过GPT-6，NovaSilicon首提CDK，Fabless之后是Designless？</h2>
+        <div class="article-meta">
+          <span class="article-time">11-16 20:11</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/c1fd8058-e545-4264-9974-b4b8c402d92c" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-3" style="display: none;">
+        <p>自研Agent两场实测均分超过GPT-6，NovaSilicon首提CDK，Fabless之后是Designless？</p><p>标签: CDK（Circuit Design Kit，电路设计套件）, NovaSilicon</p>
+      </div>
+    </article>
+    <article class="article" id="article-4">
+      <div class="article-header" onclick="toggleArticle(4)">
+        <h2 class="article-title">15. OpenAI为科研开设新博客，首篇解读GPT‑6 Astra粒子物理研究</h2>
+        <div class="article-meta">
+          <span class="article-time">11-16 20:10</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/6e656e10-288b-44b3-913c-f01c34c19bd4" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-4" style="display: none;">
+        <p>OpenAI为科研开设新博客，首篇解读GPT‑6 Astra粒子物理研究</p><p>标签: AI for Science（AI4S）, 粒子物理, OpenAI</p>
+      </div>
+    </article>
+    <article class="article" id="article-5">
+      <div class="article-header" onclick="toggleArticle(5)">
+        <h2 class="article-title">14. VLM记忆机制最新综述，从When, Where, What, How四个维度看懂记忆</h2>
+        <div class="article-meta">
+          <span class="article-time">11-16 20:10</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/90d55caf-f6d0-4839-830e-47fbfea33436" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-5" style="display: none;">
+        <p>VLM记忆机制最新综述，从When, Where, What, How四个维度看懂记忆</p><p>标签: Google, Duke, 视觉语言模型（VLM）</p>
+      </div>
+    </article>
+    <article class="article" id="article-6">
+      <div class="article-header" onclick="toggleArticle(6)">
+        <h2 class="article-title">13. Weitu AI打造能记忆会思考的流式多模态大脑</h2>
+        <div class="article-meta">
+          <span class="article-time">11-16 20:10</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/9cffb7f2-1879-4050-a164-55eb141e0b7d" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-6" style="display: none;">
+        <p>Weitu AI打造能记忆会思考的流式多模态大脑</p><p>标签: Dual Sparse Memory, Weitu AI</p>
+      </div>
+    </article>
+    <article class="article" id="article-7">
+      <div class="article-header" onclick="toggleArticle(7)">
+        <h2 class="article-title">12. 华为云「行业AI梦工厂」发布并开源昇腾原生具身世界模型CloudRobo-WM1.2</h2>
+        <div class="article-meta">
+          <span class="article-time">11-16 20:10</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/e4892626-58f8-4a37-9de0-6cbee1711d6e" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-7" style="display: none;">
+        <p>华为云「行业AI梦工厂」发布并开源昇腾原生具身世界模型CloudRobo-WM1.2</p><p>标签: 开源, 世界模型, 具身智能, 华为云, 华为</p>
+      </div>
+    </article>
+    <article class="article" id="article-8">
+      <div class="article-header" onclick="toggleArticle(8)">
+        <h2 class="article-title">11. 豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育等21个专业场景</h2>
+        <div class="article-meta">
+          <span class="article-time">11-16 20:09</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/6a7a5528-d9f9-4fdc-b587-985dcc8c1d5f" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-8" style="display: none;">
+        <p>豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育等21个专业场景</p><p>标签: 豆包工作</p>
+      </div>
+    </article>
+    <article class="article" id="article-9">
+      <div class="article-header" onclick="toggleArticle(9)">
+        <h2 class="article-title">10. 物理AI破解装车自动化盲区，安徽「擎天智能」完成数千万元Pre-A轮融资</h2>
+        <div class="article-meta">
+          <span class="article-time">11-16 20:09</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/b9e8af11-cda8-4198-9f0e-40bd1457609b" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-9" style="display: none;">
+        <p>物理AI破解装车自动化盲区，安徽「擎天智能」完成数千万元Pre-A轮融资</p><p>标签: 具身智能装卸机器人系统, 擎天智能</p>
+      </div>
+    </article>
+    <article class="article" id="article-10">
+      <div class="article-header" onclick="toggleArticle(10)">
+        <h2 class="article-title">9. 突发！黄仁勋与盟友商讨重返英伟达CEO之位</h2>
+        <div class="article-meta">
+          <span class="article-time">11-16 11:24</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/28fb568a-716b-41f7-96aa-7a72b5a3d02a" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-10" style="display: none;">
+        <p>突发！黄仁勋与盟友商讨重返英伟达CEO之位</p><p>标签: 英伟达, 黄仁勋</p>
+      </div>
+    </article>
+    <article class="article" id="article-11">
+      <div class="article-header" onclick="toggleArticle(11)">
+        <h2 class="article-title">8. NeurIPS 2026｜扩散模型和自回归模型谁的隐私泄露更多？ 奥尔堡大学揭示扩散语言模型的记忆行为</h2>
+        <div class="article-meta">
+          <span class="article-time">11-16 11:24</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/2e158b46-e8ed-46a9-a6c3-dc435522a7d6" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-11" style="display: none;">
+        <p>NeurIPS 2026｜扩散模型和自回归模型谁的隐私泄露更多？ 奥尔堡大学揭示扩散语言模型的记忆行为</p><p>标签: NeurIPS 2026, 丹麦奥尔堡大学</p>
+      </div>
+    </article>
+    <article class="article" id="article-12">
+      <div class="article-header" onclick="toggleArticle(12)">
+        <h2 class="article-title">7. RSI取代后训练科学家？斯坦福团队探索什么才算真正的进步</h2>
+        <div class="article-meta">
+          <span class="article-time">11-16 00:42</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/c972a4c4-9843-4465-9c87-391847f1f64f" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-12" style="display: none;">
+        <p>RSI取代后训练科学家？斯坦福团队探索什么才算真正的进步</p><p>标签: RSI Arena, Bake AI</p>
+      </div>
+    </article>
+    <article class="article" id="article-13">
+      <div class="article-header" onclick="toggleArticle(13)">
+        <h2 class="article-title">6. Agent如何越用越强？中科院自动化所、美团等推出RSI综述</h2>
+        <div class="article-meta">
+          <span class="article-time">11-16 00:41</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/3bed5261-8cad-4299-8c79-6fbed1235f03" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-13" style="display: none;">
+        <p>Agent如何越用越强？中科院自动化所、美团等推出RSI综述</p><p>标签: 美团, 中国科学院自动化研究所</p>
+      </div>
+    </article>
+    <article class="article" id="article-14">
+      <div class="article-header" onclick="toggleArticle(14)">
+        <h2 class="article-title">5. 刚刚，黄仁勋回归请愿书签名者突破12万</h2>
+        <div class="article-meta">
+          <span class="article-time">11-16 00:41</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/d1e79088-d343-42e0-b664-821922b8afc5" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-14" style="display: none;">
+        <p>刚刚，黄仁勋回归请愿书签名者突破12万</p><p>标签: 英伟达, 黄仁勋</p>
+      </div>
+    </article>
+    <article class="article" id="article-15">
+      <div class="article-header" onclick="toggleArticle(15)">
+        <h2 class="article-title">4. 刚刚，李沐加入Aimotion！出任联创兼CTO</h2>
+        <div class="article-meta">
+          <span class="article-time">11-16 00:41</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/75126875-829b-47b1-9033-9798f8156c05" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-15" style="display: none;">
+        <p>刚刚，李沐加入Aimotion！出任联创兼CTO</p><p>标签: 深度学习, Aimotion, 李沐</p>
+      </div>
+    </article>
+    <article class="article" id="article-16">
+      <div class="article-header" onclick="toggleArticle(16)">
+        <h2 class="article-title">3. 马斯克SpaceX创造历史：「筷子夹火箭2.0」，星舰飞船首次被发射塔捕获</h2>
+        <div class="article-meta">
+          <span class="article-time">11-16 00:41</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/19f87e3e-d02e-4093-8b10-b663664c91e6" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-16" style="display: none;">
+        <p>马斯克SpaceX创造历史：「筷子夹火箭2.0」，星舰飞船首次被发射塔捕获</p><p>标签: 埃隆・马斯克, 星舰, SpaceX</p>
+      </div>
+    </article>
+    <article class="article" id="article-17">
+      <div class="article-header" onclick="toggleArticle(17)">
+        <h2 class="article-title">2. 逼近GPT-6 Astra！韩松团队让Qwen3.8-27B在5090上操作机械臂，现已开源</h2>
+        <div class="article-meta">
+          <span class="article-time">11-16 00:40</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/35a67aa9-673c-49d8-8b1b-44fb978875f7" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-17" style="display: none;">
+        <p>逼近GPT-6 Astra！韩松团队让Qwen3.8-27B在5090上操作机械臂，现已开源</p><p>标签: PEAR （Post-training Engine for Agentic Robotics）, MIT</p>
+      </div>
+    </article>
+    <article class="article" id="article-18">
+      <div class="article-header" onclick="toggleArticle(18)">
+        <h2 class="article-title">1. EMNLP 2026 杰出论文 | 大模型训练，数据配比难？日本NICT团队提出最优分布向量合并</h2>
+        <div class="article-meta">
+          <span class="article-time">11-16 00:40</span>
+          <span class="article-link">
+            <a href="https://www.jiqizhixin.com/articles/2b0d03fa-593b-4637-bc78-b34add2fc3c4" target="_blank" onclick="event.stopPropagation()">原文链接</a>
+          </span>
+        </div>
+      </div>
+      <div class="article-content" id="content-18" style="display: none;">
+        <p>EMNLP 2026 杰出论文 | 大模型训练，数据配比难？日本NICT团队提出最优分布向量合并</p><p>标签: OptiMer, 日本信息通信研究机构（NICT）, EMNLP 2026</p>
+      </div>
+    </article>
+        </div>
+        
+        <div class="footer">
+            <p>生成时间: 2026-11-17 15:09:40</p>
+        </div>
+    </div>
+</body>
+</html>
