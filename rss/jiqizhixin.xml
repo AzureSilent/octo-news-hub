@@ -4,8 +4,96 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 24 Nov 2026 03:33:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 14:24:07 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[看一遍就会，60ms出手，最强生产力模型来了]]></title>
+      <link>https://www.jiqizhixin.com/articles/7700abe9-cf91-47a4-abaf-2930cd8097d3</link>
+      <guid>7700abe9-cf91-47a4-abaf-2930cd8097d3</guid>
+      <pubDate>Tue, 24 Nov 2026 14:22:00 +0000</pubDate>
+      <description><![CDATA[<p>看一遍就会，60ms出手，最强生产力模型来了</p><p>标签: G0.7, 星海图（Galaxea）</p>]]></description>
+      <category>G0.7</category>
+      <category>星海图（Galaxea）</category>
+    </item>
+    <item>
+      <title><![CDATA[EMNLP 2026杰出论文 | 统一多模态模型，想对了却画错了？UCSD、USC、UIUC与CMU提出UReason]]></title>
+      <link>https://www.jiqizhixin.com/articles/96da974c-6ab4-4235-a530-ca8f99ebb40a</link>
+      <guid>96da974c-6ab4-4235-a530-ca8f99ebb40a</guid>
+      <pubDate>Tue, 24 Nov 2026 14:22:00 +0000</pubDate>
+      <description><![CDATA[<p>EMNLP 2026杰出论文 | 统一多模态模型，想对了却画错了？UCSD、USC、UIUC与CMU提出UReason</p><p>标签: UReason, 加州大学圣地亚哥分校（UCSD）, EMNLP 2026</p>]]></description>
+      <category>UReason</category>
+      <category>加州大学圣地亚哥分校（UCSD）</category>
+      <category>EMNLP 2026</category>
+    </item>
+    <item>
+      <title><![CDATA[具身智能商业化提速！网易灵动与柳工达成战略合作，单季作业量超去年全年]]></title>
+      <link>https://www.jiqizhixin.com/articles/f5239e13-9ce1-40bf-a882-c6214a50b9fb</link>
+      <guid>f5239e13-9ce1-40bf-a882-c6214a50b9fb</guid>
+      <pubDate>Tue, 24 Nov 2026 14:22:30 +0000</pubDate>
+      <description><![CDATA[<p>具身智能商业化提速！网易灵动与柳工达成战略合作，单季作业量超去年全年</p><p>标签: 柳工集团, 网易灵动, bauma CHINA 2026</p>]]></description>
+      <category>柳工集团</category>
+      <category>网易灵动</category>
+      <category>bauma CHINA 2026</category>
+    </item>
+    <item>
+      <title><![CDATA[迈向具身智能的GPT时刻！Einsia AI开源首个万级具身RL环境RoboUniverse-10K]]></title>
+      <link>https://www.jiqizhixin.com/articles/de7d9b2c-e729-4d98-8af5-e96858badb79</link>
+      <guid>de7d9b2c-e729-4d98-8af5-e96858badb79</guid>
+      <pubDate>Tue, 24 Nov 2026 14:22:31 +0000</pubDate>
+      <description><![CDATA[<p>迈向具身智能的GPT时刻！Einsia AI开源首个万级具身RL环境RoboUniverse-10K</p><p>标签: RoboUniverse-10K, 清华大学, Einsia AI</p>]]></description>
+      <category>RoboUniverse-10K</category>
+      <category>清华大学</category>
+      <category>Einsia AI</category>
+    </item>
+    <item>
+      <title><![CDATA[多教师LLM蒸馏新突破：从参数更新几何出发，PMOPD让模型同时学好数学、推理与代码]]></title>
+      <link>https://www.jiqizhixin.com/articles/9689caae-d2ee-45f0-b3ef-a1f83d0af1c6</link>
+      <guid>9689caae-d2ee-45f0-b3ef-a1f83d0af1c6</guid>
+      <pubDate>Tue, 24 Nov 2026 14:22:59 +0000</pubDate>
+      <description><![CDATA[<p>多教师LLM蒸馏新突破：从参数更新几何出发，PMOPD让模型同时学好数学、推理与代码</p><p>标签: PMOPD, 蚂蚁集团</p>]]></description>
+      <category>PMOPD</category>
+      <category>蚂蚁集团</category>
+    </item>
+    <item>
+      <title><![CDATA[Manifold AI 流形空间联合清华等开源手部世界模型评测基准 HandWorldBench：从指尖出发的世界模型标尺]]></title>
+      <link>https://www.jiqizhixin.com/articles/c1cff69a-00e6-4174-aa8b-a702685f25d6</link>
+      <guid>c1cff69a-00e6-4174-aa8b-a702685f25d6</guid>
+      <pubDate>Tue, 24 Nov 2026 14:23:00 +0000</pubDate>
+      <description><![CDATA[<p>Manifold AI 流形空间联合清华等开源手部世界模型评测基准 HandWorldBench：从指尖出发的世界模型标尺</p><p>标签: HandWorldBench, 清华大学, Manifold AI 流形空间</p>]]></description>
+      <category>HandWorldBench</category>
+      <category>清华大学</category>
+      <category>Manifold AI 流形空间</category>
+    </item>
+    <item>
+      <title><![CDATA[豆包个人AI助理产品“小豆”开启邀请制公测]]></title>
+      <link>https://www.jiqizhixin.com/articles/c87739a6-3c00-4650-a802-bd74d415962b</link>
+      <guid>c87739a6-3c00-4650-a802-bd74d415962b</guid>
+      <pubDate>Tue, 24 Nov 2026 14:23:28 +0000</pubDate>
+      <description><![CDATA[<p>豆包个人AI助理产品“小豆”开启邀请制公测</p><p>标签: 小豆, 个人AI助理, 豆包</p>]]></description>
+      <category>小豆</category>
+      <category>个人AI助理</category>
+      <category>豆包</category>
+    </item>
+    <item>
+      <title><![CDATA[从识别疾病到预测风险，蚂蚁百灵开源医疗健康预测模型LingSante Pulse]]></title>
+      <link>https://www.jiqizhixin.com/articles/9e67cbcd-0f9e-4b4d-a1da-bbf21a6f6aea</link>
+      <guid>9e67cbcd-0f9e-4b4d-a1da-bbf21a6f6aea</guid>
+      <pubDate>Tue, 24 Nov 2026 14:23:32 +0000</pubDate>
+      <description><![CDATA[<p>从识别疾病到预测风险，蚂蚁百灵开源医疗健康预测模型LingSante Pulse</p><p>标签: 蚂蚁百灵, LingSante Pulse, 医疗健康预测模型</p>]]></description>
+      <category>蚂蚁百灵</category>
+      <category>LingSante Pulse</category>
+      <category>医疗健康预测模型</category>
+    </item>
+    <item>
+      <title><![CDATA[Gemini智能体寻找更快的量子算法，DeepMind引入形式化验证]]></title>
+      <link>https://www.jiqizhixin.com/articles/b6ac5162-57da-4c0e-a799-f1c182dfedb4</link>
+      <guid>b6ac5162-57da-4c0e-a799-f1c182dfedb4</guid>
+      <pubDate>Tue, 24 Nov 2026 14:24:06 +0000</pubDate>
+      <description><![CDATA[<p>Gemini智能体寻找更快的量子算法，DeepMind引入形式化验证</p><p>标签: AI for Science（AI4S）, Google Quantum AI, Google DeepMind</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>Google Quantum AI</category>
+      <category>Google DeepMind</category>
+    </item>
     <item>
       <title><![CDATA[560B开源，医疗健康版DeepSeek来了！]]></title>
       <link>https://www.jiqizhixin.com/articles/d5ba3a2b-ecb3-4a0c-8399-04730496e1d9</link>
@@ -34,91 +122,6 @@
       <category>JEPA4R</category>
       <category>UC Berkeley BAIR</category>
       <category>北京大学</category>
-    </item>
-    <item>
-      <title><![CDATA[把质谱仪压缩进 10 升以内 | 合肥团队用 MEMS 芯片探索小型化新路径]]></title>
-      <link>https://www.jiqizhixin.com/articles/b5ddfbaf-4af3-4bff-a438-296a67a3bf36</link>
-      <guid>b5ddfbaf-4af3-4bff-a438-296a67a3bf36</guid>
-      <pubDate>Tue, 24 Nov 2026 03:33:12 +0000</pubDate>
-      <description><![CDATA[<p>把质谱仪压缩进 10 升以内 | 合肥团队用 MEMS 芯片探索小型化新路径</p><p>标签: MEMS, 合肥物质科学研究院</p>]]></description>
-      <category>MEMS</category>
-      <category>合肥物质科学研究院</category>
-    </item>
-    <item>
-      <title><![CDATA[突发！黄仁勋重任英伟达CEO，恢复全部职位]]></title>
-      <link>https://www.jiqizhixin.com/articles/51152680-76ff-4bf9-bf9a-5fdd076c2b20</link>
-      <guid>51152680-76ff-4bf9-bf9a-5fdd076c2b20</guid>
-      <pubDate>Mon, 23 Nov 2026 16:38:24 +0000</pubDate>
-      <description><![CDATA[<p>突发！黄仁勋重任英伟达CEO，恢复全部职位</p><p>标签: 黄仁勋（Jensen Huang）, 英伟达</p>]]></description>
-      <category>黄仁勋（Jensen Huang）</category>
-      <category>英伟达</category>
-    </item>
-    <item>
-      <title><![CDATA[北大开源PipeLink，让GPU算子优化成为可复用组件]]></title>
-      <link>https://www.jiqizhixin.com/articles/7810f861-8bde-4331-9e91-406ca454fe46</link>
-      <guid>7810f861-8bde-4331-9e91-406ca454fe46</guid>
-      <pubDate>Mon, 23 Nov 2026 16:38:24 +0000</pubDate>
-      <description><![CDATA[<p>北大开源PipeLink，让GPU算子优化成为可复用组件</p><p>标签: PipeLink, 北京大学</p>]]></description>
-      <category>PipeLink</category>
-      <category>北京大学</category>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，GLM-5.4上线！全新的Loop Transformer架构亮相]]></title>
-      <link>https://www.jiqizhixin.com/articles/c93befe6-059c-4c3f-94be-79c701d9bf22</link>
-      <guid>c93befe6-059c-4c3f-94be-79c701d9bf22</guid>
-      <pubDate>Mon, 23 Nov 2026 16:38:52 +0000</pubDate>
-      <description><![CDATA[<p>刚刚，GLM-5.4上线！全新的Loop Transformer架构亮相</p><p>标签: Loop Transformer, GLM-5.4</p>]]></description>
-      <category>Loop Transformer</category>
-      <category>GLM-5.4</category>
-    </item>
-    <item>
-      <title><![CDATA[微信新开源模型，试图打造面向端侧应用的瑞士军刀]]></title>
-      <link>https://www.jiqizhixin.com/articles/04d277dd-7354-42be-8d4e-45361ef8f57c</link>
-      <guid>04d277dd-7354-42be-8d4e-45361ef8f57c</guid>
-      <pubDate>Mon, 23 Nov 2026 16:38:52 +0000</pubDate>
-      <description><![CDATA[<p>微信新开源模型，试图打造面向端侧应用的瑞士军刀</p><p>标签: WePocketModel, 微信</p>]]></description>
-      <category>WePocketModel</category>
-      <category>微信</category>
-    </item>
-    <item>
-      <title><![CDATA[为下一代智算系统搭建开放模拟实验室，清华、无问芯穹开源系统级仿真平台Uni3Sim]]></title>
-      <link>https://www.jiqizhixin.com/articles/04aad6e3-0e15-43a4-b47b-b4f8afaf08e1</link>
-      <guid>04aad6e3-0e15-43a4-b47b-b4f8afaf08e1</guid>
-      <pubDate>Mon, 23 Nov 2026 16:39:20 +0000</pubDate>
-      <description><![CDATA[<p>为下一代智算系统搭建开放模拟实验室，清华、无问芯穹开源系统级仿真平台Uni3Sim</p><p>标签: Uni3Sim, 清华大学, 无问芯穹（Infinigence-AI）</p>]]></description>
-      <category>Uni3Sim</category>
-      <category>清华大学</category>
-      <category>无问芯穹（Infinigence-AI）</category>
-    </item>
-    <item>
-      <title><![CDATA[Meta亚历山大王：超级智能即将到来，AI将接管一切科学研究]]></title>
-      <link>https://www.jiqizhixin.com/articles/5eab0155-b08e-4a3a-91d2-678fe8dc32eb</link>
-      <guid>5eab0155-b08e-4a3a-91d2-678fe8dc32eb</guid>
-      <pubDate>Mon, 23 Nov 2026 16:39:20 +0000</pubDate>
-      <description><![CDATA[<p>Meta亚历山大王：超级智能即将到来，AI将接管一切科学研究</p><p>标签: 超级智能, Alexandr Wang, MeTA</p>]]></description>
-      <category>超级智能</category>
-      <category>Alexandr Wang</category>
-      <category>MeTA</category>
-    </item>
-    <item>
-      <title><![CDATA[NeurIPS 26｜新国立提出PEEK：扩散生成采样「偷看」一步，相同步数下FID可压49点，即插即用]]></title>
-      <link>https://www.jiqizhixin.com/articles/0fd672a4-0ee3-4067-a1d9-5ffb7c838ea8</link>
-      <guid>0fd672a4-0ee3-4067-a1d9-5ffb7c838ea8</guid>
-      <pubDate>Mon, 23 Nov 2026 16:39:49 +0000</pubDate>
-      <description><![CDATA[<p>NeurIPS 26｜新国立提出PEEK：扩散生成采样「偷看」一步，相同步数下FID可压49点，即插即用</p><p>标签: NeurIPS 2026, PEEK, 新加坡国立大学</p>]]></description>
-      <category>NeurIPS 2026</category>
-      <category>PEEK</category>
-      <category>新加坡国立大学</category>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI发布药物化学新基准，跨冲突性质识别有前景候选药物]]></title>
-      <link>https://www.jiqizhixin.com/articles/32e8af29-38e1-46ed-8ac1-28def4023d2c</link>
-      <guid>32e8af29-38e1-46ed-8ac1-28def4023d2c</guid>
-      <pubDate>Mon, 23 Nov 2026 16:39:50 +0000</pubDate>
-      <description><![CDATA[<p>OpenAI发布药物化学新基准，跨冲突性质识别有前景候选药物</p><p>标签: AI for Science（AI4S）, MedChemBench, OpenAI</p>]]></description>
-      <category>AI for Science（AI4S）</category>
-      <category>MedChemBench</category>
-      <category>OpenAI</category>
     </item>
   </channel>
 </rss>
