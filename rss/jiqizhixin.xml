@@ -4,8 +4,46 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 23 Nov 2026 16:40:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 03:33:12 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[560B开源，医疗健康版DeepSeek来了！]]></title>
+      <link>https://www.jiqizhixin.com/articles/d5ba3a2b-ecb3-4a0c-8399-04730496e1d9</link>
+      <guid>d5ba3a2b-ecb3-4a0c-8399-04730496e1d9</guid>
+      <pubDate>Tue, 24 Nov 2026 03:32:30 +0000</pubDate>
+      <description><![CDATA[<p>560B开源，医疗健康版DeepSeek来了！</p><p>标签: 百灵医疗健康模型, 蚂蚁集团</p>]]></description>
+      <category>百灵医疗健康模型</category>
+      <category>蚂蚁集团</category>
+    </item>
+    <item>
+      <title><![CDATA[继黎曼猜想后，Claude给出VP≠VNP证明！通过Lean 4形式化验证]]></title>
+      <link>https://www.jiqizhixin.com/articles/33db949c-9f4a-4766-b0a4-fb8a5d34ebaf</link>
+      <guid>33db949c-9f4a-4766-b0a4-fb8a5d34ebaf</guid>
+      <pubDate>Tue, 24 Nov 2026 03:32:43 +0000</pubDate>
+      <description><![CDATA[<p>继黎曼猜想后，Claude给出VP≠VNP证明！通过Lean 4形式化验证</p><p>标签: Claude, Valiant 猜想, Anthropic</p>]]></description>
+      <category>Claude</category>
+      <category>Valiant 猜想</category>
+      <category>Anthropic</category>
+    </item>
+    <item>
+      <title><![CDATA[从2D图像到3D点云，机器人操作性能能提升多少？北大等团队提出JEPA4R]]></title>
+      <link>https://www.jiqizhixin.com/articles/8c835bcd-b906-4703-9a37-dbad63c5382f</link>
+      <guid>8c835bcd-b906-4703-9a37-dbad63c5382f</guid>
+      <pubDate>Tue, 24 Nov 2026 03:33:02 +0000</pubDate>
+      <description><![CDATA[<p>从2D图像到3D点云，机器人操作性能能提升多少？北大等团队提出JEPA4R</p><p>标签: JEPA4R, UC Berkeley BAIR, 北京大学</p>]]></description>
+      <category>JEPA4R</category>
+      <category>UC Berkeley BAIR</category>
+      <category>北京大学</category>
+    </item>
+    <item>
+      <title><![CDATA[把质谱仪压缩进 10 升以内 | 合肥团队用 MEMS 芯片探索小型化新路径]]></title>
+      <link>https://www.jiqizhixin.com/articles/b5ddfbaf-4af3-4bff-a438-296a67a3bf36</link>
+      <guid>b5ddfbaf-4af3-4bff-a438-296a67a3bf36</guid>
+      <pubDate>Tue, 24 Nov 2026 03:33:12 +0000</pubDate>
+      <description><![CDATA[<p>把质谱仪压缩进 10 升以内 | 合肥团队用 MEMS 芯片探索小型化新路径</p><p>标签: MEMS, 合肥物质科学研究院</p>]]></description>
+      <category>MEMS</category>
+      <category>合肥物质科学研究院</category>
+    </item>
     <item>
       <title><![CDATA[突发！黄仁勋重任英伟达CEO，恢复全部职位]]></title>
       <link>https://www.jiqizhixin.com/articles/51152680-76ff-4bf9-bf9a-5fdd076c2b20</link>
@@ -81,43 +119,6 @@
       <category>AI for Science（AI4S）</category>
       <category>MedChemBench</category>
       <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[蚂蚁发布百灵医疗健康大模型，阿福能AI“望闻问切”了]]></title>
-      <link>https://www.jiqizhixin.com/articles/8e7667af-625e-4971-8137-780275d03cb3</link>
-      <guid>8e7667af-625e-4971-8137-780275d03cb3</guid>
-      <pubDate>Mon, 23 Nov 2026 16:40:17 +0000</pubDate>
-      <description><![CDATA[<p>蚂蚁发布百灵医疗健康大模型，阿福能AI“望闻问切”了</p><p>标签: 百灵医疗健康大模型, 蚂蚁集团</p>]]></description>
-      <category>百灵医疗健康大模型</category>
-      <category>蚂蚁集团</category>
-    </item>
-    <item>
-      <title><![CDATA[合肥这款健康AI大模型适配华为昇腾，相关成果已服务超百万人]]></title>
-      <link>https://www.jiqizhixin.com/articles/b957084b-22f3-479e-9b43-504761ddabfd</link>
-      <guid>b957084b-22f3-479e-9b43-504761ddabfd</guid>
-      <pubDate>Mon, 23 Nov 2026 04:16:53 +0000</pubDate>
-      <description><![CDATA[<p>合肥这款健康AI大模型适配华为昇腾，相关成果已服务超百万人</p><p>标签: IIMedGPT, 合肥物质院智能所, 2026人工智能创新生态大会</p>]]></description>
-      <category>IIMedGPT</category>
-      <category>合肥物质院智能所</category>
-      <category>2026人工智能创新生态大会</category>
-    </item>
-    <item>
-      <title><![CDATA[全球首次！DeepSeek与FlashAttention的多个生产级AI算子获得形式化验证]]></title>
-      <link>https://www.jiqizhixin.com/articles/e833f992-756b-4136-9af6-a16cdfcfd16f</link>
-      <guid>e833f992-756b-4136-9af6-a16cdfcfd16f</guid>
-      <pubDate>Mon, 23 Nov 2026 04:16:54 +0000</pubDate>
-      <description><![CDATA[<p>全球首次！DeepSeek与FlashAttention的多个生产级AI算子获得形式化验证</p><p>标签: TensorLean, 形式化验证（Formal Verification）</p>]]></description>
-      <category>TensorLean</category>
-      <category>形式化验证（Formal Verification）</category>
-    </item>
-    <item>
-      <title><![CDATA[离散code能成为通用视觉表示吗？美团LongCat开源dNaViT]]></title>
-      <link>https://www.jiqizhixin.com/articles/f8382cf2-77fa-417e-8415-4d7c0c4c0d06</link>
-      <guid>f8382cf2-77fa-417e-8415-4d7c0c4c0d06</guid>
-      <pubDate>Mon, 23 Nov 2026 04:17:21 +0000</pubDate>
-      <description><![CDATA[<p>离散code能成为通用视觉表示吗？美团LongCat开源dNaViT</p><p>标签: dNaViT, 美团</p>]]></description>
-      <category>dNaViT</category>
-      <category>美团</category>
     </item>
   </channel>
 </rss>
