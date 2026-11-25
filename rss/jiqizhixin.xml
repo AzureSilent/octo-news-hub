@@ -4,8 +4,101 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Nov 2026 00:11:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 10:38:10 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Karpathy提出的LLM Wiki，中国公司做出来了！lumimax八项公开基准测试全线领先]]></title>
+      <link>https://www.jiqizhixin.com/articles/672ce0c4-1c4b-4ca0-a1f9-a79189fbe4f9</link>
+      <guid>672ce0c4-1c4b-4ca0-a1f9-a79189fbe4f9</guid>
+      <pubDate>Wed, 25 Nov 2026 10:36:00 +0000</pubDate>
+      <description><![CDATA[<p>Karpathy提出的LLM Wiki，中国公司做出来了！lumimax八项公开基准测试全线领先</p><p>标签: Agentic AI, lumimax, 海马云</p>]]></description>
+      <category>Agentic AI</category>
+      <category>lumimax</category>
+      <category>海马云</category>
+    </item>
+    <item>
+      <title><![CDATA[北大唐浩团队提出PanDWM：把六个相机拼成一张全景，驾驶世界模型直接生成可换视角的4D场景]]></title>
+      <link>https://www.jiqizhixin.com/articles/1c92f58a-5dc5-4289-b394-747d409d6afd</link>
+      <guid>1c92f58a-5dc5-4289-b394-747d409d6afd</guid>
+      <pubDate>Wed, 25 Nov 2026 10:35:50 +0000</pubDate>
+      <description><![CDATA[<p>北大唐浩团队提出PanDWM：把六个相机拼成一张全景，驾驶世界模型直接生成可换视角的4D场景</p><p>标签: PanDWM, 北京大学</p>]]></description>
+      <category>PanDWM</category>
+      <category>北京大学</category>
+    </item>
+    <item>
+      <title><![CDATA[OceanBase AI数据大会共识：AI要进核心业务，先盘活企业私有数据]]></title>
+      <link>https://www.jiqizhixin.com/articles/61fdb96f-5695-4489-b9b9-e135a2ec27c0</link>
+      <guid>61fdb96f-5695-4489-b9b9-e135a2ec27c0</guid>
+      <pubDate>Wed, 25 Nov 2026 10:36:31 +0000</pubDate>
+      <description><![CDATA[<p>OceanBase AI数据大会共识：AI要进核心业务，先盘活企业私有数据</p><p>标签: AI数据大会, OceanBase</p>]]></description>
+      <category>AI数据大会</category>
+      <category>OceanBase</category>
+    </item>
+    <item>
+      <title><![CDATA[华人计算机视觉泰斗、港科大权龙再创业！携手马尔奖得主与数十位00后海内外名校博士生，押注空间物理AI]]></title>
+      <link>https://www.jiqizhixin.com/articles/e9cea9a0-dda9-4ac7-b05d-584073659423</link>
+      <guid>e9cea9a0-dda9-4ac7-b05d-584073659423</guid>
+      <pubDate>Wed, 25 Nov 2026 10:36:32 +0000</pubDate>
+      <description><![CDATA[<p>华人计算机视觉泰斗、港科大权龙再创业！携手马尔奖得主与数十位00后海内外名校博士生，押注空间物理AI</p><p>标签: 计算机视觉, 权龙, Envision AI（格秩科技）</p>]]></description>
+      <category>计算机视觉</category>
+      <category>权龙</category>
+      <category>Envision AI（格秩科技）</category>
+    </item>
+    <item>
+      <title><![CDATA[Infrathon：迈向RSI，首个Long Horizon AI Infra优化Benchmark]]></title>
+      <link>https://www.jiqizhixin.com/articles/15ab9447-a1e4-4d52-ac89-ee22c1a84266</link>
+      <guid>15ab9447-a1e4-4d52-ac89-ee22c1a84266</guid>
+      <pubDate>Wed, 25 Nov 2026 10:37:07 +0000</pubDate>
+      <description><![CDATA[<p>Infrathon：迈向RSI，首个Long Horizon AI Infra优化Benchmark</p><p>标签: Infrathon, 华盛顿大学（UW）</p>]]></description>
+      <category>Infrathon</category>
+      <category>华盛顿大学（UW）</category>
+    </item>
+    <item>
+      <title><![CDATA[曾负责 Grok 大规模推理基础设施，马斯克旗下 xAI 前核心成员回归中科大]]></title>
+      <link>https://www.jiqizhixin.com/articles/30bf19da-0e9c-4981-8000-ffef1c3ab98e</link>
+      <guid>30bf19da-0e9c-4981-8000-ffef1c3ab98e</guid>
+      <pubDate>Wed, 25 Nov 2026 10:37:03 +0000</pubDate>
+      <description><![CDATA[<p>曾负责 Grok 大规模推理基础设施，马斯克旗下 xAI 前核心成员回归中科大</p><p>标签: 吴衎（Kan Wu）, 中国科学技术大学</p>]]></description>
+      <category>吴衎（Kan Wu）</category>
+      <category>中国科学技术大学</category>
+    </item>
+    <item>
+      <title><![CDATA[通用大模型已经杀进来了，具身智能靠「微调续命」还能撑多久？]]></title>
+      <link>https://www.jiqizhixin.com/articles/e857bd40-b04c-417c-8a5a-d9555867f640</link>
+      <guid>e857bd40-b04c-417c-8a5a-d9555867f640</guid>
+      <pubDate>Wed, 25 Nov 2026 10:37:31 +0000</pubDate>
+      <description><![CDATA[<p>通用大模型已经杀进来了，具身智能靠「微调续命」还能撑多久？</p><p>标签: WALL-OSS-1.0, 具身基础模型, 自变量机器人（X Square Robot）</p>]]></description>
+      <category>WALL-OSS-1.0</category>
+      <category>具身基础模型</category>
+      <category>自变量机器人（X Square Robot）</category>
+    </item>
+    <item>
+      <title><![CDATA[不再一味堆参数：General Looped Model向计算深度要智能]]></title>
+      <link>https://www.jiqizhixin.com/articles/91fbe3d3-6599-4117-b5c3-b69cc66edf81</link>
+      <guid>91fbe3d3-6599-4117-b5c3-b69cc66edf81</guid>
+      <pubDate>Wed, 25 Nov 2026 10:37:41 +0000</pubDate>
+      <description><![CDATA[<p>不再一味堆参数：General Looped Model向计算深度要智能</p><p>标签: General Looped Model（通用循环模型）, 脸谱心智（FaceMind）</p>]]></description>
+      <category>General Looped Model（通用循环模型）</category>
+      <category>脸谱心智（FaceMind）</category>
+    </item>
+    <item>
+      <title><![CDATA[突发！模型强到不敢发？OpenAI、Anthropic内部开始讨论「停训」]]></title>
+      <link>https://www.jiqizhixin.com/articles/c73e51ff-3fc2-462b-816e-213beee2069a</link>
+      <guid>c73e51ff-3fc2-462b-816e-213beee2069a</guid>
+      <pubDate>Wed, 25 Nov 2026 10:38:08 +0000</pubDate>
+      <description><![CDATA[<p>突发！模型强到不敢发？OpenAI、Anthropic内部开始讨论「停训」</p><p>标签: Anthropic, OpenAI</p>]]></description>
+      <category>Anthropic</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[Google RSI 新作：跨模型、跨数据，如何让 Agent 带着经验持续自我改进？]]></title>
+      <link>https://www.jiqizhixin.com/articles/6bb506f4-2d4b-4ba9-ab9b-1719d791a960</link>
+      <guid>6bb506f4-2d4b-4ba9-ab9b-1719d791a960</guid>
+      <pubDate>Wed, 25 Nov 2026 10:38:10 +0000</pubDate>
+      <description><![CDATA[<p>Google RSI 新作：跨模型、跨数据，如何让 Agent 带着经验持续自我改进？</p><p>标签: Self-Improvement Memory（SIM）, Google</p>]]></description>
+      <category>Self-Improvement Memory（SIM）</category>
+      <category>Google</category>
+    </item>
     <item>
       <title><![CDATA[看一遍就会，60ms出手，最强生产力模型来了]]></title>
       <link>https://www.jiqizhixin.com/articles/7700abe9-cf91-47a4-abaf-2930cd8097d3</link>
@@ -24,104 +117,6 @@
       <category>UReason</category>
       <category>加州大学圣地亚哥分校（UCSD）</category>
       <category>EMNLP 2026</category>
-    </item>
-    <item>
-      <title><![CDATA[具身智能商业化提速！网易灵动与柳工达成战略合作，单季作业量超去年全年]]></title>
-      <link>https://www.jiqizhixin.com/articles/f5239e13-9ce1-40bf-a882-c6214a50b9fb</link>
-      <guid>f5239e13-9ce1-40bf-a882-c6214a50b9fb</guid>
-      <pubDate>Tue, 24 Nov 2026 14:22:30 +0000</pubDate>
-      <description><![CDATA[<p>具身智能商业化提速！网易灵动与柳工达成战略合作，单季作业量超去年全年</p><p>标签: 柳工集团, 网易灵动, bauma CHINA 2026</p>]]></description>
-      <category>柳工集团</category>
-      <category>网易灵动</category>
-      <category>bauma CHINA 2026</category>
-    </item>
-    <item>
-      <title><![CDATA[迈向具身智能的GPT时刻！Einsia AI开源首个万级具身RL环境RoboUniverse-10K]]></title>
-      <link>https://www.jiqizhixin.com/articles/de7d9b2c-e729-4d98-8af5-e96858badb79</link>
-      <guid>de7d9b2c-e729-4d98-8af5-e96858badb79</guid>
-      <pubDate>Tue, 24 Nov 2026 14:22:31 +0000</pubDate>
-      <description><![CDATA[<p>迈向具身智能的GPT时刻！Einsia AI开源首个万级具身RL环境RoboUniverse-10K</p><p>标签: RoboUniverse-10K, 清华大学, Einsia AI</p>]]></description>
-      <category>RoboUniverse-10K</category>
-      <category>清华大学</category>
-      <category>Einsia AI</category>
-    </item>
-    <item>
-      <title><![CDATA[多教师LLM蒸馏新突破：从参数更新几何出发，PMOPD让模型同时学好数学、推理与代码]]></title>
-      <link>https://www.jiqizhixin.com/articles/9689caae-d2ee-45f0-b3ef-a1f83d0af1c6</link>
-      <guid>9689caae-d2ee-45f0-b3ef-a1f83d0af1c6</guid>
-      <pubDate>Tue, 24 Nov 2026 14:22:59 +0000</pubDate>
-      <description><![CDATA[<p>多教师LLM蒸馏新突破：从参数更新几何出发，PMOPD让模型同时学好数学、推理与代码</p><p>标签: PMOPD, 蚂蚁集团</p>]]></description>
-      <category>PMOPD</category>
-      <category>蚂蚁集团</category>
-    </item>
-    <item>
-      <title><![CDATA[Manifold AI 流形空间联合清华等开源手部世界模型评测基准 HandWorldBench：从指尖出发的世界模型标尺]]></title>
-      <link>https://www.jiqizhixin.com/articles/c1cff69a-00e6-4174-aa8b-a702685f25d6</link>
-      <guid>c1cff69a-00e6-4174-aa8b-a702685f25d6</guid>
-      <pubDate>Tue, 24 Nov 2026 14:23:00 +0000</pubDate>
-      <description><![CDATA[<p>Manifold AI 流形空间联合清华等开源手部世界模型评测基准 HandWorldBench：从指尖出发的世界模型标尺</p><p>标签: HandWorldBench, 清华大学, Manifold AI 流形空间</p>]]></description>
-      <category>HandWorldBench</category>
-      <category>清华大学</category>
-      <category>Manifold AI 流形空间</category>
-    </item>
-    <item>
-      <title><![CDATA[豆包个人AI助理产品“小豆”开启邀请制公测]]></title>
-      <link>https://www.jiqizhixin.com/articles/c87739a6-3c00-4650-a802-bd74d415962b</link>
-      <guid>c87739a6-3c00-4650-a802-bd74d415962b</guid>
-      <pubDate>Tue, 24 Nov 2026 14:23:28 +0000</pubDate>
-      <description><![CDATA[<p>豆包个人AI助理产品“小豆”开启邀请制公测</p><p>标签: 小豆, 个人AI助理, 豆包</p>]]></description>
-      <category>小豆</category>
-      <category>个人AI助理</category>
-      <category>豆包</category>
-    </item>
-    <item>
-      <title><![CDATA[从识别疾病到预测风险，蚂蚁百灵开源医疗健康预测模型LingSante Pulse]]></title>
-      <link>https://www.jiqizhixin.com/articles/9e67cbcd-0f9e-4b4d-a1da-bbf21a6f6aea</link>
-      <guid>9e67cbcd-0f9e-4b4d-a1da-bbf21a6f6aea</guid>
-      <pubDate>Tue, 24 Nov 2026 14:23:32 +0000</pubDate>
-      <description><![CDATA[<p>从识别疾病到预测风险，蚂蚁百灵开源医疗健康预测模型LingSante Pulse</p><p>标签: 蚂蚁百灵, LingSante Pulse, 医疗健康预测模型</p>]]></description>
-      <category>蚂蚁百灵</category>
-      <category>LingSante Pulse</category>
-      <category>医疗健康预测模型</category>
-    </item>
-    <item>
-      <title><![CDATA[Gemini智能体寻找更快的量子算法，DeepMind引入形式化验证]]></title>
-      <link>https://www.jiqizhixin.com/articles/b6ac5162-57da-4c0e-a799-f1c182dfedb4</link>
-      <guid>b6ac5162-57da-4c0e-a799-f1c182dfedb4</guid>
-      <pubDate>Tue, 24 Nov 2026 14:24:06 +0000</pubDate>
-      <description><![CDATA[<p>Gemini智能体寻找更快的量子算法，DeepMind引入形式化验证</p><p>标签: AI for Science（AI4S）, Google Quantum AI, Google DeepMind</p>]]></description>
-      <category>AI for Science（AI4S）</category>
-      <category>Google Quantum AI</category>
-      <category>Google DeepMind</category>
-    </item>
-    <item>
-      <title><![CDATA[560B开源，医疗健康版DeepSeek来了！]]></title>
-      <link>https://www.jiqizhixin.com/articles/d5ba3a2b-ecb3-4a0c-8399-04730496e1d9</link>
-      <guid>d5ba3a2b-ecb3-4a0c-8399-04730496e1d9</guid>
-      <pubDate>Tue, 24 Nov 2026 03:32:30 +0000</pubDate>
-      <description><![CDATA[<p>560B开源，医疗健康版DeepSeek来了！</p><p>标签: 百灵医疗健康模型, 蚂蚁集团</p>]]></description>
-      <category>百灵医疗健康模型</category>
-      <category>蚂蚁集团</category>
-    </item>
-    <item>
-      <title><![CDATA[继黎曼猜想后，Claude给出VP≠VNP证明！通过Lean 4形式化验证]]></title>
-      <link>https://www.jiqizhixin.com/articles/33db949c-9f4a-4766-b0a4-fb8a5d34ebaf</link>
-      <guid>33db949c-9f4a-4766-b0a4-fb8a5d34ebaf</guid>
-      <pubDate>Tue, 24 Nov 2026 03:32:43 +0000</pubDate>
-      <description><![CDATA[<p>继黎曼猜想后，Claude给出VP≠VNP证明！通过Lean 4形式化验证</p><p>标签: Claude, Valiant 猜想, Anthropic</p>]]></description>
-      <category>Claude</category>
-      <category>Valiant 猜想</category>
-      <category>Anthropic</category>
-    </item>
-    <item>
-      <title><![CDATA[从2D图像到3D点云，机器人操作性能能提升多少？北大等团队提出JEPA4R]]></title>
-      <link>https://www.jiqizhixin.com/articles/8c835bcd-b906-4703-9a37-dbad63c5382f</link>
-      <guid>8c835bcd-b906-4703-9a37-dbad63c5382f</guid>
-      <pubDate>Tue, 24 Nov 2026 03:33:02 +0000</pubDate>
-      <description><![CDATA[<p>从2D图像到3D点云，机器人操作性能能提升多少？北大等团队提出JEPA4R</p><p>标签: JEPA4R, UC Berkeley BAIR, 北京大学</p>]]></description>
-      <category>JEPA4R</category>
-      <category>UC Berkeley BAIR</category>
-      <category>北京大学</category>
     </item>
   </channel>
 </rss>
