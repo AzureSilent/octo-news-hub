@@ -4,8 +4,17 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Nov 2026 10:38:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:45:21 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[全链路任务对齐，浙江人形升级 NAVIAI 工业作业能力]]></title>
+      <link>https://www.jiqizhixin.com/articles/cdc3e979-ff1f-41f5-a788-863057939fd4</link>
+      <guid>cdc3e979-ff1f-41f5-a788-863057939fd4</guid>
+      <pubDate>Wed, 25 Nov 2026 20:45:21 +0000</pubDate>
+      <description><![CDATA[<p>全链路任务对齐，浙江人形升级 NAVIAI 工业作业能力</p><p>标签: 具身智能, 人形机器人</p>]]></description>
+      <category>具身智能</category>
+      <category>人形机器人</category>
+    </item>
     <item>
       <title><![CDATA[Karpathy提出的LLM Wiki，中国公司做出来了！lumimax八项公开基准测试全线领先]]></title>
       <link>https://www.jiqizhixin.com/articles/672ce0c4-1c4b-4ca0-a1f9-a79189fbe4f9</link>
@@ -107,16 +116,6 @@
       <description><![CDATA[<p>看一遍就会，60ms出手，最强生产力模型来了</p><p>标签: G0.7, 星海图（Galaxea）</p>]]></description>
       <category>G0.7</category>
       <category>星海图（Galaxea）</category>
-    </item>
-    <item>
-      <title><![CDATA[EMNLP 2026杰出论文 | 统一多模态模型，想对了却画错了？UCSD、USC、UIUC与CMU提出UReason]]></title>
-      <link>https://www.jiqizhixin.com/articles/96da974c-6ab4-4235-a530-ca8f99ebb40a</link>
-      <guid>96da974c-6ab4-4235-a530-ca8f99ebb40a</guid>
-      <pubDate>Tue, 24 Nov 2026 14:22:00 +0000</pubDate>
-      <description><![CDATA[<p>EMNLP 2026杰出论文 | 统一多模态模型，想对了却画错了？UCSD、USC、UIUC与CMU提出UReason</p><p>标签: UReason, 加州大学圣地亚哥分校（UCSD）, EMNLP 2026</p>]]></description>
-      <category>UReason</category>
-      <category>加州大学圣地亚哥分校（UCSD）</category>
-      <category>EMNLP 2026</category>
     </item>
   </channel>
 </rss>
