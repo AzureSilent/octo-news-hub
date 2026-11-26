@@ -4,8 +4,97 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 26 Nov 2026 03:50:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 13:19:02 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[告别「假精细」！VAST发布Tripo H3.5 Preview，AI建模开始较真了]]></title>
+      <link>https://www.jiqizhixin.com/articles/fadec8f2-7a29-4155-8d04-7c9a0816ecfb</link>
+      <guid>fadec8f2-7a29-4155-8d04-7c9a0816ecfb</guid>
+      <pubDate>Thu, 26 Nov 2026 13:17:02 +0000</pubDate>
+      <description><![CDATA[<p>告别「假精细」！VAST发布Tripo H3.5 Preview，AI建模开始较真了</p><p>标签: Tripo H3.5 Preview, VAST（三启万物）</p>]]></description>
+      <category>Tripo H3.5 Preview</category>
+      <category>VAST（三启万物）</category>
+    </item>
+    <item>
+      <title><![CDATA[传RSA已被OpenAI与Anthropic攻破，互联网加密要变天了？]]></title>
+      <link>https://www.jiqizhixin.com/articles/967d198f-3742-4d6d-b938-0645425a77ae</link>
+      <guid>967d198f-3742-4d6d-b938-0645425a77ae</guid>
+      <pubDate>Thu, 26 Nov 2026 13:17:02 +0000</pubDate>
+      <description><![CDATA[<p>传RSA已被OpenAI与Anthropic攻破，互联网加密要变天了？</p><p>标签: 密码学, Anthropic, OpenAI</p>]]></description>
+      <category>密码学</category>
+      <category>Anthropic</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[SteerSound：迈向更可靠的音频编辑]]></title>
+      <link>https://www.jiqizhixin.com/articles/674f8976-09e4-4b40-80a7-6462404c947e</link>
+      <guid>674f8976-09e4-4b40-80a7-6462404c947e</guid>
+      <pubDate>Thu, 26 Nov 2026 13:17:32 +0000</pubDate>
+      <description><![CDATA[<p>SteerSound：迈向更可靠的音频编辑</p><p>标签: SteerSound, STEER, 腾讯, 中国人民大学</p>]]></description>
+      <category>SteerSound</category>
+      <category>STEER</category>
+      <category>腾讯</category>
+      <category>中国人民大学</category>
+    </item>
+    <item>
+      <title><![CDATA[钛虎机器人推出轻量化关节模组 Lite-1系列，为人形机器人量产释放设计空间]]></title>
+      <link>https://www.jiqizhixin.com/articles/18d09880-8975-42ac-92c3-2b51fe7ac5f4</link>
+      <guid>18d09880-8975-42ac-92c3-2b51fe7ac5f4</guid>
+      <pubDate>Thu, 26 Nov 2026 13:17:32 +0000</pubDate>
+      <description><![CDATA[<p>钛虎机器人推出轻量化关节模组 Lite-1系列，为人形机器人量产释放设计空间</p><p>标签: 人形机器人, 钛虎机器人</p>]]></description>
+      <category>人形机器人</category>
+      <category>钛虎机器人</category>
+    </item>
+    <item>
+      <title><![CDATA[GPT-6 Astra或已发现大一统理论？斯坦福物理论文引热议]]></title>
+      <link>https://www.jiqizhixin.com/articles/e1d264eb-2d2a-45ea-9226-f1294d11f208</link>
+      <guid>e1d264eb-2d2a-45ea-9226-f1294d11f208</guid>
+      <pubDate>Thu, 26 Nov 2026 13:18:01 +0000</pubDate>
+      <description><![CDATA[<p>GPT-6 Astra或已发现大一统理论？斯坦福物理论文引热议</p><p>标签: GPT-6 Astra, 物理学, 引力代数</p>]]></description>
+      <category>GPT-6 Astra</category>
+      <category>物理学</category>
+      <category>引力代数</category>
+    </item>
+    <item>
+      <title><![CDATA[用代码拓展视频生成的能力边界，可灵联合北大南大提出Coda-DaVinci，重新思考 AI 视频生成中的控制与创造]]></title>
+      <link>https://www.jiqizhixin.com/articles/74c3aca3-8c45-4144-be79-d862c213ff02</link>
+      <guid>74c3aca3-8c45-4144-be79-d862c213ff02</guid>
+      <pubDate>Thu, 26 Nov 2026 13:18:04 +0000</pubDate>
+      <description><![CDATA[<p>用代码拓展视频生成的能力边界，可灵联合北大南大提出Coda-DaVinci，重新思考 AI 视频生成中的控制与创造</p><p>标签: Code2Video, Coda-DaVinci, 南京大学</p>]]></description>
+      <category>Code2Video</category>
+      <category>Coda-DaVinci</category>
+      <category>南京大学</category>
+    </item>
+    <item>
+      <title><![CDATA[97%的识别准确率，DeepMind让AI从质谱碎片中识别未知分子]]></title>
+      <link>https://www.jiqizhixin.com/articles/a7f6e22b-bd3e-4a17-9a6e-51a0f43be3bc</link>
+      <guid>a7f6e22b-bd3e-4a17-9a6e-51a0f43be3bc</guid>
+      <pubDate>Thu, 26 Nov 2026 13:18:32 +0000</pubDate>
+      <description><![CDATA[<p>97%的识别准确率，DeepMind让AI从质谱碎片中识别未知分子</p><p>标签: AI for Science（AI4S）, Mass Spec Skills, Google Antigravity, Google DeepMind</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>Mass Spec Skills</category>
+      <category>Google Antigravity</category>
+      <category>Google DeepMind</category>
+    </item>
+    <item>
+      <title><![CDATA[智源REAL开放日：物理AI从跑分表演到真实世界的一场大考]]></title>
+      <link>https://www.jiqizhixin.com/articles/e2642797-cfed-4d0d-9ad1-7898438da4b0</link>
+      <guid>e2642797-cfed-4d0d-9ad1-7898438da4b0</guid>
+      <pubDate>Thu, 26 Nov 2026 13:18:35 +0000</pubDate>
+      <description><![CDATA[<p>智源REAL开放日：物理AI从跑分表演到真实世界的一场大考</p><p>标签: 智源 REAL 物理 AI 开放日, 北京智源人工智能研究院</p>]]></description>
+      <category>智源 REAL 物理 AI 开放日</category>
+      <category>北京智源人工智能研究院</category>
+    </item>
+    <item>
+      <title><![CDATA[NeurIPS 2026 | 给长上下文推理瘦身：CompilerKV仅保留原始Prefill KV缓存的1.56%，解码吞吐提升2.45倍]]></title>
+      <link>https://www.jiqizhixin.com/articles/3c33a4e5-21ad-4c25-89d3-486560fab395</link>
+      <guid>3c33a4e5-21ad-4c25-89d3-486560fab395</guid>
+      <pubDate>Thu, 26 Nov 2026 13:19:02 +0000</pubDate>
+      <description><![CDATA[<p>NeurIPS 2026 | 给长上下文推理瘦身：CompilerKV仅保留原始Prefill KV缓存的1.56%，解码吞吐提升2.45倍</p><p>标签: CompilerKV, 中国科学院自动化研究所, NeurIPS 2026</p>]]></description>
+      <category>CompilerKV</category>
+      <category>中国科学院自动化研究所</category>
+      <category>NeurIPS 2026</category>
+    </item>
     <item>
       <title><![CDATA[顺德、上海、昆山之后，库卡为何在合肥新增一处创新中心？]]></title>
       <link>https://www.jiqizhixin.com/articles/22c099f9-d3c5-4214-a7fd-76dd7de5d609</link>
@@ -35,90 +124,6 @@
       <description><![CDATA[<p>NeurIPS 2026｜悉尼见！蚂蚁向全球AI人才发出邀约</p><p>标签: 蚂蚁集团, NeurIPS 2026</p>]]></description>
       <category>蚂蚁集团</category>
       <category>NeurIPS 2026</category>
-    </item>
-    <item>
-      <title><![CDATA[RepoFactory用低成本代理指标推动长程编程环境的递归改进]]></title>
-      <link>https://www.jiqizhixin.com/articles/23d83e3b-7b65-452b-b411-0952e1166dd6</link>
-      <guid>23d83e3b-7b65-452b-b411-0952e1166dd6</guid>
-      <pubDate>Thu, 26 Nov 2026 03:50:18 +0000</pubDate>
-      <description><![CDATA[<p>RepoFactory用低成本代理指标推动长程编程环境的递归改进</p><p>标签: 北京航空航天大学, RepoFactory</p>]]></description>
-      <category>北京航空航天大学</category>
-      <category>RepoFactory</category>
-    </item>
-    <item>
-      <title><![CDATA[全链路任务对齐，浙江人形升级 NAVIAI 工业作业能力]]></title>
-      <link>https://www.jiqizhixin.com/articles/cdc3e979-ff1f-41f5-a788-863057939fd4</link>
-      <guid>cdc3e979-ff1f-41f5-a788-863057939fd4</guid>
-      <pubDate>Wed, 25 Nov 2026 20:45:21 +0000</pubDate>
-      <description><![CDATA[<p>全链路任务对齐，浙江人形升级 NAVIAI 工业作业能力</p><p>标签: 具身智能, 人形机器人</p>]]></description>
-      <category>具身智能</category>
-      <category>人形机器人</category>
-    </item>
-    <item>
-      <title><![CDATA[Karpathy提出的LLM Wiki，中国公司做出来了！lumimax八项公开基准测试全线领先]]></title>
-      <link>https://www.jiqizhixin.com/articles/672ce0c4-1c4b-4ca0-a1f9-a79189fbe4f9</link>
-      <guid>672ce0c4-1c4b-4ca0-a1f9-a79189fbe4f9</guid>
-      <pubDate>Wed, 25 Nov 2026 10:36:00 +0000</pubDate>
-      <description><![CDATA[<p>Karpathy提出的LLM Wiki，中国公司做出来了！lumimax八项公开基准测试全线领先</p><p>标签: Agentic AI, lumimax, 海马云</p>]]></description>
-      <category>Agentic AI</category>
-      <category>lumimax</category>
-      <category>海马云</category>
-    </item>
-    <item>
-      <title><![CDATA[北大唐浩团队提出PanDWM：把六个相机拼成一张全景，驾驶世界模型直接生成可换视角的4D场景]]></title>
-      <link>https://www.jiqizhixin.com/articles/1c92f58a-5dc5-4289-b394-747d409d6afd</link>
-      <guid>1c92f58a-5dc5-4289-b394-747d409d6afd</guid>
-      <pubDate>Wed, 25 Nov 2026 10:35:50 +0000</pubDate>
-      <description><![CDATA[<p>北大唐浩团队提出PanDWM：把六个相机拼成一张全景，驾驶世界模型直接生成可换视角的4D场景</p><p>标签: PanDWM, 北京大学</p>]]></description>
-      <category>PanDWM</category>
-      <category>北京大学</category>
-    </item>
-    <item>
-      <title><![CDATA[OceanBase AI数据大会共识：AI要进核心业务，先盘活企业私有数据]]></title>
-      <link>https://www.jiqizhixin.com/articles/61fdb96f-5695-4489-b9b9-e135a2ec27c0</link>
-      <guid>61fdb96f-5695-4489-b9b9-e135a2ec27c0</guid>
-      <pubDate>Wed, 25 Nov 2026 10:36:31 +0000</pubDate>
-      <description><![CDATA[<p>OceanBase AI数据大会共识：AI要进核心业务，先盘活企业私有数据</p><p>标签: AI数据大会, OceanBase</p>]]></description>
-      <category>AI数据大会</category>
-      <category>OceanBase</category>
-    </item>
-    <item>
-      <title><![CDATA[华人计算机视觉泰斗、港科大权龙再创业！携手马尔奖得主与数十位00后海内外名校博士生，押注空间物理AI]]></title>
-      <link>https://www.jiqizhixin.com/articles/e9cea9a0-dda9-4ac7-b05d-584073659423</link>
-      <guid>e9cea9a0-dda9-4ac7-b05d-584073659423</guid>
-      <pubDate>Wed, 25 Nov 2026 10:36:32 +0000</pubDate>
-      <description><![CDATA[<p>华人计算机视觉泰斗、港科大权龙再创业！携手马尔奖得主与数十位00后海内外名校博士生，押注空间物理AI</p><p>标签: 计算机视觉, 权龙, Envision AI（格秩科技）</p>]]></description>
-      <category>计算机视觉</category>
-      <category>权龙</category>
-      <category>Envision AI（格秩科技）</category>
-    </item>
-    <item>
-      <title><![CDATA[Infrathon：迈向RSI，首个Long Horizon AI Infra优化Benchmark]]></title>
-      <link>https://www.jiqizhixin.com/articles/15ab9447-a1e4-4d52-ac89-ee22c1a84266</link>
-      <guid>15ab9447-a1e4-4d52-ac89-ee22c1a84266</guid>
-      <pubDate>Wed, 25 Nov 2026 10:37:07 +0000</pubDate>
-      <description><![CDATA[<p>Infrathon：迈向RSI，首个Long Horizon AI Infra优化Benchmark</p><p>标签: Infrathon, 华盛顿大学（UW）</p>]]></description>
-      <category>Infrathon</category>
-      <category>华盛顿大学（UW）</category>
-    </item>
-    <item>
-      <title><![CDATA[曾负责 Grok 大规模推理基础设施，马斯克旗下 xAI 前核心成员回归中科大]]></title>
-      <link>https://www.jiqizhixin.com/articles/30bf19da-0e9c-4981-8000-ffef1c3ab98e</link>
-      <guid>30bf19da-0e9c-4981-8000-ffef1c3ab98e</guid>
-      <pubDate>Wed, 25 Nov 2026 10:37:03 +0000</pubDate>
-      <description><![CDATA[<p>曾负责 Grok 大规模推理基础设施，马斯克旗下 xAI 前核心成员回归中科大</p><p>标签: 吴衎（Kan Wu）, 中国科学技术大学</p>]]></description>
-      <category>吴衎（Kan Wu）</category>
-      <category>中国科学技术大学</category>
-    </item>
-    <item>
-      <title><![CDATA[通用大模型已经杀进来了，具身智能靠「微调续命」还能撑多久？]]></title>
-      <link>https://www.jiqizhixin.com/articles/e857bd40-b04c-417c-8a5a-d9555867f640</link>
-      <guid>e857bd40-b04c-417c-8a5a-d9555867f640</guid>
-      <pubDate>Wed, 25 Nov 2026 10:37:31 +0000</pubDate>
-      <description><![CDATA[<p>通用大模型已经杀进来了，具身智能靠「微调续命」还能撑多久？</p><p>标签: WALL-OSS-1.0, 具身基础模型, 自变量机器人（X Square Robot）</p>]]></description>
-      <category>WALL-OSS-1.0</category>
-      <category>具身基础模型</category>
-      <category>自变量机器人（X Square Robot）</category>
     </item>
   </channel>
 </rss>
