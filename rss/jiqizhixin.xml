@@ -4,8 +4,47 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Nov 2026 20:45:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 03:50:18 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title><![CDATA[顺德、上海、昆山之后，库卡为何在合肥新增一处创新中心？]]></title>
+      <link>https://www.jiqizhixin.com/articles/22c099f9-d3c5-4214-a7fd-76dd7de5d609</link>
+      <guid>22c099f9-d3c5-4214-a7fd-76dd7de5d609</guid>
+      <pubDate>Thu, 26 Nov 2026 03:49:46 +0000</pubDate>
+      <description><![CDATA[<p>顺德、上海、昆山之后，库卡为何在合肥新增一处创新中心？</p><p>标签: 工业机器人, 智能制造, 库卡中国</p>]]></description>
+      <category>工业机器人</category>
+      <category>智能制造</category>
+      <category>库卡中国</category>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI：GPT-6就能设计蛋白质，多任务媲美专业模型，实验室验证结合成功]]></title>
+      <link>https://www.jiqizhixin.com/articles/05e4b883-f54f-431b-8ba8-d058e6e98d96</link>
+      <guid>05e4b883-f54f-431b-8ba8-d058e6e98d96</guid>
+      <pubDate>Thu, 26 Nov 2026 03:49:48 +0000</pubDate>
+      <description><![CDATA[<p>OpenAI：GPT-6就能设计蛋白质，多任务媲美专业模型，实验室验证结合成功</p><p>标签: AI for Science（AI4S）, 蛋白质设计, GPT-6, OpenAI</p>]]></description>
+      <category>AI for Science（AI4S）</category>
+      <category>蛋白质设计</category>
+      <category>GPT-6</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title><![CDATA[NeurIPS 2026｜悉尼见！蚂蚁向全球AI人才发出邀约]]></title>
+      <link>https://www.jiqizhixin.com/articles/56e7f779-6e0e-4dfe-bdb2-ebbc89d4ad16</link>
+      <guid>56e7f779-6e0e-4dfe-bdb2-ebbc89d4ad16</guid>
+      <pubDate>Thu, 26 Nov 2026 03:50:14 +0000</pubDate>
+      <description><![CDATA[<p>NeurIPS 2026｜悉尼见！蚂蚁向全球AI人才发出邀约</p><p>标签: 蚂蚁集团, NeurIPS 2026</p>]]></description>
+      <category>蚂蚁集团</category>
+      <category>NeurIPS 2026</category>
+    </item>
+    <item>
+      <title><![CDATA[RepoFactory用低成本代理指标推动长程编程环境的递归改进]]></title>
+      <link>https://www.jiqizhixin.com/articles/23d83e3b-7b65-452b-b411-0952e1166dd6</link>
+      <guid>23d83e3b-7b65-452b-b411-0952e1166dd6</guid>
+      <pubDate>Thu, 26 Nov 2026 03:50:18 +0000</pubDate>
+      <description><![CDATA[<p>RepoFactory用低成本代理指标推动长程编程环境的递归改进</p><p>标签: 北京航空航天大学, RepoFactory</p>]]></description>
+      <category>北京航空航天大学</category>
+      <category>RepoFactory</category>
+    </item>
     <item>
       <title><![CDATA[全链路任务对齐，浙江人形升级 NAVIAI 工业作业能力]]></title>
       <link>https://www.jiqizhixin.com/articles/cdc3e979-ff1f-41f5-a788-863057939fd4</link>
@@ -80,42 +119,6 @@
       <category>WALL-OSS-1.0</category>
       <category>具身基础模型</category>
       <category>自变量机器人（X Square Robot）</category>
-    </item>
-    <item>
-      <title><![CDATA[不再一味堆参数：General Looped Model向计算深度要智能]]></title>
-      <link>https://www.jiqizhixin.com/articles/91fbe3d3-6599-4117-b5c3-b69cc66edf81</link>
-      <guid>91fbe3d3-6599-4117-b5c3-b69cc66edf81</guid>
-      <pubDate>Wed, 25 Nov 2026 10:37:41 +0000</pubDate>
-      <description><![CDATA[<p>不再一味堆参数：General Looped Model向计算深度要智能</p><p>标签: General Looped Model（通用循环模型）, 脸谱心智（FaceMind）</p>]]></description>
-      <category>General Looped Model（通用循环模型）</category>
-      <category>脸谱心智（FaceMind）</category>
-    </item>
-    <item>
-      <title><![CDATA[突发！模型强到不敢发？OpenAI、Anthropic内部开始讨论「停训」]]></title>
-      <link>https://www.jiqizhixin.com/articles/c73e51ff-3fc2-462b-816e-213beee2069a</link>
-      <guid>c73e51ff-3fc2-462b-816e-213beee2069a</guid>
-      <pubDate>Wed, 25 Nov 2026 10:38:08 +0000</pubDate>
-      <description><![CDATA[<p>突发！模型强到不敢发？OpenAI、Anthropic内部开始讨论「停训」</p><p>标签: Anthropic, OpenAI</p>]]></description>
-      <category>Anthropic</category>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title><![CDATA[Google RSI 新作：跨模型、跨数据，如何让 Agent 带着经验持续自我改进？]]></title>
-      <link>https://www.jiqizhixin.com/articles/6bb506f4-2d4b-4ba9-ab9b-1719d791a960</link>
-      <guid>6bb506f4-2d4b-4ba9-ab9b-1719d791a960</guid>
-      <pubDate>Wed, 25 Nov 2026 10:38:10 +0000</pubDate>
-      <description><![CDATA[<p>Google RSI 新作：跨模型、跨数据，如何让 Agent 带着经验持续自我改进？</p><p>标签: Self-Improvement Memory（SIM）, Google</p>]]></description>
-      <category>Self-Improvement Memory（SIM）</category>
-      <category>Google</category>
-    </item>
-    <item>
-      <title><![CDATA[看一遍就会，60ms出手，最强生产力模型来了]]></title>
-      <link>https://www.jiqizhixin.com/articles/7700abe9-cf91-47a4-abaf-2930cd8097d3</link>
-      <guid>7700abe9-cf91-47a4-abaf-2930cd8097d3</guid>
-      <pubDate>Tue, 24 Nov 2026 14:22:00 +0000</pubDate>
-      <description><![CDATA[<p>看一遍就会，60ms出手，最强生产力模型来了</p><p>标签: G0.7, 星海图（Galaxea）</p>]]></description>
-      <category>G0.7</category>
-      <category>星海图（Galaxea）</category>
     </item>
   </channel>
 </rss>
