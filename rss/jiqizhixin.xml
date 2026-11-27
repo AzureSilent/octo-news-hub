@@ -4,18 +4,8 @@
     <title><![CDATA[机器之心]]></title>
     <description><![CDATA[专业的人工智能媒体和产业服务平台]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 27 Nov 2026 15:44:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 23:47:01 +0000</lastBuildDate>
     <ttl>60</ttl>
-    <item>
-      <title><![CDATA[Sharpa与上海交通大学联合提出WiTac，让灵巧手借腕部视角读懂指尖触觉]]></title>
-      <link>https://www.jiqizhixin.com/articles/9864b737-0a5d-4b36-9680-94ef6d8b90fa</link>
-      <guid>9864b737-0a5d-4b36-9680-94ef6d8b90fa</guid>
-      <pubDate>Fri, 27 Nov 2026 15:42:21 +0000</pubDate>
-      <description><![CDATA[<p>Sharpa与上海交通大学联合提出WiTac，让灵巧手借腕部视角读懂指尖触觉</p><p>标签: WiTac（Wrist-Informed Tactile Representations）, 北京大学, Sharpa Robotics</p>]]></description>
-      <category>WiTac（Wrist-Informed Tactile Representations）</category>
-      <category>北京大学</category>
-      <category>Sharpa Robotics</category>
-    </item>
     <item>
       <title><![CDATA[大神Karpathy又整活！Claude 7小时把真实美国搬进《文明》]]></title>
       <link>https://www.jiqizhixin.com/articles/fdf9defb-b095-4167-b918-7c62dba7a92e</link>
@@ -25,6 +15,16 @@
       <category>Claude Code</category>
       <category>Vibe coding</category>
       <category>Andrej Karpathy</category>
+    </item>
+    <item>
+      <title><![CDATA[Sharpa与上海交通大学联合提出WiTac，让灵巧手借腕部视角读懂指尖触觉]]></title>
+      <link>https://www.jiqizhixin.com/articles/9864b737-0a5d-4b36-9680-94ef6d8b90fa</link>
+      <guid>9864b737-0a5d-4b36-9680-94ef6d8b90fa</guid>
+      <pubDate>Fri, 27 Nov 2026 15:42:21 +0000</pubDate>
+      <description><![CDATA[<p>Sharpa与上海交通大学联合提出WiTac，让灵巧手借腕部视角读懂指尖触觉</p><p>标签: WiTac（Wrist-Informed Tactile Representations）, 北京大学, Sharpa Robotics</p>]]></description>
+      <category>WiTac（Wrist-Informed Tactile Representations）</category>
+      <category>北京大学</category>
+      <category>Sharpa Robotics</category>
     </item>
     <item>
       <title><![CDATA[具身智能新一局，这家公司「出手」了]]></title>
